@@ -37,7 +37,7 @@ The Game Boy Camera project was not supervised by him. The software section, led
 
 ## Laughable Hardware
 
-Released in 1998, the Game Boy Camera ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Upon its release, the device enjoyed a somewhat warm reception. It featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
+Released in 1998, the Game Boy Camera ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
 
 <div class="gallery-container">
 {% include figure.html type="art-png" class="gallery" figcaption="[Popular Science, July 1998, P.12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
@@ -80,9 +80,9 @@ For some weird reason, all the developers of the camera are
 
 They Poochiefied the software.
 
-We got a surprising revelation in 2020 that confirms how bad they messed up the software. As a part of the *Gigaleak*, a [massive lotcheck of Game Boy titles was uncovered](https://en.wikipedia.org/wiki/Nintendo_data_leak). Lotchecks, in internal Nintendo parlance, are lists of ROMs ready for use in cartridges. They're the [golden masters](https://en.wikipedia.org/wiki/Software_release_life_cycle#RTM). Among this lotcheck was *Hello Kitty Pocket Camera*, a special version of the camera dedicated to who else but Hello Kitty. We have no information about what the hardware would have looked like, but we can be quite certain no external changes were planned. Exploring the software reveals that 
+We got a surprising revelation in 2020 that highlights the poor user interface design. As a part of the *Gigaleak*, a [massive lotcheck of Game Boy titles was uncovered](https://en.wikipedia.org/wiki/Nintendo_data_leak). Lotchecks, in internal Nintendo parlance, are lists of ROMs ready for use in cartridges. They're the [golden masters](https://en.wikipedia.org/wiki/Software_release_life_cycle#RTM). Among this lotcheck was *Hello Kitty Pocket Camera*, a special version of the camera dedicated to who else but Hello Kitty. This whole special version of the Game Boy Camera is 100% complete, yet was **never released**. No one outside Nintendo had seen this before 2020.
 
-https://archive.org/details/hello-kitty-pocket-camera-japan-rc-2
+We have no information about what the hardware could have looked like, but we can be quite certain no important external changes were planned. Perhaps the camera would have been pink, with a Hello Kitty decal on it. [It's when you load up this golden master in an emulator](https://archive.org/details/hello-kitty-pocket-camera-japan-rc-2) that you see the extensive user interface changes. While all the camera functionnality from the released version is present, nothing from the released Game Boy Camera UI was reused. I'm not versed enough in Japanese to explore the interface in detail but my cursory look revealed a much improved UI. For example, if pressing Start sends you to another screen, you see a mention from the Hello Kitty UI. All the creepy pictures and inscrutable in-jokes have been removed. It's clear the Hello Kitty UI was the second version of the *Game Boy Camera* interface, and this second crack at the problem should have been what was released.
  
 ## Game Boy Camera Gets A Dumb Printer
 
