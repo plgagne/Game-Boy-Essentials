@@ -40,3 +40,5 @@ Thumbs.db
 ######################
 *.jekyll-cache
 .jekyll-metadata
+website/
+website-serve/
