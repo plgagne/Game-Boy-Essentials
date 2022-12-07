@@ -1,0 +1,14 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "jekyll build"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "jekyll serve --config _config.yml,_localhost.yml"
+    }
+  },
+  "openLogOnRun" : "start",
+  "persistent" : true
+}
