@@ -1,0 +1,10 @@
+<body>
+	<header>
+		<div><a href="/">GAME BOY ESSENTIALS</a></div>
+		<nav id="menu">
+			<a href="/">Home</a>
+			{%- assign sorted = site.folio | sort: "weight" -%}
+			{% for page in sorted %}
+			<a href="{% if page.layout == 'main' %}/{% else %}/{{ page.slug }}{% endif %}">{{ page.title }}</a>{% endfor %}
+		</nav>
+	</header>

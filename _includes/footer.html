@@ -1,0 +1,10 @@
+	<footer>
+		{% if page.slug == "timeline" %}<div>Timeline icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a></div>{% else %}{% endif %}
+		<form title="Search" enctype="multipart/form-data" action="https://duckduckgo.com/" method="get">
+				<input type="search" name="q" maxlength="255" value="" spellcheck="false" placeholder="Search…">
+				<input type="hidden" name="sites" value="gameboyessentials.com">
+		</form>
+		<div>© 2015 - {{ 'now' | date: "%Y" }}</div>
+	</footer>
+</body>
+</html>

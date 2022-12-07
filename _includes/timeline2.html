@@ -1,0 +1,15 @@
+{% comment %} <div id="timeline">
+	<section id="timeline-all">
+{%- assign timeline = site.data.timeline2 -%}
+{% for object in timeline %}
+	{%- assign release_list = object.releases -%}
+	{% for separate_release in release_list %}
+		{% assign temp = separate_release | sort %}
+			{% assign final = final | concat: temp %}
+	{% endfor %}
+{% endfor %}
+{% for object in final %}
+<p>{{object}}</p>
+{% endfor %}
+</section>
+</div> {% endcomment %}

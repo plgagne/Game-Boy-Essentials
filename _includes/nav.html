@@ -1,0 +1,28 @@
+  {%- if page.publication -%}
+    {%- assign sorted_articles = site.articles | sort: "publication" | reversed -%}
+    {%- for links in sorted_articles -%}
+      {%- if links.title == page.title -%}
+        {%- unless forloop.first -%}
+          {%- assign prev_slug = prev.slug -%}
+            {%- assign prev_title = prev.title -%}
+        {%- endunless -%}
+        {%- unless forloop.last -%}
+          {%- assign next = sorted_articles[forloop.index] -%}
+          {%- assign next_slug = next.slug -%}
+          {%- assign next_title = next.title -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- assign prev = links -%}
+		{%- endfor -%}
+    {%- if prev_slug or next_slug -%}
+  <nav id="navigation">
+		{%- if next_slug -%}
+			<a class="left-button" href="/articles/{{ next_slug }}">&lsaquo;&#xfe0e; {{ next_title }}</a>
+		{%- endif -%}
+		<a class="centre" href="/">Back to Main Page</a>
+		{%- if prev_slug -%}
+			<a class="right-button" href="/articles/{{ prev_slug }}">{{ prev_title }}  &rsaquo;&#xfe0e;</a>
+		{%- endif -%}
+	{%- endif -%}
+	</nav>
+  {%- endif -%}

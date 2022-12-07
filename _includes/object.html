@@ -1,0 +1,3 @@
+{%- assign details = site.data.static-files[include.type] -%}
+<{{ details.wrapper }} {{ details.data-location }}="/assets/{{ page.slug }}/{{ page.slug }}-{% assign order = order | plus: 1 %}{{ order }}.{{ details.extension }}" type="{{ details.type }}" {{ details.controllers }}>
+</{{ details.wrapper }}>

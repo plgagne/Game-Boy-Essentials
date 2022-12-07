@@ -1,0 +1,22 @@
+---
+---
+{
+    "version":"https://jsonfeed.org/version/1",
+    "title":{{ site.title | jsonify }},
+    "description":{{ site.description | jsonify }},
+    "home_page_url":"{{ site.url }}",
+    "feed_url":"{{ site.url }}/feed.json",
+    "favicon":"{{ site.url}}{{ site.icon-512 }}",
+    "items":[
+    	{% assign sorted = site.articles | sort: "publication" | reverse %}
+    	{%- for article in sorted limit:10 -%}
+    	{
+    	"id": "{{ article.slug }}",
+    	"url": "{{ article.url | prepend: site.baseurl | prepend: site.url }}",
+    	"title": {{ article.title | jsonify }},
+    	"content_html": {{ article.content | jsonify  }}
+    	}{% unless forloop.last %},
+    	{% endunless %}
+    	{%- endfor -%}
+    ]
+}

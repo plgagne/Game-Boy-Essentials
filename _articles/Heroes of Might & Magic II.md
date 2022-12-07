@@ -1,0 +1,67 @@
+---
+title: "Heroes of Might & Magic II"
+description: "Not Much Better"
+slug: "cgb-buhe"
+redirect_from:
+  - /articles/cgb-buhe.html
+  - /2000/cgb-buhe.html
+release-date: "2000-12-01"
+release-year: "2000"
+release-month: "12"
+publication: "2016-08-21"
+developers: "KnowWonder"
+---
+# {{ page.title }}
+
+- North American release in December 2000
+- European release in March 2001
+- Never released in Japan
+- Published by 3D0
+- Developed by KnowWonder
+
+{% include figure.html type="boxart" figcaption="As vaguely medieval as possible." %}
+
+## {{ page.description }}
+
+{% include figure.html type="gb" class="float left" %}
+Websites like [Giant Bomb](http://www.giantbomb.com) who try to make exhaustive lists of all video games ever released often unwillingly forget portable systems. A great example of that attitude with portable games is the *Heroes of Might & Magic* series on Game Boy Color. [I discussed the first game before](/articles/cgb-auhe) and on Giant Bomb they [agglomerate the GBC version with the original computer release](http://www.giantbomb.com/heroes-of-might-and-magic-a-strategic-quest/3030-14391/). If you read my article about the first game, you’ll immediately realize that the Game Boy game is nothing like the PC original. It’s a very different, much crappier game. With the second game, *Heroes of Might & Magic II*, [Giant Bomb doesn’t even list it](http://www.giantbomb.com/heroes-of-might-and-magic-ii-the-succession-wars/3030-12466/) and [Wikipedia does not give it its own article.](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_(Game_Boy_Color))
+
+It’s as if those two *Heroes* game don’t really exist to Giant Bomb. There is this attitude that if both games share the same name, then they might as well be the same thing, just on a different console. There is no respect for the hard work of bringing a game to a wholly different system; no appreciation for the complex job of remaking a game for a different architecture. I am being harsh on Giant Bomb; it is after all a website built mostly by volunteers. Data from a website built by volunteers gets aggregated with time and it’s normal that information about a forgotten version of a PC game is scarce. But community-built websites like Giant Bomb and Wikipedia show the lack of interest given to the Game Boy and Game Boy Color. Most volunteers will concentrate on the games that are popular and true investigations into the depths of history are few and far between. That’s what I’m here for.
+
+What the depths teach us in the case of *Heroes of Might & Magic II* is fascinating: all the stars aligned to turn what was probably meant to be a second printing of *Heroes of Might & Magic* into a numbered sequel that looks like an expansion pack (or in today’s parlance, DLC). What are those stars that aligned? First, they made a crappy game that needed a lot of improvements. Second, the Game Boy Color was ubiquitous. So many people of different tastes owned a Game Boy Color that you could do many weird things on the system and still hope to turn a profit, like a sequel to a barely interesting dumbed down adaptation. Third, it was also important that it was very cheap and easy to program for it. You didn’t need a large team of developers and you didn’t need to invest in expensive hardware to make and ship something; those were powerful stars indeed.
+
+*Heroes of Might & Magic II’s* mere existence as a capitalist enterprise makes it essential: It’s total crap but it’s **interesting** crap that warrants some attention.
+
+## Glitch Fest
+
+*Heroes of Might & Magic II* is a textbook example of a lost opportunity. They improved on absolutely none of the big problems of the first game on Game Boy Color.
+
+The hydra glitch that looped the units’ animation from the first game is gone; hydras have a new animation that never gets stuck in an endless loop that forces a hard reset. I’m sure to solve the bug the developers took the easy way out and instead of hunting for the bug in the previous animation they just coded a brand new one. While that bug is gone from the sequel there is a new bug so insidious, it will blow your mind. A bug that will force you to delete your save game and start from scratch if you encounter it. You might *think* you can still continue your save by resetting if the bug appears but you **cannot**. You just **cannot**. What is this vile bug? Seemingly at random a creature stack from a hero on the map gets replaced with what I’ve termed a glitch demon, an abomination of improperly referenced sprite table with the strongest stats of the game **by far**. [You can look it up online to see videos of the glitch demons in action.](https://www.youtube.com/watch?v=wxtLAsuEVh8) They’re so strong as to be unbeatable because they usually appear in a stack of 99 units, meaning the enemy AI suddenly has nearly invincible units in an unrealistic number. You could buy dragons to try and beat them but on a good game you buy a maximum of 6 or 7 dragons. You just **cannot** hope to beat 99 glitch demons. Nothing to say of the fact that the screen gets all loopy and you have to guess at what’s happening. So you’re screwed and from what I’ve gathered so are your saved games: it seems the glitch demons replace units at random when you first load the map so you could have been playing for hours on your map with unbeatable glitch demons waiting in the shadows just bidding their time and spoiling your future progress. They’re waiting for you to explore the map and find them. Waiting for you to have to restart from the beginning of the campaign if you weren’t careful with the way you saved your game.
+
+I encountered the glitch demons on the sixth or seventh map of the campaign and I just completely stopped playing the game. They’re that infuriating. I mean the campaign is nothing to write home about but the glitch is the main reason why I abandoned the game. Sure, the glitch demons *could* replace one of your units but it’s not gonna be fun either. You’ll just steamroll the whole map, having to do nothing but walk to your enemies’ fortresses and sneeze in their general direction. When a game is legitimately great, cheating can be fun. Some of my most cherished memories involve cheating at *Sim City* on Super Nintendo, cheating at *Duke Nukem 3D*, cheating at *Worms Armaggedon*. But what do all those games have in common? They’re wonderful games. When you cheat at a game like *Heroes of Might & Magic 2*, anything that might be fun is sucked out of the game. The whole house of cards falls down if the glitch demons get invited to the party.
+
+{% include figure.html type="art-png" class="float left" %}
+This is pure madness but it’s interesting. When you think of Nintendo you think of an obsession for details, you think of a managed experience. You think of the [Nintendo Seal of Quality](http://gaming.wikia.com/wiki/Nintendo_Seal_of_Quality). All the bugs plaguing both *Heroes of Might & Magic* games show that the Game Boy Color in its last two years was not getting a lot of intense scrutiny. Nintendo held a monopoly on portable systems so did not have to fear its reputation on buggy games. At the same time, small game developers and publishers were shielded from intense scrutiny of their products by lax reviews.
+
+## An Aside on Game Reviews
+
+I feel like I need to talk about contemporary game reviews because I’ve just mentioned them. For example, [here is a quote on the difficulty of *Heroes of Might & Magic II* from gamevortex.com](http://www.gamevortex.com/gamevortex/soft_rev.php/624/heroes-of-might-and-magic-ii-gameboy.html), an old website that covered GBC back in 2000:
+
+> Strategy games are beautiful in how they flex to accommodate different players’ gaming styles. Some folks are hoarders, and build up resources until they’re bursting at the seams with a huge army, while others send out skirmish groups whenever they get a chance, and eat away at an enemy bit by-bit. Either style is fine, although the varied scenarios will require that you learn different styles to defeat certain enemies or overcome superior odds. The real difficulty is in mastering the interface and being able to think strategically. *Heroes II* is not like many other games on GBC, and while some people may see it as close to an RPG, there’s way more to think about and manage. So, come with your thinking cap on, and you’ll have a blast.
+
+This is a big reason why I do Game Boy Essentials. People talk about Game Boy games having barely played them. It is **impossible** to have played this game for more than two hours without realizing the AI is completely absent and there is no real challenge to speak of. I searched and I have found **no one** who talks about the simplicity of the AI. In a sense it’s OK. I mean, how much money was the person who wrote that review paid? Not enough to spend a lot of time with the game. It’s totally understandable, Game Boy Color never seemed to attract a lot of attention. But even regular people reviewing their own copies of the game on [Amazon couldn’t be bothered.](https://www.amazon.com/Heroes-Might-Magic-II-Game-Color/dp/B000056N27#customerReviews) I’m totally baffled. How can people not pick up on the absence of an AI challenge! That’s why I’m doing this: I’m legitimately talking about things people have never properly put down on paper before.
+
+{% include figure.html type="gb" class="float left" %}
+That’s why *Heroes of Might & Magic II* is essential: it shows us by its mere existence what the Game Boy Color *culture* was in its last few years. Quickly coded games with inexcusable bugs, hastily written reviews, small printing runs somehow being profitable and games more complicated than they ought to be for the puny Game Boy Color. I **lived** Game Boy Color in 2000 and writing this article about *Heroes of Might & Magic II*, a game I never owned at the time, mind you, this whole world **surrounding** the Game Boy Color came flooding back. It wasn’t all bad though. We will talk later about magnificent titles released in 2000 around the same time as the two *Heroes of Might & Magic* games.
+
+## Commerce
+
+{% include figure.html type="gb" class="float right" %}
+Finally, the last reason why I believe this game is essential: I think *Heroes of Might & Magic II* was never conceived as a proper sequel. If it ever were, I think the game would have tried to include the last *Heroes of Might & Magic II* concept absent from the first title. That second PC *Heroes* game is where the series first allowed you to upgrade units, giving them greater power and new abilities. It quickly became a central idea of the series. On Game Boy, **both** games include most of the improved systems from the second game (the factions, the spells, the Hero abilities) but not upgradeable units. It’s a shame because it was one of my favourite things to do on the PC; upgrading an army to give it an edge was a fun thing to do. There are many reasons why the Game Boy Color games would not feature upgradeable units. Perhaps the screen’s resolution was so small they could not convincingly differentiate the sprites? Maybe the space on the cartridge they had chosen was too limited to basically double the number of unit types? Whatever the reason it probably wasn’t insurmountable but it would have required a lot of reprogramming or maybe moving to a more expensive cartridge board. Which they didn’t do because the game was not a proper sequel.
+
+The game looks more like a 90s PC expansion incorrectly identified as a second game. Why? Game Boy game development was not some magical land of wish fulfillment. Instead, it was made of negotiations and weird dealings with retailers who wished to have a product they could sell quickly. In the case of the first *Heroes* game, it seemed to have sold reasonably well (it’s cheap on eBay, it’s not seen as rare by collectors, many people talk about having owned it). So some retailers probably wanted more of it. At this point I’m speculating but I can’t see a different interpretation. The developers probably quickly worked on solving some of the problems of the first title like adding in a campaign mode and squishing the most egregious bugs, causing even worse bugs while doing so. They then released the sequel in limited quantities thus fulfilling the retailer demand for more *Heroes of Might & Magic* copies. It was probably cost-effective for them to develop a new game rather than repackaging the old one. I don’t see how they could have planned this as a full-blown sequel when the first game came out in April and this game came out in December **of the same year**.
+
+## In Conclusion, It’s Worthless Because There’s No Multiplayer Again
+
+{% include figure.html type="gb" class="float left" %}
+I have to repeat myself but one way the developers could have completely redeemed all the problems of the game is if they had included hot-seat multiplayer. Hot-seat means you pass the system to the next player once you’re done. *Heroes of Might & Magic* being a turn-based game, this would have completely changed the optics on the game. Imagine kids in the back of a car with one Game Boy Color and this game. It would have been perfect, even in spite of the bugs! It should have been relatively easy to implement too, without needing to write complicated link cable code. I cannot understand why they never did it. It’s mind-boggling, like the rest of this game.

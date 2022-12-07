@@ -1,0 +1,6 @@
+{% include head.html %}
+{% include header.html %}
+<main id="list">
+{{- content | remove: '<p>' | remove: '</p>' -}}
+</main>
+{% include footer.html %}
