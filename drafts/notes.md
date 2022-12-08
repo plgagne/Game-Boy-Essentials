@@ -2,6 +2,14 @@
 id: "notes"
 title: "Notes"
 ---
+## Pokemon Yellow
+the game is the lynchpin of the whole situation with the Gane Boy in the late 90s. Nintendo had abandoned Project Atlantis, it was too expensive and power-hungry, and had moved on to the Game Boy Color. In part, they skated where the puck was: their succesful competitors were not making overtly powerful consoles, they were making cheap little things.
+
+Pokémon Yellow was the expression of Game Freak's constant difficulties improving their processes. It was yet another version of the original game years after its first release. Everybody was excited about Yellow, and I remember not realizing how much of a rehash it was, but with hindsight you can see how underwhelming the game is.
+
+It was also the perfect game for the era. Pokémon had done solething never done before or since: it reversed a console's sales trend. The Game Boy was slowly living its last days in 1996 before Pocket Monsters changed everything. All of a sudden, once Pokemon had picked up steam theough word of mouth, not only were the game sales going up and up, the console itself was going up and up. This meant people were buying a Game Boy just for Pokemon by the millions. the absurdly low price of a Game Boy + Pokemon was certainly the reason for this massive reversal.
+
+
 ## A Quick History of the DX and Deluxe Naming Scheme
 When the NES came out, two versions were initially available: the Control Deck, which came with two controllers and *Super Mario Bros.*, and the Deluxe Set which included a cornuccopia of accessories. You got R.O.B. and Gyromite, a grey zapper and Duck Hunt, and two controllers. This was Nintendo of America's first use of the word deluxe. Here, it denoted the *most expensive* version of their console. Note that it did not include *Super Mario Bros.*, which quickly made it unattractive to prospective buyers.
 
