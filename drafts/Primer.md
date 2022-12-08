@@ -164,7 +164,7 @@ We come to the final device with the Game Boy name. If you want to enjoy origina
 
 ### Emulation, the end of us all
 
-Here I'd do a cursory review of 3DS emulation, but why bother? Nintendo has kneecapped the store for the 3DS, meaning you can't buy anything anymore. Forget about paying for emulation of Game Boy games on a Nintendo device, just get an emulator for your computer and pirate every title instead.
+Here I'd do a cursory review of 3DS emulation, but why bother? Nintendo has kneecapped the store for the 3DS, meaning you can't buy anything anymore. Forget about emulation of Game Boy games on a Nintendo device, it's all dead, just get an emulator for your computer and pirate every title instead.
 
 ### Third-Party Devices, inluding the Analogue Pocket
 
