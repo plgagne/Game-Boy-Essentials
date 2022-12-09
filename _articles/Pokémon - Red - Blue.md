@@ -144,7 +144,7 @@ It took them a while to arrive at this plan, and required a lot of effort to imp
 
 I was 10 in 1996 when *Pocket Monsters* was released in Japan. I was still playing with my Game Boy, even though it felt like the rest of the world had moved on. Games were still available, but the recent releases left me unimpressed. I focused my attention on playing older releases whenever I could.
 
-But I started hearing a rumour, from magazines and video game TV shows, about this new Game Boy title made by Nintendo. A game were you explored a world full of monsters. You captured and befriended those monsters to fight other trainers, never fighting yourself.
+But I started hearing a rumour, from magazines and video game TV shows, about this new Game Boy title made by Nintendo. A game were you explored a world full of monsters. You captured and befriended those monsters to fight other trainers, never fighting them yourself.
 
 I obviously knew that Nintendo and all my favourite video games were made in Japan but here was rare news about an exciting **Game Boy** title. The really crazy part, though, was that the game was a massive cultural phenomenon in Japan. The news and articles were saying that everyone was playing it. What? Everybody was playing a Game Boy game in 1996? It was unbelievable to my young brain. I thought I was the only person still playing the Game Boy.
 
@@ -158,7 +158,7 @@ Star Trek? The Pokémon trading card game alone is bigger than all of Star Trek 
 
 Pokémon is simply the biggest media franchise ever, and it’s as relevant now all around the globe in 2022 as it has ever been. But there was a time before Pokémon was a global phenomenon. For a time, it was strictly a Japanese affair. The rest of the world could only stay outside, trying to look inside. And we’re not talking months here. Pokémon remained a Japanese phenomenon for two years. The rest of the world could only get an outside glimpse at the craze for a very long time. The trading card game, a Nintendo 64 game that allowed you to fight using your Pokémon on your Game Boy cartridge, a manga, the anime, even the first movie were all released before Pokémon left Japan.
 
-*Pokémon* was finally released in North America in fall 1998, and it promptly flew over my head. I didn’t notice it was released. I was unaware that the Japanese phenomenon had finally crossed the Pacific. I didn’t even know they had decided on *Pokémon* as its English name. How could that be? *Pokémon* was released in North America along with the anime. It was everywhere. How could I completely miss this release? Before I answer that question, let’s move forward in time to early 1999, when I saw the best video game publicity ever made.
+*Pokémon* was finally released in North America in the Fall of 1998, and it promptly flew over my head. I didn’t notice it was released. I was unaware that the Japanese phenomenon had finally crossed the Pacific. I didn’t even know they had decided on *Pokémon* as its English name. How could that be? *Pokémon* was released in North America along with the anime. It was everywhere. How could I completely miss this release? Before I answer that question, let’s move forward in time to early 1999, when I saw the best video game publicity ever made.
 
 {% include figure.html type="art-png" figcaption="Strictly based on this ad’s sense of humour, I decided to buy the game." %}
 
