@@ -35,9 +35,12 @@ There was perhaps some internal desire to prove themselves as well. With Yokoi's
 
 The Game Boy Camera project was not supervised by him. The software section, led by Hirokazu *Hip* Tanaka, not Okada Satoru's new hardware section, made the device. Perhaps they wanted to prove their hardware chops? To prove they were able to make inventive hardware without Okada and his team?
 
-## Laughable Hardware
+## Limited Hardware
 
-Released in 1998, the Game Boy Camera ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
+Released in 1998, *Game Boy Camera* ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Having a camera affixed to the top there, the higher price is easily explained. When you compare to the price of an entry-level digital camera
+
+
+Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
 
 <div class="gallery-container">
 {% include figure.html type="art-png" class="gallery" figcaption="[Popular Science, July 1998, P.12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
@@ -50,24 +53,28 @@ First point is how the software poorly accompanies the simple beautiful premise 
 
 Should I do some tests with mine to figure out its focus? How good is it at anything but a selfie? They didn't have the word for that back then. Maybe that would have helped if we knew about those type of pictures in 1998.
 
-## Hobbled by Software
+## Terrible Software
 
 I'll say it upfront; I don't like the Game Boy Camera software. It's a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
 
-[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up). You can immediately see that there is a lot of things you can do in the software. Outside of *Mario Paint*, I can't think Nintendo ever made a user interface this complex.
+[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up). You can immediately see that there is a lot of things you can do in the software. Outside of *Mario Paint*, I can't think Nintendo had ever made a user interface this complex before.
 
-Upon starting the *software*, you're presented with a series of photos of someone in a Mario costume. This shows the core conceit of the software; that it will sometimes use real photos taken with a *Game Boy Camera*. Now that I've told you, you can see it in the interface, but it's not a clear design choice. Large sections of the interface use no photographs at all. 
+Upon starting the device, you're presented with a start screen with photos of someone in a Mario costume. This shows one conceit of the software; that it will sometimes use real photos taken with a *Game Boy Camera*. It's not a full design choice. Large sections of the interface use drawn art to represent characters. If you get an idea like that, I'd expect them to use it fully.
 
-First mistake of the first screen. They never tell you you can press the Start button to access settings.
+My complaint about sometimes using photographs throughout the interface is one of style. However, every other 
 
-Menu selection for the games is made as enemies who drop down from the top, which you need to hit under a strict time limit. There are inside jokes when pressing the exit button. The menus constantly change their look; you need to learn everything.
+We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four.
+
+Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *SPace Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit.
+
+Upon starting those two other games, you get astoundignly different arranged screens to explain the games. There is 
+
+There are inside jokes when pressing the exit button. The menus constantly change their look; you need to learn everything.
  
 The two most sedate and reasonable segements of the software are the picture-taking itself and the photo album. The picture taking features all the controls around the viewfinder, arranged in a intelligent manner that focuses on quick adjustments. The photo album navigation is pretty straightforward, and once you reach the single picture view, all the options are also arranged around the picture. 
  
-All in all I think part of the whole mess is explained by the large amount of companies who worked on the project. Creatures (formerly Ape), Game Freak, R&D1 and Jupiter, the company mostly known for Picross are all credited .
- 
-Perhaps if every single screen was like those few games that allowed you to 
- 
+All in all I think part of the whole mess is explained by the large amount of companies who worked on the project. Creatures (formerly Ape), Game Freak, R&D1 and Jupiter, the company mostly known for Picross are all credited. This is a complete guess, but I think those companies worked on different segments of the software and those were added together with no regards for consistency.
+
 None of the craziness in the software was featured on the box; the box is very sedate, even in Japanese. The ads themsleves, in both Japan and the US, focus heavily on the power of easy photography (duh) and the fun that can be had with the stamps implemented in the pictures album. 
  
 When it was released, the Game Boy Color was just around the corner. It was already announced and previewed, and yet Nintendo persisted and released a greyscale camera. 
@@ -92,7 +99,7 @@ The Game Boy Printer enjoyed a life outside its release with the Game Boy Camera
 
 !fig
 
-## Never the smallest, but cool nonetheless
+## Never the smallest
 
 I had often read that the 1999 edition of the *Guiness Book of World Records* deemed the **Game Boy Camera* the world's smallest digital camera. While doing some cursory research for this article, I wanted to read this mention in Guiness directly, so I headed to the Internet Archive's controversial book rental system to read the 1999 Guiness book. [Here is the paragraph talking about the Game Boy Camera on page 294.](https://archive.org/details/guinnessbookofre00newy/page/294/mode/2up)
 
@@ -103,7 +110,9 @@ As you can see reading it, no mention is made of the Game Boy being the smallest
 !fig
 Case closed: the Game Boy Camera was never the world's smallest anything.
 
-Any mention of a Guiness record, even when properly transcribing what is written by Guinness, is spurious. It's always been a book of factoids and weird trivia more than a serious reference. Reading any consumer product record feels like you're reading a collection of statements from press releases. How can anyone validate the record for the [most recyclable car](https://archive.org/details/guinnessbookofre00newy/page/274/mode/2up) beyond the car company's own statement? Case in point, Guiness removed Billy Mitchell's gaming records when his cheating was revealed and somehow [reinstated them two years later](https://www.guinnessworldrecords.com/news/2020/6/a-statement-from-guinness-world-records-billy-mitchell-621053), **after** he had been unequivocally proven to have lied about his achievements, which led to him [banned from both serious Donkey Kong score-keeping organizations](https://arstechnica.com/gaming/2018/04/premiere-game-scoreboard-bans-billy-mitchell-in-donkey-kong-cheating-scandal/). They also [assigned ultra-specific records to Tommy Tallarico](https://youtu.be/0twDETh6QaI?t=3627) in a blatant display of their [pay-for-play record scheme](https://www.npr.org/sections/money/2017/09/20/552203402/episode-795-is-record-breaking-broken). At this point, no one should trust Guiness for any record.
+Any mention of a Guiness record, even when properly transcribing what is written by Guinness, is spurious. It's always been a book of factoids and weird trivia more than a serious reference. Reading anything related to products feels like you're reading a collection of statements pulled straight out from press releases. How can anyone validate the record for the [most recyclable car](https://archive.org/details/guinnessbookofre00newy/page/274/mode/2up) beyond the car company's own statement? Couple that with the extremely difficult relationship between the speedrunning community and Guiness, and it shows a company incapable of understanding video games.
+
+Case in point, Guiness removed Billy Mitchell's gaming records when his cheating was revealed and somehow [reinstated those same records two years later](https://www.guinnessworldrecords.com/news/2020/6/a-statement-from-guinness-world-records-billy-mitchell-621053), **after** he had been unequivocally proven to have lied about his achievements, which led to him [banned from both serious Donkey Kong score-keeping organizations](https://arstechnica.com/gaming/2018/04/premiere-game-scoreboard-bans-billy-mitchell-in-donkey-kong-cheating-scandal/). They also [assigned ultra-specific records to Tommy Tallarico](https://youtu.be/0twDETh6QaI?t=3627) in a blatant display of their [pay-for-play record scheme](https://www.npr.org/sections/money/2017/09/20/552203402/episode-795-is-record-breaking-broken).
 
 To get back to the Game Boy Camera, the wrong information about the record has been on Wikipedia since it was added by an [anonymous contributor in June 2008](https://en.wikipedia.org/w/index.php?title=Game_Boy_Camera&diff=prev&oldid=219108575). You can now find it in tons of articles online, on Wikia, probably in a bunch of books. I predict I will see this false information repeated until I die.
 
@@ -115,12 +124,14 @@ I encourage you if you have any pictures of sentimental value on a Game Boy Came
 
 ## Conclusion
 
-When I was in high school, I would bring my Game Boy to play between classes or to show my closest friends the latest games I was playing. No one really cared that I brought my old Game Boy to school. When I ended up buying a Game Boy Camera, it felt natural to show it to my friends. I was in for a rude lesson. When I brought the Game Boy Camera to school, it immediately caused a ruckus. When they discovered that my Game Boy could take a picture and immediately show it on its screen, my whole class congregated around my Game Boy, rudely taking it from me. People were suddenly taking selfies, way before the concept was attached to a word, and fighting over who was going to take a picture next. It turned into a pandemonium of excited teenagers screaming at one another to have the camera. A classmate even shoved the camera down her shirt to take a picture of her cleavage. With hindsight, I saw in those five minutes the natural excitement for all the social sharing of pictures we now have in the era of the smartphone. I saw selfies, the poutty lips people make when taking those selfies, the incessant sharing of pictures you now see on stuff like TikTok, and even the burgeoning concept of sexting, all with my Game Boy!
+When I was in high school, I would bring my Game Boy to play between classes or to show my closest friends the latest games I was playing. No one really cared that I brought my old Game Boy to school. When I ended up buying a Game Boy Camera, it felt natural to show it to my friends. I was in for a rude lesson. When I brought the Game Boy Camera to school, it immediately caused a ruckus. When they discovered that my Game Boy could take a picture and immediately show it on its screen, my whole class congregated around my Game Boy, rudely taking it from me. People were suddenly taking selfies, way before the concept was attached to a word, and fighting over who was going to take a picture next. It turned into a pandemonium of excited teenagers screaming at one another to have the camera. A classmate even shoved the camera down her shirt to take a picture of her cleavage. With hindsight, I saw in those five minutes the natural excitement for all the social sharing of pictures we now have in the era of the smartphone. I saw selfies before the word had left Australia, the poutty lips people make when taking those selfies, the incessant sharing of inane pictures you now see on stuff like Snapchat, and even the burgeoning concept of sexting, all with my Game Boy!
 
 That's how starved for cameras my generation was.
 
-The appeal of a cheap camera you could just play around with, that you didn't need to use carefully was hella powerful. I vividly remember not being allowed to touch the family camera; I was told I would probably break it. All my classmates had the same experience, where a camera was an expensive tool reserved for adults. Remember, it cost money every time you pressed the shutter button. You also had to send the film to be developed, which meant that a stranger looked at every picture you took. It was common to talk about the weirdness of technicians looking at your pictures. That put social pressure on what you could shoot. I totally understand that classmate realizing she could snap her cleavage with abandon.
+The appeal of a cheap camera you could just play around with, that you didn't need to use carefully was hella powerful. I vividly remember not being allowed to touch the family camera; I was told I would probably break it. Everyone I knew had more or less the same experience, where a camera was an expensive tool reserved for adults. Remember, it cost money every time you pressed the shutter button. 
 
-With class about to start, the teacher getting angsty, and me wanting to get my beloved Game Boy back, I ended up in a tussle and pushed a classmate trying to get it back. Falling down, he dropped and broke his glasses. That's right kids; Game Boy Camera led me to violence and got me in trouble with my school principal! I was so ashamed I hid the whole thing from my parents and paid for the glasses with my own money.
+You also had to send the film to be developed, which meant that a stranger looked at every picture you took. It was common to talk about the weirdness of technicians looking at your pictures. That put social pressure on what you could shoot. I totally understand that classmate realizing she could snap her cleavage with abandon now that she knew no stranger would see the picture.
 
-I wouldn't blame you if you never want to hear from me again for this Game Boy transgression.
+With class about to start, the teacher getting angsty, and me wanting to get my beloved Game Boy back, I ended up in a tussle and pushed a classmate trying to get it back. Falling down, he dropped and broke his glasses. That's right kids; *Game Boy Camera* led me to violence and got me in trouble with my school principal! I was so ashamed I hid the whole thing from my parents and paid for the glasses with my own money.
+
+I wouldn't blame you if you never want to read anything from me again due to this Game Boy transgression.
