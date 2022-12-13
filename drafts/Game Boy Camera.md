@@ -43,8 +43,6 @@ With our modern point of view, *Game  Boy Camera* is a complete joke. It can see
 
 *Barbie Photo Designer* was announced in September of 1998, obviously for the Holiday season, and was a complete package consisting of the camera and its accompanying PC software. 
 
-
-
 https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
 https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
 http://www.digicamhistory.com/1998%20L-N.html
