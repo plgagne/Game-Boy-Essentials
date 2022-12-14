@@ -37,8 +37,33 @@ The Game Boy Camera project was not supervised by him. The software section, led
 
 ## Limited Hardware
 
-Released in 1998, *Game Boy Camera* ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Having a camera affixed to the top there, the higher price is easily explained. When you compare to the price of an entry-level digital camera
+With our modern point of view, *Game Boy Camera* is a complete joke. It can seem like no one could tolerate its low image quality and that it must have been a monumental flop. The reality is far from that. Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112 pixels resolution. The thing is only good at taking pictures of large things (like a head or a dog) from way up close. Don't even try to take a picture of a distant landscape view. To top off the mediocrity, pictures have no colour, being only available in the same four shades as your Game Boy. However, you have to look at what digital cameras were capable of doing and at what price to understand the device's appeal in 1998. Of course, something like the [Canon EOS D2000](https://global.canon/en/c-museum/product/dslr777.html) existed, but this 1728 by 1152 resolution professional device retailed for over 15,000$ USD. It was also a bleeding edge trailblazer; it was the first digital camera somewhat respected by professionals. We have to look downmarket to find peers of our little puny *Game Boy Camera*. For example, Minton made a crappy OEM camera that was rebadged by countless companies. [It came with a 640 x 480 pixel sensor and sold for around 149$ USD](https://www.digitalkameramuseum.de/en/cameras/item/jenoptik-jd11-entrance). It's a much better device at three times the price but it is still a terrible camera compared to modern standards.
 
+When you look at it, the Game Boy Camera is more akin to a toy than a digital camera. We're lucky, we have a new camera toy from 1998 to compare it against. 
+
+!fig
+BarbieCam!
+
+*Barbie Photo Designer* was announced in September of 1998, obviously for the upcoming Holiday season and was a package consisting of the digital camera and its accompanying PC software. It retailed for 69.99$, a shockingly low price at first glance for a digital camera and PC software. Upon closer examination the device is not too good to be true. Although it took colour photos, it is very close to the Game Boy Camera in terms of resolution: 160 by 120 pixels. That's minuscule.
+
+!fig
+An example of a BarbieCam photo.
+
+It was a severely limited device. It's a digital camera but it doesn't have a screen or removable media. All the beautiful benefits of digital photography come from those two functionnalities. Without a screen you can't know if the picture you took is any good and without removable media you can't keep taking pictures by swapping SD cards or whatnot.
+
+The device's only options are taking one of six pictures it can keep in its internal memory or deleting all the meagre six pictures the device can hold without ever looking at them. Once you connect to a PC you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home fairly close to their PC due to those extremem limitations.
+
+Interestingly enough, both products chose to focus on dressing up games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*.
+
+https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
+https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
+http://www.digicamhistory.com/1998%20L-N.html
+https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml
+https://www.ebay.ca/itm/274635657835?hash=item3ff18f926b:g:86sAAOSwf4BfnwIB&amdata=enc%3AAQAHAAAA4DnfgMBIhOz0lxIkf8K5zYvq3sO81WePetMp%2B7OBiBFidXo8yUX4F2V6AOO2QXyDSIXLCNqcAJYRErXtaphsn1%2F7fVjKFvY%2FxQp1NjMyQousAi6kmsq16MPmhmtAKH7fis2mUxRQuTb3F%2BdxWt8FxtkHCmga5X878ie9yrEr%2BT3kCPSQNPgZiNmo1is6ucQ5MAPsiYrm63rAeKy%2FTeJkZJi08q8RdJEnh40SFtPi%2FMeeMBWi%2Fp6C7Nzi%2Bd%2FtGeGsIUz4ffhNr6XQaFNavAHeB3IrJcno6hG%2FxqH1EwqB38CI%7Ctkp%3ABFBM3vaDraBh
+
+
+Nick Click by LGR
+https://www.youtube.com/watch?v=wfFeCfp_xPk
 
 Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
 
