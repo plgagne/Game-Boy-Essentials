@@ -37,33 +37,7 @@ The Game Boy Camera project was not supervised by him. The software section, led
 
 ## Limited Hardware
 
-With our modern point of view, *Game  Boy Camera* is a complete joke. It can seem like no one could tolerate its low image quality and that it must have been a monumental flop. The reality is far from that. Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112 resolution. You can't really shoot a landscape, the thing is only good at taking pictures of large things (like a head or a dog) from way up close. To top off the mediocrity, pictures have no colour, being only available in the same four shades as your Game Boy. However, you have to look at what digital cameras were capable of doing and for what price to understand the device's appeal in 1998. Of course, something like the [Canon EOS D2000](https://global.canon/en/c-museum/product/dslr777.html) existed, but this 1728 by 1152 resolution professional device retailed for over 15,000$ USD. It was also a bleeding edge trailblazer; it was the first digital camera somewhat respected by professionals. We have to look downmarket to find peers of our little puny *Game Boy Camera*. For example, Minton made a crappy OEM camera that was rebadged by countless companies. [It came with a 640 x 480 pixel sensor and sold for around 149$ USD](https://www.digitalkameramuseum.de/en/cameras/item/jenoptik-jd11-entrance). Of course, the Game Boy Camera is more akin to a toy than a digital camera. We're lucky, we have a new concept toy from 1998 to compare it against. 
-
-!fig
-
-*Barbie Photo Designer* was announced in September of 1998, obviously for the Holiday season, and was a package consisting of the digital camera and its accompanying PC software. It retailed for 69.99$, a shockingly low price at first glance for a digital camera and PC software. Upon closer examination the device is not too good to be true. Although it took colour photos, it is very close to the Game Boy Camera in terms of resolution: 160 by 120 pixels. That's minuscule.
-
-!fig
-An example of a BarbieCam photo.
-
-It was a severely limited device. It's a digital camera, but it doesn't have a screen or removable media. All the beautiful benefits of digital photography come from those two things. You don't know if the picture you took is any good, and you can't just keep taking pictures on rewritable and removable media.
-
-The device's only options are taking one of six pictures it can keep in its internal memory, or deleting all the meagre six pictures the device can hold without ever looking at them. Once you connect to a PC, you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home, fairly close to their PC due to those limitations.
-
-Interestingly enough, both products chose to focus on dressing up games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*.
-
-
-
-https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
-https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
-http://www.digicamhistory.com/1998%20L-N.html
-https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml
-https://www.ebay.ca/itm/274635657835?hash=item3ff18f926b:g:86sAAOSwf4BfnwIB&amdata=enc%3AAQAHAAAA4DnfgMBIhOz0lxIkf8K5zYvq3sO81WePetMp%2B7OBiBFidXo8yUX4F2V6AOO2QXyDSIXLCNqcAJYRErXtaphsn1%2F7fVjKFvY%2FxQp1NjMyQousAi6kmsq16MPmhmtAKH7fis2mUxRQuTb3F%2BdxWt8FxtkHCmga5X878ie9yrEr%2BT3kCPSQNPgZiNmo1is6ucQ5MAPsiYrm63rAeKy%2FTeJkZJi08q8RdJEnh40SFtPi%2FMeeMBWi%2Fp6C7Nzi%2Bd%2FtGeGsIUz4ffhNr6XQaFNavAHeB3IrJcno6hG%2FxqH1EwqB38CI%7Ctkp%3ABFBM3vaDraBh
-
-
-
-Nick Click by LGR
-https://www.youtube.com/watch?v=wfFeCfp_xPk
+Released in 1998, *Game Boy Camera* ended up retailling for USD 49.99$, more than twice the price of a typical Game Boy game. Having a camera affixed to the top there, the higher price is easily explained. When you compare to the price of an entry-level digital camera
 
 
 Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
@@ -113,7 +87,7 @@ We got a surprising revelation in 2020 that highlights the poor user interface d
 
 We have no information about what the hardware could have looked like, but we can be quite certain no important external changes were planned. Perhaps the camera would have been pink, with a Hello Kitty decal on it. [It's when you load up this golden master in an emulator](https://archive.org/details/hello-kitty-pocket-camera-japan-rc-2) that you see the extensive user interface changes. While all the camera functionnality from the released version is present, nothing from the released Game Boy Camera UI was reused. I'm not versed enough in Japanese to explore the interface in detail but my cursory look revealed a much improved UI. For example, if pressing Start sends you to another screen, you see a mention from the Hello Kitty UI. All the creepy pictures and inscrutable in-jokes have been removed. It's clear the Hello Kitty UI was the second version of the *Game Boy Camera* interface, and this second crack at the problem should have been what was released.
  
-## Game Boy Camera Gets A Receipt Printer
+## Game Boy Camera Gets A Dumb Printer
 
 Nowadays, people are satisfied that their photos live online, but when they made the Game Boy Printer, everybody expected to get printed copies of every picture they took. You could trade pictures with another Game Boy Camera using a Link Cable, but keeping your pictures imprisoned inside a Game Boy Camera was a non-starter; Nintendo wanted to provide printing capabilities. While Nintendo could have answered with a stereotypically Japanese solution by putting printing kiosks in combinis all over Japan they instead developped a portable printer one could easily buy alongside the camera. This was a great idea in practice, and a marked improvement over *Mario Paint*. I feel like it didn't reach its full potential because it never had any print capabilities outside of *record your art on a VHS tape and figure something out from there*.
 
@@ -127,20 +101,20 @@ The Game Boy Printer enjoyed a life outside its release with the Game Boy Camera
 
 ## Never the smallest
 
-I had often read that the 1999 edition of the *Guiness Book of World Records* deemed the **Game Boy Camera* the world's smallest digital camera. While doing some cursory research for this article, I wanted to read this mention in Guiness directly, so I headed to the Internet Archive's controversial book rental system to read the 1999 Guiness book. [Here is the paragraph talking about the Game Boy Camera on page 294.](https://archive.org/details/guinnessbookofre00newy/page/294/mode/2up)
+I had often read that the 1999 edition of the *Guiness Book of World Records* deemed the **Game Boy Camera* the world's smallest digital camera. While doing some cursory research for this article, I wanted to read this mention in Guinness directly, so I headed to the Internet Archive's controversial book rental system to read the 1999 Guinness book. [Here is the paragraph talking about the Game Boy Camera on page 294.](https://archive.org/details/guinnessbookofre00newy/page/294/mode/2up)
 
 !fig
 
-As you can see reading it, no mention is made of the Game Boy being the smallest of anything. You could perhaps read the description of the PC-21XP described as the world's smallest pinhole video camera and think this applies to the Game Boy Camera. Unfortunately, the cartridge does not use a PC-21XP as its camera element. The Camera uses a [Mitsubishi M64282FP CMOS image sensor](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2012/qs44_twc55/qs44_twc55/datasheets/MITSUB_image_sensor.pdf). So the book actually mixes two subject matters into one paragraph, and uses the confusing title *Smallest Cameras*. You could still read the paragraph and believe they simply did not directly write it, but the book actually names the Panasonic NV-DCF2B as the world's smallest digital camera with a viewfinder just one page before. Reading the rest of the section on gadgets, it's clear the paragraph is just meant to describe an interesting device. Two other devices which are not record-holders of anything are also mentioned later in the book: a lollipop that plays music and a 360 degrees television.
+As you can see reading it, no mention is made of the Game Boy being the smallest of anything. You could perhaps read the description of the PC-21XP described as the world's smallest pinhole video camera and think this applies to the *Game Boy Camera*. Unfortunately, the cartridge does not use a PC-21XP as its camera element. So the book actually mixes two subject matters into one paragraph, and uses the confusing title *Smallest Cameras*. You could still read the paragraph and believe they simply did not directly write it, but the book actually names the Panasonic NV-DCF2B as the world's smallest digital camera with a viewfinder just one page before. Reading the rest of the section on gadgets, it's clear the paragraph is just meant to describe an interesting device. Two other devices which are not record-holders of anything are later mentioned in the same manner as the *Game Boy Camera*: a lollipop that plays music and a 360 degrees television. 
+
+To be 100% sure, I contacted Guinness by email and they confirmed that the *Game Boy Camera* was never assigned any record. 
 
 !fig
 Case closed: the Game Boy Camera was never the world's smallest anything.
 
-Any mention of a Guiness record, even when properly transcribing what is written by Guinness, is spurious. It's always been a book of factoids and weird trivia more than a serious reference. Reading anything related to products feels like you're reading a collection of statements pulled straight out of press releases. How can anyone validate the record for the [most recyclable car](https://archive.org/details/guinnessbookofre00newy/page/274/mode/2up) beyond the cmanufacturer's own statement? Couple that with the extremely difficult relationship between the speedrunning community and Guiness, and it shows a company incapable of understanding video games.
+Any mention of a Guiness record, even when properly transcribing what is written by Guinness, should be questioned. It's always been a book of factoids and weird trivia instead of a serious reference. Reading anything related to technology feels like you're reading a collection of statements pulled straight out from press releases. How can anyone validate the record for the [most recyclable car](https://archive.org/details/guinnessbookofre00newy/page/274/mode/2up) beyond the car company's own statement? Couple that with the extremely difficult relationship between the speedrunning community and Guinness, and it shows a company incapable of understanding video games. Case in point, Guiness removed Billy Mitchell's gaming records when his cheating was revealed and somehow [reinstated those same records two years later](https://www.guinnessworldrecords.com/news/2020/6/a-statement-from-guinness-world-records-billy-mitchell-621053), **after** he had been unequivocally proven to have lied about his achievements, which led to him [banned from both serious *Donkey Kong* score-keeping organizations](https://arstechnica.com/gaming/2018/04/premiere-game-scoreboard-bans-billy-mitchell-in-donkey-kong-cheating-scandal/). They also [assigned ultra-specific records to Tommy Tallarico](https://youtu.be/0twDETh6QaI?t=3627) in a clear display of their [pay-for-play record scheme](https://www.npr.org/sections/money/2017/09/20/552203402/episode-795-is-record-breaking-broken).
 
-Case in point, Guiness removed Billy Mitchell's gaming records when his cheating was revealed and somehow [reinstated those same records two years later](https://www.guinnessworldrecords.com/news/2020/6/a-statement-from-guinness-world-records-billy-mitchell-621053), **after** he had been unequivocally proven to have lied about his achievements, which led to him [banned from both serious *Donkey Kong* score-keeping organizations](https://arstechnica.com/gaming/2018/04/premiere-game-scoreboard-bans-billy-mitchell-in-donkey-kong-cheating-scandal/). They also [assigned ultra-specific records to Tommy Tallarico](https://youtu.be/0twDETh6QaI?t=3627) in a blatant display of their [pay-for-play record scheme](https://www.npr.org/sections/money/2017/09/20/552203402/episode-795-is-record-breaking-broken).
-
-To get back to the Game Boy Camera, the wrong information about the record has been on Wikipedia since it was added by an [anonymous contributor in June 2008](https://en.wikipedia.org/w/index.php?title=Game_Boy_Camera&diff=prev&oldid=219108575). You can now find this fake fact mentioned in tons of articles online, on Wikia, probably in a bunch of books. Look at [Digicam History](http://www.digicamhistory.com/) and [Digitalkameramuseum](https://www.digitalkameramuseum.de/en/) for example, two old websites cataloguing the pre-1999 history of digital camera who both carry the false record. I've emailed both to have them remove it, but I predict I will see this false information repeated until I die.
+To get back to the Game Boy Camera, the wrong information about the size record has been on Wikipedia since it was added by an [anonymous contributor in June 2008](https://en.wikipedia.org/w/index.php?title=Game_Boy_Camera&diff=prev&oldid=219108575). You can now find it in tons of articles online, on Wikia, on digital camera museum websites, probably in a bunch of books. I predict I will see this false information repeated until I die.
 
 ## Accessing Your Pictures
 
