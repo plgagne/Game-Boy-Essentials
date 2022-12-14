@@ -53,7 +53,7 @@ It was a severely limited device. It's a digital camera but it doesn't have a sc
 
 The device's only options are taking one of six pictures it can keep in its internal memory or deleting all the meagre six pictures the device can hold without ever looking at them. Once you connect to a PC you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home fairly close to their PC due to those extremem limitations.
 
-Interestingly enough, both products chose to focus on dressing up games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*.
+Interestingly enough, both products chose to focus on offering games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*. When you compare the disadvantages of *Barbie Photo Designer* and *Game Boy Camera*, that's where you understand that the portability, viewfinder and memory for 30 pictures makes the *Game Boy Camera* a competitive package in the brand new toy camera category. *Barbie Photo Designer* is supposed to have sold 300,000 copies in the US in its first year on the market. The market would get saturated with copycats very quickly, and by the mid-2000s digital cameras had come down in price enough that toy digital cameras seemingly became a niche item. Parents bought their kids full-fledged cameras.
 
 https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
 https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
