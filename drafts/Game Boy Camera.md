@@ -16,7 +16,7 @@ developers: "Nintendo"
 - Published by Nintendo
 - Developed by Nintendo R&D1
  
-{% include figure.html type="boxart" figcaption="" %}
+{% include figure.html type="boxart" figcaption="TEST TEST TEST" %}
 
 ## {{ page.description }}
 
