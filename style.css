@@ -280,15 +280,16 @@ img {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.gallery-container figure {
-	margin: 0.15rem;
+.gallery-container div {
+	margin-left: 0.15rem;
+	margin-right: 0.15rem;
 }
 figure,
 video,
 audio,
 object,
 iframe {
-	display: block;
+	display: grid;
 	clear: both;
 	background-color: var(--light-grey);
 	text-align: center;
@@ -318,14 +319,8 @@ figcaption {
 figcaption p {
 	margin-bottom: 0;
 }
-.pixel, .art, .boxart, .gb {
-	display: grid;
-}
-.pixel {
-}
-.art.gallery {
-}
-.art, .boxart, audio {
+.art, .pixel {
+	width: 70%;
 }
 .pixel img,
 .art img,
