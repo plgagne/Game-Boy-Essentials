@@ -72,9 +72,18 @@ I'll say it upfront; I don't like the *Game Boy Camera* software. It's a mess. I
 
 Upon starting the device, you're presented with a start screen with photos of someone in a Mario costume. This shows one conceit of the software; that it will sometimes use real photos taken with a *Game Boy Camera*. It's not a full design choice. Large sections of the interface use drawn art to represent characters. If you get an idea like that, I'd expect them to use it fully.
 
-We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four. Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *Space Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit.
+We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four. Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *Space Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit. Upon starting those two other games, you get astoundignly different screens to navigate their respective options. There is no general logic. The whole UI is a mad house.
 
-Upon starting those two other games, you get astoundignly different arranged screens to explain the games. There is 
+!fig
+The Shoot menu
+
+Upon going in the Shoot segment, you get what is supposed to be a parody of an RPG's battle screen, with pixel art of people standing in as your enemies. Since you just came from a screen where someone in a Mario suit was dancing about, the joke falls flat immediately. The battle screen includes a run command, leading to an infamous  joke played on the user.
+
+!fig
+What are you running away from? BAD UI!
+
+
+
 
 There are inside jokes when pressing the exit button. The menus constantly change their look; you need to learn everything.
  
