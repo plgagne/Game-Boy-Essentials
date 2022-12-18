@@ -16,6 +16,7 @@ If you don't want to miss an article you can keep track of this website using th
 - [Subscribe using RSS](/rss.xml)
 - [Subscribe using JSON](/feed.json)
 - [Follow on Twitter](https://twitter.com/SuperGBE)
+- [Follow on Mastodon](https://peoplemaking.games/@gbe)
 
 Please email me for any questions. I'm reachable at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
