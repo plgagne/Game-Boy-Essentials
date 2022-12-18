@@ -1,7 +1,7 @@
 ---
 title: "Game Name"
 description: "Article Title"
-slug: "dmg-"
+slug: ""
 release-year: ""
 release-month: ""
 publication-order: 
@@ -45,8 +45,8 @@ Here's an explanation of what all the types and classes do and when to use them.
 You can use !object to autocomplete. You can use this for the following media types. The same numbering used for images is used for objects.
 
 - pdf
-- video (You need to use a file with an MP4 filename)
-- audio (You need to use a file with an MP3 filename)
+- video (You need to use an MP4)
+- audio (You need to use an MP3)
 
 ## Classes
 
@@ -64,8 +64,9 @@ You can also build a gallery by putting your declarations inside a div. Do not f
 
 ~~~ html
 <div class="gallery-container">
-{% include figure.html type="gb" class="gallery" %}
-{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="art" class="gallery" %}
+{% include figure.html type="art" class="gallery" %}
+{% include figure.html type="art" class="gallery" %}
 </div>
 
 <div class="gallery-container">
