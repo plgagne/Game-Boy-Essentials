@@ -37,7 +37,16 @@ The Game Boy Camera project was not supervised by him. The software section, led
 
 ## Limited Hardware
 
-With our modern point of view, *Game Boy Camera* is a complete joke. It can seem like no one could tolerate its low image quality and that it must have been a monumental flop. The reality is far from that. Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112 pixels resolution. The thing is only good at taking pictures of large things (like a head or a dog) from way up close. Don't even try to take a picture of a distant landscape view. To top off the mediocrity, pictures have no colour, being only available in the same four shades as your Game Boy. However, you have to look at what digital cameras were capable of doing and at what price to understand the device's appeal in 1998. Of course, something like the [Canon EOS D2000](https://global.canon/en/c-museum/product/dslr777.html) existed, but this 1728 by 1152 resolution professional device retailed for over 15,000$ USD. It was also a bleeding edge trailblazer; it was the first digital camera somewhat respected by professionals. We have to look downmarket to find peers of our little puny *Game Boy Camera*. For example, Minton made a crappy OEM camera that was rebadged by countless companies. [It came with a 640 x 480 pixel sensor and sold for around 149$ USD](https://www.digitalkameramuseum.de/en/cameras/item/jenoptik-jd11-entrance). It's a much better device at three times the price but it is still a terrible camera compared to modern standards.
+With our modern point of view, *Game Boy Camera* is a complete joke. It can seem like no one could tolerate its low image quality and that it must have been a monumental flop. The reality is far from that. Looking back at the *Game Boy Camera*'s release in 1998, the device enjoyed a somewhat warm reception.
+
+<div class="gallery-container">
+{% include figure.html type="art-png" class="gallery" figcaption="[Popular Science, July 1998, P.12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
+{% include figure.html type="art-png" class="gallery" figcaption="[Boys' Life, September 1998, P.11](https://books.google.ca/books?id=Nv8DAAAAMBAJ&pg=PA11)" %}
+{% include figure.html type="art-png" class="gallery" figcaption="[Vibe, August 1998, P. 148](https://archive.org/details/bub_gb_JywEAAAAMBAJ/page/n157/mode/2up)" %}
+{% include figure.html type="art-png" class="gallery" figcaption="[GamePro, August 1998, P.30](https://archive.org/details/GamePro_Issue_109_August_1998/page/n31/mode/2up)" %}
+</div>
+
+Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112 pixels resolution. The thing is only good at taking pictures of large things (like a head or a dog) from way up close. Don't even try to take a picture of a distant landscape view. To top off the mediocrity, pictures have no colour, being only available in the same four shades as your Game Boy. However, you have to look at what digital cameras were capable of doing and at what price to understand the device's appeal in 1998. Of course, something like the [Canon EOS D2000](https://global.canon/en/c-museum/product/dslr777.html) existed, but this 1728 by 1152 resolution professional device retailed for over 15,000$ USD. It was also a bleeding edge trailblazer; it was the first digital camera somewhat respected by professionals. We have to look downmarket to find peers of our little puny *Game Boy Camera*. For example, Minton made a crappy OEM camera that was rebadged by countless companies. [It came with a 640 x 480 pixel sensor and sold for around 149$ USD](https://www.digitalkameramuseum.de/en/cameras/item/jenoptik-jd11-entrance). It's a much better device at three times the price but it is still a terrible camera compared to modern standards.
 
 When you look at it, the Game Boy Camera is more akin to a toy than a digital camera. We're lucky, we have a new camera toy from 1998 to compare it against. 
 
@@ -49,48 +58,21 @@ BarbieCam!
 !fig
 An example of a BarbieCam photo.
 
-It was a severely limited device. It's a digital camera but it doesn't have a screen or removable media. All the beautiful benefits of digital photography come from those two functionnalities. Without a screen you can't know if the picture you took is any good and without removable media you can't keep taking pictures by swapping SD cards or whatnot.
+It was a severely limited device. It's a digital camera but it doesn't have a screen or removable media. All the beautiful benefits of digital photography come from those two functionnalities. Without a screen you can't know if the picture you took is any good and without removable media you can't keep taking pictures by swapping SD cards or whatnot. You're stuck with the six pictures it can keep in its internal memory.
 
-The device's only options are taking one of six pictures it can keep in its internal memory or deleting all the meagre six pictures the device can hold without ever looking at them. Once you connect to a PC you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home fairly close to their PC due to those extremem limitations.
+The device's only options are taking pictures or deleting all the meagre six pictures without ever looking at them. Once you connect to a PC you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home fairly close to their PC due to those extremem limitations. 
 
-Interestingly enough, both products chose to focus on offering games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*. When you compare the disadvantages of *Barbie Photo Designer* and *Game Boy Camera*, that's where you understand that the portability, viewfinder and memory for 30 pictures makes the *Game Boy Camera* a competitive package in the brand new toy camera category. *Barbie Photo Designer* is supposed to have sold 300,000 copies in the US in its first year on the market. The market would get saturated with copycats very quickly, and by the mid-2000s digital cameras had come down in price enough that toy digital cameras seemingly became a niche item. Parents bought their kids full-fledged cameras.
-
-https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
-https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
-http://www.digicamhistory.com/1998%20L-N.html
-https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml
-https://www.ebay.ca/itm/274635657835?hash=item3ff18f926b:g:86sAAOSwf4BfnwIB&amdata=enc%3AAQAHAAAA4DnfgMBIhOz0lxIkf8K5zYvq3sO81WePetMp%2B7OBiBFidXo8yUX4F2V6AOO2QXyDSIXLCNqcAJYRErXtaphsn1%2F7fVjKFvY%2FxQp1NjMyQousAi6kmsq16MPmhmtAKH7fis2mUxRQuTb3F%2BdxWt8FxtkHCmga5X878ie9yrEr%2BT3kCPSQNPgZiNmo1is6ucQ5MAPsiYrm63rAeKy%2FTeJkZJi08q8RdJEnh40SFtPi%2FMeeMBWi%2Fp6C7Nzi%2Bd%2FtGeGsIUz4ffhNr6XQaFNavAHeB3IrJcno6hG%2FxqH1EwqB38CI%7Ctkp%3ABFBM3vaDraBh
-
-
-Nick Click by LGR
-https://www.youtube.com/watch?v=wfFeCfp_xPk
-
-Upon its release, the device enjoyed a somewhat warm reception. It was featured in mainstream magazines, and reportedly sold more than a million copies in Japan.
-
-<div class="gallery-container">
-{% include figure.html type="art-png" class="gallery" figcaption="[Popular Science, July 1998, P.12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
-{% include figure.html type="art-png" class="gallery" figcaption="[Boys' Life, September 1998, P.11](https://books.google.ca/books?id=Nv8DAAAAMBAJ&pg=PA11)" %}
-{% include figure.html type="art-png" class="gallery" figcaption="[Vibe, August 1998, P. 148](https://archive.org/details/bub_gb_JywEAAAAMBAJ/page/n157/mode/2up)" %}
-{% include figure.html type="art-png" class="gallery" figcaption="[GamePro, August 1998, P.30](https://archive.org/details/GamePro_Issue_109_August_1998/page/n31/mode/2up)" %}
-</div>
-
-First point is how the software poorly accompanies the simple beautiful premise of Game Boy Camera.
-
-Should I do some tests with mine to figure out its focus? How good is it at anything but a selfie? They didn't have the word for that back then. Maybe that would have helped if we knew about those type of pictures in 1998.
+Moving on to the software, both companies chose to focus on offering games with the pictures you took to complement their low resolution cameras. I guess there aren't many ways to make a bad quality camera *fun*. When you compare the disadvantages of *Barbie Photo Designer* and *Game Boy Camera*, that's where you understand that the portability, viewfinder and memory for 30 pictures makes the *Game Boy Camera* a competitive package in this brand new toy camera category. This category was hotter than you think as well: *Barbie Photo Designer* sold 300,000 copies in the US in its first year on the market and the *Game Boy Camera* sold a million copies in Japan. However, the market would quickly get saturated with copycats, and by the mid-2000s digital cameras had come down in price enough that toy digital cameras seemingly became a niche item. Parents seemingly bought their kids full-fledged cameras instead.
 
 ## Terrible Software
 
-I'll say it upfront; I don't like the Game Boy Camera software. It's a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
+I'll say it upfront; I don't like the *Game Boy Camera* software. It's a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
 
 [The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up). You can immediately see that there is a lot of things you can do in the software. Outside of *Mario Paint*, I can't think Nintendo had ever made a user interface this complex before.
 
 Upon starting the device, you're presented with a start screen with photos of someone in a Mario costume. This shows one conceit of the software; that it will sometimes use real photos taken with a *Game Boy Camera*. It's not a full design choice. Large sections of the interface use drawn art to represent characters. If you get an idea like that, I'd expect them to use it fully.
 
-My complaint about sometimes using photographs throughout the interface is one of style. However, every other 
-
-We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four.
-
-Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *SPace Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit.
+We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four. Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *Space Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit.
 
 Upon starting those two other games, you get astoundignly different arranged screens to explain the games. There is 
 
@@ -98,7 +80,7 @@ There are inside jokes when pressing the exit button. The menus constantly chang
  
 The two most sedate and reasonable segements of the software are the picture-taking itself and the photo album. The picture taking features all the controls around the viewfinder, arranged in a intelligent manner that focuses on quick adjustments. The photo album navigation is pretty straightforward, and once you reach the single picture view, all the options are also arranged around the picture. 
  
-All in all I think part of the whole mess is explained by the large amount of companies who worked on the project. Creatures (formerly Ape), Game Freak, R&D1 and Jupiter, the company mostly known for Picross are all credited. This is a complete guess, but I think those companies worked on different segments of the software and those were added together with no regards for consistency.
+All in all I think part of the whole mess is explained by the large amount of companies who worked on the project. Creatures (formerly Ape), Game Freak, R&D1 and Jupiter (the company mostly known for Picross) are all credited. This is a complete guess, but I think those companies worked on different segments of the software and those were added together with no regards for consistency.
 
 None of the craziness in the software was featured on the box; the box is very sedate, even in Japanese. The ads themsleves, in both Japan and the US, focus heavily on the power of easy photography (duh) and the fun that can be had with the stamps implemented in the pictures album. 
  
@@ -152,3 +134,12 @@ You also had to send the film to be developed, which meant that a stranger looke
 With class about to start, the teacher getting angsty, and me wanting to get my beloved Game Boy back, I ended up in a tussle and pushed a classmate trying to get it back. Falling down, he dropped and broke his glasses. That's right kids; *Game Boy Camera* led me to violence and got me in trouble with my school principal! I was so ashamed I hid the whole thing from my parents and paid for the glasses with my own money.
 
 I wouldn't blame you if you never want to read anything from me again due to this Game Boy transgression.
+
+https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
+https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
+http://www.digicamhistory.com/1998%20L-N.html
+https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml
+https://www.ebay.ca/itm/274635657835?hash=item3ff18f926b:g:86sAAOSwf4BfnwIB&amdata=enc%3AAQAHAAAA4DnfgMBIhOz0lxIkf8K5zYvq3sO81WePetMp%2B7OBiBFidXo8yUX4F2V6AOO2QXyDSIXLCNqcAJYRErXtaphsn1%2F7fVjKFvY%2FxQp1NjMyQousAi6kmsq16MPmhmtAKH7fis2mUxRQuTb3F%2BdxWt8FxtkHCmga5X878ie9yrEr%2BT3kCPSQNPgZiNmo1is6ucQ5MAPsiYrm63rAeKy%2FTeJkZJi08q8RdJEnh40SFtPi%2FMeeMBWi%2Fp6C7Nzi%2Bd%2FtGeGsIUz4ffhNr6XQaFNavAHeB3IrJcno6hG%2FxqH1EwqB38CI%7Ctkp%3ABFBM3vaDraBh
+
+Nick Click by LGR
+https://www.youtube.com/watch?v=wfFeCfp_xPk
