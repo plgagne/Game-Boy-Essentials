@@ -36,8 +36,9 @@
 ehthumbs.db
 Thumbs.db
 
-# Jekyll #
+# Jekyll & Nova #
 ######################
+.nova
 .jekyll-cache/
 .jekyll-metadata
 website/
