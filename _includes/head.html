@@ -42,6 +42,6 @@
 	<meta property="og:title" content="{% if page.article %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta property="og:image" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
-<!--Mastodon-->	
-	<link rel="me" href="https://peoplemaking.games/@gbe">
+{% if page.layout == 'main' %}<!--Mastodon-->	
+	<link rel="me" href="https://peoplemaking.games/@gbe">{% endif %}
 </head>
