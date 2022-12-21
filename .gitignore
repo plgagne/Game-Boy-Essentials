@@ -38,7 +38,7 @@ Thumbs.db
 
 # Jekyll & Nova #
 ######################
-.nova
+.nova/
 .jekyll-cache/
 .jekyll-metadata
 website/
