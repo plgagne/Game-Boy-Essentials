@@ -16,7 +16,7 @@ developers: "Nintendo"
 - Published by Nintendo
 - Developed by Nintendo R&D1
  
-{% include figure.html type="boxart" figcaption="" %}
+{% include figure.html type="boxart" figcaption="You might laugh about now, but for a short time, this thing was high tech." %}
 
 ## {{ page.description }}
 
@@ -46,13 +46,11 @@ Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112
 
 When you look at it, the Game Boy Camera is more akin to a toy than a digital camera. We're lucky, we have a new camera toy from 1998 to compare it against. 
 
-!fig
-BarbieCam!
+{% include figure.html type="art" figcaption="BarbieCam!" %}
 
 *Barbie Photo Designer* was announced in September of 1998, obviously for the upcoming Holiday season and was a package consisting of the digital camera and its accompanying PC software. It retailed for 69.99$, a shockingly low price at first glance for a digital camera and PC software. Upon closer examination the device is not too good to be true. Although it took colour photos, it is very close to the Game Boy Camera in terms of resolution: 160 by 120 pixels. That's minuscule.
 
-!fig
-An example of a BarbieCam photo.
+{% include figure.html type="art" figcaption="An example of a BarbieCam photo. This photo was taken with the later Nickelodeon model, which is the same camera, and comes from [Superkids.com](https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml)" %}
 
 It was a severely limited device. It's a digital camera but it doesn't have a screen or removable media. All the beautiful benefits of digital photography come from those two functionnalities. Without a screen you can't know if the picture you took is any good and without removable media you can't keep taking pictures by swapping SD cards or whatnot. You're stuck with the six pictures it can keep in its internal memory.
 
@@ -64,38 +62,57 @@ Moving on to the software, both companies chose to focus on offering games with 
 
 I'll say it upfront; I don't like the *Game Boy Camera* software. It's a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
 
-[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up). You can immediately see that there is a lot of things you can do in the software. Outside of *Mario Paint*, I can't think Nintendo had ever made a user interface this complex before.
+{% include figure.html type="art-png" figcaption="[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up)" %}
+
+You can immediately see that there is a lot of things you can do. Outside of *Mario Paint*, I can't think Nintendo had ever made a user interface this complex before.
 
 Upon starting the device, you're presented with a start screen with photos of someone in a Mario costume. This shows one conceit of the software; that it will sometimes use real photos taken with a *Game Boy Camera*. It's not a full design choice. Large sections of the interface use drawn art to represent characters. If you get an idea like that, I'd expect them to use it fully.
 
+{% include figure.html type="gb" class="float left" %}
+
 We get a complete rookie mistake on the main screen of the interface: they never tell you you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four. Let's jump into the worst segment of the device; Play. When you go into this segment, a game of *Space Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin proper. Imagine that; a selection menu with a time limit. Upon starting those other games, you get astoundignly different screens to navigate their respective options. There is no general logic. The whole UI is a mad house.
+
+<div class="gallery-container">
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+</div>
 
 The first game is a copy of the first Game & Watch title, *Ball*. We've discussed it previously when talking about [*Game Boy Gallery*](/articles/dmg-agga/). This version is using different sprites for the body, and allows you to use pictures for the face. The second game is a small DJ toy that I cannot understand for the life of me. The final game, which you unlock upon completing *Space Fever II*, is a running game where you mash buttons. Once again, you can put your face on the character you play.
 
-!fig
-The Shoot menu
+{% include figure.html type="gb" figcaption="The Shoot menu" %}
 
 Upon going in the Shoot segment, you get what is supposed to be a parody of an RPG's battle screen, with pixel art of people standing in as your enemies. Since you just came from a screen where someone in a Mario suit was dancing about, the joke falls flat immediately. The battle screen includes a run command, leading to an infamous  joke played on the user.
 
-!fig
-What are you running away from? BAD UI!
+{% include figure.html type="gb" figcaption="What are you running away from? BAD UI!" %}
 
-That jokey screen is meant to tell the player that they can't run away, this isn't an RPG, just a parody of one. But the very real faces of Nintendo employees have those hideous drawings added on them. You just get spooked by them. 
+That jokey screen is meant to tell the player that they can't run away, this isn't an RPG, just a parody of one. But the very real face has those hideous drawings added on them. It's just so out of place. 
  
 The two most sedate and reasonable segements of the software are the viewfinder screens and the photo album under View. The picture taking features all the controls around the viewfinder, arranged in an intelligent manner that focuses on quick adjustments. The photo album navigation is pretty straightforward, and once you reach the single picture view, all the options are also arranged around the picture. If you dig deep enough, you can find drawing tools that provide you with a barebones *Mario Paint*. You could take a picture of a white wall and just draw on your Game Boy. You don't get the benefit of a mouse, but it's a fun, well-designed little drawing utility in a sea of terrible UI.
 
-There are far more trick photography segments you can use, and they are all bespoke tools that are hard to grasp because their user interface is not standardized. All in all I think part of the mess is explained by the amount of companies who worked on the project. Employees from Creatures (formerly Ape), Game Freak, and R&D1 are all credited. This is a complete guess, but I think employees worked on different segments of the software and those were added together with no regards for consistency. Even Jupiter, the company mostly known for Picross, is thanked in the credits but they might have supported in other ways like Quality Assurance. None of the craziness in the software was featured on the box; the box is very sedate, even in Japanese. The ads themsleves, in both Japan and the US, focus heavily on the power of easy photography (duh) and the fun that can be had with the stamps implemented in the painting tools of the photo album.
+<div class="gallery-container">
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+</div>
 
+The camera has far more tricks up its sleeve, and they are all bespoke tools that are hard to grasp because their user interface is not standardized. All in all I think part of the mess is explained by the amount of companies who worked on the project. Employees from Creatures (formerly Ape), Game Freak, and R&D1 are all credited. This is a complete guess, but I think employees completed different segments of the software alone and those were added together with no regards for consistency. Even Jupiter, the company mostly known for Picross, is thanked in the credits but they might have supported in other ways like Quality Assurance. None of the craziness in the software was featured on the box; the box is very sedate, even in Japanese. The ads themsleves, in both Japan and the US, focus heavily on the power of easy photography (duh) and the fun that can be had with the stamps implemented in the painting tools of the photo album.
+
+{% include figure.html type="gb" class="float right" %}
 We got a surprising revelation just recently in 2020 that highlights the poor user interface design. As a part of the *Gigaleak*, a [massive lotcheck of Game Boy titles was uncovered](https://en.wikipedia.org/wiki/Nintendo_data_leak). Lotchecks, in internal Nintendo parlance, are lists of ROMs ready for use in cartridges. They're the [golden masters](https://en.wikipedia.org/wiki/Software_release_life_cycle#RTM). Among this lotcheck was *Hello Kitty Pocket Camera*, a special version of the camera dedicated to who else but Hello Kitty. This whole special version of the Game Boy Camera is 100% complete, yet was **never released**. No one outside Nintendo had seen this before 2020.
 
 We have no information about what the hardware could have looked like, but we can be quite certain no important external changes were planned. Perhaps the camera would have been pink, with a Hello Kitty decal on it. [It's when you load up this golden master in an emulator](https://archive.org/details/hello-kitty-pocket-camera-japan-rc-2) that you see the changes. While all the camera functionnality from the released version is present, nothing from the released Game Boy Camera user interface was reused. I'm not versed enough in Japanese to explore the interface in detail but my cursory look revealed a much improved UI. For example, if pressing Start sends you to another screen, you see a mention from the Hello Kitty UI. All the creepy pictures and inscrutable in-jokes have been removed. It's clear the Hello Kitty UI was their second attempt at a *Game Boy Camera* interface, and this second crack at the problem gave them enough time to finally make a workable interface. It's just a shame they never released it.
+
+{% include figure.html type="gb" %}
  
 ## Game Boy Camera Gets A Receipt Printer
 
 Nowadays, people are satisfied that their photos live online, but in 1998, everybody expected to get printed copies of every picture they took. You could trade pictures with another *Game Boy Camera* using a Link Cable, but keeping your pictures imprisoned inside a *Game Boy Camera* was a non-starter; Nintendo wanted to provide printing capabilities. While Nintendo could have answered with a stereotypically Japanese solution by putting printing kiosks in combinis all over Japan, leaving the rest of the world to fend for itself, they instead developped a portable printer one could easily buy alongside the camera. This was a great idea in practice, and a marked improvement over *Mario Paint*. I feel like *Mario Paint* never reach its full potential because it never had any print capabilities outside of *record your art on a VHS tape and figure something out from there*.
 
-!fig
-The Game Boy Printer
+{% include figure.html type="art" figcaption="The Game Boy Printer" %}
 
 So as with the camera came the Game Boy Printer. Connected through the link cable port, running with a whopping six AA batteries and [retailing for the relatively high price of 60$ upon release in 1998](https://christmas.musetechnical.com/ShowCatalogPage/1998-JCPenney-Christmas-Book/0547), the device uses thermal paper just like your receipt at the grocery store. Just like we discussed earlier with the camera, Nintendo knew they had to compensate for their bargain bin technology, so they wisely included thermal paper with a sticking back. This turned bad pictures into *collectable pictures*. You could stick your pictures in a book, collect pictures of different plants or animals, stick pictures of people on their books, etc. Selling paper with a sticky back was a genius idea to compensate for a poor printing quality; and the printing quality was indeed bad. No ones goes to a thermal printer for a beautiful, detailed print. It's a cheap way to get something on paper fast. It will work fine for fun prints to share in the moment, but you're not going to preserve your pictures long-term with those prints. Just like your receipts the prints fade with time. So if you have any old printed pictures from way back, they'll be very faded now, due to the thermal paper technology.
 
@@ -103,7 +120,10 @@ The Game Boy Printer enjoyed a life outside its release with the *Game Boy Camer
 
 ## Accessing Your Pictures
 
+{% include figure.html type="gb" class="float left" %}
 If you're like me, you own a *Game Boy Camera* with pictures that are decades old at this point. You might even have pictures that you consider valuable stuck on there. My sister had taken pictures of our family dog when he was a puppy. I wanted a way to extract them and get copies on my Mac. Having already explained how a Game Boy Printer is a poor fit for preservation, other options were needed. Five or ten years ago, limited options existed but we now have a plethora of methods to extract pictures from a Game Boy, from the handmade low-run device like the [BitBoy](https://gameboyphoto.bigcartel.com/product/bitboy) to the exquisite FPGA high-quality device like the [Analogue Pocket](https://www.analogue.co/pocket). You also have the [Epilogue GB Operator](https://www.epilogue.co/product/gb-operator) a cartrdige port you somehow plug into your computer to play those games, and something like the [Game Boy Camera Fast Wifi Adapter](https://github.com/MattGrayYes/Game-Boy-Camera-Fast-Wifi-Adapter) a project you assemble yourself using a coterie of parts that you fit inside a 3D printed case. Basically it's a [GBxCart RW](https://www.gbxcart.com/) coupled with a Raspberry Pi Zero. There are even more options if you want to do a bit of research. To solve the problem for me, I used something I already owned. Since I'm cheap, and didn't want to spend money on a bespoke solution I'll use once, I decided to use the little [Arduino board I already own to transfer my pictures](https://github.com/mofosyne/arduino-gameboy-printer-emulator#quick-start). This meant cutting up a Game Boy link cable and identifying each wire with continuity. Not the easiest thing, but it was a reasonable task for an amateur thinkerer like me. I was able to adequately mark the required wires, make new ends to plug them in my Arduino (always be sure to plug the ground wire in the right spot) and follow the instructions to load the software correctly and extract the data from the serial monitor. It was immediately successful, with my only issue being the extremely crappy software for the Arduino IDE. They should be ashamed of how many interface bugs they have in their software. Anyway, I encourage you to get your pictures extracted if you have any of sentimental value. That cell battery in there won't last forever.
+
+{% include figure.html type="gb" %}
 
 ## Never the smallest
 
@@ -129,11 +149,4 @@ With class about to start, the teacher getting angsty, and me wanting to get my 
 
 I wouldn't blame you if you never want to read anything from me again due to this Game Boy transgression.
 
-https://www.digitalkameramuseum.de/en/cameras/item/mattel-barbie-digital-camera
-https://duckduckgo.com/?q=mattel+%22barbiecam%22&norw=1&t=ffab&iax=images&ia=images&iai=http%3A%2F%2Fwww.digicamhistory.com%2FMattel%2520Barbiecam%2520kit%2520small.jpg
-http://www.digicamhistory.com/1998%20L-N.html
-https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml
-https://www.ebay.ca/itm/274635657835?hash=item3ff18f926b:g:86sAAOSwf4BfnwIB&amdata=enc%3AAQAHAAAA4DnfgMBIhOz0lxIkf8K5zYvq3sO81WePetMp%2B7OBiBFidXo8yUX4F2V6AOO2QXyDSIXLCNqcAJYRErXtaphsn1%2F7fVjKFvY%2FxQp1NjMyQousAi6kmsq16MPmhmtAKH7fis2mUxRQuTb3F%2BdxWt8FxtkHCmga5X878ie9yrEr%2BT3kCPSQNPgZiNmo1is6ucQ5MAPsiYrm63rAeKy%2FTeJkZJi08q8RdJEnh40SFtPi%2FMeeMBWi%2Fp6C7Nzi%2Bd%2FtGeGsIUz4ffhNr6XQaFNavAHeB3IrJcno6hG%2FxqH1EwqB38CI%7Ctkp%3ABFBM3vaDraBh
-
-Nick Click by LGR
-https://www.youtube.com/watch?v=wfFeCfp_xPk
+{% include figure.html type="gb" %}
