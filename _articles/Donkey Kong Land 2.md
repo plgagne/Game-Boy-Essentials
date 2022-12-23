@@ -54,7 +54,7 @@ That the Game Boy Pocket came as the amends for the sins of Virtual Boy makes se
 {% include figure.html type="art" class="float right" %}
 They were also able to only require two batteries, since between the release of the DMG in 1989 and the Pocket in 1996, a small revolution happened in the world of consumer electronics: the move from 5 V to 3 V. [The crew at Nintendo R&D1 were able to make the Pocket work with 3 V](https://nerdlypleasures.blogspot.com/2014/10/battery-life-in-8-bit-game-boy-line.html), meaning that instead of the four batteries needed to reach 5 V (a single AA battery provides a nominal 1.5 V), you only needed two batteries to reach 3 V. On the negative side, they chose to use AAA batteries, which dropped the battery life of the Pocket to the 10-hour mark, while the original DMG usually gave you 20 hours of gameplay with its AAs. No other Game Boy would ever use the diminutive AAA batteries again, and they would all offer more than 10 hours of battery life. All that to say that *Donkey Kong Land 2* had at its disposal a device better suited for its visuals, but it still doesn’t make the game good.
 
-## Bad as a Portable *Donkey Kong Country 2*
+## Bad as a Portable Donkey Kong Country 2
 
 You might be tempted to say: “Pierre-Luc, the first game was just a bizarre adaptation with original levels and areas. This time, they just ported *Donkey Kong Country 2*, so it must be good?” Before I tell you that you’re unfortunately wrong, I wish to define one word in your sentence, the word **port**. What is a port? Let’s define it by peeling the onion of *DKL2*. 
 
