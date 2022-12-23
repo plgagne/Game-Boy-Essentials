@@ -18,7 +18,7 @@ developers: "Nintendo R&D1"
 
 {% include figure.html type="boxart" figcaption="Welcome to the world of Game & Watch!" %}
 
-## {{ page.description }}
+### {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
 For years, my local game store had, behind its glass case, a Donkey Kong Game & Watch unit for sale for around forty-five dollars. Compared to prices you find online, this felt reasonable. I would look at it every time from behind the glass case, just admiring it. One day, I got bold and asked the employee if I could hold it. That was a mistake; once I had held the Game & Watch in my hands, I was hooked. Even though it had no batteries so I could not play it, just holding it in my hands really shook me; this was not what I was envisioning. I expected a device completely divorced from other Nintendo portables. Quite the contrary. It felt like I was holding a smaller, flimsier DS Lite. Peering over it, I saw defects that explained its low price. The metal top had lots of scratch marks and was starting to peel off. When open, it was missing both its decorated bottom panels. One of the metal inserts for the hinge was missing. The plastic clip to keep it closed was broken. All of those problems were minor. The store employee promised me it worked, and they’ve always been trustworthy.
@@ -34,16 +34,16 @@ I put the tiniest tie wrap I could find to hold the two pieces of the plastic hi
 I have to say, I initially thought the electronics were broken. The batteries were so foreign to me that I put them in backwards. By the way, those small watch batteries **can kill you** if you swallow them. They can leak their acid in your stomach and intestine. Keep them out of reach of children! I finally figured out the batteries, and the system came to life.
 
 <div class="gallery-container">
-{% include figure.html type="art" figcaption="The initial box for the American release." %}
-{% include figure.html type="art" figcaption="The back of the box, with the label of a Montréal toy store!" %}
-{% include figure.html type="art" figcaption="Nintendo later sold the Game & Watch through third parties. I can't believe Nintendo would ever design this blister pack." %}
-{% include figure.html type="art" figcaption="Or that one." %}
-{% include figure.html type="art" figcaption="In the UK, Nintendo even sold their Game & Watch games through CGL, which rebadged LCD games from multiple companies." %}
+{% include figure.html type="art" class="gallery" figcaption="The initial box for the American release." %}
+{% include figure.html type="art" class="gallery" figcaption="The back of the box, with the label of a Montréal toy store!" %}
+{% include figure.html type="art" class="gallery" figcaption="Nintendo later sold the Game & Watch through third parties. I can’t believe Nintendo would ever design this blister pack." %}
+{% include figure.html type="art" class="gallery" figcaption="Or that one." %}
+{% include figure.html type="art" class="gallery" figcaption="In the UK, Nintendo even sold their Game & Watch games through CGL, which rebadged LCD games from multiple companies." %}
 </div>
 
 [To get some context, start by watching the Japanese TV ad for Oil Panic and Donkey Kong. It’s interesting to see how they were marketed, and that they each cost the equivalent of 25 US dollars in 1982, around 50 USD today.](https://youtu.be/t6HykFfFM1s) The first thing that captures my attention is Nintendo’s steadfast commitment to making all Game & Watch systems a functioning clock. Turning it on for the first time presents you with a blinking 12:00, imploring you to set its time. It is literally in the name (Game & *Watch*), and I guess you can use the system as an alarm clock on your bedside, but it is somewhat surprising. Equally surprising is the lack of any volume control. No mute, no nothing. Considering this device was meant to be played during a busy commute, I’m puzzled as to the absence of those controls. I’m sure many Game & Watch had their speaker wires cut by savvy parents wanting a moment of silence.
 
-The gameplay is sublime because it's designed in lockstep with the limited display. That is the strongest point of praise you can give a Game & Watch. I have talked at length in previous articles about the limited nature of the Game Boy’s screen. The Game & Watch’s liquid crystal display is even more primitive. It is the same limited technology that you will find in a pocket calculator.
+The gameplay is sublime because it’s designed in lockstep with the limited display. That is the strongest point of praise you can give a Game & Watch. I have talked at length in previous articles about the limited nature of the Game Boy’s screen. The Game & Watch’s liquid crystal display is even more primitive. It is the same limited technology that you will find in a pocket calculator.
 
 Since a calculator display has no discrete pixels, only segmented elements to turn on or off, you need to design your game around the constraint that no two elements can ever overlap. Imagine it in the context of the Game & Watch I own, *Donkey Kong*. In the arcade, Donkey Kong throws barrels that roll down the girders; the very same girders that Mario walks on. When you get hit by a barrel, it’s because Mario physically touched a barrel. No such thing can happen on the Game & Watch version. Your character stands on the girders in fifteen discrete positions, but you can’t have the barrels intersect your character. The decision made here was to put them very close to the side of the player character. And here comes the Nintendo R&D1 touch: there is a delay between the barrel appearing right next to your character and the barrel hitting you in that position. They implemented a slight delay before you get hit to account for the barrel’s rolling! They are working with your imagination of the barrel’s movement, which gives you the ability to jump above the barrel just like the arcade game.
 
@@ -63,7 +63,7 @@ But Coleco’s licensed game was a tabletop; you did not fold it nor hold it whi
 
 I do ultimately feel a bit stupid explaining a D-Pad, since it’s so ubiquitous but sometimes we need to explain easy stuff because we take it for granted. I ultimately feel privileged to own a *Donkey Kong* Game & Watch, since I own the first D-Pad ever made. It’s smaller than an NES D-Pad, but unless you know it’s the first one ever made, you would never suspect it. The wizards at R&D1 got it right the first time.
 
-{% include figure.html type="art" figcaption="Strangely, they would not use a D-Pad for all future Game & Watch units. Only lids that closed and could protect it got one. This later *Super Mario Bros.* game got a terrible controller that looks suspiciously like a Switch's dreaded D-Pad." %}
+{% include figure.html type="art" figcaption="Strangely, they would not use a D-Pad for all future Game & Watch units. Only lids that closed and could protect it got one. This later *Super Mario Bros.* game got a terrible controller that looks suspiciously like a Switch’s dreaded D-Pad." %}
 
 ## A Slow Start
 
@@ -121,4 +121,4 @@ Playing a Game & Watch explains so clearly how Nintendo approached the Game Boy.
 
 No wonder they were so reverential to their Game & Watch games, trying twice to update them for the Game Boy. Those games were the true ancestors of Nintendo’s Game Boy. Their second attempt at redefining those games was clearly a success, and with their next collection they would reach surprising heights.
 
-{% include figure.html type="art" figcaption="The Australian cover. If you remember my article about *Game Boy Gallery*, you'll remember why this game is a sequel in Australia." %}
+{% include figure.html type="art" figcaption="The Australian cover. If you remember my article about *Game Boy Gallery*, you’ll remember why this game is a sequel in Australia." %}

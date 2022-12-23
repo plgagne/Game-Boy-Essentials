@@ -3,8 +3,6 @@
 {%- capture image-variable -%}
 /assets/{{ page.slug }}/{{ page.slug }}-{% assign order = order | plus: 1 %}{{ order }}.{{ details.extension }}
 {%- endcapture -%}
-<img src="{{ image-variable }}" {% imagesize image-variable:props %} alt="{% if include.figcaption %}{{ include.figcaption }}{% else %}{{ details.alt }}{% endif %}">{% if include.figcaption %}
-<figcaption><p>{{ include.figcaption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</p></figcaption>
+<img src="{{ image-variable }}" {% imagesize image-variable:props %} alt="{% if include.figcaption %}{{ include.figcaption }}{% else %}{{ details.alt }}{% endif %}">{% if include.figcaption %}<figcaption><p>{{ include.figcaption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</p></figcaption>
 {%- else -%}
-{% endif %}
-</{{ details.wrapper }}>{% if include.class == "gallery" %}</div>{% else %}{% endif %}
+{% endif %}</{{ details.wrapper }}>{% if include.class == "gallery" %}</div>{% else %}{% endif %}

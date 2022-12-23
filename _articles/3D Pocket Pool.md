@@ -21,7 +21,7 @@ developers: "Aardvark Software"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-This game feels like it's coming from another planet! *3D Pocket Pool* is this strange experience that you can’t quite put your finger on. It would also be somewhat charming if not for one fatal flaw. Let’s look together at this off-kilter game, and figure out why it’s essential.
+This game feels like it’s coming from another planet! *3D Pocket Pool* is this strange experience that you can’t quite put your finger on. It would also be somewhat charming if not for one fatal flaw. Let’s look together at this off-kilter game, and figure out why it’s essential.
 
 ## Obscure Release
 

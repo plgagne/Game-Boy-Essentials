@@ -1,5 +1,5 @@
 ---
-title: "Pokémon: Red, Green & Blue Versions"
+title: "Pokémon: Red, Green & Blue"
 description: "A Game Boy Resurrection"
 slug: "dmg-apee"
 release-date: "1996-02-27"
@@ -10,18 +10,18 @@ developers: "Game Freak"
 ---
 # {{ page.title }}
 
-- Japanese release in February 1996 of Red & Green
-- Japanese release in October 1996 of Japanese Blue (exclusive to CoroCoro Comic)
+- Japanese release in February 1996 of Red & Green and October 1996 of Blue (exclusive to CoroCoro Comic)
 - North American release in September 1998 based on Japanese Blue
-- European release in October 1999 based on North American Red & Blue
+- European release in October 1999
 - Published by Nintendo
 - Developed by {{ page. developers }}
-{% include figure.html type="boxart" figcaption="The relationship between the Japanese and International versions is complicated and I’ll explain it in this article." %}
+
+{% include figure.html type="boxart" figcaption="Green Version?" %}
 
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-Before it became a perennial staple of popular culture, with its card games and anime series and yearly releases, *Pokémon* was a world filled with mysteries. Friends would trade Pokémon monsters using the Link Cable, but they would also trade legends, tall tales of dubious veracity, secret incantations of duplications and methods to find strange and forbidden monsters.
+Before it became a perennial staple of popular culture with its card games and anime series and yearly releases, *Pokémon* was a world filled with mysteries. Friends would trade Pokémon monsters using the Link Cable, but they would also trade legends, tall tales of dubious veracity, secret incantations of duplications and methods to find strange and forbidden monsters.
 
 That’s why, dear reader, I invite you to follow me starting on Route 1 throughout Kanto as I unveil the answer to the following mysteries:
 
@@ -40,7 +40,7 @@ Well, maybe that mystery about the amount of Pokémon is a bit dated, considerin
 
 Let’s forget all about those newer creations, and go back to a time when everybody was wondering if there would ever be another game and Pikablu had not yet captured our imaginations.
 
-# What secret game probably inspired Pokémon’s creator?
+## What secret game probably inspired Pokémon’s creator?
 {% include figure.html type="art-png" class="float right" %}
 First, though, let’s go even further back, to 1989, to reveal the answer to our first mystery. Tajiri Satoshi, *Pokémon*’s creator, had a very fruitful first encounter with the Game Boy. While people were immediately drawn to the screen of the portable device, Tajiri was inspired by a humbler element of the console; its Link Cable. He imagined little insects travelling along the wire, going from one Game Boy to the other. From this simple idea, *Pokémon* was born. At least that’s the myth, told time and time again by Satoshi to explain the genesis of his concept. 
 
@@ -48,7 +48,7 @@ I’m a bit skeptical of this perfect story, absent of any influence from other 
 
 I don’t want to diminish the accomplishments, especially since the monster trading is a novel idea worth all the praise it has gotten, but there is this tendency with developers, and Japanese developers in particular, to shy away from mentioning inspirations from other video games. All we can do is presume, which is what I’m doing here.
 
-# What Did Game Freak Publish Before Making Video Games?
+## What Did Game Freak Publish Before Making Video Games?
 
 Satoshi was a publisher of a fanzine focusing on arcade titles, which he worked on alongside Sugimori Ken, the artist drawing the fanzine’s art. Ken would later become the main artist for the game.
 
@@ -56,15 +56,15 @@ Satoshi was a publisher of a fanzine focusing on arcade titles, which he worked 
 
 I saw some original copies of their fanzine in a museum exhibit, and they were underwhelming. There’s no magical quality to them; they were low quality Japanese fanzines, made with a lot of love but still simply fanzines. Those little staples books are relevant because they birthed Game Freak and put Satoshi and Ken together, allowing them to later pivot to video game development.
 
-# Which Surprising Pokémon Was Born First?
+## Which Surprising Pokémon Was Born First?
 
 [The original concept for Capsule Monsters](https://bulbapedia.bulbagarden.net/wiki/Capsule_Monsters), which would become *Pocket Monsters* before release, used generic creatures that looked like dragons and dinosaurs. Amongst those dinosaur-looking creatures, one has been identified as the first Pokémon, the first creature that was imagined during this early concept and survived all the way to the release of the game.
 
-{% include figure.html type="art" figcaption="Hey look who's in the back of this very early sketch." %}
+{% include figure.html type="art" figcaption="Hey look who’s in the back of this very early sketch." %}
 
 Rhydon was the oldest design to end up in the final game. He is a very generic-looking dinosaur with a rhinoceros horn, so it makes a ton of sense that he is the oldest Pokémon, coming from the era where all the creatures were inspired by dinosaurs. More creative concepts like Electabuzz would come later.
 
-# What Horrible NES Game Funded the Development of Pokémon?
+## What Horrible NES Game Funded the Development of Pokémon?
 
 Once again I have to make a personal connection before I answer the question because I’m a raging narcissist. When the Super Nintendo came out, I didn’t have one. I had gotten a second-hand NES earlier in the year, so, of course, my mother was not about to start upgrading her six-year-old son with the latest and greatest. Since I was smitten with Yoshi and dreamed of nothing but riding him in *Super Mario World*, I asked my mom to buy me *Yoshi* for NES as a birthday gift, and when I started playing it this is what I saw. 
 
@@ -76,17 +76,17 @@ So what’s the Pokémon connection? Game Freak was cash poor during the early �
 
 Now I can sleep at night, knowing that I directly financed the development of Pokémon all the way back in 1992. Well, I guess my mom financed the development of *Pokémon*. Be sure to thank my mom if you see her.
 
-# Who Really Owns the Pokémon Franchise?
+## Who Really Owns the Pokémon Franchise?
 
 When *Pokémon Go* was initially released on iOS and became **the** global phenomenon in the summer of 2016, Nintendo’s stock in the Tokyo stock Exchange suddenly doubled. Nintendo, unfortunately, could not enjoy this sudden excitement for their stock. Because they knew that investors would cool when they learned that Nintendo is not the master of the Pokémon franchise. [They clarified their complicated relationship with Pokémon Go, and the stock went back down](https://time.com/4421450/pokemon-go-nintendo-shares-tokyo/). It’s obvious they were scared the stock would fall **harder** once the game was monetized and Nintendo would make no money from the game. You see, Nintendo didn’t make *Pokémon Go*, and they don’t even wholly own the Pokémon franchise. In fact, they do not receive direct revenue from *Pokémon*. What? Nintendo doesn’t outright own Pokémon? Then who does? Three companies do, with a fourth special case, and let’s go through each one.
 
-- Game Freak
+### Game Freak
 
 The OG gang, the company created by Tajiri Satoshi, Masuda Jun’ichi and Sugimori Ken to publish their fanzine that later transitioned to video game development. It is at this company that Tajiri created the whole Pokémon concept and it is still to this day the birthplace of any new concept or monster. No other developer or licensee can willy-nilly create a new Pokémon called Pikatwo; Game Freak is the sole place where new Pokémon are birthed. They have stayed a small developer, even though they’re the idea factory of the largest media franchise in the world. The small size is seemingly to foster creativity and maintain a high level of control. Whenever anybody complains that the graphics in a Pokémon game are terrible, their minuscule size is the reason. They simply do not have the manpower to rival the bigger studios inside Nintendo.
 
 Like I just mentioned, they’re the company responsible for the development of Pokémon games, but only what is usually called the core games; think *Pokémon Sun* or *Pokémon Legends: Arceus*. Altough that distinction is getting muddled, with the latest remakes, *Brilliant Diamond* and *Shining Pearl* being developed by ILCA, a relatively obscure Japanese developer. Quick aside, they obviously delegated those two remakes to ILCA to work as much as possible on *Pokémon Legends: Arceus*, a top to bottom reinvention of the game concept. With, once again, terrible graphics.
 
-- Nintendo
+### Nintendo
 
 Between the birth of the idea from the mind of Tajiri Satoshi and the release of the first game in 1996, Game Freak presented the project to Nintendo, and the company became its publisher. Nintendo also acquired a stake in the franchise itself. This is particular since a publisher does not necessarily own the intellectual property of the game it publishes: you can look at *Banjo-Kazooie* for example, initially published by Nintendo in the ’90s but now available on Microsoft consoles. This could happen because the company that made the game, Rare, did not sell the ownership of the copyright to Nintendo even though Nintendo owned a controlling stake in Rare; they instead collaborated on the development and distribution. If I had to hazard a guess as to why Nintendo bought a stake in the Pokémon franchise itself, I’d say it’s because Game Freak needed the money to finish the game. 
 
@@ -94,15 +94,15 @@ In direct terms, Nintendo shares the Pokémon copyright with the other three com
 
 To most people, everything related to Pokémon is made by Nintendo, when the truth is far more complicated. Nintendo’s not even the sole publisher of the Pokémon games on Nintendo’s own consoles. They share that role with the Pokémon Company that they also happen to co-own with the other companies with which it shares the Pokémon copyright. I told you it was complicated.
 
-- Creatures Inc.
+### Creatures Inc.
 
-Who is Creatures Inc. exactly? It makes a ton of sense that Game Freak and Nintendo share the franchise, but why is there a third company in the mix? According to Masuda Junichi, a co-founder of Game Freak and the current creative overseer for the games, they were the producers of the first game. This is strange since the producer of a game is usually a person working for the company making the game, not an outside company. Thinking about the situation, I don’t think they’ll ever admit it, but I think Creatures Inc. was brought in to help Tajiri finish the game. He couldn’t do it alone since he had never produced a game before: he was a fanzine writer. 
+Who is Creatures Inc. exactly? It makes a ton of sense that Game Freak and Nintendo share the franchise, but why is there a third company in the mix? According to Masuda Junichi, a co-founder of Game Freak and the current creative overseer for the games, they were the producers of the first game. This is strange since the producer of a game is usually a person working for the company making the game, not an outside company. Thinking about the situation, I don’t think they’ll ever admit it, but I think Creatures Inc. was brought in to help Tajiri finish the game. He couldn’t do it alone since he had never produced a game before: he was a fanzine writer.
 
 The history of Creatures Inc. also seems to confirm my thinking. Creatures Inc. is made-up of former employees of Ape Inc., who supported a visionary artist with no video game experience to produce a very personal RPG based on a fairy-tale version of our modern world. I’m, of course, not talking of *Pokémon* but of Itoi Shigesato and his game *Mother*, which we know in the West as *Earthbound Beginnings*. It turns out the employees of Creatures Inc. helped with the same job twice!
 
 Since they helped finish the first Pokémon game, their contract clearly gave them partial ownership of the franchise, and they went on to create the Pokémon trading card game (it wasn’t made by Wizards of the Coast, who simply localized it) and other elements of the franchise. Once again, if I had to guess as to why Creatures own a part of the franchise, it’s because Game Freak couldn’t pay them to help them, so they paid them with a franchise stake.
 
-- The Pokémon Company
+### The Pokémon Company
 
 Created by all three above companies to initially manage the *Pokémon Center* stores popping up in Japan in the early ’90s as The Pokémon Center Company, it quickly became the company managing the licensing of Pokémon. So if a toiletry company wants to put Pikachu on a towel, they call The Pokémon Company, not Nintendo. The question arises, though: why not let Nintendo manage the licensing?
 
@@ -112,7 +112,8 @@ So I don’t believe Nintendo was prepared to deal with Pokémon: they never man
 
 The Pokémon Company now even co-publishes the games on Nintendo consoles, and has become the sort of brand manager for Pokémon in its entirety, managing tournaments, products and announcements related to the franchise. So they have never stopped growing their importance as time went on. If one company is responsible for the management and mistakes made with the franchise now, it’s them.
 
-# Why Does the Game Have a Green Version in Japan?
+## Why Does the Game Have a Green Version in Japan?
+
 Upon its initial release in Japan, the two versions of the game were the red and green versions. Most people are aware of this regional difference in versions, since the remakes on Game Boy Advance feature those original colours, but I still feel compelled to explain it.
 
 When Pokémon was first released, one of its fascinating creations was the concept of the dual versions. To foster the trading of Pokémon between players, the game came in two flavours, green and red, with a specific subset of Pokémon unique to each game. This meant that to complete your Pokédex (that you had owned one copy of every creature) you had to trade with someone else. Someone with a different version. There isn’t an overwhelming list of Pokémon unique to each version, just a handful, but it taught everyone that Pokémon is about trading with other players.
@@ -121,7 +122,8 @@ As the Japanese in early 1996 were going crazy over those two initial versions, 
 
 We’ll talk about Yellow some other time.
 
-# Why Did It Take Two Years for the Game to Be Localized and Released in North America?
+## Why Did It Take Two Years for the Game to Be Localized and Released in North America?
+
 This one is easy to answer: *Dragon Quest*. Back in the days of the Famicom, *Dragon Quest* seduced the Japanese with its quirky reinvention of the role-playing game. By *Dragon Quest III*, the series was a societal phenomenon. Enix famously moved releases to Saturdays, to alleviate public concerns from some Diet legislators.
 
 *Pocket Monsters* was obviously going in the same direction in Japan. Everybody and their mother knew about the game, and anything related to the franchise was a guaranteed revenue windfall. But there was one major flaw with *Dragon Quest*: no one cared about it outside of Japan. It had its fans, but Nintendo was directly stung by its poor North American reception. They published the localization in North America and had such a sale dud that they had to give copies with Nintendo Power subscriptions to get rid of their unsold copies.
@@ -140,7 +142,7 @@ So Nintendo, Game Freak and Creatures wisely prepared something special for the 
 
 It took them a while to arrive at this plan, and required a lot of effort to implement. History vindicated their patience.
 
-# How Did *Pokémon* Teach Me About the Idiosyncratic Québec Media Landscape?
+## How Did Pokémon Teach Me About the Idiosyncratic Québec Media Landscape?
 
 I was 10 in 1996 when *Pocket Monsters* was released in Japan. I was still playing with my Game Boy, even though it felt like the rest of the world had moved on. Games were still available, but the recent releases left me unimpressed. I focused my attention on playing older releases whenever I could.
 
@@ -164,8 +166,7 @@ Pokémon is simply the biggest media franchise ever, and it’s as relevant now 
 
 *Super Smash Bros.* came out in April of 1999 and I bought it as soon as possible with my hard-earned paperboy money. *Super Smash Bros.* obviously features Pikachu, and even Jigglypuff, as playable characters. There’s a stage from the franchise as well, and you can even use Pokéballs. I immediately got very curious once I started playing. There’s a yellow electric rat constantly screaming his own name that’s given as much reverence as gaming Jesus, our lord and stomper, Mario. What was the deal with that? So I remembered all those rumblings about the pocket monster game, and figured that the game must be this Pokémon thing I was seeing in Smash. When I looked at the Works section in Pikachu’s character sheet, his single released game was there.
 
-{% include figure.html type="pixel" figcaption="That’s how old I am kids. I learned that Pokémon was released from the *Super Smash Bros.* character biographies.
-" %}
+{% include figure.html type="pixel" figcaption="That’s how old I am kids. I learned that Pokémon was released from the *Super Smash Bros.* character biographies." %}
 
 I finally ended up seeing both the Red and Blue games at my local Zellers. How could I miss the media onslaught of *Pokémon* and being surprised at the presence of Pikachu in *Super Smash Bros.*?
 
@@ -179,11 +180,11 @@ But the overwhelming majority of video games were not translated at the time (pu
 
 As a final aside, the situation has changed considerably in recent times; I vividly remember being astonished in 2006 that the show *Lost* was broadcast in French on Radio-Canada only six weeks after the original version had aired on ABC in the US. Nowadays, the lead time for dubbed versions has reduced even further. The greatest example is *Game of Thrones*, which was available in 170 countries on the same day during its last few seasons. On the other hand, most broadcast (ie. non-streaming) media still has some lead time before the release of its dub in Québec and other international markets. Depending on the property, the French dub might be used, without a proper local Québec dub. 
 
-So why am I telling you all this? [Because the *Pokémon* anime arrived in Québec only in the fall of 1999, one year after the game's release in 1998.](https://groups.google.com/g/fr.rec.anime/c/c2DdoMma9Z0). I missed the media onslaught because there was no media onslaught. North America is not like Europe, where companies will coordinate multiple localization when releasing there. North America back then meant a strictly English release, with local Québec broadcasters left to fend for themselves. In the case of Pokémon, the translators waited a year to use the scripts from France, but dubbed the anime with Québec voice artists, using the English Pokémon name but the localized town and location names used in France. I think this is in large part because the game was only available in English in Québec; we were already familiar with names like Jynx, so French names like Lippoutou were deemed innapropriate.
+So why am I telling you all this? [Because the *Pokémon* anime arrived in Québec only in the fall of 1999, one year after the game’s release in 1998.](https://groups.google.com/g/fr.rec.anime/c/c2DdoMma9Z0). I missed the media onslaught because there was no media onslaught. North America is not like Europe, where companies will coordinate multiple localization when releasing there. North America back then meant a strictly English release, with local Québec broadcasters left to fend for themselves. In the case of Pokémon, the translators waited a year to use the scripts from France, but dubbed the anime with Québec voice artists, using the English Pokémon name but the localized town and location names used in France. I think this is in large part because the game was only available in English in Québec; we were already familiar with names like Jynx, so French names like Lippoutou were deemed innapropriate.
 
 This made Québec the only region in the world to use the English Pokémon name in another language. Nowadays Québec has lost its local dub; the dub from France is unfortunately used, meaning that Québec is also the only region in the world where the names of the creatures suddenly changed! Lippoutou is now *de rigueur*.
 
-# Are There More Than 150 Pokémon?
+## Are There More Than 150 Pokémon?
 
 Of course there have been more than 150 Pokémon for a long time, but were there more than the 150 Pokémon upon the initial release? And maybe more importantly, why does it even matter? It matters because there was indeed a hidden Pokémon, only accessible through special events or outright cheating. This created an aura of mystery around the game. Since the original Pokémon is also riddled with bugs, causing all sorts of glitches to occur, players started seeing all sort of weird things they falsely prescribed to intended secret monsters.
 
@@ -193,7 +194,7 @@ Mixing into this desire for the real hidden monster, the game was riddled with b
 
 A year after the game’s release, idle theories and useful glitches, like the candy duplication trick, were already widely shared amongst players, even in the depths of Lac-Saint-Jean. 
 
-# Is the Game Any Good?
+## Is the Game Any Good?
 
 You’ve always had to bring your own fun into a *Pokémon* title. No hand-holding can change the fact that the core games have always been about deciding on your own what’s fun for you. Do you want to create an unbeatable team? What about playing through the story with a team of six Jigglypuff? Maybe you’re interested in collecting every monster? Perhaps your interest lies in the thrill of competing against your friends? Or maybe trading with your friends? *Pokémon* really shines when you can define an objective for yourself. I have only experienced *Pokémon* as a solo endeavour, with the goal of completing the game, since no one cared about it when I picked it up to help me spice things up. So it was kind of boring for me. Once the Pokémon anime hit the Québec airwaves, and a group of kids at school played the game during lunch, I had moved on.
 
@@ -203,7 +204,7 @@ If you pick it up in 2022, you’ll have a tough task ahead of you; you’ll hav
 
 If you can get past the disrespect that game has for your time, which is a tough pill to swallow, you’ll find a quirky fun RPG with a wicked concept: no creature in the game is only an enemy. You can ultimately train and befriend your own Muk, or Lapras, or Zapdos. You can then use those monsters to trade and battle with your friends, using the connectivity afforded by the link cable. When it released, multiplayer experiences were far more niche than they are today. Online multiplayer, with services like Battle.net, were embryonic and riddled with issues and massively multiplayer online games were the purview of the committed few. Notwithstanding these advances which were all on the PC, the multiplayer concept was unique. No other game offered the ability to trade creatures with your friends. Heck, even nowadays the concept is unique, with nary a serious competitor to Game Freak in sight.
 
-# Conclusion
+## Conclusion
 
 Only on Game Boy could Pokémon become such a large hit. The confluence of a large installed base with the ubiquity of the link cable made the gigantic hit a possibility. No other video game platform was as perfectly positioned to deliver the biggest media franchise in the world. That is what makes discussing everything around *Pokémon* interesting for me. I don’t believe for one second that Pokémon could have happened on Super Famicom or any other console. The core idea of trading monsters with friends would have needed a technological solution that Game Freak was incapable of developing, since they were such a small studio. After 7 years of Game Boy, *Pokémon* finally fulfilled the possibilities of the link cable. It was suddenly cool that portable consoles offered device-to-device multiplayer. Even today, the Switch is capable of playing a local game and trading monsters with another Switch next to it, without any online connectivity. You can’t do that with two PlayStations or two Xboxes.
 
