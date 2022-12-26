@@ -2,4 +2,5 @@
 host: localhost
 url: ""
 baseurl: ""
-destination: "/Users/plgagne/Game Boy Essentials/website-serve"
+destination: "_site-serve"
+exclude: [/_site-serve]

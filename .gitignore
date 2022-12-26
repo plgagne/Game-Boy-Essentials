@@ -41,5 +41,3 @@ Thumbs.db
 .nova/
 .jekyll-cache/
 .jekyll-metadata
-website/
-website-serve/

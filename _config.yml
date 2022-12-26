@@ -1,15 +1,14 @@
 # Site Settings
 title: "Game Boy Essentials"
+domain: "gameboyessentials.com"
 url: "https://gameboyessentials.com"
-baseurl: ""
+baseurl: "/website"
 email: "pl@gameboyessentials.com"
 twitter: "@supergbe"
 icon-512: "/apple-touch-icon.png"
 description: "A project to review and talk about the essential games you must play on Game Boy to understand its appeal and its success. Not only the best games for the system, but also the bad games that enlighten the legacy of the most popular video game console of the 1990s."
-source: "/Users/plgagne/Game Boy Essentials"
-destination: "/Users/plgagne/Game Boy Essentials/website"
-exclude: [/website, /website-serve]
-incremental: true
+exclude: [/drafts, /_site-serve]
+incremental: false
 
 ## Use of Collections for my articles
 collections:
