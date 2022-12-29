@@ -2,5 +2,5 @@
 host: localhost
 url: ""
 baseurl: ""
-destination: "_site-serve"
-exclude: [/_site-serve]
+destination: "_site-local"
+exclude: [/_site-local]
