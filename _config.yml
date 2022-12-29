@@ -7,7 +7,7 @@ email: "pl@gameboyessentials.com"
 twitter: "@supergbe"
 icon-512: "/apple-touch-icon.png"
 description: "A project to review and talk about the essential games you must play on Game Boy to understand its appeal and its success. Not only the best games for the system, but also the bad games that enlighten the legacy of the most popular video game console of the 1990s."
-exclude: [/drafts, /_site-serve]
+exclude: [/drafts, /_tags, /_site-local]
 incremental: false
 
 ## Use of Collections for my articles
@@ -18,6 +18,9 @@ collections:
   folio:
     output: true
     permalink: /:title/
+  tags:
+    output: true
+    permalink: tag/:title/
 defaults:
   -
     scope:
@@ -32,6 +35,12 @@ defaults:
     values:
       layout: article
       article: true
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tags
 
 ## Markdown
 markdown: kramdown
