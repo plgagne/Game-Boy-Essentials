@@ -9,6 +9,7 @@ release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"
 publication: "2017-05-27"
+tags: [book2]
 developers: "Biox"
 ---
 # {{ page.title }}

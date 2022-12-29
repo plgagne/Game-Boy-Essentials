@@ -9,6 +9,7 @@ release-date: "1991-01-01"
 release-year: "1991"
 release-month: "01"
 publication: "2017-06-30"
+tags: [book2]
 developers: "Konami"
 ---
 # {{ page.title }}

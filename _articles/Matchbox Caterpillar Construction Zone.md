@@ -9,6 +9,7 @@ release-date: "2000-01-01"
 release-year: "2000"
 release-month: "01"
 publication: "2017-01-21"
+tags: [book2]
 developers: "Realtime Associates"
 ---
 # {{ page.title }}

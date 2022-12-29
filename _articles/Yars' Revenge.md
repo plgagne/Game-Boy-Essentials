@@ -9,6 +9,7 @@ release-date: "1999-09-01"
 release-year: "1999"
 release-month: "09"
 publication: "2016-01-07"
+tags: [book1]
 developers: "Telegames"
 ---
 # {{ page.title }}

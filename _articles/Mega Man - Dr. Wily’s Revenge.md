@@ -9,6 +9,7 @@ release-date: "1991-07-01"
 release-year: "1991"
 release-month: "07"
 publication: "2016-02-01"
+tags: [book1]
 developers: "Capcom and Minakuchi Engineering"
 ---
 # {{ page.title }}

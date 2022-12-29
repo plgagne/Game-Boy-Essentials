@@ -9,6 +9,7 @@ release-date: "1989-09-01"
 release-year: "1989"
 release-month: "09"
 publication: "2017-02-27"
+tags: [book2]
 developers: "Kemco"
 ---
 # {{ page.title }}

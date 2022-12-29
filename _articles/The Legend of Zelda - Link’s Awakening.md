@@ -9,6 +9,7 @@ release-date: "1993-06-01"
 release-year: "1993"
 release-month: "06"
 publication: "2016-07-03"
+tags: [book1]
 developers: "Nintendo EAD"
 ---
 # {{ page.title }}

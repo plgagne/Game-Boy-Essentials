@@ -9,6 +9,7 @@ release-date: "1995-03-01"
 release-year: "1995"
 release-month: "03"
 publication: "2017-10-16"
+tags: [book2]
 developers: "Jupiter"
 ---
 # {{ page.title }}

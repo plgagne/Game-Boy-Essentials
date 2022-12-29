@@ -6,6 +6,7 @@ release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"
 publication: "2020-09-03"
+tags: [book3]
 developers: "Nintendo & TOSE"
 ---
 # {{ page.title }}

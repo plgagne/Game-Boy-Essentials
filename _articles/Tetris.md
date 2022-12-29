@@ -9,6 +9,7 @@ release-date: "1989-06-01"
 release-year: "1989"
 release-month: "06"
 publication: "2015-12-09"
+tags: [book1]
 developers: "Nintendo R&D1 & Bullet-Proof Software"
 ---
 # {{ page.title }}

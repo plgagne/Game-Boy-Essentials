@@ -6,6 +6,7 @@ release-date: "1996-07-21"
 release-year: "1996"
 release-month: "07"
 publication: "2022-08-11"
+tags: [book3]
 developers: "Nintendo EAD & Pax Softnica"
 ---
 # {{ page.title }}

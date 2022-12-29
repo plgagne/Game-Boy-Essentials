@@ -6,6 +6,7 @@ release-date: "2000-12-08"
 release-year: "2000"
 release-month: "12"
 publication: "2021-07-05"
+tags: [book3]
 developers: "Enix & TOSE"
 ---
 # {{ page.title }}

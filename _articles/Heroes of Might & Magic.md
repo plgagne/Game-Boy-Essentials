@@ -9,6 +9,7 @@ release-date: "2000-04-01"
 release-year: "2000"
 release-month: "04"
 publication: "2015-12-10"
+tags: [book1]
 developers: "KnowWonder"
 ---
 # {{ page.title }}

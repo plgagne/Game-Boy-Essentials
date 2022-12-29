@@ -6,6 +6,7 @@ release-date: "1992-04-27"
 release-year: "1992"
 release-month: "04"
 publication: "2022-11-28"
+tags: [book3]
 developers: "HAL Laboratory"
 ---
 # {{ page.title }}

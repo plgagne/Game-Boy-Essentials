@@ -6,6 +6,7 @@ release-date: "1998-02-21"
 release-year: "1998"
 release-month: "02"
 publication: "2022-12-22"
+tags: [book4]
 developers: "Nintendo"
 ---
 # {{ page.title }}

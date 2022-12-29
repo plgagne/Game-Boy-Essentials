@@ -9,6 +9,7 @@ release-date: "1995-06-01"
 release-year: "1995"
 release-month: "06"
 publication: "2015-12-15"
+tags: [book1]
 developers: "Rare"
 ---
 # {{ page.title }}

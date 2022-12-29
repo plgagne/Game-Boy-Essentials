@@ -9,6 +9,7 @@ release-date: "1989-09-01"
 release-year: "1989"
 release-month: "09"
 publication: "2016-11-30"
+tags: [book1]
 developers: "SquareSoft"
 ---
 # {{ page.title }}

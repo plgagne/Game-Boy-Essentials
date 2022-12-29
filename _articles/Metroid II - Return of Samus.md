@@ -9,6 +9,7 @@ release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"
 publication: "2019-03-11"
+tags: [book2]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}

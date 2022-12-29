@@ -9,6 +9,7 @@ release-date: "2001-02-01"
 release-year: "2001"
 release-month: "02"
 publication: "2018-02-21"
+tags: [book2]
 developers: "Tiertex Design Studios"
 ---
 # {{ page.title }}

@@ -6,6 +6,7 @@ release-date: "1992-07-01"
 release-year: "1992"
 release-month: "07"
 publication: "2021-01-16"
+tags: [book3]
 developers: "Pax Softnica & Nintendo EAD"
 ---
 # {{ page.title }}
