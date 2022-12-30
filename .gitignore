@@ -41,5 +41,5 @@ Thumbs.db
 .nova/
 .jekyll-cache/
 .jekyll-metadata
-._site/
-._site-local/
+_site/
+_site-local/
