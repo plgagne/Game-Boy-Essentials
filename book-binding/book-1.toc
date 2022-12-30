@@ -1,0 +1,14 @@
+\contentsline {chapter}{Introduction}{5}{}%
+\contentsline {chapter}{Tetris}{9}{}%
+\contentsline {chapter}{Heroes of Might \& Magic}{17}{}%
+\contentsline {chapter}{Donkey Kong Land}{23}{}%
+\contentsline {chapter}{Yars’ Revenge}{35}{}%
+\contentsline {chapter}{Mega Man: Dr. Wily’s Revenge}{45}{}%
+\contentsline {chapter}{Super Mario Land}{55}{}%
+\contentsline {chapter}{Final Fantasy Adventure}{69}{}%
+\contentsline {chapter}{The Legend of Zelda: Link’s Awakening}{81}{}%
+\contentsline {chapter}{Heroes of Might \& Magic II}{97}{}%
+\contentsline {chapter}{Solar Striker}{105}{}%
+\contentsline {chapter}{Nemesis}{113}{}%
+\contentsline {chapter}{The Final Fantasy Legend}{123}{}%
+\contentsfinish 
