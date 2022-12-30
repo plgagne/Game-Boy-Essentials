@@ -39,7 +39,7 @@ They made the main characters of both titles (a motocross and a spaceship) small
 
 You can choose your difficulty level, switch your controls and select which of the five levels you want to start on. This annihilates any expectation of finishing the game in one sitting. You can clear a level and continue the game, or explore the levels at your own discretion. You even decide how many lives you want. You can give yourself 99 lives! They took a very relaxed attitude and just gave players everything they could to enjoy the game they built. I think they knew that if they gave you the bog standard *2 lives and 2 continues* type of experience it would have been maladjusted on Game Boy. This select screen is a really small thing that completely changes how you experience *Nemesis*. They could have put in a save battery and a continue option to achieve a similar effect but with this select screen, it wasn’t necessary to put expensive battery hardware into an early title for a system of unknown appeal. They did much better than Nintendo with its own *[Solar Striker](/articles/dmg-ss)*, with its three life and you’re out.
 
-## The Upgrade Loop *et al.*
+## The Upgrade Loop
 
 Disclaimer: I’m peculiar about shooters. I’m a *Ikaruga* fan because I don’t like when one mistake costs you all of your upgrades and you have to start from scratch having a much harder time in the process. *Ikaruga* has no upgrades and thus does not punish you for dying, it punishes you in other more interesting ways.
 

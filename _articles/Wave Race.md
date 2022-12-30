@@ -57,4 +57,4 @@ Until the reorganization of Nintendo divisions in 2003, Miyamoto was in the tren
 
 With *Wave Race*, we have this artifact from a time where Nintendo’s most important executive wasn’t supervising the whole company’s output, and had to design a small game for a console he didn’t help to design. What an interesting legacy for such a low-key game.
 
-{% include figure.html type="art" figcaption="Sold in the United Kingdom, this set included a Game Boy Pocket and two games, *Wave Race* and *Metroid II: Return of Samus*." %}
+{% include figure.html type="art" figcaption="Sold in the United Kingdom, this set included a Game Boy Pocket and two games, *Wave Race* and *Metroid II: Return of Samus*." %}

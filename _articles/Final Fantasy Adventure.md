@@ -89,7 +89,7 @@ Since the ball and chain weapon is a mattock but in weapon form, I guess the dev
 
 There is another exploration puzzle in the game too convoluted to figure out easily. You have to get an item from a specific enemy type. Interestingly, this enemy can be found later in the game still giving the same item, now useless: clear carelessness from the developers. You give the item to a kid who then tells you a secret message: Palm trees and 8. You *then* have to figure out on your own that you have to find two palm trees among the hundreds of palm trees on the map in that section of the game and do a figure eight around them. This then opens up the dungeon you need to get into. It was *way* too obtuse for my young mind. When I was a kid I got stuck on that section for **months**.
 
-Speaking of enemies that reappear, some enemies are present for the whole game and end up hitting you for the very anticlimactic 1 damage but other enemies can one-hit you. Without an autosave system, this is exasperating. You have to be careful and save often.
+Speaking of enemies that reappear, some enemies are present for the whole game and end up hitting you for the very anticlimactic one point of damage but other enemies can one-hit you. Without an autosave system, this is exasperating. You have to be careful and save often.
 
 Finally, the game has a map system in dungeons that shows rooms you previously explored. Unfortunately, that system is reset every time you shut down your Game Boy, obviously not saving that data and strictly keeping it in RAM. It’s a shame and forces you to finish a dungeon in one sitting if you don’t want to get lost or if you want to explore everything without missing anything.
 

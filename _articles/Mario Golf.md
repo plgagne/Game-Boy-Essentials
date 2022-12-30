@@ -20,7 +20,7 @@ developers: "Camelot Software Planning & Nintendo"
 - Published by Nintendo
 - Developed by Camelot Software Planning & Nintendo
 
-{% include figure.html type="boxart" figcaption="It’s hard to read, but the text at the bottom says *For all players hoping to touch the true entertainment*. A wonderful nonsensical Japanese word-salad of English words. I love it!" %}
+{% include figure.html type="boxart" figcaption="It’s hard to read, but the text at the bottom says *For all players hoping to touch the true entertainment*. A wonderful nonsensical Japanese word salad of English words. I love it!" %}
 
 ## {{ page.description }}
 
@@ -29,7 +29,7 @@ Sometimes, it doesn’t take much to push a genre in an exciting new direction. 
 
 ## Modern Concessions
 
-*Mario Golf* is just a good game of old-fashioned golf with an RPG of sorts added in. I’m well aware that this might sound totally mundane. Today, RPG mechanics are everywhere. *Mario Golf* eschews this modern way those mechanics are used everywhere and simply wraps its package in the tropes of a classic Japanese RPG, implementing one the same way games in the 90s did. It directs your experience and gives you incentives to keep playing.
+*Mario Golf* is just a good game of old-fashioned golf with an RPG of sorts added in. I’m well aware that this might sound totally mundane. Today, RPG mechanics are everywhere. *Mario Golf* eschews this modern way those mechanics are used everywhere and simply wraps its package in the tropes of a classic Japanese RPG, implementing one the same way games in the ’90s did. It directs your experience and gives you incentives to keep playing.
 
 The contrast of what adding RPG mechanics to a game concept meant in 1999 versus what it means in 2018 is galling. They’re so ubiquitous we don’t even call them RPG mechanics anymore. They’re called unlockables, or a progression system or something else. And even if those mechanics don’t always affect the underlying number-crunching of the game, they often change your appearance or unlock stuff and they’re often used to nickel-and-dime players. Modern games will use old-fashioned RPG mechanics, but they’ll limit player progression in nefarious ways. This is meant to frustrate the player enough that it makes sense for them to buy shortcuts to rewards **with real money**, or turn to straight-up gambling inside those games to receive rewards. Not every game is guilty of it; a game like *Luigi’s Mansion: Dark Moon* is using the patterns of an RPG just like *Mario Golf* did. Game developers have used the frustrating parts of an RPG, namely slow progression and frustrating gates with specific requirements to get players to spend money to bypass them. We’re living in a bizarro world where only the bad design in *Dragon Quest* is copied! This makes me sick to my stomach. *Mario Golf* is such a nice respite from this insidious coopting of our natural addiction to filling up progress bars that it might as well have come from another planet, a planet where they also have golf and Mario.
 

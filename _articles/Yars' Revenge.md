@@ -28,7 +28,7 @@ I love sitting down on the couch, taking out my binders full of Game Boy cartrid
 
 ## 128 Bytes of Fun
 
-*Yars’ Revenge* is the adaptation of an Atari VCS game released in 1982. Today, what is colloquially called the Atari is usually referred to as the Atari 2600. This is a second name given to the system in 1982 when its successor, the Atari 5200, was released. I personally prefer and use the original 70s name: Atari Video Computer System. So nondescript.
+*Yars’ Revenge* is the adaptation of an Atari VCS game released in 1982. Today, what is colloquially called the Atari is usually referred to as the Atari 2600. This is a second name given to the system in 1982 when its successor, the Atari 5200, was released. I personally prefer and use the original ’70s name: Atari Video Computer System. So nondescript.
 
 On Game Boy Essentials, we talk about old games; *Yars’ Revenge* is **old** old. So old, the original *Yars’ Revenge* came out in what is usually called the *golden age* of video game development. Why? Games were completely made by one person, working alone with next to no supervision. *Yars’* was literally made by one man; an employee of Atari, [Howard Scott Warshaw](https://en.wikipedia.org/wiki/Howard_Scott_Warshaw). Warshaw made three games and three games only: *Yars’ Revenge*, *Raiders of the Lost Ark* and *E.T. the Extraterrestrial*. I know of no other programmer who can say they coded three games all on their own ([Warshaw got artwork help for *E.T.* though](http://www.polygon.com/2015/3/9/8163747/yars-revenge-is-a-journey-back-to-a-lost-world-of-video-games) but I think we can forgive him for that one) and they all sold more than a million copies. I’d say he quit while he was ahead but his last game is *E.T.* so, you know.
 
