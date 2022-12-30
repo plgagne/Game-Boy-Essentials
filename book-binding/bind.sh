@@ -1,8 +1,8 @@
 #!/bin/zsh
 # This variable is the first volume to be bound
-volume=1
+volume=2
 # This variable is one above the last volume to be bound
-last_volume=4
+last_volume=3
 cd book-binding
 # Make temp 
 mkdir "temp"
