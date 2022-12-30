@@ -36,10 +36,17 @@
 ehthumbs.db
 Thumbs.db
 
-# Jekyll & Nova #
+# Nova #
 ######################
 .nova/
+
+# Jekyll & Nova #
+######################
 .jekyll-cache/
 .jekyll-metadata
 _site/
 _site-local/
+
+# Book Binding #
+######################
+book-binding/temp/
