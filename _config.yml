@@ -2,7 +2,7 @@
 title: "Game Boy Essentials"
 domain: "gameboyessentials.com"
 url: "https://gameboyessentials.com"
-baseurl: "/website"
+baseurl: ""
 email: "pl@gameboyessentials.com"
 twitter: "@supergbe"
 icon-512: "/apple-touch-icon.png"
@@ -55,3 +55,7 @@ sass:
 plugins:
   - jekyll-redirect-from
   - jekyll-image-size
+  
+## Redirect-From
+redirect_from:
+  json: false
