@@ -45,11 +45,11 @@ The best part of the whole idea is they’re useable in multiplayer matches. So 
 
 {% include figure.html type="gb" %}
 
-You also need to trade your wizards if you want a full set, since you cannot acquire all the different wizards with one cartridge. The trading happens over IR, just like with the armies. I have to say, this whole IR thing is bugging me. Since the Game Boy Advance did not have this IR port, it makes it awkward to test features when you only have Game Boy Advance systems (I happen to only own one Game Boy Color at the moment). Not a fault of the game, but an unfortunate problem for this Game Boy Advance SP hoarder.
+You also need to trade your wizards if you want a full set, since you cannot acquire all the different wizards with one cartridge. The trading happens over IR, just like with the armies. I have to say, this whole IR thing is bugging me. Since the Game Boy Advance did not have this IR port, it makes it awkward to test features when you only have Game Boy Advance systems (I happen to only own one Game Boy Color at the moment). Not a fault of the game, but an unfortunate problem for me, since I’m a Game Boy Advance SP hoarder.
 
 ## Learning About the Game
 
-I have loved *Warlocked* from the word go. While all my friends had moved on from the Game Boy after the craze of the first *Pokémon* game, I stayed invested in buying and playing Game Boy titles. I had always been there, really. Between 1990 and 2001, I never stopped procuring Game Boy games. By the late ’90s, I was visiting the few websites I knew who covered Game Boy releases. The one website I can remember is IGN, who seemed to have assigned one person to cover the Game Boy: Craig Harris. I can remember connecting to free ISP Juno using a bugged version of its software that meant I never saw its intrusive ads (that’s a hell of a story for another time), and going on IGN to see if they had any Game Boy related news. From the first moment I heard about *Warlocked*, I knew I had to buy that game. I hoped that my local Zellers, my only source of Game Boy games, would stock the game when it was released.
+I have loved *Warlocked* from the word go. While all my friends had moved on from the Game Boy after the craze of the first *Pokémon* game, I stayed invested in buying and playing Game Boy titles. I had always been there, really. Between 1990 and 2001, I never stopped procuring Game Boy games. By the late ’90s, I was visiting the few websites I knew who covered Game Boy releases. One website I remember is IGN, who seemed to have assigned one person to cover the Game Boy: Craig Harris. I would connect to free ISP Juno using a bugged version of its software that meant I never saw its intrusive ads (that’s a hell of a story for another time), and going on IGN to see if they had any Game Boy related news. From the first moment I heard about *Warlocked*, I knew I had to buy that game. I hoped that my local Zellers, my only source of Game Boy games, would stock the game when it was released.
 
 IGN has slowly devolved to the point of inanity, but it still has articles from its heyday available if you use an external search engine to find them. I found [two](https://www.ign.com/articles/2000/01/14/game-boy-in-2000) [pages](https://www.ign.com/games/warlocked) from 2000 mentioning *Warlocked*. Rereading those articles on IGN raises many questions about the development of the game. Why don’t I ask some of the developers?
 
@@ -57,9 +57,9 @@ IGN has slowly devolved to the point of inanity, but it still has articles from 
 
 > Looking to be original on the platform is inspiring, knowing you’re breaking new ground as a developer is a key motivation, and drives you to do the hard work necessary to achieve something unique. I don’t think anyone else attempted to do what we did, the game was one of its own on the platform.
 >
->— Dylan Beale, producer
+>— Dylan Beale, producer of *Warlocked*
 
-I gathered enough courage to reach out to Dylan Beale, the producer of the game originally from Bits Studios, to answer some of my questions. Even though we are in the midst of a pandemic unlike anything modern society has never seen, he found the time to patiently answer my questions. I feel so elated to have talked to the producer of one of my favourite games. He even, without me ever asking, roped in Steve Clark, the programmer of the game to answer my questions too.
+I gathered enough courage to reach out to Dylan Beale, the producer of the game originally from Bits Studios, to answer some of my questions. Even though we are in the midst of a pandemic unlike anything modern society has ever seen, he found the time to patiently answer my questions. I feel so elated to have talked to the producer of one of my favourite games. He even, without me ever asking, roped in Steve Clark, the programmer of the game to answer my questions too.
 
 I was curious about how they had the idea to make an RTS on Game Boy Color. I asked Dylan Beale how the idea for the game came about:
 
@@ -79,19 +79,19 @@ The problem he’s talking about his fatal to an RTS on Game Boy Color. The syst
 
 {% include figure.html type="gb" %}
 
-Since every unit in *Warlocked* is made of a grid of two sprites by two sprites, it would mean that you couldn’t display more than five units in a row. But the game is able to display five units in a row nonetheless. How is it possible? This is where Martin Wheeler’s idea comes into play. Whenever characters are immobile, they are turned into background tiles. They move from an element that can move freely around the screen to a part of the scenery. You would not be able to see this, since there is no visual difference between a sprite and a tile. The switch from one state to the other is invisible. Your units are incapable of moving separately from the background, but that’s not a problem. That’s exactly what you want anyway.
+Since every unit in *Warlocked* is made of a grid of two sprites by two sprites, it would mean that you couldn’t display more than five units in a row. But the game is able to display five units in a row nonetheless. How is it possible? This is where Martin Wheeler’s idea comes into play. Whenever characters are immobile, they are turned into background tiles. They transform from an element that can move freely around the screen to a part of the scenery. You would not be able to see this, since there is no visual difference between a sprite and a tile. The switch from one state to the other is invisible. Your units are intrinsically connected to the background, but that’s not a problem. That’s exactly what you want anyway. You’ve ordered to stand still.
 
 {% include figure.html type="gb" figcaption="You can see that when units are moving, and are therefore not tiles, you can hit the sprite limit. Here, the limit is broken and the game stops displaying the bottom half of one unit. Other games might choose to flicker the sprites. Programmers decide exactly what happens when you reach the sprite limit." %}
 
 ## Making a Game Boy Color title
 
-I’ve often wondered how much time a Game Boy title took to make (I guesstimate an average of six months), so I asked both of the guys what they experienced.
+I’ve often wondered how much time a Game Boy title took to make (I guesstimate at least six months), so I asked both of the guys what they experienced.
 
 >Steve: All told the game took a little over a year from start to finish. My projects were quite varied even then, so there was no typical length as such.
 
 >Dylan: Wow, it was a long time ago. It took longer than *R-Type DX*, but that was a port, although quite a challenging one. Creating a unique IP always requires more time, and *Warlocked* was technically challenging with its AI pathing and having many units on the screen. We would have been driven to finish by the budget, and often having a strict timeline pushes you to make creative and technical decisions, so as a function it’s positive. What the budget did do was make the team work **very** hard to get it out!
 
-Their answers are very valuable. They had budgeted for a year, and that was that, because that’s what the project needed and could afford. I don’t think many Game Boy Color titles would have a very different experience from theirs, since the Game Boy was well suited for straightforward development from the very beginning. But Dylan mentioned the challenges of bringing an RTS to Game Boy, and he gave me more insights.
+Their answers are very valuable. They had budgeted for a year, and that was that, because that’s what the project needed and could afford. I don’t think many Game Boy Color titles would have a very different experience from theirs, since the Game Boy was well suited to straightforward development. Dylan mentioned the challenges of bringing an RTS to Game Boy, and he gave me more insights.
 
 > Dylan: The hardest programming challenges were getting the game running speedily enough, trying to ensure the AI (whether in terms of pathfinding or defending a unit’s own position) was capable enough, and, of course, multiplayer.
 
@@ -101,10 +101,10 @@ So Dylan mentions several specific issues that he faced while developing the gam
 
 {% include figure.html type="gb" %}
 
-I’ve talked about this before and I’ll mention it again: the Game Boy cannot do convincing AI. It just doesn’t have enough RAM and CPU speed to achieve complex enemy behaviours in real time. *Warlocked* met the same fate: as Dylan clearly says, the AI had to be simplistic for the game to exist. In fact, the enemy AI has two behaviours:
+I’ve talked about this before and I’ll mention it again: the Game Boy cannot do convincing AI. It just doesn’t have enough RAM and CPU speed to achieve complex enemy behaviours in real time. *Warlocked* met the same fate: as Dylan clearly says, the AI had to be simplistic for the game to exist. In fact, the enemy AI has only two behaviours:
 
 - **Attacking when detecting your units**: When you move units within a certain range of enemy units, they will react by making a beeline to the unit who first made range and attack it.
-- **Spawning units and heading towards your keep**: When you have been detected by specific enemy units, the pre-placed enemy barracks will start spawning units at a set rate and send them towards your keep. If they encounter one of your units or buildings, the first behaviour will trigger. Those enemy barracks are always placed in a simple path from your keep, so the path-finding is never a problem. Speaking of pathfinding:
+- **Spawning units and heading towards your keep**: When you have been detected by specific enemy units, the pre-placed enemy barracks will start spawning units at a set rate and send them towards your keep. If they encounter one of your units or buildings, the first behaviour mentioned above will trigger. Those enemy barracks are always placed in a simple path from your keep, so the path-finding is never a problem. Speaking of pathfinding:
  
 > The pathfinding was the single biggest issue in the whole game. There are many ways to program pathfinding, but they mostly rely on both a good amount of memory to determine the best route and a fast processor to cope with the computations. The Game Boy Color’s processor simply couldn’t handle some of the best algorithms for multiple units, and so a *best attempt* system was used. Although far from perfect, it does manage to navigate itself away from a number of tricky situations, and allows units to move and act as a group with some success.
 
@@ -134,7 +134,7 @@ Let’s quickly address the game’s user interface. The game has a small black 
 
 {% include figure.html type="art" %}
 
-The game’s controls are fascinating. The game manages to squeeze all the barebones RTS controls into a D-Pad and four buttons. It even manages to have some surprising features: guarding another unit or building and two unit control groups.
+The game’s controls are fascinating. The game manages to squeeze all the barebones RTS controls into a D-Pad and four buttons. It even manages to have some surprising features: guarding another unit, ordering the construction of buildings, and even unit control groups.
 
 The controls start and end with the cursor. Managing to move it is unfortunately the clunkiest part of the interface; a mouse is much better for this purpose, but all we have is the D-Pad. You eventually learn to get by, particularly if you learn to hold the B button to speed up your cursor speed.
 
@@ -148,7 +148,7 @@ That’s the minimum amount of control systems you need for an RTS. *Dune 2*, t
 
 {% include figure.html type="pixel" %}
 
-However, the unit selection comes with some caveats. There is no visual cue surrounding your box; it’s literally invisible. You also have a limited selection range. You cannot make a box larger than four units by four. This can be vexing; you can easily have fewer than 16 units, but spread over a much larger area than a perfect square four units wide. This makes it tiring to have to move each unit separately to fit within the small unit selection box. One thing that would help is a way to assign a control group, and what do you know, *Warlocked* can assign two control groups? This game has a feature that *Warcraft II* didn’t have at launch! Since you only have two buttons, and they’re already accounted for, what button are you meant to use? Select, of course. Pressing Select and holding the A or B button creates a group assigned to that button. Afterwards, pressing Select will reselect your last control group, and Select with a quick press of A or B will highlight that group for you. I have to admit I never used the feature when I initially got the game as a teenager; the part where you have to hold Select to create a group always stumped me. Any units can be ordered to guard and follow any other unit or building. This is what I used to allow me to move large groups of units instead. It was clunkier, but that’s all I knew how to use.
+However, the unit selection comes with some caveats. There is no visual cue surrounding your box; it’s literally invisible. You also have a limited selection range. You cannot make a box larger than four units by four. This can be vexing; you can easily have fewer than 16 units, but spread over a much larger area than a perfect square four units wide. This makes it tiring to have to move each unit separately to fit within the small unit selection box. One thing that would help is a way to assign a control group, and surprise surprise, *Warlocked* can assign two control groups! This game has a feature that *Warcraft II* didn’t have at launch! Since you only have two buttons, and they’re already accounted for, what button are you meant to use? Select, of course. Pressing Select and holding the A or B button creates a group with your currently selected units. Afterwards, pressing Select will reselect your last control group, and Select with a quick press of A or B will highlight that group for you. I have to admit I never used the feature when I initially got the game as a teenager; the part where you have to hold Select to create a group always stumped me. Instead, I made units guard others in my army. That way all of my army could move together when I moved the units being guarded. It was clunkier, but that’s all I could figure out how to use.
 
 The final order of business in the game is the worker. How do you build structures when all the buttons are so overloaded with functionality? The game reuses the B button and it works OK. Whenever you have workers selected, the game will display a construction overlay on the ground automatically. Pressing the B button will present a small menu in the status bar, where you can choose which building to build with the D-Pad.
 
@@ -159,7 +159,7 @@ Once that’s done, you’re good to go; your workers will take care of the rest
 ## The Music!
 
 {% include figure.html type="gb" class="float right" %}
-I implore you to listen to the soundtrack of *Warlocked*. The soundtrack is made by a composer known for his Commodore 64 work, Jeroen Tel, and it has that wonderful *European composer* quality that is so powerful on Game Boy. It has this interesting emotional undercurrent that really elevates the whole game, with my favourite tracks *Lava 1* and *Woods 1*. I think I get this feeling because the game is trying something different from the usual understated Game Boy music. RTS music tends to be very preeminent; there’s a strong tradition in the genre of the music never taking a step back during gameplay. I guess we have Frank Klepacki, composer of Westwood titles, to thank for his active soundtracks. *Warlocked does* the same thing. It has an energetic soundtrack that draws attention to itself, by taking inspiration from *Warcraft 2: Tides of Darkness*. The soundtrack in that game is unforgettable and grabs your attention immediately. *Warlocked* goes for the same effect and **I love it**. 
+I implore you to listen to the soundtrack of *Warlocked*. The soundtrack is made by a composer known for his Commodore 64 work, Jeroen Tel, and it has that wonderful *European composer* quality that is so powerful on Game Boy. It has this interesting emotional undercurrent that really elevates the whole game. My favourite tracks are *Lava 1* and *Woods 1*. I think I get this feeling because the game is trying something different from the usual understated Game Boy music. RTS music tends to be very preeminent; there’s a strong tradition in the genre of the music never taking a step back during gameplay. I guess we have Frank Klepacki, composer of Westwood titles, to thank for his active soundtracks. *Warlocked does* the same thing. It has an energetic soundtrack that draws attention to itself, by taking inspiration from *Warcraft 2: Tides of Darkness*. The soundtrack in that game is unforgettable and grabs your attention immediately. *Warlocked* goes for the same effect and **I love it**. 
 
 When I first bought the game as a teenager in 2000, I would start the music test on a track I liked, connect headphones to my Game Boy Color, put it in my pockets and walk to school listening to the music. I liked it that much.
 
@@ -167,6 +167,6 @@ When I first bought the game as a teenager in 2000, I would start the music test
 
 I have to thank Dylan Beale and Steve Clark for their insights into the game. I did not feature every single quote they gave me in this article, but I learned a lot from their openness. They’re the first Game Boy developers I talked to, and I could never have hoped for a better duo. Thank you guys.
 
-I guess I also have to thank them for making *Warlocked*! This game is such a wonderful curiosity, and it couldn’t have happened without all the developers’ sheer force of will. They made an RTS on Game Boy Color. And it’s not bad, far from it. You owe it to yourself to play it, it’s essential.
+I guess I also have to thank them for making *Warlocked*! This game is such a wonderful curiosity, and it couldn’t have happened without all the developers’ sheer force of will. They made an RTS on Game Boy Color. And it’s not bad, far from it. You owe it to yourself to play it, it’s essential. Those guys shot for the moon and they actually succeeded!
 
 {% include figure.html type="gb" %}
