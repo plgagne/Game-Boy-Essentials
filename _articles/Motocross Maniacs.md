@@ -6,6 +6,7 @@ release-date: "1989-10-01"
 release-year: "1989"
 release-month: "10"
 publication: "2018-03-23"
+tags: [book2]
 developers: "Konami"
 ---
 # {{ page.title }}
@@ -25,7 +26,7 @@ In high school, I had a friend who just loved motocross games. During lunchtime,
 
 To get back to my friend who liked motocross, his appreciation for *Elasto Mania* always felt weird to me, since there was nothing similar between riding a motorcycle and playing *Elasto Mania*: the game is about managing a bendy suspension between both wheels of your bike to navigate complex 2D geometry where you find and gather apples, of all things. You pull tricks like hanging the top wheel of the bike on a small notch to gather momentum and shoot your bike across gaps. I don’t have to say that this has nothing to do with riding a bike in real life. *Elasto Mania* is a physics-based gauntlet with no basis in reality. It’s also really hard.
 
-While I was thinking about all this useless nonsense, I was reminded of the idea I expressed in my *Toy Story Racer* article; that 3D was most beneficial to driving games. That’s one of the reasons they were so prevalent in arcades, on powerful dedicated arcade boards that could produce 3D graphics. A 3D racing game could properly convey what it really meant to drive a car or a motorcycle. A 3D environment could adequately convey the intricate relationship between the road and your vehicle’s wheels. On consoles during this era, we were stuck with all sorts of games using racing as a situation, but that did not resemble driving in the slightest when it came to gameplay. Like our game here, *Motocross Maniacs*, which has nothing to do with driving a motocross bike. It’s an opinionated platformer.
+While I was thinking about all this useless nonsense, I was reminded of the idea I expressed in my *Toy Story Racer* article; that 3D was most beneficial to driving games. That’s one of the reasons they were so prevalent in arcades, on powerful dedicated arcade boards that could produce 3D graphics. A 3D racing game could properly convey what it really meant to drive a car or a motorcycle. A 3D environment could adequately convey the intricate relationship between the road and your vehicle’s wheels. On consoles during this era, we were stuck with all sorts of games using racing as a situation, but whose gameplay did not resemble driving at all. Like our game here, *Motocross Maniacs*, which has nothing to do with driving a motocross bike. It’s an opinionated platformer.
 
 ## What It’s About
 
@@ -40,7 +41,7 @@ The levels have multiple routes stacked on top of one another, and the best rout
 
 This general concept of finding paths that give you a sustainable number of boosts is interesting, but it introduces some undue friction. What happens when you run out of boosts? Well, tough luck. You can get completely stuck during a game because you made a mistake. You’re therefore always on edge, wary of losing all your progress because of one misstep. Being on edge is not a bad feeling to have, but you will deal with very harsh failure, however. When you’re left without any boosts needed to clear a jump, you can get stuck with no choice but to wait for the timer to run out to try again. That flaw makes it very hard to like the game. Fortunately you can reset the console for a quick retry, but when you’re playing the two-player mode and you *both* get stuck, you have to wait it out.
 
-What resembles motocross riding the most in the game (which I’ve never done, mind you) is the wheelie you can do at any time by pressing left on the D-Pad. I’ve never tried a motocross, but I used to own a Vespa, so I have a little experience driving a two-wheel vehicle. The wheelie allows you to expertly clear rocks without falling from your bike, and thus approximates the weight balancing you need to do when driving a real bike. You also need to press left when you’re airborne to adjust your angle since you need to land level with the ground. I have no experience jumping hills with my Vespa, though. If you hit the ground at the wrong angle, you fall from your bike and lose precious time. This gameplay mechanic is exactly the same as in *Excitebike*, the Famicom/NES game from Nintendo R&D1.
+What resembles motocross riding the most in the game (which I’ve never done, mind you) is the wheelie you can do at any time by pressing left on the D-Pad. I’ve never tried a motocross, but I used to own a Vespa, so I have a little experience driving a two-wheel vehicle. The wheelie allows you to expertly clear rocks without falling from your bike, and thus approximates the weight balancing you need to do when driving a real bike. You also need to press left when you’re airborne to adjust your angle since you need to land level with the ground. I have no experience jumping hills with my Vespa, though. If you hit the ground at the wrong angle, you fall from your bike and lose precious time. This gameplay mechanic is exactly the same as in *Excitebike*, the Famicom/NES game from Nintendo R&D1.
 
 {% include figure.html type="pixel" %}
 

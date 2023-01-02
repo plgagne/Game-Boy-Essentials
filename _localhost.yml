@@ -1,5 +1,0 @@
-# Site Settings Override When Using Serve
-host: localhost
-url: ""
-baseurl: ""
-destination: "/Users/plgagne/Game Boy Essentials/website-serve"

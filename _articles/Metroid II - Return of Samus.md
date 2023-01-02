@@ -9,7 +9,8 @@ release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"
 publication: "2019-03-11"
-developers: "Nintendo R&D1"
+tags: [book2]
+developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
 
@@ -169,7 +170,7 @@ I’ve previously explained jumping in this game, but having played it a bit mor
 
 *Metroid II* prevents you from moving in the opposite direction of your jump, and it also restricts the Space Jump to a spinning jump. If you jump straight up, it’s impossible to chain another Space Jump. You’re stuck tumbling all the way back down. Since Samus will be in the Space Jump animation regardless of your angle for jumps after the first one, you need to get a good feel of the game’s jumping mechanics to make sure you never jump straight up. This means you end up rocking the D-pad left and right between jumps to make sure you perform a diagonal jump regardless of your timing. There’s also a time limit to chain another jump, so you can’t wait too long between your jumps. To add to the complexity, you are prevented from chaining **slightly before** you turn back into the crouched sprite and tumble back down. It’s complicated, and not intuitive. When you compare with recent 2D Metroid games, it’s downright ancient. In *Metroid: Zero Mission*, you can Space Jump, shoot an enemy, tumble-down for a bit in a crouched position, and go back to Space Jumping, all while staying airborne.
 
-To get back to talking about the mission at hand, there’s an Alpha in a room with honeycomb tiles that you can safely traverse but that you can’t shoot without having to destroy. The Alpha at this point is too easy to make this quirk meaningful. But in the next screen there’s a Beta hiding in the same tiles, and because it’s harder you have to take it into account. Classic Nintendo R&D1 design. They teach you a mechanic, then they give you a real challenge using it.
+To get back to talking about the mission at hand, there’s an Alpha in a room with honeycomb tiles that you can safely traverse but that you can’t shoot without having to destroy. The Alpha at this point is too easy to make this quirk meaningful. But in the next screen there’s a Beta hiding in the same tiles, and because it’s harder you have to take it into account. Classic Nintendo R&D1 design. They teach you a mechanic, then they give you a real challenge using it.
 
 I realized there’s one benefit of lacking a map; being a completionist, I tend to go to the corner of every room to reveal all the tiles on the map screen. Since there’s no map, I don’t need to do that.
 

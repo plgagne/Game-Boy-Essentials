@@ -9,6 +9,7 @@ release-date: "1989-09-01"
 release-year: "1989"
 release-month: "09"
 publication: "2017-02-27"
+tags: [book2]
 developers: "Kemco"
 ---
 # {{ page.title }}
@@ -34,7 +35,7 @@ It was eventually rereleased as a Player’s Choice title in 1996 (that’s the 
 
 ## The Meandering Story of Its Rotating Cast of Franchises
 
-Kemco gets the right to make a Roger Rabbit game for the [Famicom Disk System](https://en.wikipedia.org/wiki/Family_Computer_Disk_System). So far, so good. They create the game and release it in February of 1989, six months after the movie is released in the US but just two months after the release in Japanese theatres in December of 1988. The timing is so tight it's possible  they started developing the game as a blank slate before they had a franchise to put on the game.
+Kemco gets the right to make a Roger Rabbit game for the [Famicom Disk System](https://en.wikipedia.org/wiki/Family_Computer_Disk_System). So far, so good. They create the game and release it in February of 1989, six months after the movie is released in the US but just two months after the release in Japanese theatres in December of 1988. The timing is so tight it’s possible they started developing the game as a blank slate before they had a franchise to put on the game.
 
 <div class="gallery-container">
 {% include figure.html type="pixel" class="gallery" figcaption="Roger Rabbit" %}

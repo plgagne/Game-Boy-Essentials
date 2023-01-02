@@ -9,7 +9,8 @@ release-date: "1992-10-01"
 release-year: "1992"
 release-month: "10"
 publication: "2019-03-29"
-developers: "Nintendo R&D1"
+tags: [book3]
+developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
 
@@ -34,7 +35,7 @@ And interesting it is! It’s again, like the original *Super Mario Land*, made 
 
 Looking at *Super Mario Land 2*, I can’t shake the idea that someone at Nintendo (most probably our favourite bespectacled supervilain Nintendo president, Hiroshi Yamauchi) told Gunpei Yokoi’s team to put something like the brand new *Super Mario World* on Game Boy. The only Mario platformer on Game Boy was getting very long in the tooth by 1992: *Super Mario Land* was an analogue of *Super Mario Bros.* that used very small sprites. Read my article on [*Super Mario Land*](/articles/dmg-ml) to read about its design. Suffice it to say, those smaller sprites were never impressive and platformers on Game Boy were now very successful at using console-sized sprites. Mario’s time to grow up on Game Boy had clearly arrived.
 
-{% include figure.html type="pixel" figcaption="A comparison between the *Land* sprites and the *Land 2* sprites." %}
+{% include figure.html type="pixel" figcaption="A comparison between the *Land* sprites and the *Land 2* sprites." %}
 
 The game is a sibling to *Super Mario World*, sure, but the fine people at Yokoi’s R&D1 did not strictly ape the Super Nintendo title; they made a game all their own.
 
@@ -58,7 +59,7 @@ The jump from four pixels to twelve for Mario’s nose (twelve!) is emblematic o
 
 {% include figure.html type="gb" %}
 
-The enemies they came up with are weird. It’s a cavalcade of enemies that don’t fit. Vampires, sharks, the three little pigs, chibi Jason, the torture ball Vader uses on Leia in *Star Wars*, everything that doesn’t make sense in a Mario game is there, mixed in with the classic enemies. Miyamoto’s Mario lives in a cohesive Disney cartoon; R&D1 put him in a Don Bluth production! Ultimately, it’s not a major issue. You just accept the weirdness, and you roll with it. But upon closer inspection it does feel out of place. Hindsight is twenty-twenty but it feels to me like they were hitching for the satirical approach to character design that permeates *Wario Land*. The bug-eyed bird you fight on top of Tree Zone looks like the son of the vulture from *Wario Land*.
+The enemies they created are weird. It’s a cavalcade of enemies that don’t fit. Vampires, sharks, the three little pigs, chibi Jason, the torture ball Vader uses on Leia in *Star Wars*, everything that doesn’t make sense in a Mario game is there, mixed in with the classic enemies. Miyamoto’s Mario lives in a cohesive Disney cartoon; R&D1 put him in a Don Bluth production! Ultimately, it’s not a major issue. You just accept the weirdness, and you roll with it. But upon closer inspection it does feel out of place. Hindsight is twenty-twenty but it feels to me like they were hitching for the satirical approach to character design that permeates *Wario Land*. The bug-eyed bird you fight on top of Tree Zone looks like the son of the vulture from *Wario Land*.
 
 {% include figure.html type="gb" %}
 
@@ -66,13 +67,13 @@ The enemies they came up with are weird. It’s a cavalcade of enemies that don�
 
 ## Weird World-Building
 
-By 1992, Mario was finally a properly managed brand. Gone were the heady days of Captain Lou Albano or the crappy Donkey Kong cartoons of the 80s. Mario was still reeling from those strange decisions for sure. Reruns of those shows ran everywhere and pallets of the disgusting (from what I’ve heard) cereal were still hanging about. The imbecilic *Super Mario Bros.* movie starring Bob Hoskins would not come out until 1993. But the worse was over: the brand managers at Nintendo were reeling from all the misplaced trust they put into other creators and would not make the same mistake again. And again. And again. I mean, let me stop my train of thought for a second to highlight how many **terrible** people were entrusted with the golden goose. The aforementioned cereal made by Ralston Purina (the same company as the animal food). The terrible toys made by Nasta, a toy maker so forgotten it doesn’t have a Wikipedia article or a mention on websites dedicated to 80s toys. DiC’s cavalcade of cheaply made cartoons, written by old men who couldn’t care less about Mario.
+By 1992, Mario was finally a properly managed brand. Gone were the heady days of Captain Lou Albano or the crappy Donkey Kong cartoons of the ’80s. Mario was still reeling from those strange decisions for sure. Reruns of those shows ran everywhere and pallets of the disgusting (from what I’ve heard) cereal were still hanging about. The imbecilic *Super Mario Bros.* movie starring Bob Hoskins would not come out until 1993. But the worse was over: the brand managers at Nintendo were reeling from all the misplaced trust they put into other creators and would not make the same mistake again. And again. And again. I mean, let me stop my train of thought for a second to highlight how many **terrible** people were entrusted with the golden goose. The aforementioned cereal made by Ralston Purina (the same company as the animal food). The terrible toys made by Nasta, a toy maker so forgotten it doesn’t have a Wikipedia article or a mention on websites dedicated to 80s toys. DiC’s cavalcade of cheaply made cartoons, written by old men who couldn’t care less about Mario.
 
 The point I was making was that all the people at Nintendo had finally seen Mario for what he really was: a global icon who needs to be managed like the biggest star in the world. Whitney Houston doesn’t participate in shitty low-budget kid shows with washed-out wrestlers. Why should Mario? They finally realized he’s above that (or the Nintendo headquarters in Japan forced the people at Nintendo of America to come to grips with that fact) so it gradually stopped. But what about the people making the games?
 
 There is obviously now a coordinated effort to get Mario in high-quality productions. Mario is not above being in other companies’ games. Think of the Olympic-branded games from Sega and *Mario + Rabbids Kingdom Battle*. They clearly have to be of a certain type: they’re either the franchises that have existed for a long time (the sports games, *Itadaki Street*, *Mario Party*) or very high quality. But what about the internal Nintendo teams?
 
-Daddy gets a pass. The people reporting to Miyamoto at EAD can do whatever they want with the little dude. They put Mario in a go-kart, they started him golfing. But what about the other teams? That’s where we land at *Super Mario Land 2*. It was made by people at R&D1, who never reported to Miyamoto. It features weird out-of-place elements, just like the first *Super Mario Land*. Cheeky sharks. Bug-eyed birds. A level featuring the Lego ripoff R&D1 made in the 60s, the N&B blocks. A whole zone that’s a giant statue of Mario himself (with a level filled with balls right in the crotch of Mario’s statue). Nothing fits with the modern look of the Mushroom Kingdom because the game did not have Shigeru Miyamoto’s point of view of what fits in a Mario game.
+Daddy gets a pass. The people reporting to Miyamoto at EAD can do whatever they want with the little dude. They put Mario in a go-kart, they started him golfing. But what about the other teams? That’s where we land at *Super Mario Land 2*. It was made by people at R&D1, who never reported to Miyamoto. It features weird out-of-place elements, just like the first *Super Mario Land*. Cheeky sharks. Bug-eyed birds. A level featuring the Lego ripoff R&D1 made in the ’60s, the N&B blocks. A whole zone that’s a giant statue of Mario himself (with a level filled with balls right in the crotch of Mario’s statue). Nothing fits with the modern look of the Mushroom Kingdom because the game did not have Shigeru Miyamoto’s point of view of what fits in a Mario game.
 
 The closest feeling is New Donk City in *Super Mario Odyssey*. Even though Odyssey was made with Miyamoto, I’d argue they did something that did not obey their own internal logic when Mario exists next to correctly proportioned humans who tower above him. Just like it makes no internal sense that there are cowfish swimming in sap inside a giant tree on Mario’s private island.
 
@@ -84,7 +85,7 @@ There is, however, one thing that *Super Mario Land 2* did that is absolutely p
 
 ## Weird Mario
 
-Oh boy. Here comes the *Scoundrel with a Fart of Gold*, the garlic plumber himself: **WA-RI-O!** The despised mirror version of Mario is so fun to talk about. He’s just so dumb as a character, but so profound as a concept. Wario is a postmodern critique on video games, an intra-office shitpost, an ambassador to the 90s gross-out movement, a vitriolic response to the success of Sonic the Hedgehog, a necessary reinvention of platforming concepts for the Game Boy, he is all of that and more.
+Oh boy. Here comes the *Scoundrel with a Fart of Gold*, the garlic plumber himself: **WA-RI-O!** The despised mirror version of Mario is so fun to talk about. He’s just so dumb as a character, but so profound as a concept. Wario is a postmodern critique on video games, an intra-office shitpost, an ambassador to the ’90s gross-out movement, a vitriolic response to the success of Sonic the Hedgehog, a necessary reinvention of platforming concepts for the Game Boy, he is all of that and more.
 
 Wario was created by Hiroji Kiyotake, who worked for R&D1, **not** EAD, and everything about him is a twisted reflexion on Mario. But we can’t read too much into him from this game; he is seldom seen and simply amounts to evil Mario. He’s mostly a copy of Bluto, Popeye’s foil. Future games will embrace and expand his wonderfully terrible personality with wonderful results. Here, it’s actually Mario’s role who’s subversive. It’s the first time since *Donkey Kong Jr.* that Mario is not doing something altruistic. He’s rescuing his own private island, complete with a gigantic statue of himself. To the people at R&D1, Mario’s an entitled asshole, with his own private fiefdom devoted to his own inflated ego. Who the hell could *cough* Miyamoto *cough* that represent?
 

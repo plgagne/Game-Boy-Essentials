@@ -1,0 +1,14 @@
+\contentsline {chapter}{Introduction}{5}{}%
+\contentsline {chapter}{Super Mario Land 2: 6 Golden Coins}{7}{}%
+\contentsline {chapter}{Game \& Watch Gallery}{19}{}%
+\contentsline {chapter}{The Simpsons: Itchy and Scratchy — Miniature Golf Madness}{35}{}%
+\contentsline {chapter}{Donkey Kong Land 2}{43}{}%
+\contentsline {chapter}{3D Pocket Pool}{55}{}%
+\contentsline {chapter}{Warlocked}{61}{}%
+\contentsline {chapter}{Kid Icarus: Of Myth and Monsters}{81}{}%
+\contentsline {chapter}{Wave Race}{91}{}%
+\contentsline {chapter}{Dragon Warrior III}{99}{}%
+\contentsline {chapter}{Pokémon: Red, Green \& Blue}{111}{}%
+\contentsline {chapter}{Mole Mania}{137}{}%
+\contentsline {chapter}{Kirby’s Dream Land}{143}{}%
+\contentsfinish 

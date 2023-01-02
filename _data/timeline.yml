@@ -734,3 +734,13 @@
     tags: [na]
     source: 'https://gamefaqs.gamespot.com/gameboy/563275-kirbys-dream-land/data'
     note: '*Kirby’s Dream Land* is released in North America.'
+-
+    time: '1998-02-21'
+    tags: [jp]
+    source: 'https://gamefaqs.gamespot.com/gameboy/564359-game-boy-camera/data'
+    note: '*Game Boy Camera* is released in Japan.'
+-
+    time: '1998-06-01'
+    tags: [na]
+    source: 'https://gamefaqs.gamespot.com/gameboy/564359-game-boy-camera/data'
+    note: '*Game Boy Camera* is released in North America.'

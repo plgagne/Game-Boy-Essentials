@@ -1,0 +1,14 @@
+\contentsline {chapter}{Introduction}{5}{}%
+\contentsline {chapter}{Matchbox Caterpillar Construction Zone}{9}{}%
+\contentsline {chapter}{The Bugs Bunny Crazy Castle}{15}{}%
+\contentsline {chapter}{The Sword of Hope}{27}{}%
+\contentsline {chapter}{Mega Man II}{37}{}%
+\contentsline {chapter}{Operation C}{47}{}%
+\contentsline {chapter}{Mario’s Picross}{63}{}%
+\contentsline {chapter}{James Bond 007}{73}{}%
+\contentsline {chapter}{Disney⋅Pixar Toy Story Racer}{91}{}%
+\contentsline {chapter}{Game Boy Gallery}{99}{}%
+\contentsline {chapter}{Motocross Maniacs}{113}{}%
+\contentsline {chapter}{Mario Golf}{119}{}%
+\contentsline {chapter}{Metroid II: Return of Samus}{133}{}%
+\contentsfinish 

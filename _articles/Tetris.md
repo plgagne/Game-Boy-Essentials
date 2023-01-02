@@ -9,7 +9,8 @@ release-date: "1989-06-01"
 release-year: "1989"
 release-month: "06"
 publication: "2015-12-09"
-developers: "Nintendo R&D1 & Bullet-Proof Software"
+tags: [book1]
+developers: "Nintendo R&D1 & Bullet-Proof Software"
 ---
 # {{ page.title }}
 
@@ -25,7 +26,7 @@ developers: "Nintendo R&D1 & Bullet-Proof Software"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-This is it. The game that single-handedly built the Game Boy as a viable, popular and beloved platform. Were Nintendo to have released the Game Boy with *Tetris* stuck in the system unable to play anything else this brand new portable system would have been a tremendous success, making Nintendo a nice sum of money. Indeed, when we look at the Game Boy with modern eyes the system appears underwhelming. These days everybody carries a phone. They’re easy to put in your pocket or your purse. Their usefulness is also readily apparent. But how could you justify lugging such a big unwieldy brick around in the 90s?
+This is it. The game that single-handedly built the Game Boy as a viable, popular and beloved platform. Were Nintendo to have released the Game Boy with *Tetris* stuck in the system unable to play anything else this brand new portable system would have been a tremendous success, making Nintendo a nice sum of money. Indeed, when we look at the Game Boy with modern eyes the system appears underwhelming. These days everybody carries a phone. They’re easy to put in your pocket or your purse. Their usefulness is also readily apparent. But how could you justify lugging such a big unwieldy brick around in the ’90s?
 
 Because of *Tetris*.
 
@@ -63,7 +64,7 @@ The game is not without its quirks. It has a beautiful and prominent score board
 
 We need to talk about the multiplayer. *Tetris* was able to be a multiplayer success because **everybody** owned it, everybody liked it and every original Game Boy came with a link cable. Keep in mind, to play any link cable game on Game Boy, you need two copies of the game. *Tetris* was ubiquitous, since it came with the system in North America and Europe. Since everyone owned it, it could easily be played with a friend. No other early Game Boy title can lay claim to be a multiplayer success. There were too many titles, too few copies lying around. **Until *Pokémon* took over the world in 1998**. In retrospect, I feel that 95% of all successful link cable connections were either *Pokémon* trades or *Tetris* games.
 
-*Tetris* thus showed the possibilities of playing a game with a friend who was looking at his own screen, and it was a very successful multiplayer game, but it did not birth a vibrant crop of link cable titles for Game Boy. In hindsight, the Game Boy was a multiplayer failure until *Pokémon*. Its release will radically redefine the Game Boy. Until 1998, Game Boy & *Tetris* were synonymous, in multiplayer and in the public’s consciousness. But once *Pokémon* arrives, the Game Boy will gain a second even more popular pillar: Gotta Catch ’Em All!
+*Tetris* thus showed the possibilities of playing a game with a friend who was looking at his own screen. It was a beautifully designed multiplayer experience that made the Game Boy shine, but it did not birth a vibrant crop of link cable titles for Game Boy. In hindsight, the Game Boy was a multiplayer failure until *Pokémon*. The release of the pocket monster game will radically redefine the Game Boy. Until 1998, Game Boy & *Tetris* were synonymous, in multiplayer and in the public’s consciousness. But once *Pokémon* arrives the Game Boy will gain a second wind, a feat no other console ever managed. Hardware sales will pick up and massively increase after years of moribund numbers. Such is the strength of Pokémon: *Gotta Catch ’Em All* sold Game Boys!
 
 ## Conclusion
 

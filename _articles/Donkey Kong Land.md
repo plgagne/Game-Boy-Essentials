@@ -9,6 +9,7 @@ release-date: "1995-06-01"
 release-year: "1995"
 release-month: "06"
 publication: "2015-12-15"
+tags: [book1]
 developers: "Rare"
 ---
 # {{ page.title }}
@@ -81,7 +82,7 @@ There is an unnecessary camera move upward when jumping while standing still. It
 
 ## Bad Intentions
 
-So what were the intentions of Rare with *Donkey Kong Land*? Obviously, they were on a mission to bring the CGI graphics of *Donkey Kong Country*, the revolutionary SNES game from 1994, on the tiny Game Boy. They did, but was it worth it? When it was released, *Donkey Kong Country* was a revelation. **You can do 3D graphics on Super Nintendo?** Of course the answer is they couldn’t. They faked it by building 3D models of everything on Silicon Graphics workstations. The developers at Rare then turned pictures of those 3D graphics into 2D sprites and tiles that worked on the SNES. When came time to plan and build a Game Boy version of *Donkey Kong Country*, they said, “let’s do the same thing!”
+So what were the intentions of Rare with *Donkey Kong Land*? Obviously, they were on a mission to bring the CGI graphics of *Donkey Kong Country*, the revolutionary SNES game from 1994, on the tiny Game Boy. They did, but was it worth it? When it was released, *Donkey Kong Country* was a revelation. **You can do 3D graphics on Super Nintendo?** Of course the answer is they couldn’t. They faked it by building 3D models of everything on Silicon Graphics workstations. The developers at Rare then turned pictures of those 3D graphics into 2D sprites and tiles that worked on the SNES. When they planned and built a Game Boy version of *Donkey Kong Country*, they said, “let’s do the same thing!”
 
 {% include figure.html type="pixel" figcaption="Super Nintendo original next to the Game Boy bastard child." %}
 
@@ -97,11 +98,11 @@ I cannot shake from my mind the idea that after looking at all of these quirks a
 
 ## Saving
 
-In my Tetris article, I talked about how important it is that Tetris features no saving but all the progress is in you, and how that is super cool. In *Donkey Kong Land*, you can’t save the game unless you gather all the KONG letters in a level. You want to save, you’d better get through a level you know well and find all those goddamn letters without losing all your lives. It’s super dumb and unfair. **If the game was a masterpiece this would be a travesty worth decrying.** Here, because everything else is so wrong, I just mention it and move on.
+In my Tetris article, I talked about how important it is that Tetris features no saving but all the progress is in you, and how that is super cool. In *Donkey Kong Land*, you can’t save the game unless you gather all the KONG letters in a level. You want to save, you’d better get through a level you know well and find all those goddamn letters without losing all your lives. It’s super dumb and unfair. **If the game was a masterpiece, this would be a travesty worth decrying.** Here, because everything else is so wrong, I just mention it and move on.
 
 ## The Music
 
-Let’s end this on a good note. Graeme Norgate and Dave Wise made very good music for that game. They mostly use the soundtrack of *DKC* as a springboard to do something different that recalls the original tracks. I like it. I was playing *DKL* on my AGS-101 and found the music lovely. Then I switched to my original Game Boy and realized how finely tuned the music was to the speaker of the DMG-001. It’s good work worth mentioning that really comes alive on original hardware.
+Let’s end this on a good note. Graeme Norgate and Dave Wise made very good music for that game. They mostly use the soundtrack of *DKC* as a springboard to do something different that recalls the original tracks. I like it. I was playing *DKL* on my AGS-101 and found the music lovely. Then I switched to my original Game Boy and realized how finely tuned the music was to the speaker of the DMG-001. It’s good work worth mentioning. It really comes alive on original hardware.
 
 ## Conclusion
 

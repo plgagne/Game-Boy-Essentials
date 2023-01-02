@@ -1,0 +1,176 @@
+% Document Class
+\documentclass{book}
+
+% Define Variables
+\newcommand{\gbeauthor}{Pierre-Luc Gagné}
+
+% When to Break Words
+\hyphenation{Nin-ten-do}
+\hyphenation{Mi-ya-mo-to}
+
+% Fonts Fonts Fonts !
+\usepackage{fontspec}
+\setmainfont{Adobe Caslon Pro}
+\newfontfamily\pageonegbfont[
+	SizeFeatures={Size=28}]
+	{Early GameBoy}
+\newfontfamily\pageoneauthorfont[
+	SizeFeatures={Size=20}]
+	{Georgia Italic}
+\newfontfamily\footerpokefont[
+	SizeFeatures={Size=8}]
+	{Pokemon GB}
+\newfontfamily\pagetwodescription
+	{Avenir Next}
+\newfontfamily\titlefont[
+	SizeFeatures={Size=30}]
+	{Avenir Next Ultra Light}
+\newfontfamily\htwofont[
+	SizeFeatures={Size=20}]
+	{Avenir Next Ultra Light}
+\newfontfamily\hthreefont[
+	SizeFeatures={Size=14}]
+	{Avenir Next Demi Bold}
+\newfontfamily\codeintextfont[
+	SizeFeatures={Size=12}]
+	{Inconsolata}
+\newfontfamily\dedication[
+	SizeFeatures={Size=12}]
+	{Georgia Italic}
+\newfontfamily\thisgoesintoc[
+	SizeFeatures={Size=14}]
+	{Avenir Next}
+
+% Left-Align with \begin{flushleft} and \end{flushleft}
+\usepackage{ragged2e}
+% Line Spacing with \setstretch{1.1}
+\usepackage{setspace}
+%Hyphenation control
+\usepackage{hyphenat}
+% Turn off more space after sentences
+\frenchspacing
+% Have images align to top by default
+\raggedbottom
+% Set space between paragraphs
+\usepackage{parskip}
+\setlength{\parskip}{0.8em}
+\setlength{\parindent}{1.5em}
+
+% Image Package
+\usepackage{graphicx}
+\graphicspath{ {book-assets/} }
+\usepackage{wrapfig}
+\usepackage{adjustbox}
+\usepackage{placeins}
+
+\let\oldcenter\center
+\let\oldendcenter\endcenter
+\renewenvironment{center}{\setlength\topsep{0pt}\oldcenter}{\oldendcenter}
+
+% Table Package
+\usepackage[table]{xcolor}
+\usepackage{tabulary}
+
+% Page Details
+% Show wireframes for development
+%\usepackage{showframe}
+
+% Createspace: createspace.com/Products/Book/InteriorPDF.jsp
+% Geometry: texdoc.net/texmf-dist/doc/latex/geometry/geometry.pdf
+\usepackage[
+paperwidth=5.5in, 
+paperheight=8.5in,
+top=1.5cm,
+headheight=3.5mm,
+headsep=6mm,
+bottom=1.8cm,
+footskip=10mm,
+inner=2.29cm,
+outer=1.52cm,
+marginparsep=0cm,
+marginparwidth=0cm
+]{geometry}
+
+% Define Chapters
+\usepackage{needspace}
+\usepackage{titlesec}
+\titleformat{name=\chapter}[block]{\titlefont\raggedright\setstretch{3}}{}{0pt}{}[]
+\titlespacing{name=\chapter}{0pt}{-30pt}{6pt}[0pt]
+\titleformat{name=\section}[block]{\htwofont\raggedright\setstretch{2}}{}{0pt}{}[]
+\titlespacing*{name=\section}{0pt}{10pt}{0.4em}[0pt]
+\titleformat{name=\subsection}[block]{\hthreefont\raggedright\setstretch{1.8}}{}{0pt}{}[]
+\titlespacing*{name=\subsection}{0pt}{4pt}{0.4em}[0pt]
+
+% Table of Contents
+\usepackage{titletoc}
+\renewcommand{\contentsname}{Table of Contents}
+\titlecontents{chapter}[0pt]{\thisgoesintoc}
+{\thecontentslabel\enspace}
+{}
+{\titlerule*[4pt]{.}\raggedright\contentspage}[\vskip 7pt]
+
+% Headers & Footers
+\usepackage{fancyhdr}
+\fancyhf{} % sets both header and footer to nothing
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\lhead[]{}
+\chead[]{}
+\rhead[]{}
+\lfoot[\footerpokefont \thepage]{\pagetwodescription \leftmark}
+\cfoot[]{}
+\rfoot[]{\footerpokefont \thepage}
+
+\fancypagestyle{plain}{
+\fancyhf{}
+\fancyfoot[R]{\footerpokefont \thepage}}
+
+% Begin Document
+\begin{document}
+\begingroup
+\setlength{\columnsep}{1.7mm}
+\setlength{\intextsep}{0mm}
+
+\thispagestyle{empty}
+\mbox{}
+\vskip 70pt
+\begin{flushleft}
+\setstretch{4}
+\pageonegbfont \nohyphens{\gbetitle{} \par}
+\setstretch{3}
+\pageoneauthorfont \nohyphens{by \gbeauthor{} \par}
+\end{flushleft}
+\vfill
+\newpage
+
+\thispagestyle{empty}
+\mbox{}
+\vfill
+\begin{center}
+\setstretch{1}
+\fontsize{10pt}{12pt}\selectfont
+\pagetwodescription {\gbetitle{}\par © \gbepublishedyear{} by Pierre-Luc Gagné\par \vskip 9pt gameboyessentials.com \vskip 9pt \gbeeditionname{}\par \vskip 9pt This book is set in Adobe Caslon Pro, with Inconsolata for monospaced segments, and Avenir Next for headings. It also uses fonts from {\em Super Mario Land} and {\em Pokémon} for flourishes. \vskip 9pt ISBN \gbeISBN{}\par \vskip 9pt The copyright for game boxes and screenshots reproduced in this book remain with the respective owners of those works.}
+\end{center}
+\newpage
+
+\thispagestyle{empty}
+\mbox{}
+\vfill
+\begin{raggedleft}
+\setstretch{1.1}
+\dedication{\gbededication{}}
+\vfill
+\end{raggedleft}
+\newpage
+
+\begingroup
+\let\cleardoublepage\clearpage
+\tableofcontents
+\endgroup
+\thispagestyle{empty}
+\fontspec{Adobe Caslon Pro}[WordSpace = 1.1]
+%\fontspec{Adobe Caslon Pro} 
+%\addfontfeature{LetterSpace=1.0}
+\setstretch{1.2}
+\fontsize{12pt}{12pt}\selectfont

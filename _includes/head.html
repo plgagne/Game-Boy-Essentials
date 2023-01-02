@@ -10,12 +10,11 @@
 	<link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
 	<link rel="stylesheet" href="/style.css">{% if page.slug == "timeline" %}
 	<link rel="stylesheet" href="/timeline.css">{% else %}{% endif %}
-	<title>{% if page.article %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<title>{% if page.layout == 'main' %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
 	<link rel="icon" href="/favicon.png" sizes="16x16">
 	<link rel="icon" href="{{ site.icon-512 }}" sizes="512x512">
 <!--Apple-->
 	<link rel="apple-touch-icon" href="{{ site.url }}{{ site.icon-512 }}">
-	<link rel="mask-icon" href="{{ site.url }}/safari-pinned-tab.svg" color="black">
 	<meta name="apple-mobile-web-app-title" content="GB Essentials">
 <!--Google-->
 	<meta name="description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -43,4 +42,6 @@
 	<meta property="og:title" content="{% if page.article %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta property="og:image" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
+{% if page.layout == 'main' %}<!--Mastodon-->	
+	<link rel="me" href="https://peoplemaking.games/@gbe">{% endif %}
 </head>

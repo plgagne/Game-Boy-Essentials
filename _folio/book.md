@@ -13,11 +13,9 @@ Have you been reading Game Boy Essentials but wished it was portable? Are you ti
 The books are self-published through Amazon, and are sold for a very affordable $10 USD in all the Amazon stores around the world.
 {% include book.html %}
 
-## Here is a sample of the first book:
+## Here is a sample of the first book’s interior:
 
 <div class="gallery">
 {% include figure.html type="art" %}
 {% include figure.html type="art" %}
 </div>
-
-If I sell 100 copies of these books in the next 10 years I'll be very happy. Help me get there!

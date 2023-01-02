@@ -9,6 +9,7 @@ release-date: "1990-01-01"
 release-year: "1990"
 release-month: "01"
 publication: "2016-10-17"
+tags: [book1]
 developers: "Nintendo R&D1 & Minakuchi Engineering"
 ---
 # {{ page.title }}
@@ -44,7 +45,7 @@ Anyway, you put in the game and you’re treated to an oddity. You get a title s
 {% include figure.html type="gb" class="float right" %}
 Let’s explain upgrades. Late 80s shooters lived and died by their upgrade systems. This was their calling card, what set them apart from one another; I’d argue even more so than whether they had horizontal or vertical orientation.
 
-*Solar Striker* decided to aim for the **too complicated while being too simple at the same time**. Upgrades come in one type; you destroy an enemy who acts as a box falling from the top of the screen which then leaves an upgrade behind. This means that you can’t afford to miss them when they show up. Since you cannot shoot behind you, there’s always a risk you’ll see the box too late and it will be too low to hit with your bullets. You’ll have missed a very important upgrade because you weren’t paying attention.
+*Solar Striker* decided to be **too complicated while being too simple at the same time**. Upgrades come in one type; you destroy an enemy who acts as a box falling from the top of the screen which then leaves an upgrade behind. This means that you can’t afford to miss them when they show up. Since you cannot shoot behind you, there’s always a risk you’ll see the box too late and it will be too low to hit with your bullets. You’ll have missed a very important upgrade because you weren’t paying attention.
 
 {% include figure.html type="gb" figcaption="You get your upgrades from these boxes. Do not miss them." %}
 
