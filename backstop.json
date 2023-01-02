@@ -1,0 +1,65 @@
+{
+  "id": "Game Boy Essentials",
+  "viewports": [
+    {
+      "label": "small",
+      "width": 320,
+      "height": 480
+    },
+    {
+      "label": "large",
+      "width": 1024,
+      "height": 768
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "Home",
+      "url": "http://localhost:4000/index.html",
+      "selectors": [
+        "header",
+        "label",
+        ".game",
+        "footer"
+      ],
+      "selectorExpansion": false
+    },
+    {
+      "label": "Article",
+      "url": "http://localhost:4000/drafts/test-suite.html",
+      "selectors": [
+        "figure"
+      ],
+      "selectorExpansion": true
+    },
+    {
+      "label": "Article",
+      "url": "http://localhost:4000/drafts/test-suite.html",
+      "selectors": [
+        "h1",
+        "ul",
+        "h2",
+        "blockquote",
+        "table",
+        "ol"
+      ],
+      "selectorExpansion": false
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
