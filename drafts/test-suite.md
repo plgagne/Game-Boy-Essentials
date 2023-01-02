@@ -4,7 +4,6 @@ description: "A Space for Tests"
 slug: "-test"
 release-year: "1986"
 release-month: "07"
-publication-order: 
 developers: "Me!"
 ---
 # {{ page.title }}

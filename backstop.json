@@ -37,11 +37,41 @@
       "url": "http://localhost:4000/drafts/test-suite.html",
       "selectors": [
         "h1",
-        "ul",
         "h2",
+        "h3",
+        "ul",
         "blockquote",
         "table",
-        "ol"
+        "ol",
+        "span",
+        "object",
+        "audio",
+        "video"
+      ],
+      "selectorExpansion": false
+    },
+    {
+      "label": "Book",
+      "url": "http://localhost:4000/book/index.html",
+      "selectors": [
+        ".book"
+      ],
+      "selectorExpansion": true
+    },
+    {
+      "label": "Timeline",
+      "url": "http://localhost:4000/timeline/index.html",
+      "selectors": [
+        "label"
+      ],
+      "selectorExpansion": true
+    },
+    {
+      "label": "Timeline",
+      "url": "http://localhost:4000/timeline/index.html",
+      "selectors": [
+        ".year",
+        ".month"
       ],
       "selectorExpansion": false
     }
