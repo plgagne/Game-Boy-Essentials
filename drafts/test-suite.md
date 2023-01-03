@@ -74,5 +74,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Objects
 
 {% include object.html type="pdf" %}
-{% include object.html type="mp3" %}
-{% include object.html type="mp4" %}
+{% include object.html type="audio" %}
+{% include object.html type="video" %}
