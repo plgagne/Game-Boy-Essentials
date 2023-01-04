@@ -3,9 +3,19 @@
 volume=3
 # This variable is one above the last volume to be bound
 last_volume=4
-cd book-binding
 # Make temp 
 mkdir "temp"
+if [ -r "temp/assets" ]; then
+		echo "Book-sized images exist."
+else 
+		echo "Book-sized images do not exist. Making them now."
+		mkdir "temp/assets"
+		cp -r "../assets/" "temp/assets/"
+		find "temp/assets" -type f -name '*.png' -print0 | while IFS= read -r -d '' line; do
+				echo $line
+				magick mogrify -interpolate nearest -filter point -resize 800% $line
+		done
+fi
 # Copy _site-local into temp
 cp -r "../_site-local/tag" "temp"
 # Run binding on each volume
