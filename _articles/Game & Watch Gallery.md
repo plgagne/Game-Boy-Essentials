@@ -19,7 +19,7 @@ developers: "Nintendo R&D1"
 
 {% include figure.html type="boxart" figcaption="Welcome once again to the world of Game & Watch!" %}
 
-### {{ page.description }}
+## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
 For years, my local game store had, behind its glass case, a *Donkey Kong* Game & Watch unit for sale for around forty-five dollars. Compared to prices you find online, this felt reasonable. I would look at it every time from behind the glass case, just admiring it. One day, I got bold and asked the employee if I could hold it. That was a mistake; once I had held the Game & Watch in my hands, I was hooked. Even though it had no batteries so I could not play it, just holding it in my hands really shook me; this was not what I was envisioning. I expected a device completely divorced from other Nintendo portables. Quite the contrary. It felt like I was holding a smaller, flimsier DS Lite. Peering over it, I saw defects that explained its low price. The metal top had lots of scratch marks and was starting to peel off. When open, it was missing both its decorated bottom panels. One of the metal inserts for the hinge was missing. The plastic clip to keep it closed was broken. All of those problems were minor. The store employee promised me it worked, and they’ve always been trustworthy.
