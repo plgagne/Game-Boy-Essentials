@@ -76,7 +76,8 @@ There is this saying amongst video game developers that [if given a chance playe
 
 *Kirby’s Dream Land* has Kirby flying indefinitely if you inhale air. It is a dead simple one-button move, which could definitely ruin the fun. Future games in the series will slow down Kirby’s flight speed and agility, and limit your flight time. There are no such limitations here; Kirby is legitimately flying fast by flapping its tiny little arms. However, the game is not optimizing the fun out of the platforming like *Super Mario World*.
 
-{% include figure.html type="gb" class="float right" %}
+{% include figure.html type="gb" %}
+
 How? The solution to the problem is actually wonderful because it uses the limitations of the Game Boy as a positive. Since the Game Boy has a limited resolution the play area in a platformer is small. In the case of *Kirby’s Dream Land*, the play area is around eight Kirbys tall. Compared to a game on a CRT that’s a very small play field above your characters’ head. The smaller play field, which cannot scroll up, keeps the player involved because Kirby cannot fly very high. You just hover close to the ground always under the threat of a jumping enemy hitting you. The game also includes many enemies who loiter around the top of the screen, giving you obstacles to avoid even when you’re in the air. So the small Game Boy screen actually makes a game more fun for once!
 
 ## Unique in Scale and Scope
