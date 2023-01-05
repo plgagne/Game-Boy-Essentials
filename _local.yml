@@ -3,4 +3,4 @@ host: localhost
 url: ""
 baseurl: ""
 destination: "_site-local"
-exclude: [/_site-local, /book-binding]
+exclude: [/_site-local, /book-binding, /backstopJS]
