@@ -17,7 +17,7 @@ developers: "Enix & TOSE"
 - Published by Enix
 - Developed by {{ page. developers }}
 
-{% include figure.html type="boxart-png" figcaption="Pure adventure." %}
+{% include figure.html type="boxart" figcaption="Pure adventure." %}
 
 The video game discussed here was created in part by composer Sugiyama Koichi, who has publicly and financially supported historical negationism of Japanese war atrocities for decades. His vile activism should never be forgotten.
 
