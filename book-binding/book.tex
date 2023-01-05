@@ -8,6 +8,26 @@
 \hyphenation{Nin-ten-do}
 \hyphenation{Mi-ya-mo-to}
 
+% Table Package
+\usepackage[table]{xcolor}
+\usepackage{tabulary}
+
+% Createspace: createspace.com/Products/Book/InteriorPDF.jsp
+% Geometry: texdoc.net/texmf-dist/doc/latex/geometry/geometry.pdf
+\usepackage[
+paperwidth=5.5in, 
+paperheight=8.5in,
+top=1.5cm,
+headheight=3.5mm,
+headsep=6mm,
+bottom=1.8cm,
+footskip=10mm,
+inner=2.29cm,
+outer=1.52cm,
+marginparsep=0cm,
+marginparwidth=0cm
+]{geometry}
+
 % Fonts Fonts Fonts !
 \usepackage{fontspec}
 \setmainfont{Adobe Caslon Pro}
@@ -67,29 +87,9 @@
 \let\oldendcenter\endcenter
 \renewenvironment{center}{\setlength\topsep{0pt}\oldcenter}{\oldendcenter}
 
-% Table Package
-\usepackage[table]{xcolor}
-\usepackage{tabulary}
-
 % Page Details
 % Show wireframes for development
 %\usepackage{showframe}
-
-% Createspace: createspace.com/Products/Book/InteriorPDF.jsp
-% Geometry: texdoc.net/texmf-dist/doc/latex/geometry/geometry.pdf
-\usepackage[
-paperwidth=5.5in, 
-paperheight=8.5in,
-top=1.5cm,
-headheight=3.5mm,
-headsep=6mm,
-bottom=1.8cm,
-footskip=10mm,
-inner=2.29cm,
-outer=1.52cm,
-marginparsep=0cm,
-marginparwidth=0cm
-]{geometry}
 
 % Define Chapters
 \usepackage{needspace}
@@ -125,6 +125,9 @@ marginparwidth=0cm
 \fancypagestyle{plain}{
 \fancyhf{}
 \fancyfoot[R]{\footerpokefont \thepage}}
+
+% Making printing compliant PDF
+%\usepackage[x-1a]{pdfx}
 
 % Begin Document
 \begin{document}
