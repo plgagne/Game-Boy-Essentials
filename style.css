@@ -171,13 +171,6 @@ div.date {
 	text-align: right;
 }
 /* Book Boxes */
-.book-container {
-	display: flex;
-	clear: both;
-	text-align: center;
-	flex-wrap: wrap;
-	justify-content: center;
-}
 .book {
 	vertical-align: top;
 	background: var(--dark-grey);
@@ -281,7 +274,8 @@ img {
 	-ms-interpolation-mode: nearest-neighbor;
 	vertical-align: bottom;
 }
-.gallery-container {
+.gallery-container,
+.book-container {
 	display: flex;
 	clear: both;
 	text-align: center;
