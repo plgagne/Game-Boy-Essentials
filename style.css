@@ -171,6 +171,13 @@ div.date {
 	text-align: right;
 }
 /* Book Boxes */
+.book-container {
+	display: flex;
+	clear: both;
+	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 .book {
 	vertical-align: top;
 	background: var(--dark-grey);
@@ -197,7 +204,7 @@ div.book-cover {
 	flex-direction: column;
 }
 .book img {
-	max-width: 100%;
+	width: 100%;
 	max-height: 100%;
 }
 .book a,
@@ -284,6 +291,7 @@ img {
 .gallery-container div {
 	margin-left: 0.15rem;
 	margin-right: 0.15rem;
+	max-width: 48%;
 }
 figure,
 video,
@@ -316,7 +324,7 @@ figcaption p {
 	margin-bottom: 0;
 }
 .art, .pixel {
-	width: 70%;
+	max-width: 70%;
 }
 .pixel img,
 .art img,
@@ -508,6 +516,6 @@ a:active {
 	margin: 0 auto;
 	}
 	.pixel, .art, .boxart {
-	width: 90%;
+	max-width: 90%;
 	}
 }
