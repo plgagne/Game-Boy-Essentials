@@ -436,19 +436,19 @@
     tags: [jp]
     cat: [hardware, nintendo, gb]
     source: 'https://nintendo.fandom.com/wiki/Game_Boy_Pocket'
-    note: 'The Gunpei Yokoi designed Game Boy Pocket is released in Japan for ¥6800.'
+    note: 'The Yokoi Gunpei designed Game Boy Pocket is released in Japan for ¥6800.'
 -
     time: '1996-08-01'
     tags: [jp, na]
     cat: [nintendo, news]
     source: 'https://en.wikipedia.org/wiki/Gunpei_Yokoi'
-    note: 'Gunpei Yokoi, father of the Game Boy and general manager of R&D1, leaves Nintendo for his own company, Koto Laboratory.'
+    note: 'Yokoi Gunpei, father of the Game Boy and general manager of R&D1, leaves Nintendo for his own company, Koto Laboratory.'
 -
     time: '1996-09-01'
     tags: [na]
     cat: [hardware, nintendo, gb]
     source: 'https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket'
-    note: 'The Gunpei Yokoi designed Game Boy Pocket is released in North America, retailing for $70 USD, a price increase of $10 compared to the current price of the original model. It also eschews a bundled game.'
+    note: 'The Yokoi Gunpei designed Game Boy Pocket is released in North America, retailing for $70 USD, a price increase of $10 compared to the current price of the original model. It also eschews a bundled game.'
 -
     time: '1996-09-01'
     tags: [na]
@@ -543,7 +543,7 @@
     time: '1999-03-01'
     tags: [na]
     source: 'https://en.wikipedia.org/wiki/WonderSwan'
-    note: 'The Wonderswan, designed by Gunpei Yokoi’s Koto Laboratory, is released in Japan.'
+    note: 'The Wonderswan, designed by Yokoi Gunpei’s Koto Laboratory, is released in Japan.'
 -
     time: '1999-05-01'
     tags: [na]

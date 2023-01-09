@@ -88,7 +88,7 @@ The review could start with a quote. You know, from a famous guy.
 
 ## Block Quotes
 
-> Iwata: Tezuka-san and Nakago-san, you two, along with Shigeru Miyamoto-san were known as the *Golden Triangle*, or the *Kansai Manzai (comedy) Trio*. And with Miyamoto-san as the central creator, you developed the original *The Legend of Zelda* game while you were working on the first *Super Mario Bros.* But his involvement with *The Legend of Zelda: Link’s Awakening*, the first handheld *Zelda* game, wasn’t that extensive, was it?
+> Iwata: Tezuka-san and Nakago-san, you two, along with Miyamoto-san were known as the *Golden Triangle*, or the *Kansai Manzai (comedy) Trio*. And with Miyamoto-san as the central creator, you developed the original *The Legend of Zelda* game while you were working on the first *Super Mario Bros.* But his involvement with *The Legend of Zelda: Link’s Awakening*, the first handheld *Zelda* game, wasn’t that extensive, was it?
 >
 > Tezuka: No.
 
