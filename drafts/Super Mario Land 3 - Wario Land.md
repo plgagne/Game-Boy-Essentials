@@ -19,11 +19,9 @@ developers: "Nintendo R&D1"
  
 {% include figure.html type="boxart" figcaption="" %}
 
-In his first video game appearance in *Super Mario Land 2*, Wario has taken over Mario's private island. This private abode for video game's most successful character has a giant statue of him, a private launchpad to the moon, his very own haunted house, and a gigantic palatial castle all for the famous plumber. What is interesting about this island is that it was devised by young developpers of R&D1, not by Miyamoto Shigeru. Those young developpers, including Wario's creator Kiyotake Hiroji, are egging on Mario's success. Mario is so sucessful he's got a castle and an enormous statue of himself. In a sense, they're egging on Miyamoto himself.
+In his first video game appearance in *Super Mario Land 2*, Wario has taken over Mario's private island. This private abode for video game's most successful character has a giant statue of him, a private hippopotamus launchpad to the moon, his very own haunted house, and a gigantic palatial castle all for the famous plumber. What is interesting about this island is that it was devised by young developpers of R&D1, not by Miyamoto Shigeru. Those young developpers, including Wario's creator Kiyotake Hiroji, were egging on Mario's success. Mario is so sucessful he's got a castle and an enormous statue of himself. In a sense, they were egging on Miyamoto himself.
 
-In that game, Wario's role is very much that of Bluto; Kiyotake has said so himself. He's an evil analogue of Mario jealous of his success so he stole his private island. Since they had trouble making a game that respected the Mario gameplay ethos before, changing your protagonist could solve their problems for them. Everybody enjoyed Wario's farcical take on Mario and he was promoted to hero of the sequel. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could make fun of them now.
-
-It might even be the case that R&D1 was told Mario no longer starred in sidescrollers. Super Mario Land 2 was the last 2D Mario game for more than a decade after all.
+In that game, Wario's role is very much that of Bluto; Kiyotake has said so himself. He's an evil analogue of Mario jealous of his success so he stole his private island. But they had trouble making a game that respected the Mario gameplay ethos, so they jumped on a great opportunity *Mario Land 2* gave them. Everybody enjoyed Wario's farcical take on Mario so he was promoted to protagonist of the sequel. Changing their protagonist could give them new exciting gameplay opportunities. With Wario, they could escape the straightjacket of a Super Mario game. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could make fun of them now.
 
 
 
@@ -41,3 +39,9 @@ Fuck. I love Wario so much.
 ## Further Reading
 
 An article about [the morals of Super Mario Land 3 on Kill Screen](http://killscreendaily.com/articles/ruthless-capitalism-wario-land-super-mario-3/).
+
+## Conclusion
+
+Nintendo releases one new title per franchise per console. They've been doing it since their earliest days, and they have rarely strayed from this formula. One new *Animal Crossing* game per console, one new *Legend of Zelda* game per console. Before the release of the Super Nintendo, however, the company had made sequels to their most iconic series: Super Mario had multiple Famicom titles. Altough the lineage gets complicated with the second game, *Super Mario Bros. 3* elevated the concepts of the previous titles while still being on the same hardware. 
+
+SO the two pseudo sequels here are kind of some sense of a traqnsition perhaps?
