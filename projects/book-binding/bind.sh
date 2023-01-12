@@ -10,7 +10,7 @@ if [ -r "temp/assets" ]; then
 else 
 		echo "Book-sized images do not exist. Making them now."
 		mkdir "temp/assets"
-		cp -r "../assets/" "temp/assets/"
+		cp -r "../projects/assets/" "temp/assets/"
 		find "temp/assets" -type f -name '*.png' -print0 | while IFS= read -r -d '' line; do
 				echo $line
 				magick mogrify -interpolate nearest -filter point -resize 800% $line

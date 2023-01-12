@@ -49,9 +49,9 @@ _site-local/
 
 # Book Binding #
 ######################
-book-binding/temp/
+temp/
 
 # BackstopJS #
 ######################
-backstop_data/html_report/
+html_report/
 bitmaps_test/
