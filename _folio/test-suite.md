@@ -1,10 +1,12 @@
 ---
 title: "Test Suite"
 description: "A Space for Tests"
-slug: "-test"
+slug: "0test"
 release-year: "1986"
 release-month: "07"
 developers: "Me!"
+layout: "article"
+weight: 6
 ---
 # {{ page.title }}
 
