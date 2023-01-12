@@ -1,10 +1,12 @@
 ---
 title: "Game Name"
 description: "Article Title"
-slug: ""
-release-year: ""
-release-month: ""
-publication-order: 
+slug: "cartridge id"
+release-year: "year of earliest release"
+release-month: "month of earliest release"
+publication-order:
+publication: "date of website publication"
+tags: [book#]
 developers: "Developers"
 ---
 # {{ page.title }}
@@ -60,7 +62,7 @@ It needs to be removed if you are not putting text underneath the image otherwis
 
 ## Gallery
 
-You can also build a gallery by putting your declarations inside a div. Do not forget to include gallery as a class. Remember that galleries are an either/or proposition: either they all have figcaption or none of them do (this is a LaTeX constraint).
+You can also build a gallery by putting your declarations inside a div. Galleries force two pictures side by side on a desktop display. Do not forget to include gallery as a class. Remember that galleries are an either/or proposition: either they all have figcaption or none of them do (this is a LaTeX constraint).
 
 ~~~ html
 <div class="gallery-container">
