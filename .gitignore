@@ -36,11 +36,15 @@
 ehthumbs.db
 Thumbs.db
 
+# Gemfile #
+######################
+.lock
+
 # Nova #
 ######################
 .nova/
 
-# Jekyll & Nova #
+# Jekyll #
 ######################
 .jekyll-cache/
 .jekyll-metadata
