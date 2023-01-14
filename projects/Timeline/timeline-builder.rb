@@ -12,7 +12,7 @@ contents = contents.gsub(/\r/, "")
 contents = contents.gsub(/>\n/, ">")
 # title and representative boxart
 
-contents = contents.gsub(/<header\ class=\"page-header\">(.*?)background-image:url\(https:\/\/gamefaqs\.gamespot\.com\/(.*?)\.jpg(.*?)page-title\">(.*?)\ &ndash;(.*?)\n/, " - title: \n  representative name: \"\\4\"\n  representative boxart: \"\\2.jpg\"\n\\5")
+contents = contents.gsub(/<header\ class=\"page-header\">(.*?)background-image:url\(https:\/\/gamefaqs\.gamespot\.com\/(.*?)\.jpg(.*?)page-title\">(.*?)\ &ndash;(.*?)\n/, " - game: \n  representative name: \"\\4\"\n  representative boxart: \"\\2.jpg\"\n\\5")
 
 # related version
 
