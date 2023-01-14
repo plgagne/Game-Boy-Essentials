@@ -1,5 +1,4 @@
 #!/bin/zsh
-
 # Copy Backup
 if [ -r "temp" ]; then
 		echo "Temporary timeline data is present."
@@ -20,25 +19,33 @@ total_number=$((gameboy_number+gbc_number))
 echo "Total number of titles in backup:" $total_number
 
 # Prune data.html files
+echo "Pruning data files"
 find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
-sed -i "" "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line"
-sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line"
-sed -i "" "/<script/,/<\/script>/d" "$line"
+sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
+sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
+sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
 done
 
 # Move data.html files to base
-find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
+echo "Moving pruned data files"
+find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
 dir="$(dirname $line)"   # Returns "/from/here/to"
 dir="$(basename $dir)"  # Returns just "to"
-mv "$line" "temp/$dir".txt
+mv "$line" "$line".tmp4
 done
 
 # Concatenate all files together
-find "temp" -iname "*.txt" -type f -exec cat "{}" >> "temp/timeline-temp.yaml" \;
+echo "Concatenating pruned data files"
+find "temp" -iname "*.tmp4" -type f -exec cat "{}" >> "temp/timeline-temp.yaml" \;
 # Remove concatenated files
-find "temp" -iname "*.txt" -type f -exec rm "{}" \;
-# Run Ruby code
+find "temp" -iname "*.tmp" -type f -exec rm "{}" \;
+# Run Ruby timeline builder
+echo "Running Ruby script"
 ruby timeline-builder.rb
-# Remove blank lines
+# Remove blank lines in YAML file
+echo "Removing blank lines in final file"
 grep '\S' 'results/timeline-complete-data.yaml' > 'tmp.txt'
 mv 'tmp.txt' 'results/timeline-complete-data.yaml'
+#yamllint -d "{extends: default, rules: {quoted-strings: enable}}" "results/timeline-complete-data.yaml"
+# Make timeline with only the releases
+#ruby "timeline-releases-only.rb"
