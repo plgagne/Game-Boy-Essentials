@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-file = File.open("/Users/plgagne/sitesuck/gbe-timeline.yaml", "rb")
+file = File.open("gbe-timeline.yaml", "rb")
 contents = file.read
 # Remove every instance of two spaces
 contents = contents.gsub(/  /, "")
