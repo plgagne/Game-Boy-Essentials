@@ -69,7 +69,7 @@ contents = contents.gsub(/"&nbsp;"/, "")
 # compilation
 
 contents = contents.gsub(/<div class="pod">.*?ompilation.*?<\/colgroup>/, "  compilations: \n")
-contents = contents.gsub(/<tr><td><a href=".*?">(.*?)<\/a><\/td><td>(.*?)<\/td><\/tr>/, "    - compilation: \n      - title: \"\\1\"\n      - platform: \"\\2\"\n")
+contents = contents.gsub(/<tr><td><a href=".*?">(.*?)<\/a><\/td><td>(.*?)<\/td><\/tr>/, "    - compilation: \n      - compilation-title: \"\\1\"\n      - platform: \"\\2\"\n")
 contents = contents.gsub(/<\/table><\/div><\/div>\n/, "")
 
 # contributor
@@ -98,17 +98,8 @@ contents = contents.gsub(/Toys "R" Us/, "Toys R Us")
 contents = contents.gsub(/Yu Yu Hakusho "2"/, "Yu Yu Hakusho 2")
 contents = contents.gsub(/Zool: Ninja of the "Nth" Dimension/, "Zool: Ninja of the Nth Dimension")
 contents = contents.gsub(/ It's a breakaway bash in this wild new Kirby game of Block Ball!.*?\n/, "")
-
-# Remove everything but releases
-map = {
-'- title:'=>'',
-'  representative name: "'=>'',
-'  representative boxart: "'=>''
-}
-map.each_pair {|f,t| contents.gsub! f, t}
-# Write changes to file
-File.open('/Users/plgagne/sitesuck/gbe-timeline-result.yaml', "w") {|file| file.puts contents}
-system("sed -i '' '/^$/d' '/Users/plgagne/sitesuck/gbe-timeline-result.yaml'")
-file = File.open("/Users/plgagne/sitesuck/gbe-timeline-result.yaml", "rb")
-contents = file.read
 contents = contents.gsub(/  /, "")
+# Write changes to file
+File.open('gbe-timeline-result.yml', "w") {|file| file.puts contents}
+system("sed -i '' '/^$/d' gbe-timeline-result.yml'")
+file = File.open("gbe-timeline-result.yml", "rb")
