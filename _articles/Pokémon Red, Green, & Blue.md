@@ -1,5 +1,5 @@
 ---
-title: "Pokémon: Red, Green & Blue"
+title: "Pokémon: Red, Green, & Blue"
 description: "A Game Boy Resurrection"
 slug: "dmg-apee"
 release-date: "1996-02-27"
