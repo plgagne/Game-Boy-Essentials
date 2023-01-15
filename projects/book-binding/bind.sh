@@ -1,6 +1,6 @@
 #!/bin/zsh
 # This variable is the first volume to be bound
-volume=3
+volume=1
 # This variable is one above the last volume to be bound
 last_volume=4
 # Make temp 
