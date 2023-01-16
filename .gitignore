@@ -36,9 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
-# Nova #
+# Nova & VS Code#
 ######################
 .nova/
+.vscode/
 
 # Jekyll #
 ######################
