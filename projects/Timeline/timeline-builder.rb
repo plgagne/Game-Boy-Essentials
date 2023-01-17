@@ -116,5 +116,8 @@ contents = contents.gsub(/release date: "December ([1-2])([0-9])([0-9])([0-9])"/
 contents = contents.gsub(/release date: \"TBA/, "release date: \"0000")
 contents = contents.gsub(/release date: \"Canceled/, "release date: \"0000")
 
+# Adjusting the market from US to NA
+contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
+
 # Write changes to file
 File.open('results/timeline-complete-data.yaml', "w") {|file| file.puts contents}
