@@ -41,6 +41,10 @@ Thumbs.db
 .nova/
 .vscode/
 
+# Gemfile #
+######################
+Gemfile.lock
+
 # Jekyll #
 ######################
 .jekyll-cache/
