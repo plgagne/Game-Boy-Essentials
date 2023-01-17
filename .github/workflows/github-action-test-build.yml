@@ -22,4 +22,3 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'jekyll-build'
-        build_only: true
