@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-file = File.open("temp/timeline-temp.yaml", "rb")
+file = File.open("temp/timeline-temp.yml", "rb")
 contents = file.read
 
 # Remove every instance of two spaces
@@ -117,4 +117,4 @@ contents = contents.gsub(/release date: \"TBA/, "release date: \"0000")
 contents = contents.gsub(/release date: \"Canceled/, "release date: \"0000")
 
 # Write changes to file
-File.open('results/timeline-complete-data.yaml', "w") {|file| file.puts contents}
+File.open('results/timeline-complete-data.yml', "w") {|file| file.puts contents}
