@@ -28,17 +28,15 @@
 			<span>Europe</span>
 		</div>
 	</label>
-{%- assign timeline-type = "world" -%}
-{%- assign timeline-step = 1 -%}
-{%- if timeline-step < 5 -%}
+{%- assign timeline-type = "all" -%}
+{%- for timeline-step in (1..4) -%}
 	<section id="timeline-{{ timeline-type }}">
 	{%- assign variable_year = 0 -%}
 	{%- assign variable_month = 0 -%}
-	{%- if timeline-step > 1 -%}
-		{%- assign timeline_sorted = site.data.timeline | where: "tags", "{{ timeline-type }}" | sort: "time" -%}
-	{%- else -%}
-		{%- assign timeline_sorted = site.data.timeline | sort: "time" -%}
-	{%- endif -%}
+	{%- if timeline-step == 1 -%}{%- assign timeline_sorted = site.data.timeline | sort: "time" -%}{%- endif -%}
+	{%- if timeline-step == 2 -%}{%- assign timeline_sorted = site.data.timeline | where: "tags", "jp" | sort: "time" -%}{%- endif -%}
+	{%- if timeline-step == 3 -%}{%- assign timeline_sorted = site.data.timeline | where: "tags", "na" | sort: "time" -%}{%- endif -%}
+	{%- if timeline-step == 4 -%}{%- assign timeline_sorted = site.data.timeline | where: "tags", "eu" | sort: "time" -%}{%- endif -%}
 	{%- for object in timeline_sorted -%}
 		{%- assign object_year = object.time | date: "%Y" -%}
 		{%- assign object_month = object.time | date: "%B" -%}
@@ -72,7 +70,5 @@
 	{%- if timeline-step == 3 -%}{%- assign timeline-type = "eu" -%}{%- endif -%}
 	{%- if timeline-step == 2 -%}{%- assign timeline-type = "na" -%}{%- endif -%}
 	{%- if timeline-step == 1 -%}{%- assign timeline-type = "jp" -%}{%- endif -%}
-	{%- assign timeline-step = {{ timeline-step }} | plus: 1 -%}
-{%- else -%}
-{%- endif -%}
+{%- endfor -%}
 </div>
