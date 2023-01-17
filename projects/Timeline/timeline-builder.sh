@@ -1,28 +1,28 @@
 #!/bin/zsh
 # Copy Backup
 if [ -r "temp" ]; then
-		echo "Temporary timeline data is present."
+	echo "Temporary timeline data is present."
 else 
-		echo "Copying temporary timeline data now."
-		mkdir "temp"
-		cp -R "/Users/plgagne/Documents/Game Boy Essentials Others/timeline project backup" "temp"
-		echo "Done copying."
+	echo "Copying temporary timeline data now."
+	mkdir "temp"
+	cp -R "/Users/plgagne/Documents/Game Boy Essentials Others/timeline project backup" "temp"
+	echo "Done copying."
 fi
 
 # Prune data.html files
 echo "Pruning data files"
 find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
-sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
-sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
-sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
+	sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
+	sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
+	sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
 done
 
 # Move data.html files to base
 echo "Moving pruned data files"
 find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
-dir="$(dirname $line)"   # Returns "/from/here/to"
-dir="$(basename $dir)"  # Returns just "to"
-mv "$line" "$line".tmp4
+	dir="$(dirname $line)"   # Returns "/from/here/to"
+	dir="$(basename $dir)"  # Returns just "to"
+	mv "$line" "$line".tmp4
 done
 
 # Concatenate all files together
@@ -44,10 +44,14 @@ mv 'tmp.txt' 'results/timeline-complete-data.yaml'
 # Prepending YAML start of file symbols
 echo "---" | cat - 'results/timeline-complete-data.yaml' > 'temp/out'
 mv 'temp/out' 'results/timeline-complete-data.yaml'
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-complete-data.yaml"
 
 # Make timeline with only the releases
-#ruby "timeline-releases-only.rb"
+ruby "timeline-releases-only.rb"
+
+# Validation check
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-complete-data.yaml"
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-releases-only.yaml"
+
 
 # Compare number of titles
 gameboy_number=$(find "temp/timeline project backup/gamefaqs.gamespot.com/gameboy" -mindepth 1 -maxdepth 1 -type d | wc -l)
