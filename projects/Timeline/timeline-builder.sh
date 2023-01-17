@@ -27,7 +27,7 @@ done
 
 # Concatenate all files together
 echo "Concatenating pruned data files"
-find "temp" -iname "*.tmp4" -type f -exec cat "{}" >> "temp/timeline-temp.yaml" \;
+find "temp" -iname "*.tmp4" -type f -exec cat "{}" >> "temp/timeline-temp.yml" \;
 
 # Remove concatenated files
 find "temp" -iname "*.tmp" -type f -exec rm "{}" \;
@@ -38,25 +38,25 @@ ruby timeline-builder.rb
 
 # Remove blank lines in YAML file
 echo "Removing blank lines in final file"
-grep '\S' 'results/timeline-complete-data.yaml' > 'tmp.txt'
-mv 'tmp.txt' 'results/timeline-complete-data.yaml'
+grep '\S' 'results/timeline-complete-data.yml' > 'tmp.txt'
+mv 'tmp.txt' 'results/timeline-complete-data.yml'
 
 # Prepending YAML start of file symbols
-echo "---" | cat - 'results/timeline-complete-data.yaml' > 'temp/out'
-mv 'temp/out' 'results/timeline-complete-data.yaml'
+echo "---" | cat - 'results/timeline-complete-data.yml' > 'temp/out'
+mv 'temp/out' 'results/timeline-complete-data.yml'
 
 # Make timeline with only the releases
 ruby "timeline-releases-only.rb"
 
 # Validation check
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-complete-data.yaml"
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-releases-only.yaml"
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-complete-data.yml"
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-releases-only.yml"
 
 
 # Compare number of titles
 gameboy_number=$(find "temp/timeline project backup/gamefaqs.gamespot.com/gameboy" -mindepth 1 -maxdepth 1 -type d | wc -l)
 gbc_number=$(find "temp/timeline project backup/gamefaqs.gamespot.com/gbc" -mindepth 1 -maxdepth 1 -type d | wc -l)
-timeline_number=$(grep -o "game:" "results/timeline-complete-data.yaml" | wc -l)
+timeline_number=$(grep -o "game:" "results/timeline-complete-data.yml" | wc -l)
 echo "Number of Game Boy titles in backup:" $gameboy_number
 echo "Number of Game Boy Color titles in backup:" $gbc_number
 total_number=$((gameboy_number+gbc_number))
