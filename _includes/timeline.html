@@ -32,11 +32,9 @@
 {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
 {% assign releases_sorted=releases_sorted | concat: timeline_sorted %}
 
-<div class="gallery-container">
 {% for release in releases_sorted %}
-<figure class="boxart gallery"><img src="/assets/timeline{{ release.boxart }}" width="240px" alt="{{ release.title }}"><figcaption><p>{{ release.release_date }}</p></figcaption></figure>
+<img loading="lazy" src="/assets/timeline{{ release.boxart }}" {% imagesize "/assets/timeline{{ release.boxart }}":props %} alt="{{ release.title }}">
 {% endfor %}
-</div>
 
 
 {%- assign timeline-type = "all" -%}
