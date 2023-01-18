@@ -240,8 +240,6 @@ ul,
 ol {
 	margin-bottom: 1em;
 	font-size: 1.05rem;
-	max-width: 68ch;
-	margin: 0 auto;
 }
 strong {
 	font-weight: bold;
