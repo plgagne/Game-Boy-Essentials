@@ -1,746 +1,424 @@
--
-    time: '2001-06-01'
-    tags: [eu]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/580336-3d-pocket-pool/data'
-    note: '[*3D Pocket Pool*](/articles/cgb-bvpp) is released in Europe.'
--
-    time: '2001-06-01'
-    tags: [eu]
-    cat: [hardware, gba]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
-    note: 'The Game Boy Advance is released in Europe.'
--
-    time: '2000-10-01'
-    tags: [eu]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/250594-heroes-of-might-and-magic/data'
-    note: '[*Heroes of Might & Magic*](/articles/cgb-auhe/) is released in Europe.'
--
-    time: '2000-04-01'
-    tags: [na]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/250594-heroes-of-might-and-magic/data'
-    note: '[*Heroes of Might & Magic*](/articles/cgb-auhe/) is released in North America.'
--
-    time: '2001-03-01'
-    tags: [eu]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/579223-heroes-of-might-and-magic-ii/data'
-    note: '[*Heroes of Might & Magic II*](/articles/cgb-buhe/) is released in Europe.'
--
-    time: '2000-12-01'
-    tags: [na]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/579223-heroes-of-might-and-magic-ii/data'
-    note: '[*Heroes of Might & Magic II*](/articles/cgb-buhe/) is released in North America.'
--
-    time: '2001-02-01'
-    tags: [na]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/472309-disney-pixar-toy-story-racer/data'
-    note: '[*Disney⋅Pixar Toy Story Racer*](/articles/cgb-bt5e/) is released in North America.'
--
-    time: '2001-03-01'
-    tags: [eu]
-    cat: [game, gbc]
-    source: 'https://gamefaqs.gamespot.com/gbc/472309-disney-pixar-toy-story-racer/data'
-    note: '[*Disney⋅Pixar Toy Story Racer*](/articles/cgb-bt5e/) is released in Europe.'
--
-    time: '1980-04-01'
-    tags: [jp]
-    cat: [hardware, nintendo, g&w]
-    source: 'http://www.intheattic.co.uk/ball.htm'
-    note: '*Ball*, the first Game & Watch, is released in Japan.'
--
-    time: '1983-07-01'
-    tags: [jp]
-    cat: [hardware, nintendo, nes]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
-    note: 'The Family Computer is released in Japan.'
--
-    time: '1985-10-01'
-    tags: [na]
-    cat: [hardware, nintendo, nes]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
-    note: 'The NES is released in the New York market as a test bed for a staggered release of the console. It will see a full North American release in September 1986.'
--
-    time: '1986-09-01'
-    tags: [na]
-    cat: [hardware, nintendo, nes]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
-    note: 'The NES is released in North America. It was released in a limited fashion starting with the New York market the year before.'
--
-    time: '1989-01-01'
-    tags: [na]
-    cat: [hardware, lynx]
-    source: 'https://en.wikipedia.org/wiki/Atari_Lynx'
-    note: 'Epyx publicly unveils the Handy at CES, which will become the Lynx later in the year.'
--
-    time: '1989-04-01'
-    tags: [jp]
-    cat: [hardware, nintento, gb]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy'
-    note: 'Game Boy is released in Japan for ¥12,500 with [*Super Mario Land*](articles/dmg-ml), *Alleyway*, *Baseball*, and *Yakuman*. No game is bundled with the unit, as is customary in Japan.'
--
-    time: '1989-06-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585960-tetris/data'
-    note: '[*Tetris*](articles/dmg-tr) is released in Japan.'
--
-    time: '1989-07-01'
-    tags: [na]
-    cat: [hardware, nintendo, gb]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy'
-    source2: 'https://christmas.musetechnical.com/ShowCatalogPage/1989-Sears-Christmas-Book/412'
-    note: 'Game Boy is released in North America for $90 USD with [*Super Mario Land*](articles/dmg-ml), *Alleyway*, *Baseball*, and *Tennis*. [*Tetris*](articles/dmg-tr) is of course bundled with the system.'
--
-    time: '1989-09-01'
-    tags: [na]
-    cat: [hardware, lynx]    
-    source: 'https://en.wikipedia.org/wiki/Atari_Lynx'
-    note: 'Atari releases the Lynx for $179 in North America.'
--
-    time: '1989-09-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585649-the-bugs-bunny-crazy-castle/data'
-    note: '*Mickey Mouse* is released in Japan, which will become [*The Bugs Bunny Crazy Castle*](articles/dmg-bb) upon its North American release.'
--
-    time: '1989-09-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-    note: '[*Motocross Maniacs*](articles/dmg-mx) is released in Japan. It is Konami''s first Game Boy title.'
--
-    time: '1989-09-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-    note: '[*Motocross Maniacs*](articles/dmg-mx) is released in North America. It is Konami''s first Game Boy title.'
--
-    time: '1989-12-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563273-the-final-fantasy-legend/data'
-    note: '*Makai Toushi SaGa*, the first RPG for the Game Boy, is released in Japan. It will become [*The Final Fantasy Legend*](articles/dmg-sa) upon its release in North America.'
--
-    time: '1989-12-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585938-the-sword-of-hope/data'
-    note: '*Selection: Erabareshi Mono* is released in Japan. It will become [*The Sword of Hope*](articles/dmg-se) upon its release in North America.'
--
-    time: '1990-01-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563293-solar-striker/data'
-    note: '[*Solar Striker*](articles/dmg-ss) is released in Japan.'
--
-    time: '1990-02-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563293-solar-striker/data'
-    note: '[*Solar Striker*](articles/dmg-ss) is released in North America.'
--
-    time: '1990-02-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585827-nemesis/data'
-    note: '[*Nemesis*](articles/dmg-nm) is released in Japan.'
--
-    time: '1990-03-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585649-the-bugs-bunny-crazy-castle/data'
-    note: '[*The Bugs Bunny Crazy Castle*](articles/dmg-bb) is released in North America.'
--
-    time: '1990-04-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585827-nemesis/data'
-    note: '[*Nemesis*](articles/dmg-nm) is released in North America.'
--
-    time: '1990-09-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563273-the-final-fantasy-legend/data'
-    note: '[*The Final Fantasy Legend*](articles/dmg-sa) is released in North America.'
--
-    time: '1990-10-01'
-    tags: [jp]
-    cat: [hardware, sega]
-    source: 'https://en.wikipedia.org/wiki/Game_Gear'
-    note: 'The Sega Game Gear is released in Japan for ¥19,800.'
--
-    time: '1990-11-01'
-    tags: [jp]
-    cat: [hardware, nintendo, snes]
-    source: 'https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System'
-    note: 'The Super Famicom is released in Japan.'
--
-    time: '1990-12-01'
-    tags: [jp, na]
-    cat: [hardware, turboexpress]
-    source: 'https://en.wikipedia.org/wiki/TurboExpress'
-    note: 'The TurboExpress is released in Japan for ¥44,800 and North America for $249.'
--
-    time: '1991-01-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563289-operation-c/data'
-    note: 'The Japanese version of [*Operation C*](articles/dmg-cn), called simply *Contra*, is released.'
--
-    time: '1991-02-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563289-operation-c/data'
-    note: '[*Operation C*](articles/dmg-cn) is released in North America.'
--
-    time: '1991-03-01'
-    tags: [jp, na]
-    cat: [hardware, turboexpress, pricedrop]
-    source: 'http://archives.tg-16.com/TURBOPLAY/TP-05-11.jpg'
-    note: 'NEC temporarily raises the price of the TurboExpress due to low screen yields.'
--
-    time: '1991-04-01'
-    tags: [na]
-    cat: [hardware, sega]
-    source: 'https://en.wikipedia.org/wiki/Game_Gear'
-    note: 'The Sega Game Gear is released in North America for $149.'
--
-    time: '1991-06-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585938-the-sword-of-hope/data'
-    note: '[*The Sword of Hope*](articles/dmg-se) is released in North America by Seika.'
--
-    time: '1991-06-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563272-final-fantasy-adventure/data'
-    note: '*Seiken Densetsu: Final Fantasy Gaiden* is released in Japan. It will become [*Final Fantasy Adventure*](articles/dmg-ff/) upon release in North America.'
--
-    time: '1991-07-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://megaman.fandom.com/wiki/Mega_Man:_Dr._Wily%27s_Revenge'
-    note: '*Rockman World* is released in Japan. It will become [*Mega Man: Dr. Wily’s Revenge*](articles/dmg-rw/) when it is released in North America.'
--
-    time: '1991-08-01'
-    tags: [na]
-    cat: [hardware, nintendo, snes]
-    source: 'https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System'
-    note: 'The Super Nintendo is released in North America.'
--
-    time: '1991-10-01'
-    tags: [jp, na]
-    cat: [hardware, nintendo, g&w]
-    source: 'https://www.mariowiki.com/Mario_the_Juggler'
-    note: '*Mario the Juggler*, the last Game & Watch game, is released.'
--
-    time: '1991-11-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563272-final-fantasy-adventure/data'
-    note: '[*Final Fantasy Adventure*](articles/dmg-ff/) is released in North America.'
--
-    time: '1991-11-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus'
-    note: '[*Metroid II: Return of Samus*](articles/dmg-me/) is released in North America.'
--
-    time: '1991-12-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://megaman.fandom.com/wiki/Mega_Man:_Dr._Wily%27s_Revenge'
-    note: '[*Mega Man: Dr. Wily’s Revenge*](articles/dmg-rw/), developed by Minakuchi Engineering, is released in North America.'
--
-    time: '1991-12-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://megaman.fandom.com/wiki/Mega_Man_II'
-    note: '[*Rockman World 2*](articles/dmg-w2/), developed by Biox, is released in Japan.'
--
-    time: '1992-01-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus'
-    note: '[*Metroid II: Return of Samus*](articles/dmg-me/) is released in Japan.'
--
-    time: '1992-02-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://megaman.fandom.com/wiki/Mega_Man_II'
-    note: '[*Mega Man II*](articles/dmg-w2/), developed by Biox, is released in North America.'
--
-    time: '1992-10-01'
-    tags: [na]
-    cat: [hardware, nintendo, pricedrop]
-    source: 'https://christmas.musetechnical.com/ShowCatalogPage/1992-Sears-Christmas-Book/494'
-    note: 'The price of the Game Boy is decreased by $10 to $80 USD at some point during the year, with the price drop evidently in force during the holiday period.'
--
-    time: '1992-10-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://www.mariowiki.com/Super_Mario_Land_2:_6_Golden_Coins'
-    note: '[*Super Mario Land 2: 6 Golden Coins*](articles/dmg-mq/) is released in Japan.'
--
-    time: '1992-11-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://www.mariowiki.com/Super_Mario_Land_2:_6_Golden_Coins'
-    note: '[*Super Mario Land 2: 6 Golden Coins*](articles/dmg-mq/) is released in North America.'
--
-    time: '1993-06-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://www.zeldadungeon.net/wiki/The_Legend_of_Zelda:_Link%27s_Awakening'
-    note: '[*The Legend of Zelda: Link’s Awakening*](articles/dmg-zl/) is released in Japan.'
--
-    time: '1993-08-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://www.zeldadungeon.net/wiki/The_Legend_of_Zelda:_Link%27s_Awakening'
-    note: '[*The Legend of Zelda: Link’s Awakening*](articles/dmg-zl/) is released in North America.'
--
-    time: '1993-10-01'
-    tags: [na]
-    cat: [hardware, nintendo, nes]
-    source: 'https://gamefaqs.gamespot.com/nes/916386-nes/data'
-    note: 'The NES Top Loader is released in North America.'
--
-    time: '1994-05-01'
-    tags: [jp]
-    cat: [hardware, nintendo, gb, pricedrop]
-    source: 'http://www.gamegyokai.com/history/gb.htm'
-    note: 'The original DMG-01 Game Boy, after a number of price cuts, ends up at ¥8000 in Japan.'
--
-    time: '1994-06-01'
-    tags: [jp, na]
-    cat: [hardware, software, nintendo, snes, gb]
-    source: 'https://gamefaqs.gamespot.com/snes/588731-super-game-boy/data'
-    note: '*Super Game Boy* is released in North America and Japan.'
--
-    time: '1994-10-01'
-    tags: [na]
-    cat: [gb, esrb, news]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563302-wario-blast-featuring-bomberman/images/145459'
-    note: 'The first Game Boy game to use the ESRB rating system is released. It is Nintendo’s collaboration with Hudson, *Wario Blast: Featuring Bomberman!* The ESRB was officially unveiled the previous month.'
--
-    time: '1994-10-01'
-    tags: [na]
-    cat: [hardware, nintendo, gb, pricedrop]
-    source: 'http://catalogues.quebec/sears/'
-    note: 'In my beloved Québec Christmas Sears catalogue, a Game Boy without any bundled game is sold for 60$ CDN. It appears the system is sold for the same price (USD $60) in the United States.'
--
-    time: '1994-11-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585756-itchy-and-scratchy-in-miniature-golf-madness/data'
-    note: 'Unfortunately, [*Itchy & Scratchy—Miniature Golf Madness*](articles/dmg-yh/) is released in North America.'
--
-    time: '1995-02-01'
-    tags: [na]
-    cat: [gb, esrb, news]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585685-desert-strike-return-to-the-gulf/images/138573'
-    note: 'The first third-party Game Boy game to feature an ESRB rating, *Desert Strike: Return to the Gulf*, is released. All released Game Boy games will be rated after the end of February.'
--
-    time: '1995-03-01'
-    tags: [na]
-    cat: [hardware, nintendo, gb]
-    source: 'https://gameboy.fandom.com/wiki/Game_Boy_Play_it_Loud_campaign'
-    note: 'Nintendo releases coloured Game Boy models in North America for $60 USD, under the umbrella of the *Play It Loud!* Campaign. The price was carried over from the regular grey model.'
--
-    time: '1995-03-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://www.mariowiki.com/Mario%27s_Picross'
-    note: '[*Mario’s Picross*](articles/dmg-apce/) is released in Japan.'
--
-    time: '1995-03-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://www.mariowiki.com/Mario%27s_Picross'
-    note: '[*Mario’s Picross*](articles/dmg-apce/) is released in North America.'
--
-    time: '1995-04-01'
-    tags: [eu]
-    cat: [game, gb]
-    source: 'https://nintendo.fandom.com/wiki/Game_Boy_Gallery'
-    note: '[*Game Boy Gallery*](articles/dmg-agga/) is released in Europe. I could not confirm which countries in Europe. It is also released in Australia within the same year.'
--
-    time: '1995-06-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://tcrf.net/Donkey_Kong_Land'
-    note: '[*Donkey Kong Land*](articles/dmg-yt/) is released in North America.'
--
-    time: '1995-07-01'
-    tags: [jp]
-    cat: [hardware, nintendo, vb]
-    source: 'https://gamefaqs.gamespot.com/virtualboy/918745-virtualboy/data'
-    note: 'The Virtual Boy is released in Japan.'
--
-    time: '1995-07-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://tcrf.net/Donkey_Kong_Land'
-    note: '[*Donkey Kong Land*](articles/dmg-yt/) is released in Japan as *Donkey Kong GB*.'
--
-    time: '1995-08-01'
-    tags: [na]
-    cat: [hardware, nintendo, vb]
-    source: 'https://gamefaqs.gamespot.com/virtualboy/918745-virtualboy/data'
-    note: 'The Virtual Boy is released in North America.'
--
-    time: '1995-10-01'
-    tags: [na]
-    cat: [hardware, sega]
-    source: 'https://en.wikipedia.org/wiki/Comparison_of_handheld_game_consoles'
-    note: 'The Sega Nomad is released, exclusively in North America, for $180.'
--
-    time: '1995-11-01'
-    tags: [na]
-    cat: [game, vb]
-    source: 'https://www.giantbomb.com/virtual-boy-wario-land/3030-2412/releases/'
-    note: '*Virtual Boy Wario Land* is released in North America.'
--
-    time: '1995-11-01'
-    tags: [jp]
-    cat: [game, vb]
-    source: 'https://www.giantbomb.com/virtual-boy-wario-land/3030-2412/releases/'
-    note: '*Virtual Boy Wario Land* is released in Japan.'
--
-    time: '1996-03-01'
-    tags: [na]
-    cat: [game, vb]
-    source: 'https://www.giantbomb.com/3d-tetris/3030-17439/'
-    note: '*Tetris 3D*, the last North American released Virtual Boy game, marks the end of Nintendo’s support for the console.'
--
-    time: '1996-05-01'
-    tags: [na]
-    cat: [gb, snes, nintendo, news]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_Selects#1996%E2%80%932010:_Player’s_Choice'
-    note: 'Nintendo announces the Player’s Choice program for SNES and Game Boy. An exhaustive list of Game Boy Players’ Choice and their releases elude me.'
--
-    time: '1996-06-01'
-    tags: [jp]
-    cat: [hardware, nintendo, n64]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_64'
-    note: 'The Nintendo 64 is released in Japan.'
--
-    time: '1996-07-01'
-    tags: [jp]
-    cat: [hardware, nintendo, gb]
-    source: 'https://nintendo.fandom.com/wiki/Game_Boy_Pocket'
-    note: 'The Yokoi Gunpei designed Game Boy Pocket is released in Japan for ¥6800.'
--
-    time: '1996-08-01'
-    tags: [jp, na]
-    cat: [nintendo, news]
-    source: 'https://en.wikipedia.org/wiki/Gunpei_Yokoi'
-    note: 'Yokoi Gunpei, father of the Game Boy and general manager of R&D1, leaves Nintendo for his own company, Koto Laboratory.'
--
-    time: '1996-09-01'
-    tags: [na]
-    cat: [hardware, nintendo, gb]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket'
-    note: 'The Yokoi Gunpei designed Game Boy Pocket is released in North America, retailing for $70 USD, a price increase of $10 compared to the current price of the original model. It also eschews a bundled game.'
--
-    time: '1996-09-01'
-    tags: [na]
-    cat: [hardware, nintendo, n64]
-    source: 'https://en.wikipedia.org/wiki/Nintendo_64'
-    note: 'The Nintendo 64 is released in North America.'
--
-    time: '1996-10-01'
-    tags: [na]
-    cat: [game, gb]
-    source: 'https://tcrf.net/Donkey_Kong_Land_2'
-    note: '[*Donkey Kong Land 2*](articles/dmg-adde/) is released in North America.'
--
-    time: '1996-11-01'
-    tags: [jp]
-    cat: [hardware, tamagotchi, news]
-    source: 'https://en.wikipedia.org/wiki/Tamagotchi'
-    note: 'The first Bandai developed Tamagotchi is released in Japan. It will be an immediate runaway success.'
--
-    time: '1996-11-01'
-    tags: [jp]
-    cat: [game, gb]
-    source: 'https://tcrf.net/Donkey_Kong_Land_2'
-    note: '[*Donkey Kong Land 2*](articles/dmg-adde/) is released in Japan as *Donkey Kong Land: Diddy’s Kong Quest*.'
--
-    time: '1996-12-01'
-    tags: [jp, na]
-    cat: [game, sega, gamegear]
-    source: 'https://gamefaqs.gamespot.com/gamegear/586802-sonic-blast/data'
-    note: '*Sonic Blast* is released for Game Gear in Japan and North America, the last major release on the console.'
--
-    time: '1997-05-01'
-    tags: [na]
-    cat: [hardware, tamagotchi, news]
-    source: 'https://en.wikipedia.org/wiki/Tamagotchi'
-    note: 'The first Bandai developed Tamagotchi is released in North America. It was first released the year before in Japan. It will kick-start a fad that will last a couple of years.'
--
-    time: '1997-10-01'
-    tags: [jp, na]
-    cat: [news]
-    source: 'https://en.wikipedia.org/wiki/Gunpei_Yokoi'
-    note: 'Gunpei Yokoi is killed in a car accident. He was 56.'
--
-    time: '1998-01-01'
-    tags: [jp]
-    cat: [hardware, nintendo, gb, snes]
-    source: 'https://gamefaqs.gamespot.com/snes/588731-super-game-boy/data'
-    note: '*Super Game Boy 2* is released in Japan only.'
--
-    time: '1998-04-01'
-    tags: [jp]
-    cat: [hardware, nintendo, gb]
-    source: 'https://nintendo.fandom.com/wiki/Game_Boy_Light'
-    note: 'The Game Boy Light is released exclusively in Japan for the same price as the Game Boy Pocket, ¥6800.'
--
-    time: '1998-04-01'
-    tags: [na]
-    cat: [game, gb, news]
-    source: 'https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend'
-    note: 'Sunsoft announces a reprint of all four early Game Boy Squaresoft titles; they have no new features or changes.'
--
-    time: '1997-04-01'
-    tags: [jp]
-    cat: [pokémon, tv, news]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/EP001'
-    note: 'The first episode of the *Pokémon* anime is aired in Japan on TV Tokyo.'
--
-    time: '1998-04-01'
-    tags: [na]
-    cat: [pokémon, tv, news]
-    source: 'https://en.wikipedia.org/wiki/Pokémon_%28anime%29#Airing_and_production'
-    note: 'The first episode of the *Pokémon* anime is aired in the United States on first run syndication.'
--
-    time: '1998-08-01'
-    tags: [jp]
-    cat: [game, gb, pokémon]
-    source: 'https://www.giantbomb.com/pokemon-yellow-special-pikachu-edition/3030-18673/releases/'
-    note: '*Pokémon Yellow Version* is released in Japan.'
--
-    time: '1998-10-01'
-    tags: [jp]
-    cat: [gbc, hardware, nintendo]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Color'
-    note: 'The Game Boy Color is released in Japan for ¥8900.'
--
-    time: '1998-11-01'
-    tags: [na]
-    cat: [gbc, hardware, nintendo]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Color'
-    note: 'The Game Boy Color is released in North America with *Tetris DX*, *Wario Land II* and *Pocket Bomberman* as release titles.'
--
-    time: '1999-03-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/WonderSwan'
-    note: 'The Wonderswan, designed by Yokoi Gunpei’s Koto Laboratory, is released in Japan.'
--
-    time: '1999-05-01'
-    tags: [na]
-    source: 'https://www.mariowiki.com/Super_Mario_Bros._Deluxe'
-    note: '*Super Mario Bros. Deluxe* is released in North America. It is according to my own research the first Game Boy Color-only release in North America.'
--
-    time: '1999-09-01'
-    tags: [na]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/Pokémon_Yellow_Version'
-    note: '*Pokémon Yellow Version* is released in North America. It is the last cartridge released in North America using the Game Boy wordmark on the box. It is Game Boy Color enhanced, however.'
--
-    time: '2000-03-01'
-    tags: [jp]
-    source: 'https://www.mariowiki.com/Super_Mario_Bros._Deluxe'
-    note: '*Super Mario Bros. Deluxe* is released in Japan as a Nintendo Power kiosk release.'
--
-    time: '2000-12-01'
-    tags: [jp]
-    source: 'https://en.wikipedia.org/wiki/WonderSwan'
-    note: 'The Wonderswan Color is released in Japan.'
--
-    time: '2001-02-01'
-    tags: [na]
-    source: 'https://www.gamesasylum.com/2014/07/18/majesco-and-the-sega-game-gears-second-lease-of-life/'
-    note: 'Majesco Entertainment announces a budget rerelease of the Game Gear priced at $30 with reissues of ten games priced at $15 each.'
--
-    time: '2001-03-01'
-    tags: [jp]
-    source: 'https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters_2'
-    note: '*Dragon Warrior Monsters 2* is released in Japan. It is the last cartridge compatible with the original Game Boy.'
--
-    time: '2001-03-21'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
-    note: 'The Game Boy Advance is released in Japan for ¥9800.'
--
-    time: '2001-06-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
-    note: 'The Game Boy Advance is released in North America.'
--
-    time: '2001-09-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters_2'
-    note: '*Dragon Warrior Monsters 2* is released in North America. It is the last cartridge compatible with the original Game Boy.'
--
-    time: '2002-02-01'
-    tags: [jp]
-    source: 'http://www.gamegyokai.com/history/gb.htm'
-    note: 'The Game Boy Advance receives a price cut in Japan. It is now sold for ¥8800.'
--
-    time: '2002-07-01'
-    tags: [jp]
-    source: 'https://en.wikipedia.org/wiki/WonderSwan'
-    note: 'The SwanCrystal is released in Japan.'
--
-    time: '2002-11-01'
-    tags: [na]
-    source: 'https://www.giantbomb.com/last-game-released-on-a-console/3015-3262/'
-    note: '*Harry Potter and the Chamber of Secrets* is released in North America. It is the last North American Game Boy Color game. This is the true end of the Game Boy era, since from this point on all future events relate to Game Boy compatibility as a feature of Game Boy Advance systems. '
--
-    time: '2003-02-01'
-    tags: [jp]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP'
-    note: 'The Game Boy Advance SP is released in Japan for ¥12,500.'
--
-    time: '2003-03-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP'
-    note: 'The Game Boy Advance SP is released in North America.'
--
-    time: '2003-03-01'
-    tags: [jp]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Player'
-    note: 'The Game Boy Player is released in Japan.'
--
-    time: '2003-06-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Player'
-    note: 'The Game Boy Player is released in North America.'
--
-    time: '2004-09-16'
-    tags: [na, jp]
-    source: 'http://www.nbcnews.com/id/5887994/ns/technology_and_science-games/t/nintendo-cuts-price-game-boy-advance/'
-    note: 'The Game Boy Advance SP is reduced in price in Japan, the US and Canada. It is now sold for $79 USD, down from $99, or ¥9800 in Japan.'
--
-    time: '2005-09-13'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#Backlit_Model_(AGS-101)'
-    note: 'The backlit Game Boy Advance SP (model AGS-101) is released in North America. It is never made available in Japan. Colour variants will be released at later dates, but this will be the last new system to support Game Boy cartridges.'
--
-    time: '2005-09-19'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Game_Boy_Micro#Price_history'
-    note: 'The Game Boy Micro is released for $99 USD in North America. It does not play Game Boy cartridges, being limited to Game Boy Advance titles.'
--
-    time: '2007-04-01'
-    tags: [jp, na, eu]
-    source: 'https://www.nintendo.com/corp/report/FY07FinancialResults.pdf'
-    note: 'In its financial statements, Nintendo forecasts no sales of Game Boy Advance hardware going forward, and forecasts eight million software sales for the next financial year. This means no new Game Boy Advance hardware is produced, and only stock already on shelves is still sold. Nintendo has closed the books on the Game Boy name.'
--
-    time: '2000-07-24'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Warlocked'
-    note: '*Warlocked* is released in North America. Even though it is published by Nintendo, it will never see a release in Japan or Europe.'
--
-    time: '1991-11-05'
-    tags: [na]
-    source: 'http://kyoto-report.wikidot.com/kid-icarus-2'
-    note: '*Kid Icarus: Of Myths and Monsters* is released in North America. It will never be released in Japan.'
--
-    time: '1992-05-21'
-    tags: [eu]
-    source: 'http://kyoto-report.wikidot.com/kid-icarus-2'
-    note: '*Kid Icarus: Of Myths and Monsters* is released in Europe. It will never be released in Japan.'
--
-    time: '2001-11-16'
-    tags: [na]
-    source: 'https://www.pokemon-mini.net/games/pokemon-pinball-mini/'
-    note: 'The Pokémon Mini, the diminutive portable console dedicated to Pokémon games was released in North America. It will fail to find any success in the market.'
--
-    time: '2001-12-04'
-    tags: [jp]
-    source: 'https://www.pokemon-mini.net/games/pokemon-pinball-mini/'
-    note: 'The Pokémon Mini, the diminutive portable console was released in Japan.'
--
-    time: '2002-03-16'
-    tags: [eu]
-    source: 'https://en.wikipedia.org/wiki/Pokémon_Mini'
-    note: 'The Pokémon Mini, the diminutive portable console was released in Europe.'
--
-    time: '1992-07-01'
-    tags: [na]
-    source: 'https://en.wikipedia.org/wiki/Wave_Race'
-    note: "*Wave Race* is released in North America. It will later be rereleased as a Players' Choice."
--
-    time: '1997-06-01'
-    tags: [eu]
-    source: 'https://en.wikipedia.org/wiki/Wave_Race'
-    note: '*Wave Race* is released in Europe.'
--
-    time: '1996-02-01'
-    tags: [jp]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/Pokémon_Red_and_Green_Versions'
-    note: '*Pokémon: Red & Green Version* is released in Japan.'
--
-    time: '1996-10-01'
-    tags: [jp]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/Pokémon_Blue_Version_(Japanese)'
-    note: '*Pokémon: Blue Version* is released exclusively through  CoroCoro Comic in Japan.'
--
-    time: '1998-09-01'
-    tags: [na]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/Pokémon_Red_and_Blue_Versions'
-    note: '*Pokémon: Red & Blue Version* is released in North America, as well as the anime.'
--
-    time: '1999-10-01'
-    tags: [eu]
-    source: 'https://bulbapedia.bulbagarden.net/wiki/Pokémon_Red_and_Blue_Versions'
-    note: '*Pokémon: Red & Blue Version* is released in Europe.'
--
-    time: '2000-12-08'
-    tags: [jp]
-    source: 'https://www.woodus.com/den/games/dw3gbc/'
-    note: '*Dragon Quest III* is released on Game Boy Color in Japan.'
--
-    time: '2001-07-01'
-    tags: [na]
-    source: 'https://www.woodus.com/den/games/dw3gbc/'
-    note: '*Dragon Warrior III* is released on Game Boy Color in North America.'
--
-    time: '1997-02-01'
-    tags: [na]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585807-mole-mania/data'
-    note: '*Mole Mania* is released on Game Boy in North America.'
--
-    time: '1996-07-21'
-    tags: [jp]
-    source: 'https://gamefaqs.gamespot.com/gameboy/585807-mole-mania/data'
-    note: '*Mole Mania* is released on Game Boy in Japan, to coincide with the release of Game Boy Pocket.'
--
-    time: '1992-04-27'
-    tags: [jp]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563275-kirbys-dream-land/data'
-    note: '*Kirby’s Dream Land* is released in Japan.'
--
-    time: '1992-08-01'
-    tags: [na]
-    source: 'https://gamefaqs.gamespot.com/gameboy/563275-kirbys-dream-land/data'
-    note: '*Kirby’s Dream Land* is released in North America.'
--
-    time: '1998-02-21'
-    tags: [jp]
-    source: 'https://gamefaqs.gamespot.com/gameboy/564359-game-boy-camera/data'
-    note: '*Game Boy Camera* is released in Japan.'
--
-    time: '1998-06-01'
-    tags: [na]
-    source: 'https://gamefaqs.gamespot.com/gameboy/564359-game-boy-camera/data'
-    note: '*Game Boy Camera* is released in North America.'
+---
+- fact:
+  time: '2001-06-01'
+  tags: ["eu"]
+  cat: ["hardware", "gba"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
+  note: 'The Game Boy Advance is released in Europe.'
+- fact:
+  time: '1980-04-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "g&w"]
+  source: 'http://www.intheattic.co.uk/ball.htm'
+  note: '*Ball*, the first Game & Watch, is released in Japan.'
+- fact:
+  time: '1983-07-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "nes"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
+  note: 'The Family Computer is released in Japan.'
+- fact:
+  time: '1985-10-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "nes"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
+  note: 'The NES is released in the New York market as a test bed for a staggered release of the console. It will see a full North American release in September 1986.'
+- fact:
+  time: '1986-09-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "nes"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Release'
+  note: 'The NES is released in North America. It was released in a limited fashion starting with the New York market the year before.'
+- fact:
+  time: '1989-01-01'
+  tags: ["na"]
+  cat: ["hardware", "lynx"]
+  source: 'https://en.wikipedia.org/wiki/Atari_Lynx'
+  note: 'Epyx publicly unveils the Handy at CES, which will become the Lynx later in the year.'
+- fact:
+  time: '1989-04-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintento", "gb"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy'
+  note: 'Game Boy is released in Japan for ¥12,500 with ["*Super Mario Land*"](articles/dmg-ml), *Alleyway*, *Baseball*, and *Yakuman*. No game is bundled with the unit, as is customary in Japan.'
+- fact:
+  time: '1989-07-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "gb"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy'
+  source2: 'https://christmas.musetechnical.com/ShowCatalogPage/1989-Sears-Christmas-Book/412'
+  note: 'Game Boy is released in North America for $90 USD with ["*Super Mario Land*"](articles/dmg-ml)", "*Alleyway*", "*Baseball*, and *Tennis*. ["*Tetris*"](articles/dmg-tr) is of course bundled with the system.'
+- fact:
+  time: '1989-09-01'
+  tags: ["na"]
+  cat: ["hardware", "lynx"]
+  source: 'https://en.wikipedia.org/wiki/Atari_Lynx'
+  note: 'Atari releases the Lynx for $179 in North America.'
+- fact:
+  time: '1989-09-01'
+  tags: ["jp"]
+  cat: ["game", "gb"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/585649-the-bugs-bunny-crazy-castle/data'
+  note: '*Mickey Mouse* is released in Japan, which will become ["*The Bugs Bunny Crazy Castle*"](articles/dmg-bb) upon its North American release.'
+- fact:
+  time: '1989-09-01'
+  tags: ["jp"]
+  cat: ["game", "gb"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
+  note: '["*Motocross Maniacs*"](articles/dmg-mx) is released in Japan. It is Konami''s first Game Boy title.'
+- fact:
+  time: '1989-09-01'
+  tags: ["na"]
+  cat: ["game", "gb"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
+  note: '["*Motocross Maniacs*"](articles/dmg-mx) is released in North America. It is Konami''s first Game Boy title.'
+- fact:
+  time: '1989-12-01'
+  tags: ["jp"]
+  cat: ["game", "gb"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/563273-the-final-fantasy-legend/data'
+  note: '*Makai Toushi SaGa*, the first RPG for the Game Boy, is released in Japan. It will become ["*The Final Fantasy Legend*"](articles/dmg-sa) upon its release in North America.'
+- fact:
+  time: '1989-12-01'
+  tags: ["jp"]
+  cat: ["game", "gb"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/585938-the-sword-of-hope/data'
+  note: '*Selection: Erabareshi Mono* is released in Japan. It will become ["*The Sword of Hope*"](articles/dmg-se) upon its release in North America.'
+- fact:
+  time: '1990-10-01'
+  tags: ["jp"]
+  cat: ["hardware", "sega"]
+  source: 'https://en.wikipedia.org/wiki/Game_Gear'
+  note: 'The Sega Game Gear is released in Japan for ¥19,800.'
+- fact:
+  time: '1990-11-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "snes"]
+  source: 'https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System'
+  note: 'The Super Famicom is released in Japan.'
+- fact:
+  time: '1990-12-01'
+  tags: ["jp", "na"]
+  cat: ["hardware", "turboexpress"]
+  source: 'https://en.wikipedia.org/wiki/TurboExpress'
+  note: 'The TurboExpress is released in Japan for ¥44,800 and North America for $249.'
+- fact:
+  time: '1991-03-01'
+  tags: ["jp", "na"]
+  cat: ["hardware", "turboexpress", "pricedrop"]
+  source: 'http://archives.tg-16.com/TURBOPLAY/TP-05-11.jpg'
+  note: 'NEC temporarily raises the price of the TurboExpress due to low screen yields.'
+- fact:
+  time: '1991-04-01'
+  tags: ["na"]
+  cat: ["hardware", "sega"]
+  source: 'https://en.wikipedia.org/wiki/Game_Gear'
+  note: 'The Sega Game Gear is released in North America for $149.'
+- fact:
+  time: '1991-08-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "snes"]
+  source: 'https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System'
+  note: 'The Super Nintendo is released in North America.'
+- fact:
+  time: '1991-10-01'
+  tags: ["jp", "na"]
+  cat: ["hardware", "nintendo", "g&w"]
+  source: 'https://www.mariowiki.com/Mario_the_Juggler'
+  note: '*Mario the Juggler*, the last Game & Watch game, is released.'
+- fact:
+  time: '1992-10-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "pricedrop"]
+  source: 'https://christmas.musetechnical.com/ShowCatalogPage/1992-Sears-Christmas-Book/494'
+  note: 'The price of the Game Boy is decreased by $10 to $80 USD at some point during the year, with the price drop evidently in force during the holiday period.'
+- fact:
+  time: '1993-10-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "nes"]
+  source: 'https://gamefaqs.gamespot.com/nes/916386-nes/data'
+  note: 'The NES Top Loader is released in North America.'
+- fact:
+  time: '1994-05-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "gb", "pricedrop"]
+  source: 'http://www.gamegyokai.com/history/gb.htm'
+  note: 'The original DMG-01 Game Boy, after a number of price cuts, ends up at ¥8000 in Japan.'
+- fact:
+  time: '1994-06-01'
+  tags: ["jp", "na"]
+  cat: ["hardware", "software", "nintendo, snes, gb"]
+  source: 'https://gamefaqs.gamespot.com/snes/588731-super-game-boy/data'
+  note: '*Super Game Boy* is released in North America and Japan.'
+- fact:
+  time: '1994-10-01'
+  tags: ["na"]
+  cat: ["gb", "esrb", "news"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/563302-wario-blast-featuring-bomberman/images/145459'
+  note: 'The first Game Boy game to use the ESRB rating system is released. It is Nintendo’s collaboration with Hudson, *Wario Blast: Featuring Bomberman!* The ESRB was officially unveiled the previous month.'
+- fact:
+  time: '1994-10-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "gb", "pricedrop"]
+  source: 'http://catalogues.quebec/sears/'
+  note: 'In my beloved Québec Christmas Sears catalogue, a Game Boy without any bundled game is sold for 60$ CDN. It appears the system is sold for the same price (USD $60) in the United States.'
+- fact:
+  time: '1995-02-01'
+  tags: ["na"]
+  cat: ["gb", "esrb", "news"]
+  source: 'https://gamefaqs.gamespot.com/gameboy/585685-desert-strike-return-to-the-gulf/images/138573'
+  note: 'The first third-party Game Boy game to feature an ESRB rating, *Desert Strike: Return to the Gulf*, is released. All released Game Boy games will be rated after the end of February.'
+- fact:
+  time: '1995-03-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "gb"]
+  source: 'https://gameboy.fandom.com/wiki/Game_Boy_Play_it_Loud_campaign'
+  note: 'Nintendo releases coloured Game Boy models in North America for $60 USD, under the umbrella of the *Play It Loud!* Campaign. The price was carried over from the regular grey model.'
+- fact:
+  time: '1995-07-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "vb"]
+  source: 'https://gamefaqs.gamespot.com/virtualboy/918745-virtualboy/data'
+  note: 'The Virtual Boy is released in Japan.'
+- fact:
+  time: '1995-08-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "vb"]
+  source: 'https://gamefaqs.gamespot.com/virtualboy/918745-virtualboy/data'
+  note: 'The Virtual Boy is released in North America.'
+- fact:
+  time: '1995-10-01'
+  tags: ["na"]
+  cat: ["hardware", "sega"]
+  source: 'https://en.wikipedia.org/wiki/Comparison_of_handheld_game_consoles'
+  note: 'The Sega Nomad is released, exclusively in North America, for $180.'
+- fact:
+  time: '1995-11-01'
+  tags: ["na"]
+  cat: ["game", "vb"]
+  source: 'https://www.giantbomb.com/virtual-boy-wario-land/3030-2412/releases/'
+  note: '*Virtual Boy Wario Land* is released in North America.'
+- fact:
+  time: '1995-11-01'
+  tags: ["jp"]
+  cat: ["game", "vb"]
+  source: 'https://www.giantbomb.com/virtual-boy-wario-land/3030-2412/releases/'
+  note: '*Virtual Boy Wario Land* is released in Japan.'
+- fact:
+  time: '1996-03-01'
+  tags: ["na"]
+  cat: ["game", "vb"]
+  source: 'https://www.giantbomb.com/3d-tetris/3030-17439/'
+  note: '*Tetris 3D*, the last North American released Virtual Boy game, marks the end of Nintendo’s support for the console.'
+- fact:
+  time: '1996-05-01'
+  tags: ["na"]
+  cat: ["gb", "snes", "nintendo", "news"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_Selects#1996%E2%80%932010:_Player’s_Choice'
+  note: 'Nintendo announces the Player’s Choice program for SNES and Game Boy. An exhaustive list of Game Boy Players’ Choice and their releases elude me.'
+- fact:
+  time: '1996-06-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "n64"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_64'
+  note: 'The Nintendo 64 is released in Japan.'
+- fact:
+  time: '1996-07-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "gb"]
+  source: 'https://nintendo.fandom.com/wiki/Game_Boy_Pocket'
+  note: 'The Yokoi Gunpei designed Game Boy Pocket is released in Japan for ¥6800.'
+- fact:
+  time: '1996-08-01'
+  tags: ["jp", "na"]
+  cat: ["nintendo", "news"]
+  source: 'https://en.wikipedia.org/wiki/Gunpei_Yokoi'
+  note: 'Yokoi Gunpei, father of the Game Boy and general manager of R&D1, leaves Nintendo for his own company, Koto Laboratory.'
+- fact:
+  time: '1996-09-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "gb"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket'
+  note: 'The Yokoi Gunpei designed Game Boy Pocket is released in North America, retailing for $70 USD, a price increase of $10 compared to the current price of the original model. It also eschews a bundled game.'
+- fact:
+  time: '1996-09-01'
+  tags: ["na"]
+  cat: ["hardware", "nintendo", "n64"]
+  source: 'https://en.wikipedia.org/wiki/Nintendo_64'
+  note: 'The Nintendo 64 is released in North America.'
+- fact:
+  time: '1996-11-01'
+  tags: ["jp"]
+  cat: ["hardware", "tamagotchi", "news"]
+  source: 'https://en.wikipedia.org/wiki/Tamagotchi'
+  note: 'The first Bandai developed Tamagotchi is released in Japan. It will be an immediate runaway success.'
+- fact:
+  time: '1996-12-01'
+  tags: ["jp", "na"]
+  cat: ["game", "sega", "gamegear"]
+  source: 'https://gamefaqs.gamespot.com/gamegear/586802-sonic-blast/data'
+  note: '*Sonic Blast* is released for Game Gear in Japan and North America, the last major release on the console.'
+- fact:
+  time: '1997-05-01'
+  tags: ["na"]
+  cat: ["hardware", "tamagotchi", "news"]
+  source: 'https://en.wikipedia.org/wiki/Tamagotchi'
+  note: 'The first Bandai developed Tamagotchi is released in North America. It was first released the year before in Japan. It will kick-start a fad that will last a couple of years.'
+- fact:
+  time: '1997-10-01'
+  tags: ["jp", "na"]
+  cat: ["news"]
+  source: 'https://en.wikipedia.org/wiki/Gunpei_Yokoi'
+  note: 'Gunpei Yokoi is killed in a car accident. He was 56.'
+- fact:
+  time: '1998-01-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "gb", "snes"]
+  source: 'https://gamefaqs.gamespot.com/snes/588731-super-game-boy/data'
+  note: '*Super Game Boy 2* is released in Japan only.'
+- fact:
+  time: '1998-04-01'
+  tags: ["jp"]
+  cat: ["hardware", "nintendo", "gb"]
+  source: 'https://nintendo.fandom.com/wiki/Game_Boy_Light'
+  note: 'The Game Boy Light is released exclusively in Japan for the same price as the Game Boy Pocket, ¥6800.'
+- fact:
+  time: '1998-04-01'
+  tags: ["na"]
+  cat: ["game", "gb", "news"]
+  source: 'https://en.wikipedia.org/wiki/The_Final_Fantasy_Legend'
+  note: 'Sunsoft announces a reprint of all four early Game Boy Squaresoft titles; they have no new features or changes.'
+- fact:
+  time: '1997-04-01'
+  tags: ["jp"]
+  cat: ["pokémon", "tv", "news"]
+  source: 'https://bulbapedia.bulbagarden.net/wiki/EP001'
+  note: 'The first episode of the *Pokémon* anime is aired in Japan on TV Tokyo.'
+- fact:
+  time: '1998-04-01'
+  tags: ["na"]
+  cat: ["pokémon", "tv", "news"]
+  source: 'https://en.wikipedia.org/wiki/Pokémon_%28anime%29#Airing_and_production'
+  note: 'The first episode of the *Pokémon* anime is aired in the United States on first run syndication.'
+- fact:
+  time: '1998-10-01'
+  tags: ["jp"]
+  cat: ["gbc", "hardware", "nintendo"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Color'
+  note: 'The Game Boy Color is released in Japan for ¥8900.'
+- fact:
+  time: '1998-11-01'
+  tags: ["na"]
+  cat: ["gbc", "hardware", "nintendo"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Color'
+  note: 'The Game Boy Color is released in North America with *Tetris DX*, *Wario Land II* and *Pocket Bomberman* as release titles.'
+- fact:
+  time: '1999-03-01'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/WonderSwan'
+  note: 'The Wonderswan, designed by Yokoi Gunpei’s Koto Laboratory, is released in Japan.'
+- fact:
+  time: '2000-03-01'
+  tags: ["jp"]
+  source: 'https://www.mariowiki.com/Super_Mario_Bros._Deluxe'
+  note: '*Super Mario Bros. Deluxe* is released in Japan as a Nintendo Power kiosk release.'
+- fact:
+  time: '2000-12-01'
+  tags: ["jp"]
+  source: 'https://en.wikipedia.org/wiki/WonderSwan'
+  note: 'The Wonderswan Color is released in Japan.'
+- fact:
+  time: '2001-02-01'
+  tags: ["na"]
+  source: 'https://www.gamesasylum.com/2014/07/18/majesco-and-the-sega-game-gears-second-lease-of-life/'
+  note: 'Majesco Entertainment announces a budget rerelease of the Game Gear priced at $30 with reissues of ten games priced at $15 each.'
+- fact:
+  time: '2001-03-01'
+  tags: ["jp"]
+  source: 'https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters_2'
+  note: '*Dragon Warrior Monsters 2* is released in Japan. It is the last cartridge compatible with the original Game Boy.'
+- fact:
+  time: '2001-03-21'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
+  note: 'The Game Boy Advance is released in Japan for ¥9800.'
+- fact:
+  time: '2001-06-01'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance'
+  note: 'The Game Boy Advance is released in North America.'
+- fact:
+  time: '2001-09-01'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters_2'
+  note: '*Dragon Warrior Monsters 2* is released in North America. It is the last cartridge compatible with the original Game Boy.'
+- fact:
+  time: '2002-02-01'
+  tags: ["jp"]
+  source: 'http://www.gamegyokai.com/history/gb.htm'
+  note: 'The Game Boy Advance receives a price cut in Japan. It is now sold for ¥8800.'
+- fact:
+  time: '2002-07-01'
+  tags: ["jp"]
+  source: 'https://en.wikipedia.org/wiki/WonderSwan'
+  note: 'The SwanCrystal is released in Japan.'
+- fact:
+  time: '2002-11-01'
+  tags: ["na"]
+  source: 'https://www.giantbomb.com/last-game-released-on-a-console/3015-3262/'
+  note: '*Harry Potter and the Chamber of Secrets* is released in North America. It is the last North American Game Boy Color game. This is the true end of the Game Boy era, since from this point on all future events relate to Game Boy compatibility as a feature of Game Boy Advance systems. '
+- fact:
+  time: '2003-02-01'
+  tags: ["jp"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP'
+  note: 'The Game Boy Advance SP is released in Japan for ¥12,500.'
+- fact:
+  time: '2003-03-01'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP'
+  note: 'The Game Boy Advance SP is released in North America.'
+- fact:
+  time: '2003-03-01'
+  tags: ["jp"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Player'
+  note: 'The Game Boy Player is released in Japan.'
+- fact:
+  time: '2003-06-01'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Player'
+  note: 'The Game Boy Player is released in North America.'
+- fact:
+  time: '2004-09-16'
+  tags: ["na", "jp"]
+  source: 'http://www.nbcnews.com/id/5887994/ns/technology_and_science-games/t/nintendo-cuts-price-game-boy-advance/'
+  note: 'The Game Boy Advance SP is reduced in price in Japan, the US and Canada. It is now sold for $79 USD, down from $99, or ¥9800 in Japan.'
+- fact:
+  time: '2005-09-13'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#Backlit_Model_(AGS-101)'
+  note: 'The backlit Game Boy Advance SP (model AGS-101) is released in North America. It is never made available in Japan. Colour variants will be released at later dates, but this will be the last new system to support Game Boy cartridges.'
+- fact:
+  time: '2005-09-19'
+  tags: ["na"]
+  source: 'https://en.wikipedia.org/wiki/Game_Boy_Micro#Price_history'
+  note: 'The Game Boy Micro is released for $99 USD in North America. It does not play Game Boy cartridges, being limited to Game Boy Advance titles.'
+- fact:
+  time: '2007-04-01'
+  tags: ["jp", "na", "eu"]
+  source: 'https://www.nintendo.com/corp/report/FY07FinancialResults.pdf'
+  note: 'In its financial statements, Nintendo forecasts no sales of Game Boy Advance hardware going forward, and forecasts eight million software sales for the next financial year. This means no new Game Boy Advance hardware is produced, and only stock already on shelves is still sold. Nintendo has closed the books on the Game Boy name.'
+- fact:
+  time: '2001-11-16'
+  tags: ["na"]
+  source: 'https://www.pokemon-mini.net/games/pokemon-pinball-mini/'
+  note: 'The Pokémon Mini, the diminutive portable console dedicated to Pokémon games was released in North America. It will fail to find any success in the market.'
+- fact:
+  time: '2001-12-04'
+  tags: ["jp"]
+  source: 'https://www.pokemon-mini.net/games/pokemon-pinball-mini/'
+  note: 'The Pokémon Mini, the diminutive portable console was released in Japan.'
+- fact:
+  time: '2002-03-16'
+  tags: ["eu"]
+  source: 'https://en.wikipedia.org/wiki/Pokémon_Mini'
+  note: 'The Pokémon Mini, the diminutive portable console was released in Europe.'

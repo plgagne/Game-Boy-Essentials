@@ -1,16 +1,16 @@
 #!/bin/zsh
 # Copy Backup
 if [ -r "temp" ]; then
-	echo "Temporary timeline data is present."
+	echo "Temporary timeline data is present"
 else 
-	echo "Copying temporary timeline data now."
+	echo "Copying temporary timeline data ..."
 	mkdir "temp"
 	cp -R "/Users/plgagne/Documents/Game Boy Essentials Others/timeline project backup" "temp"
 	echo "Done copying."
 fi
 
 # Prune data.html files
-echo "Pruning data files"
+echo "Pruning data files ..."
 find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
 	sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
 	sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
@@ -18,26 +18,26 @@ find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; d
 done
 
 # Move data.html files to base
-echo "Moving pruned data files"
+echo "Moving pruned data files ..."
 find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
 	dir="$(dirname $line)"   # Returns "/from/here/to"
 	dir="$(basename $dir)"  # Returns just "to"
-	mv "$line" "$line".tmp4
+	mv "$line" "$line".tmp
 done
 
 # Concatenate all files together
-echo "Concatenating pruned data files"
-find "temp" -iname "*.tmp4" -type f -exec cat "{}" >> "temp/timeline-temp.yml" \;
+echo "Concatenating pruned data files ..."
+find "temp" -iname "*.tmp" -type f -exec cat "{}" >> "temp/timeline-temp.yml" \;
 
 # Remove concatenated files
 find "temp" -iname "*.tmp" -type f -exec rm "{}" \;
 
 # Run Ruby timeline builder
-echo "Running Ruby script"
+echo "Running Ruby script ..."
 ruby timeline-builder.rb
 
 # Remove blank lines in YAML file
-echo "Removing blank lines in final file"
+echo "Removing blank lines in final file ..."
 grep '\S' 'results/timeline-complete-data.yml' > 'tmp.txt'
 mv 'tmp.txt' 'results/timeline-complete-data.yml'
 
