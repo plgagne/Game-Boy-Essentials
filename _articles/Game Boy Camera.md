@@ -36,12 +36,10 @@ Yokoi Gunpei is best remembered as the father of the Game Boy, since he was the 
 
 With our modern point of view, *Game Boy Camera* is a complete joke. It can seem like no one could tolerate its low image quality and that it must have been a monumental flop. The reality is far from that. Looking back at the *Game Boy Camera*’s release in 1998, the device enjoyed a somewhat warm reception.
 
-<div class="gallery-container">
-{% include figure.html type="art" class="gallery" figcaption="[Popular Science, July 1998, p. 12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
-{% include figure.html type="art" class="gallery" figcaption="[Boys’ Life, September 1998, p. 11](https://books.google.ca/books?id=Nv8DAAAAMBAJ&pg=PA11)" %}
-{% include figure.html type="art" class="gallery" figcaption="[Vibe, August 1998, p. 148](https://archive.org/details/bub_gb_JywEAAAAMBAJ/page/n157/mode/2up)" %}
-{% include figure.html type="art" class="gallery" figcaption="[GamePro, August 1998, p. 30](https://archive.org/details/GamePro_Issue_109_August_1998/page/n31/mode/2up)" %}
-</div>
+{% include figure.html type="art" figcaption="[Popular Science, July 1998, p. 12](https://books.google.ca/books?id=3Bxy4y0umo0C&pg=PA12)" %}
+{% include figure.html type="art" figcaption="[Boys’ Life, September 1998, p. 11](https://books.google.ca/books?id=Nv8DAAAAMBAJ&pg=PA11)" %}
+{% include figure.html type="art" figcaption="[Vibe, August 1998, p. 148](https://archive.org/details/bub_gb_JywEAAAAMBAJ/page/n157/mode/2up)" %}
+{% include figure.html type="art" figcaption="[GamePro, August 1998, p. 30](https://archive.org/details/GamePro_Issue_109_August_1998/page/n31/mode/2up)" %}
 
 Yes, the pictures it takes are laughably bad, with a ridiculously low 128 by 112-pixel resolution. The thing is only good at taking pictures of large things (like a head or a dog) from way up close. Don’t even try to take a picture of a distant landscape view. To top off the mediocrity, pictures have no colour, being only available in the same four shades as your Game Boy. However, you have to look at what digital cameras were capable of doing and at what price to understand the device’s appeal in 1998. Of course, something like the [Canon EOS D2000](https://global.canon/en/c-museum/product/dslr777.html) existed, but this 1728 by 1152 resolution professional device retailed for over $15,000 USD. It was also a bleeding edge trailblazer; it was the first digital camera somewhat respected by professionals. We have to look downmarket to find peers of our little puny *Game Boy Camera*. For example, Minton made a crappy OEM camera that was re-badged by countless companies. [It came with a 640 x 480 pixel sensor and sold for around $149 USD](https://www.digitalkameramuseum.de/en/cameras/item/jenoptik-jd11-entrance). It’s a much better device at three times the price but it is still a terrible camera compared to modern standards.
 
@@ -53,17 +51,17 @@ When you look at it, the Game Boy Camera is more akin to a toy than a digital ca
 
 {% include figure.html type="art" figcaption="An example of a BarbieCam photo. This photo was taken with the later Nickelodeon model, which is the same camera. Photo courtesy of [Superkids.com](https://www.superkids.com/aweb/pages/reviews/camera/1/nick/merge.shtml)." %}
 
-It was a severely limited device. It’s a digital camera but it doesn’t have a screen or removable media. All the beautiful benefits of digital photography come from those two functionalities. Without a screen you can’t know if the picture you took is any good and without removable media you can’t keep taking pictures by swapping SD cards or whatnot. You’re stuck with the six pictures it can keep in its internal memory.
+It was a severely limited device. It’s a digital camera but it doesn’t have a screen or removable media. All the beautiful benefits of digital photography come from those two things. Without a screen you can’t know if the picture you took is any good and without removable media you can’t keep taking pictures by swapping SD cards or whatnot. You’re stuck with the six pictures it can keep in its internal memory.
 
 The device’s only options are taking pictures or deleting all the meagre six pictures without ever looking at them. Once you connect to a PC, you can very slowly transfer your pictures and finally see them for the first time. I imagine most kids ended up using the device in their home fairly close to their PC due to those extreme limitations. 
 
-Moving on to the software, both companies chose to focus on offering games with the pictures you took to complement their low-resolution cameras. I guess there aren’t many ways to make a bad quality camera *fun*. When you compare the disadvantages of *Barbie Photo Designer* and *Game Boy Camera*, that’s where you understand that the portability, viewfinder and memory for 30 pictures make the *Game Boy Camera* a competitive package in this brand new toy camera category. This category was hotter than you think as well: *Barbie Photo Designer* sold 300,000 copies in the US in its first year on the market and the *Game Boy Camera* sold a million copies in Japan. However, the market would quickly get saturated with copycats, and by the mid-2000s digital cameras had come down in price enough that a toy digital camera seemingly became a niche item. Parents seemingly bought their kids full-fledged cameras instead.
+Moving on to the software, both companies chose to focus on offering games with the pictures you took to complement their low-resolution cameras. I guess there aren’t many ways to make a bad quality camera *fun*. When you compare the disadvantages of *Barbie Photo Designer* and *Game Boy Camera*, that’s where you understand that the portability, viewfinder and memory for 30 pictures make the *Game Boy Camera* a competitive package in this brand new toy camera category. This category was hotter than you think as well: *Barbie Photo Designer* sold 300,000 copies in the US in its first year on the market and the *Game Boy Camera* sold a million copies in Japan. However, the market would quickly get saturated with copycats, and by the mid-2000s digital cameras had come down in price enough that a toy digital camera became a niche item. Parents seemingly bought their kids cheap full-fledged cameras instead.
 
 ## Terrible Software
 
 I’ll say it upfront; I don’t like the *Game Boy Camera* software. It’s a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
 
-{% include figure.html type="art" figcaption="[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up)" %}
+{% include figure.html type="art" figcaption="[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up)". %}
 
 You can immediately see that there are a lot of things you can do. Outside of *Mario Paint*, I can’t think Nintendo had ever made a user interface this complex before.
 
