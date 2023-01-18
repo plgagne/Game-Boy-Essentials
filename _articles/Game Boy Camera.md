@@ -61,7 +61,7 @@ Moving on to the software, both companies chose to focus on offering games with 
 
 I’ll say it upfront; I don’t like the *Game Boy Camera* software. It’s a mess. It features so many baffling interface decisions. People have called it quirky. I have a different word for it: bad. 
 
-{% include figure.html type="art" figcaption="[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up)". %}
+{% include figure.html type="art" figcaption="[The Nintendo Game Boy Camera Funtography Guide provides a full map of the software](https://archive.org/details/nintendofuntographyguide/page/n5/mode/2up)." %}
 
 You can immediately see that there are a lot of things you can do. Outside of *Mario Paint*, I can’t think Nintendo had ever made a user interface this complex before.
 
