@@ -1,0 +1,15 @@
+<div class="gallery-container">
+{%- assign releases_sorted = site.data.timeline | sort: "time" -%}
+{%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
+{% assign releases_sorted=releases_sorted | concat: timeline_sorted %}
+
+{% for release in releases_sorted %}
+{%- capture image-location -%}
+/assets/timeline{{ release.boxart }}
+{%- endcapture -%}
+<figure class="boxart">
+<img loading="lazy" src="{{ image-location }}" {% imagesize {{ image-location }}:props %} alt="{{ release.title }}">
+<figcaption><p>{{ release.title }}:{{ release.release_date }}</p></figcaption>
+</figure>
+{% endfor %}
+</div>

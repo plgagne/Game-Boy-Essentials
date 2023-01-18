@@ -28,15 +28,6 @@
 			<span>Europe</span>
 		</div>
 	</label>
-{%- assign releases_sorted = site.data.timeline | sort: "time" -%}
-{%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
-{% assign releases_sorted=releases_sorted | concat: timeline_sorted %}
-
-{% for release in releases_sorted %}
-<img loading="lazy" src="/assets/timeline{{ release.boxart }}" {% imagesize "/assets/timeline{{ release.boxart }}":props %} alt="{{ release.title }}">
-{% endfor %}
-
-
 {%- assign timeline-type = "all" -%}
 {%- for timeline-step in (1..4) -%}
 	<section id="timeline-{{ timeline-type }}">
