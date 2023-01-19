@@ -113,8 +113,8 @@ contents = contents.gsub(/release_date: "September ([1-2])([0-9])([0-9])([0-9])"
 contents = contents.gsub(/release_date: "October ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/10\/00\"")
 contents = contents.gsub(/release_date: "November ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/11\/00\"")
 contents = contents.gsub(/release_date: "December ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/12\/00\"")
-contents = contents.gsub(/release_date: \"TBA/, "release_date: \"0000")
-contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000")
+contents = contents.gsub(/release_date: \"TBA/, "release_date: \"0000\/00\/00")
+contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000\/00\/00")
 
 # Adjusting the market from US to NA
 contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")

@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 file = File.open('results/timeline-complete-data.yml', "rb")
 contents = file.read
-# Remove everything not a release
+# Remove everything not a hard release
 contents = contents.gsub(/  compilations:.*?- game:\n/m, "- game:\n")
 contents = contents.gsub(/  contributors:.*?- game:\n/m, "- game:\n")
 contents = contents.gsub(/- game:\n.*?  releases:\n/m, "")
