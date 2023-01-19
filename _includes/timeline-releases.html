@@ -5,10 +5,10 @@
 
 {% for release in releases_sorted %}
 {%- capture image-location -%}
-/assets/timeline{{ release.boxart }}
+/assets/timeline-test{{ release.boxart }}
 {%- endcapture -%}
 <figure class="boxart">
-<img loading="lazy" src="{{ image-location }}" {% imagesize {{ image-location }}:props %} alt="{{ release.title }}">
+<img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
 <figcaption><p>{{ release.title }}:{{ release.release_date }}</p></figcaption>
 </figure>
 {% endfor %}
