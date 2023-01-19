@@ -2387,7 +2387,7 @@
 - release:
   title: "Sarakon"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Starbyte Software"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -2765,7 +2765,7 @@
 - release:
   title: "Hammerin' Harry: Ghost Building Company"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Irem"
   boxart: "/a/box/2/8/6/46286_front.jpg"
 - release:
@@ -4150,7 +4150,7 @@
 - release:
   title: "Diablo"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Blizzard North"
   boxart: "/a/box/3/4/2/589342_front.jpg"
 - release:
@@ -5607,7 +5607,7 @@
 - release:
   title: "Workboy"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Fabtek"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -5643,7 +5643,7 @@
 - release:
   title: "Akira"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "THQ"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -5803,7 +5803,7 @@
 - release:
   title: "Misutau Chin no Gourmet Paradise"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Seta Corporation"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -5947,7 +5947,7 @@
 - release:
   title: "Sutte Hakkun"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -6573,13 +6573,13 @@
 - release:
   title: "Bobby's World"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Hi-Tech"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
   title: "Home Alone 2: Kevin's Dream"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "THQ"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -6648,7 +6648,7 @@
 - release:
   title: "Battle Ping Pong"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "American Sammy"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -6670,7 +6670,7 @@
 - release:
   title: "Fire Fighter"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mindscape"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -7109,7 +7109,7 @@
 - release:
   title: "Monster Max"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Titus Software"
   id: "DMG-X8"
   boxart: "/a/box/4/8/0/46480_front.jpg"
@@ -7254,7 +7254,7 @@
 - release:
   title: "StarHawk"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Accolade"
   boxart: "/a/box/7/7/2/46772_front.jpg"
 - release:
@@ -7562,7 +7562,7 @@
 - release:
   title: "Power Paws"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: ""
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -9136,7 +9136,7 @@
 - release:
   title: "Beach Volley"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Taito Corporation"
   boxart: "/a/box/3/6/5/30365_front.jpg"
 - release:
@@ -9458,7 +9458,7 @@
 - release:
   title: "Edd the Duck"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Beam Software"
   id: "DMG-A6Z"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -9649,7 +9649,7 @@
 - release:
   title: "Philip & Marlowe in Bloomland"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: ""
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -9948,7 +9948,7 @@
 - release:
   title: "Death Track"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Activision"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -10323,7 +10323,7 @@
 - release:
   title: "R-Type II"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Irem"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -10699,7 +10699,7 @@
 - release:
   title: "Super Battletoads"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Tradewest"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -11031,7 +11031,7 @@
 - release:
   title: "Beethoven: The Ultimate Canine Caper"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Hi Tech Expressions"
   boxart: "/a/box/1/2/3/37123_front.jpg"
 - release:
@@ -11172,7 +11172,7 @@
 - release:
   title: "Star Wars (Limited Run)"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Limited Run Games"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -11370,7 +11370,7 @@
 - release:
   title: "Rap Quest"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "THQ"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -11405,7 +11405,7 @@
 - release:
   title: "Momoiro Zousan"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "B-AI"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -11868,7 +11868,7 @@
 - release:
   title: "The Adventures of Pinocchio"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Infogrames"
   boxart: "/a/box/3/0/6/78306_front.jpg"
 - release:
@@ -12420,7 +12420,7 @@
 - release:
   title: "Waterworld"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Ocean"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "Animated Violence"
@@ -12865,7 +12865,7 @@
 - release:
   title: "World Cup USA '94"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "U.S. Gold"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -12925,7 +12925,7 @@
 - release:
   title: "ZAS"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "T&E Soft"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -13395,7 +13395,7 @@
 - release:
   title: "Triumph"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Hudson"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -13882,7 +13882,7 @@
 - release:
   title: "John Madden Football"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Ubisoft"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -15317,7 +15317,7 @@
 - release:
   title: "Wily and Light no Rock Board: That's Paradise"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Capcom"
   boxart: "/a/box/8/8/4/766884_front.jpg"
 - release:
@@ -15469,7 +15469,7 @@
 - release:
   title: "Gargoyle's Quest II"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Capcom"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -16846,7 +16846,7 @@
 - release:
   title: "Lunar Chase"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -16959,7 +16959,7 @@
 - release:
   title: "Baby's Day Out"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Hi-Tech"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -17122,7 +17122,7 @@
 - release:
   title: "Doomsayer: A Hero&#39;s Crusade"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "ASCII Entertainment"
   id: "DMG-LAE"
   barcode: "Other"
@@ -18479,7 +18479,7 @@
 - release:
   title: "Supershot Golf Robot"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Crave"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "Comic Mischief"
@@ -18534,7 +18534,7 @@
 - release:
   title: "Gurukuru"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Kemco"
   barcode: "4906571323646"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -18589,7 +18589,7 @@
 - release:
   title: "Mercenary"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Thalamus Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -18642,7 +18642,7 @@
 - release:
   title: "AMF Bowling"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Vatical Entertainment"
   boxart: "/a/box/5/1/0/38510_front.jpg"
   ESRB descriptors: "No Descriptors"
@@ -18723,7 +18723,7 @@
 - release:
   title: "The Fish Files"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "7th Sense"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "Mild Violence, Suggestive Themes"
@@ -18903,7 +18903,7 @@
 - release:
   title: "Extreme Ghostbusters"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "DreamCatcher Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -19154,7 +19154,7 @@
 - release:
   title: "F1 Racing Championship 2"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Capcom"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -19275,7 +19275,7 @@
 - release:
   title: "Mayhem in Monsterland"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Thalamus Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -19443,7 +19443,7 @@
 - release:
   title: "World Destruction League: WarJetz"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "3DO"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -19724,7 +19724,7 @@
 - release:
   title: "Austin Powers: Yeah, Baby, Yeah!"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Rockstar Games"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -20071,7 +20071,7 @@
 - release:
   title: "Sutte Hakkun GB"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -20328,7 +20328,7 @@
 - release:
   title: "The New Addams Family"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Titus Software"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "Comic Mischief, Mild Violence"
@@ -20343,14 +20343,14 @@
 - release:
   title: "Tyrannosaurus Tex (Canceled)"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Eidos Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   rating: "E"
 - release:
   title: "Tyrannosaurus Tex"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Eidos Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -20881,7 +20881,7 @@
 - release:
   title: "Tiny Toon Adventures: Dizzy's Candy Quest"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Conspiracy Entertainment"
   boxart: "/a/box/7/9/7/42797_front.jpg"
   ESRB descriptors: "No Descriptors"
@@ -20889,7 +20889,7 @@
 - release:
   title: "Batman Racing"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Ubisoft"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -20903,7 +20903,7 @@
 - release:
   title: "Ganso! Doubutsu Uranai GB+Renai Uranai Puzzle"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Culture Brain"
   id: "CGB-BBGJ-JPN"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -21374,7 +21374,7 @@
 - release:
   title: "Turbo Racing Challenge"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Midas Interactive Entertainment"
   boxart: "/a/box/0/4/5/57045_front.jpg"
 - release:
@@ -21388,7 +21388,7 @@
 - release:
   title: "Checkmate"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Altron"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   rating: "E"
@@ -21834,7 +21834,7 @@
 - release:
   title: "Dragon Riders"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Ubisoft"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -22412,7 +22412,7 @@
 - release:
   title: "Robocop"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Titus Software"
   boxart: "/a/box/4/7/8/14478_front.jpg"
   ESRB descriptors: "Violence"
@@ -22871,7 +22871,7 @@
 - release:
   title: "Grand Casino"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Altron"
   barcode: "4994964111147"
   boxart: "/a/box/4/6/2/42462_front.jpg"
@@ -22995,7 +22995,7 @@
 - release:
   title: "Galaxian"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Majesco"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -23922,7 +23922,7 @@
 - release:
   title: "Magi Nation Keeper's Quest"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Interactive Imagination"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -24019,7 +24019,7 @@
 - release:
   title: "Z-Quence"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Interplay"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -24099,7 +24099,7 @@
 - release:
   title: "Rocketts Sleep Over"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mattel"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -24274,7 +24274,7 @@
 - release:
   title: "Tiny Toons: Plucky's Adventure"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: ""
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -24368,7 +24368,7 @@
 - release:
   title: "Jaguar Mishin Sashi Senyou Soft: Kirby Family"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Jaguar"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -24443,7 +24443,7 @@
 - release:
   title: "Go Kingyo Monogatari"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Culture Brain"
   barcode: "4967996990783"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -24559,7 +24559,7 @@
 - release:
   title: "Shantae (Re-release)"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Limited Run Games"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   rating: "E"
@@ -24821,7 +24821,7 @@
 - release:
   title: "Absolute X"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Midas Interactive Entertainment"
   boxart: "/a/box/0/0/6/57006_front.jpg"
 - release:
@@ -24980,7 +24980,7 @@
 - release:
   title: "Austin Powers: Why Make Millions...?"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Rockstar Games"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -25068,7 +25068,7 @@
 - release:
   title: "Towers II: Plight of the Stargazer"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Telegames"
   boxart: "/a/box/8/0/0/739800_front.jpg"
   rating: "E"
@@ -25316,7 +25316,7 @@
 - release:
   title: "Daikatana"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Kemco"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "Mild Animated Violence"
@@ -25324,7 +25324,7 @@
 - release:
   title: "Daikatana"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Kemco"
   id: "CGB-A22J-JPN"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -25339,7 +25339,7 @@
 - release:
   title: "Equestriad 2001 (Canceled)"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Midas Interactive Entertainment"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -25430,7 +25430,7 @@
 - release:
   title: "Max Steel: Covert Missions"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mattel"
   boxart: "/a/box/8/7/7/54877_front.jpg"
   ESRB descriptors: "Animated Violence"
@@ -25494,7 +25494,7 @@
 - release:
   title: "South Park"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Acclaim"
   boxart: "/a/box/8/1/5/815_front.jpg"
 - release:
@@ -25524,7 +25524,7 @@
 - release:
   title: "Brunswick Pro Pool"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Vatical Entertainment"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -26102,19 +26102,19 @@
 - release:
   title: "Infinity"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Retro Modding"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
   title: "Infinity (Canceled)"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Crave"
   boxart: "/a/box/2/8/4/608284_front.jpg"
 - release:
   title: "Sydney 2000"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Natsume"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -26122,7 +26122,7 @@
 - release:
   title: "Billard Club"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Altron"
   barcode: "4994964111130"
   boxart: "/a/box/1/1/4/27114_front.jpg"
@@ -26181,7 +26181,7 @@
 - release:
   title: "Derby Star Bokujou"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Media Factory"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -26285,7 +26285,7 @@
 - release:
   title: "Runelords"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Kemco"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -26677,7 +26677,7 @@
 - release:
   title: "Cubix: Robots For Everyone - Race 'N Robots"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "3DO"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -26842,7 +26842,7 @@
 - release:
   title: "Matchbox Caterpillar Construction Zone 2: Mining for Gold"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mattel"
   boxart: "/a/box/3/0/8/39308_front.jpg"
   rating: "E"
@@ -26934,7 +26934,7 @@
 - release:
   title: "Pocket Soccer"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -27329,7 +27329,7 @@
 - release:
   title: "Boon Boon Kabun"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Gaps"
   barcode: "4996279128018"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -27416,7 +27416,7 @@
 - release:
   title: "Pocket Racing"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Interplay"
   boxart: "/a/box/3/2/6/41326_front.jpg"
   ESRB descriptors: "No Descriptors"
@@ -27432,7 +27432,7 @@
 - release:
   title: "Carrera"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Take-Two Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -27702,7 +27702,7 @@
 - release:
   title: "Section 7"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Interplay"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -27981,7 +27981,7 @@
 - release:
   title: "Bounced"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Midas Interactive Entertainment"
   boxart: "/a/box/0/0/9/57009_front.jpg"
 - release:
@@ -28402,7 +28402,7 @@
 - release:
   title: "Seadoo Hydrocross"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Vatical Entertainment"
   boxart: "/a/box/5/7/6/39576_front.jpg"
   ESRB descriptors: "No Descriptors"
@@ -28451,7 +28451,7 @@
 - release:
   title: "Tony Hawk's Pro Skater"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Success"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -28464,7 +28464,7 @@
 - release:
   title: "3D Pool AllStars"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Titus Software"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   rating: "E"
@@ -28565,7 +28565,7 @@
 - release:
   title: "Super 1 Karting"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Midas Interactive Entertainment"
   boxart: "/a/box/0/4/4/57044_front.jpg"
 - release:
@@ -28909,7 +28909,7 @@
 - release:
   title: "High Heat Major League Baseball 2002"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "3DO"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -29014,7 +29014,7 @@
 - release:
   title: "Hercules: The Legendary Journeys"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Titus Software"
   boxart: "/a/box/1/8/8/4188_front.jpg"
   ESRB descriptors: "Mild Violence"
@@ -29363,7 +29363,7 @@
 - release:
   title: "VR Sports: Powerboat Racing"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Vatical Entertainment"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -30146,13 +30146,13 @@
 - release:
   title: "Jibaku-kun: Zero no Ki no Kajitsu"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Media Factory"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
   title: "Wicked Surfing"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Interplay"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -30170,7 +30170,7 @@
 - release:
   title: "Superman: Battle For Metropolis"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Infogrames"
   boxart: "/a/box/6/9/4/737694_front.jpg"
 - release:
@@ -30238,7 +30238,7 @@
 - release:
   title: "FGB"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Unknown"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -30305,7 +30305,7 @@
 - release:
   title: "Resident Evil"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Capcom"
   boxart: "/a/box/6/3/0/6630_front.jpg"
   rating: "RP"
@@ -30410,7 +30410,7 @@
 - release:
   title: "Return of the Ninja (Limited Collector's Edition)"
   market: "NA"
-  release_date: "0000 2021"
+  release_date: "0000/00/00 2021"
   publisher: "Limited Run Games"
   id: "LRG-ROTN-USA"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
@@ -30467,13 +30467,13 @@
 - release:
   title: "Densetsu no Starfy (Canceled)"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/box/7/4/3/656743_front.jpg"
 - release:
   title: "NBA Live 2000"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "THQ"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -30565,7 +30565,7 @@
 - release:
   title: "Gekido"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Naps Team"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -30630,7 +30630,7 @@
 - release:
   title: "Carnivale"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Vatical Entertainment"
   boxart: "/a/box/8/7/6/54876_front.jpg"
   ESRB descriptors: "No Descriptors"
@@ -30678,7 +30678,7 @@
 - release:
   title: "Hajimari no Mori"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -30780,7 +30780,7 @@
 - release:
   title: "Army Men: Arcade Blast"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "3DO"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -30929,7 +30929,7 @@
 - release:
   title: "Gimmick Land"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/box/4/1/2/767412_front.jpg"
 - release:
@@ -30950,7 +30950,7 @@
 - release:
   title: "Pokemon Picross (Canceled)"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Nintendo"
   boxart: "/a/box/1/0/4/767104_front.jpg"
 - release:
@@ -31201,7 +31201,7 @@
 - release:
   title: "FIFA 2001"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Electronic Arts"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
   ESRB descriptors: "No Descriptors"
@@ -31488,7 +31488,7 @@
 - release:
   title: "Radikal Bikers"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Infogrames"
   boxart: "/a/box/7/4/0/533740_front.jpg"
 - release:
@@ -31656,7 +31656,7 @@
 - release:
   title: "The Mask"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "DreamCatcher Interactive"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -31720,7 +31720,7 @@
 - release:
   title: "Tyrian"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Symmetry Entertainment"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -31837,14 +31837,14 @@
 - release:
   title: "Mission Bravo"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mattel"
   boxart: "/a/box/3/0/6/39306_front.jpg"
   ESRB descriptors: "Mild Animated Violence"
 - release:
   title: "Matchbox: Mission Bravo"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Mattel"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -31914,7 +31914,7 @@
 - release:
   title: "DynaMike"
   market: "NA"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Engine Software"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -32128,7 +32128,7 @@
 - release:
   title: "Dino Crisis"
   market: "EU"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "Capcom"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
@@ -32158,7 +32158,7 @@
 - release:
   title: "Wizardry (Limited Edition Special Pack)"
   market: "JP"
-  release_date: "0000"
+  release_date: "0000/00/00"
   publisher: "ASCII Entertainment"
   boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - release:
