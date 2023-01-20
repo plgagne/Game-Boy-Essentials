@@ -99,7 +99,7 @@ contents = contents.gsub(/ It's a breakaway bash in this wild new Kirby game of 
 
 # Adjusting the release dates to YYYY/MM/DD
 contents = contents.gsub(/release_date: "(.*?)\/(.*?)\/(.*?)"/, "release_date: \"19\\3\/\\1\/\\2\"")
-contents = contents.gsub(/release_date: "19([0-1][0-9])\/(.*?)\/(.*?)"/, "release_date: \"20\\1\/\\2\/\\3\"")
+contents = contents.gsub(/release_date: "19([0-2][0-9])\/(.*?)\/(.*?)"/, "release_date: \"20\\1\/\\2\/\\3\"")
 contents = contents.gsub(/release_date: "([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/00\/00\"")
 contents = contents.gsub(/release_date: "January ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/01\/00\"")
 contents = contents.gsub(/release_date: "February ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4\/02\/00\"")
@@ -118,6 +118,10 @@ contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000\/00\/
 
 # Adjusting the market from US to NA
 contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
+
+# Correcting errors
+contents = contents.gsub(/      title: "Disney's DuckTales"\n      market: "EU"\n      release_date: "1989\/00\/00"/, "      title: \"Disney's DuckTales\"\n      market: \"EU\"\n      release_date: \"1991\/00\/00\"")
+contents = contents.gsub(/      title: "Ghostbusters II"\n      market: "EU"\n      release_date: "1989\/00\/00"/, "      title: \"Ghostbusters II\"\n      market: \"EU\"\n      release_date: \"1991\/00\/00\"")
 
 # Write changes to file
 File.open('results/timeline-complete-data.yml', "w") {|file| file.puts contents}

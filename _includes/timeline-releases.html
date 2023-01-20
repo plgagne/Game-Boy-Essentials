@@ -3,7 +3,7 @@
 {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
 {% assign releases_sorted=releases_sorted | concat: timeline_sorted %}
 
-{% for release in releases_sorted %}
+{% for release in timeline_sorted %}
 {%- capture image-location -%}
 /assets/timeline-test{{ release.boxart }}
 {%- endcapture -%}

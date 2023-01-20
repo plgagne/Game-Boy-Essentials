@@ -3180,13 +3180,13 @@
     - release:
       title: "Where Is My Body?"
       market: "NA"
-      release_date: "1920/10/15"
+      release_date: "2020/10/15"
       publisher: "Green Boy Games"
       boxart: "/a/images/site/noboxshot_wide_thumb.gif"
     - release:
       title: "Where Is My Body?"
       market: "JP"
-      release_date: "1920/10/15"
+      release_date: "2020/10/15"
       publisher: "Green Boy Games"
       boxart: "/a/images/site/noboxshot_wide_thumb.gif"
 - game:
@@ -16774,7 +16774,7 @@
     - release:
       title: "Disney's DuckTales"
       market: "EU"
-      release_date: "1989/00/00"
+      release_date: "1991/00/00"
       publisher: "Capcom"
       id: "DMG-DT-NOE"
       boxart: "/a/box/1/8/4/3184_front.jpg"
@@ -21074,7 +21074,7 @@
     - release:
       title: "Ghostbusters II"
       market: "EU"
-      release_date: "1989/00/00"
+      release_date: "1991/00/00"
       publisher: "Activision"
       id: "DMG-GB-SCN"
       barcode: "047875720039"
