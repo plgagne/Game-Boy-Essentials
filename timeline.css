@@ -24,6 +24,18 @@ section.month {
 	margin-left: 4.3rem;
 	margin-bottom: .75rem;
 }
+figure.timeline {
+	width: 100px;
+}
+figure.timeline img {
+	max-width: 100%;
+}
+figure.timeline img:hover,
+figure.timeline img:focus,
+figure.timeline img:active {
+	width: 500px;
+}
+
 #timeline a.ref {
 	padding: 0 .3rem;
 }
