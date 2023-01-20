@@ -27,7 +27,7 @@ section.month {
 #timeline a.ref {
 	padding: 0 .3rem;
 }
-#timeline img {
+#timeline img.labels {
 	max-height: 1.5rem;
 	width: 2rem;
 }
