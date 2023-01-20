@@ -1,17 +1,41 @@
-<div class="gallery-container">
-{%- assign releases_sorted = site.data.timeline | sort: "time" -%}
-{%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
-{% assign releases_sorted=releases_sorted | concat: timeline_sorted %}
-
-{% for release in timeline_sorted %}
-{%- capture image-location -%}
+<div id="timeline">
+  {% comment %} {%- assign releases_sorted = site.data.timeline | sort: "time" -%} {% endcomment %}
+  {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
+  {% comment %} {% assign releases_sorted=releases_sorted | concat: timeline_sorted %} {% endcomment %}
+  {%- assign variable_year = 0 -%}
+  {%- assign variable_month = 0 -%}
+  {% for release in timeline_sorted %}
+    {%- assign release_year = release.release_date | date: "%Y" -%}
+    {%- assign release_month = release.release_date | date: "%B" -%}
+    {%- if variable_year == 0 -%}
+      <section class="year"><h2>{{ release.release_date | date: "%Y" }}</h2>
+		  {%- assign variable_year = release_year -%}
+	  {%- endif -%}
+	  {%- if variable_year != release_year -%}
+		  </section>
+		  </section>
+		  <section class="year"><h2>{{ release_year }}</h2>
+		  {%- assign variable_year = release_year -%}
+		  {%- assign variable_month = 0 -%}
+	  {%- endif -%}
+    {%- if variable_month == 0 -%}
+		  <section class="month"><h3>{{ release.release_date | date: "%B" }}</h3>
+		  {%- assign variable_month = release_month -%}
+	  {%- endif -%}
+    {%- if variable_month != release_month -%}
+		  </section>
+		  <section class="month"><h3>{{ release.release_date | date: "%B" }}</h3>
+		  {%- assign variable_month = release_month -%}
+	  {%- endif -%}
+    {%- capture image-location -%}
 /assets/timeline-test{{ release.boxart }}
-{%- endcapture -%}
-{%- assign release_year = release.release_date | date: "%Y" -%}
-{%- assign release_month = release.release_date | date: "%B" -%}
-<figure class="timeline">
-<img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
-<figcaption><p>{{ release.title }}</p></figcaption>
-</figure>
-{% endfor %}
+    {%- endcapture -%}
+    <figure class="timeline">
+    <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
+    <figcaption><p>{{ release.title }}{{ variable_year }}{{ variable_month }}</p></figcaption>
+    </figure>
+  {% endfor %}
+</section>
+</section>
+</section>
 </div>

@@ -15,4 +15,4 @@ Very little information is written in this note that pertains to Europe; this is
 There is also a lack of specificity of the European market; a title could have been released in one year in the UK and the next year in France, while never having been made available in Germany. Assigning a single year to a situation this complex is, in my opinion, peddling false information.
 
 For example, the original European release date of the Game Boy is unsourced on Wikipedia at the time of writing these lines. This means that we must trust Wikipedia to faithfully report on the release date of the Game Boy in Europe. All of the many different countries of Europe, reduced to one unsourced date. I might as well throw a dart at a calendar.
-{% include timeline.html %}
+{% include timeline-releases.html %}

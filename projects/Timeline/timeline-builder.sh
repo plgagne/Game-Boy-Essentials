@@ -1,5 +1,6 @@
 #!/bin/zsh
 # Copy Backup
+cd projects/timeline
 if [ -r "temp" ]; then
 	echo "Temporary timeline data is present"
 else 
