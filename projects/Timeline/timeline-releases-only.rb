@@ -12,12 +12,16 @@ contents = contents.gsub(/      /, "  ")
 contents = contents.gsub(/  rating: ".*?"\n/, "")
 contents = contents.gsub(/  ESRB descriptors: ".*?"\n/, "")
 
-# Fucking canceled games
+# Canceled games
 contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release_date: "0000-00-00"\n  publisher: ".*?"\n  barcode: ".*?"\n  boxart: ".*?"\n/, "")
 contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release_date: "0000-00-00"\n  publisher: ".*?"\n  boxart: ".*?"\n/, "")
 contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release_date: "0000-00-00"\n  publisher: ".*?"\n  id: ".*?"\n  boxart: ".*?"\n/, "")
 contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release_date: "0000-00-00 2021"\n  publisher: ".*?"\n  id: ".*?"\n  boxart: ".*?"\n/, "")
 contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release_date: "0000-00-00"\n  publisher: ".*?"\n  id: ".*?"\n  barcode: ".*?"\n  boxart: ".*?"\n/, "")
+
+# Unknown release dates
+contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"")
+contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n  unclear_year: true")
 
 # Write changes to file
 File.open('results/timeline-releases-only.yml', "w") {|file| file.puts contents}

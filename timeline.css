@@ -24,29 +24,37 @@ section.month {
 	margin-left: 4.3rem;
 	margin-bottom: .75rem;
 }
+.release_list {
+	display: block;
+}
 figure.timeline {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0.2em;
+	max-width: 110px;
+}
+figure.timeline img,
+figure.timeline figcaption {
 	width: 100px;
-}
-figure.timeline img {
 	max-width: 100%;
+	height: 100%;
 }
-figure.timeline img:hover,
-figure.timeline img:focus,
-figure.timeline img:active {
-	width: 500px;
+figure.timeline p {
+	font-size: 0.85rem;
 }
-
+/*
 #timeline a.ref {
 	padding: 0 .3rem;
 }
 #timeline img.labels {
 	max-height: 1.5rem;
 	width: 2rem;
-}
+} 
 #timeline p {
 	border-left: .2rem solid;
 	padding-left: 1rem;
-}
+} 
+*/
 #timeline p.jp {
 	border-color: var(--jpn-red);
 }
