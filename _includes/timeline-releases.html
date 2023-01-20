@@ -7,9 +7,11 @@
 {%- capture image-location -%}
 /assets/timeline-test{{ release.boxart }}
 {%- endcapture -%}
-<figure class="boxart">
+{%- assign release_year = release.release_date | date: "%Y" -%}
+{%- assign release_month = release.release_date | date: "%B" -%}
+<figure class="art">
 <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
-<figcaption><p>{{ release.title }}:{{ release.release_date }}</p></figcaption>
+<figcaption><p>{{ release.title }}</p></figcaption>
 </figure>
 {% endfor %}
 </div>
