@@ -68,3 +68,7 @@ total_number=$((gameboy_number+gbc_number))
 echo "Total number of titles in backup:" $total_number
 echo "Total number of titles in YAML file:" $timeline_number
 echo "Total number of releases in hard releases YAML file:" $releases_number
+
+# Move releases-only to _data folder
+echo 'Moving releases only file to _data folder ...'
+cp "results/timeline-releases-only.yml" "../_data/timeline-releases-only.yml"
