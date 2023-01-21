@@ -19,7 +19,7 @@ developers: "TOSE"
 - Never Released in North America
 - Never Released in Japan
 - Published by Nintendo
-- Developed by TOSE
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="Game **Boy** Gallery, not Game **& Watch** Gallery." %}
 

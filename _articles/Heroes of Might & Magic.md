@@ -18,7 +18,7 @@ developers: "KnowWonder"
 - European release in October 2000
 - Never released in Japan
 - Published by 3D0
-- Developed by KnowWonder
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="Ugly box art." %}
 

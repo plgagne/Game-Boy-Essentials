@@ -17,7 +17,7 @@ developers: "Nintendo EAD"
 - Japanese release in June 1993
 - North American release in August 1993
 - Published by Nintendo
-- Developed by Nintendo EAD
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="Clean. Simple. Beautiful." %}
 

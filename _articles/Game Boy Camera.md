@@ -7,7 +7,7 @@ release-year: "1998"
 release-month: "02"
 publication: "2022-12-22"
 tags: [book4]
-developers: "Nintendo"
+developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
  
@@ -15,8 +15,8 @@ developers: "Nintendo"
 - North American release in May 1998
 - European release in 1998
 - Published by Nintendo
-- Developed by Nintendo R&D1
- 
+- Developed by {{ page.developers }}
+
 {% include figure.html type="boxart" figcaption="You might laugh now but for a short time this thing was impressive." %}
 
 ## {{ page.description }}

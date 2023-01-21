@@ -18,7 +18,7 @@ developers: "SquareSoft"
 - North American release in September 1990
 - North American reprint by Sunsoft in April 1998
 - Published by SquareSoft (reprint published by Sunsoft)
-- Developed by SquareSoft
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="The North American box art used a unique *Final Fantasy* logo that was meant to be used for the series but was shortly afterwards abandoned." %}
 
