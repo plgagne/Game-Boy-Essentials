@@ -24,3 +24,7 @@ The Soviet Union is falling apart. Stretched to its limits by incessant military
 The long road back to the original Tetris
 A quick highlight of all the derivatives of Tetris and a quick history and explanation. Their chase of the dragon.
 
+https://harddrop.com/wiki/Tetris_Blast
+https://en.wikipedia.org/wiki/List_of_Tetris_variants
+https://www.mobygames.com/game/hatris/screenshots
+https://gamefaqs.gamespot.com/gameboy/585740-hatris/data
