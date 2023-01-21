@@ -10,26 +10,32 @@
       {% if release_year contains '2010' %}{% break %}{% else %}
         {%- assign release_month = release.release_date | date: "%B" -%}
         {%- if variable_year == 0 -%}
-          <section class="year"><h2>{{ release.release_date | date: "%Y" }}</h2>
+          <section class="year">
+            <h2>{{ release.release_date | date: "%Y" }}</h2>
 		      {%- assign variable_year = release_year -%}
 	        {%- endif -%}
 	      {%- if variable_year != release_year -%}
 		        </div>
           </section>
+          </div>
 		      </section>
-		      <section class="year"><h2>{{ release_year }}</h2>
+		      <section class="year">
+            <h2>{{ release_year }}</h2>
 		      {%- assign variable_year = release_year -%}
 		      {%- assign variable_month = 0 -%}
 	      {%- endif -%}
         {%- if variable_month == 0 -%}
-		      <section class="month"><h3>{{ release.release_date | date: "%B" }}</h3>
+		      <div class="month-separator"><h3>{{ release.release_date | date: "%B" }}</h3>
+          <section class="month">
 		        <div class="release_list">
               {%- assign variable_month = release_month -%}
 	      {%- endif -%}
         {%- if variable_month != release_month -%}
 		        </div>
           </section>
-          <section class="month"><h3>{{ release.release_date | date: "%B" }}</h3>
+          </div>
+          <div class="month-separator"><h3>{{ release.release_date | date: "%B" }}</h3>
+          <section class="month">
             <div class="release_list">
 		        {%- assign variable_month = release_month -%}
 	      {%- endif -%}
@@ -43,6 +49,7 @@
       {% endif %}
     {% endunless %}
   {% endfor %}
+            </div>
             </div>
           </section>
           </section>
