@@ -119,6 +119,9 @@ contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000-00-00
 # Adjusting the market from US to NA
 contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
 
+# Switching the empty image location
+
+
 # Correcting errors
 contents = contents.gsub(/      title: "Disney's DuckTales"\n      market: "EU"\n      release_date: "1989-00-00"/, "      title: \"Disney's DuckTales\"\n      market: \"EU\"\n      release_date: \"1991-00-00\"")
 contents = contents.gsub(/      title: "Ghostbusters II"\n      market: "EU"\n      release_date: "1989-00-00"/, "      title: \"Ghostbusters II\"\n      market: \"EU\"\n      release_date: \"1991-00-00\"")
