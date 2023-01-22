@@ -58,8 +58,8 @@ contents = contents.gsub(/{(.*?)}(.*?)<td class="cregion">US<\/td>(.*?)\n/, "\\2
 contents = contents.gsub(/<td class="cregion">US<\/td>{(.*?)}(.*?)<td class="cregion">US<\/td>/, "<td class=\"cregion\">US<\/td>{\\1}\\2<td class=\"cregion\">US<\/td>{\\1}")
 contents = contents.gsub(/<.*?>Release Data.*?<tbody>/, "  releases:")
 contents = contents.gsub(/<tr><td class="cbox" rowspan="2">(.*?)<td class="datarating">(.*?)<\/td><\/tr>/, "\n\\1\n      rating: \"\\2\"")
-contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">US<.*?{(.*?)}.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "    - release:\n      title: \"\\2\"\n      market: \"US\"\n      release date: \"\\7\"\n      publisher: \"\\4\"\n      id: \"\\5\"\n      barcode: \"\\6\"\n      boxart: \"\\1\"\n      \\3\n")
-contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">(.*?)<.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "    - release:\n      title: \"\\2\"\n      market: \"\\3\"\n      release date: \"\\7\"\n      publisher: \"\\4\"\n      id: \"\\5\"\n      barcode: \"\\6\"\n      boxart: \"\\1\"\n")
+contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">US<.*?{(.*?)}.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "    - release:\n      title: \"\\2\"\n      market: \"US\"\n      release_date: \"\\7\"\n      publisher: \"\\4\"\n      id: \"\\5\"\n      barcode: \"\\6\"\n      boxart: \"\\1\"\n      \\3\n")
+contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">(.*?)<.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "    - release:\n      title: \"\\2\"\n      market: \"\\3\"\n      release_date: \"\\7\"\n      publisher: \"\\4\"\n      id: \"\\5\"\n      barcode: \"\\6\"\n      boxart: \"\\1\"\n")
 contents = contents.gsub(/<\/tbody><\/table><\/div><\/div>/, "")
 contents = contents.gsub(/"&nbsp;"/, "")
 
@@ -98,23 +98,33 @@ contents = contents.gsub(/Zool: Ninja of the "Nth" Dimension/, "Zool: Ninja of t
 contents = contents.gsub(/ It's a breakaway bash in this wild new Kirby game of Block Ball!.*?\n/, "")
 
 # Adjusting the release dates to YYYY/MM/DD
-contents = contents.gsub(/release date: "(.*?)\/(.*?)\/(.*?)"/, "release date: \"19\\3\/\\1\/\\2\"")
-contents = contents.gsub(/release date: "19([0-1][0-9])\/(.*?)\/(.*?)"/, "release date: \"20\\1\/\\2\/\\3\"")
-contents = contents.gsub(/release date: "([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/00\/00\"")
-contents = contents.gsub(/release date: "January ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/01\/00\"")
-contents = contents.gsub(/release date: "February ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/02\/00\"")
-contents = contents.gsub(/release date: "March ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/03\/00\"")
-contents = contents.gsub(/release date: "April ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/04\/00\"")
-contents = contents.gsub(/release date: "May ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/05\/00\"")
-contents = contents.gsub(/release date: "June ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/06\/00\"")
-contents = contents.gsub(/release date: "July ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/07\/00\"")
-contents = contents.gsub(/release date: "August ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/08\/00\"")
-contents = contents.gsub(/release date: "September ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/09\/00\"")
-contents = contents.gsub(/release date: "October ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/10\/00\"")
-contents = contents.gsub(/release date: "November ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/11\/00\"")
-contents = contents.gsub(/release date: "December ([1-2])([0-9])([0-9])([0-9])"/, "release date: \"\\1\\2\\3\\4\/12\/00\"")
-contents = contents.gsub(/release date: \"TBA/, "release date: \"0000")
-contents = contents.gsub(/release date: \"Canceled/, "release date: \"0000")
+contents = contents.gsub(/release_date: "(.*?)\/(.*?)\/(.*?)"/, "release_date: \"19\\3-\\1-\\2\"")
+contents = contents.gsub(/release_date: "19([0-2][0-9])-(.*?)-(.*?)"/, "release_date: \"20\\1-\\2-\\3\"")
+contents = contents.gsub(/release_date: "([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-00-00\"")
+contents = contents.gsub(/release_date: "January ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-01-00\"")
+contents = contents.gsub(/release_date: "February ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-02-00\"")
+contents = contents.gsub(/release_date: "March ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-03-00\"")
+contents = contents.gsub(/release_date: "April ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-04-00\"")
+contents = contents.gsub(/release_date: "May ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-05-00\"")
+contents = contents.gsub(/release_date: "June ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-06-00\"")
+contents = contents.gsub(/release_date: "July ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-07-00\"")
+contents = contents.gsub(/release_date: "August ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-08-00\"")
+contents = contents.gsub(/release_date: "September ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-09-00\"")
+contents = contents.gsub(/release_date: "October ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-10-00\"")
+contents = contents.gsub(/release_date: "November ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-11-00\"")
+contents = contents.gsub(/release_date: "December ([1-2])([0-9])([0-9])([0-9])"/, "release_date: \"\\1\\2\\3\\4-12-00\"")
+contents = contents.gsub(/release_date: \"TBA/, "release_date: \"0000-00-00")
+contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000-00-00")
+
+# Adjusting the market from US to NA
+contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
+
+# Switching empty image location
+contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/, "boxart: \"/no_cover.png\"")
+
+# Correcting errors
+contents = contents.gsub(/      title: "Disney's DuckTales"\n      market: "EU"\n      release_date: "1989-00-00"/, "      title: \"Disney's DuckTales\"\n      market: \"EU\"\n      release_date: \"1991-00-00\"")
+contents = contents.gsub(/      title: "Ghostbusters II"\n      market: "EU"\n      release_date: "1989-00-00"/, "      title: \"Ghostbusters II\"\n      market: \"EU\"\n      release_date: \"1991-00-00\"")
 
 # Write changes to file
 File.open('results/timeline-complete-data.yml', "w") {|file| file.puts contents}

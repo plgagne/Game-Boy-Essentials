@@ -18,7 +18,7 @@ developers: "SquareSoft"
 - North American release in November 1991
 - North American reprint by Sunsoft in April 1998
 - Published by SquareSoft (reprint published by Sunsoft)
-- Developed by SquareSoft
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="1998 Sunsoft reprint." %}
 

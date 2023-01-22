@@ -17,7 +17,7 @@ developers: "Jupiter"
 - Japanese & North American release in March 1995
 - European release in July 1995
 - Published by Nintendo
-- Developed by Jupiter
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="Plumber, referee, golfer, Picross player?" %}
 

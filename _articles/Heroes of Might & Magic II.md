@@ -18,7 +18,7 @@ developers: "KnowWonder"
 - European release in March 2001
 - Never released in Japan
 - Published by 3D0
-- Developed by KnowWonder
+- Developed by {{ page.developers }}
 
 {% include figure.html type="boxart" figcaption="As vaguely medieval as possible." %}
 

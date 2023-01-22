@@ -41,6 +41,10 @@ Thumbs.db
 .nova/
 .vscode/
 
+# Gemfile #
+######################
+Gemfile.lock
+
 # Jekyll #
 ######################
 .jekyll-cache/
@@ -48,9 +52,10 @@ Thumbs.db
 _site/
 _site-local/
 
-# Book Binding & timeline#
+# Book Binding & Timeline #
 ######################
 temp/
+assets/timeline-test/
 
 # BackstopJS #
 ######################
