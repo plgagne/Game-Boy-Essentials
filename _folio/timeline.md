@@ -22,4 +22,3 @@ Missing images:
 /assets/timeline-test/a/box/2/1/8/32218_front.jpg' not found.
 
 {% include timeline-releases.html %}
-{% include timeline.html %}
