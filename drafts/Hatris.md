@@ -33,14 +33,7 @@ I'm here to tell you that Pajitnov's third game is, uh, not good. Not good at al
 
 Hats are falling from the top of the screen in pairs. Those pairs of hats can be broken apart. If one of the hats falls on a pile, the hat next to it is disconnected and keeps falling on its own. Hats cannot go over piles, so you have to manage how you'll break the pair to maximize piles. 
 
-# A Crash Course in Tetrisology
-
-I intend to write a bunch of articles featuring Tetris sequels, so there's no better time to school you dear reader on the intricacies of the Tetris license than now. 
-
-
-
-Let's look at a list of all those strange Tetris sequels. **This list does not include versions of the original Tetris** like *Tetris Gold*, *Tetris Classic*, or any version called *Tetris* for any platform.
-
+Let's look at a list of all the Tetris sequels. **This list does not include versions of the original Tetris** like *Tetris Gold*, *Tetris Classic*, or any version called *Tetris* for any platform.
 
 |Game Title|First Release Date|Pajitnov Design|Details|
 |-|-|-|-|
@@ -53,22 +46,14 @@ Let's look at a list of all those strange Tetris sequels. **This list does not i
 |*Tetris 2 + Bombliss*|December 1991 on Famicom in Japan|No|Features the original game and a bomb mode mostly focused on solving specific setups. Not to be confused with the bombs from *Super Tetris*, which work differently. Published by Bullet-Proof Software, Henk Roger's company.|
 |*Super Tetris 2 + Bombliss*|December 1992 on Super Famicom in Japan|No|Sequel to *Tetris 2+ Bombliss* with more game modes available. Also released on other platforms but still exclusive to Japan.|
 |*Tetris 2*|Starting in Japan on September 1993 on all three Nintendo platforms|No|Called *Tetris Flash* in Japan, it features irregularly shaped falling blocks who are removed through matching colours.|
-|*Super Tetris 2 + Bombliss Special Edition*|January 1994 on Super Famicom in Japan|No|Includes different puzzles from the previous game for the Bombliss mode.|
-|*Super Tetris 3*|December 1994 on Super Famicom exclusively in Japan|No|Still includes a regular Tetris mode, as well as new variants, this time three of them: Magicaliss, Sparkliss, and Familiss.|
-|*Tetris Blast*||No|Nintendo published version of Bombliss from Bullet-Proof Software. Does not include any other version than Bombliss.|
-|*Tetris Attack*||No|Straight up *Panel de Pon*.|
-|*3D Tetris*||||
-|*Tetrisphere*||||
-|*Tetris DX*||||
-|*Tetris 4D*||||
-
-This list is not exhaustive and final; it's only meant to illustrate my point. What is my point? That Tetris suffered under Elorg. They licensed the name, and paid little attention to what the licensees were doing. Games like *Super Tetris* did not include any sort of way to play vanilla *Tetris*. A classic mode, so to speak. And while players have always enjoyed improvements on the classic formula and variants that spiced things up, there is a fundamental quality with the original version of the game. Introducing bombs or weirdly shaped blocks changes the nature of Tetris. It makes it into something else, and if you just want regular *Tetris*, a game like *Super Tetris* on PC and Macintosh is unsatisfying.
-
-Bullet-Proof Software was clearly doing the right thing with the license, being Henk Rogers company. Their titles, the *Tetris 2 + Bombliss* series, always had a classic mode **alongside** their reinventions of the classic game. Unfortunately, their license was limited to Japan, with the worst licensee to disregard player expectations an unlikely culprit.
-
-Nintendo was actually the worst *Tetris* licensee. Their games never offered a classic mode, with *Tetris 2* being massively different from the original game. They also put the Tetris name on *Tetris Blast* and *Tetris Attack*, two titles that had even less to do with the tetromino-based game. Those two titles have no right to ba called Tetris.
-
-Starting in 2001, the Tetris Company started enforcing stricter Tetris guidelines, which guaranteed any Tetris game had a standardized Tetris version available. This ended the era of sequel games, and frankly made things much better. Buying a Tetris game now guaranteed that you would get a good version of Tetris alongside any quirky improvements and variants the developpers thought of.
+|*Super Tetris 2 + Bombliss Genteiban*||No|Includes different puzzles for the Bombliss mode.|
+|*Super Tetris 3*||No||
+|*Tetris Blast*
+|*Tetris Attack*
+|*3D Tetris*
+|*Tetrisphere*
+Tetris DX
+|*Tetris 4D*
 
 The long road back to the original Tetris
 A quick highlight of all the derivatives of Tetris and a quick history and explanation. Their chase of the dragon.
