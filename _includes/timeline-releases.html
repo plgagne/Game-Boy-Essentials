@@ -12,7 +12,7 @@
         {%- if variable_year == 0 -%}
           <section class="year">
             <h2>{{ release.release_date | date: "%Y" }}</h2>
-		      {%- assign variable_year = release_year -%}
+          {%- assign variable_year = release_year -%}
 	        {%- endif -%}
 	      {%- if variable_year != release_year -%}
 		        </div>
@@ -29,7 +29,7 @@
           <section class="month">
 		        <div class="release_list">
               {%- assign variable_month = release_month -%}
-	      {%- endif -%}
+        {%- endif -%}
         {%- if variable_month != release_month -%}
 		        </div>
           </section>
@@ -37,8 +37,8 @@
           <div class="month-separator"><h3>{{ release.release_date | date: "%B" }}</h3>
           <section class="month">
             <div class="release_list">
-		        {%- assign variable_month = release_month -%}
-	      {%- endif -%}
+            {%- assign variable_month = release_month -%}
+        {%- endif -%}
         {%- capture image-location -%}
 /assets/timeline-test{{ release.boxart }}
         {%- endcapture -%}
