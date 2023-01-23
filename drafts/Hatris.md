@@ -35,25 +35,25 @@ Hats are falling from the top of the screen in pairs. Those pairs of hats can be
 
 Let's look at a list of all the Tetris sequels. **This list does not include versions of the original Tetris** like *Tetris Gold*, *Tetris Classic*, or any version called *Tetris* for any platform.
 
-|Game Title|First Release Date|Pajitnov Design|Details|
+| Game Title | First Release Date | Pajitnov Design | Details |
 |-|-|-|-|
-|*Welltris*|1989 on PC and Macintosh|Yes|First Tetris sequel. It features a 3D well concept.|
-|*Hatris*|April of 1990 in arcades|Yes|Stack hats of varying heights.|
-|*Tetris 2*|1990 in Eastern Europe on ZX Spectrum|No|?|
-|*Faces...Tris III*|1990 on PC and Macintosh|Yes|Assemble famous faces with blocks from chin to hair. The design feels like a sequel to *Hatris*.|
-|*Super Tetris*|1991 on PC and Macintosh|In parts|Introduces bombs to remove blocks after each successful cleared line, and objective-based levels. Also includes multiplayer modes.|
-|*Wordtris*|1991 on PC and Macintosh|No|Join falling blocks of letters into words.|
-|*Tetris 2 + Bombliss*|December 1991 on Famicom in Japan|No|Features the original game and a bomb mode mostly focused on solving specific setups. Not to be confused with the bombs from *Super Tetris*, which work differently. Published by Bullet-Proof Software, Henk Roger's company.|
-|*Super Tetris 2 + Bombliss*|December 1992 on Super Famicom in Japan|No|Sequel to *Tetris 2+ Bombliss* with more game modes available. Also released on other platforms but still exclusive to Japan.|
-|*Tetris 2*|Starting in Japan on September 1993 on all three Nintendo platforms|No|Called *Tetris Flash* in Japan, it features irregularly shaped falling blocks who are removed through matching colours.|
-|*Super Tetris 2 + Bombliss Genteiban*||No|Includes different puzzles for the Bombliss mode.|
-|*Super Tetris 3*||No||
-|*Tetris Blast*
-|*Tetris Attack*
-|*3D Tetris*
-|*Tetrisphere*
-Tetris DX
-|*Tetris 4D*
+| *Welltris* | 1989 on PC and Macintosh | Yes | First Tetris sequel. It features a 3D well concept. |
+| *Hatris* | April 1990 in arcades | Yes | Stack hats of varying heights. |
+| *Tetris 2* | 1990 in Eastern Europe on ZX Spectrum | No | ? |
+| *Faces...Tris III* | 1990 on PC and Macintosh | Yes | Assemble famous faces with blocks from chin to hair. The design feels like a sequel to *Hatris*. |
+| *Super Tetris* | 1991 on PC and Macintosh | In parts | Introduces bombs to remove blocks after each successful cleared line, and objective-based levels. Also includes multiplayer modes. |
+| *Wordtris* | 1991 on PC and Macintosh | No | Join falling blocks of letters into words. |
+| *Tetris 2 + Bombliss* | December 1991 on Famicom in Japan | No | Features the original game and a bomb mode mostly focused on solving specific setups. Not to be confused with the bombs from *Super Tetris*, which work differently. Published by Bullet-Proof Software, Henk Roger's company. |
+| *Super Tetris 2 + Bombliss* | December 1992 on Super Famicom in Japan | No | Sequel to *Tetris 2+ Bombliss* with more game modes available. Also released on other platforms but still exclusive to Japan. |
+| *Tetris 2* | Starting in Japan in September 1993 | No | Called *Tetris Flash* in Japan, it features irregularly shaped falling blocks who are removed through matching colours. Published by Nintendo. |
+| *Super Tetris 2 + Bombliss Genteiban* || No | Includes different puzzles for the Bombliss mode. |
+| *Super Tetris 3* ||No||
+| *Tetris Blast* |||| 
+| *Tetris Attack* ||||
+| *3D Tetris* ||||
+| *Tetrisphere* ||||
+| *Tetris DX* ||||
+| *Tetris 4D* ||||
 
 The long road back to the original Tetris
 A quick highlight of all the derivatives of Tetris and a quick history and explanation. Their chase of the dragon.
