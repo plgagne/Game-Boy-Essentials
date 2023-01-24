@@ -320,3 +320,6 @@ http://www.japanesenintendo.com/post/155107688449 G&W as a toy versus GB as a pl
 
 ## Nintendo Power (the rewritable cartridges)
 L’histoire de Nintendo volume 4 page 148 mentions the project was a way to get more cartridges in the small combinis (the Japanese dépanneur).
+
+## Alexei Pajitnov's role on Yoshi's Cookie
+He is credited with creating puzzles for the SNES version, which came out in Japan after the Famicom and Game Boy versions. Henk Rogers is also credited for the SNES version. He is not credited on Game Boy. Source: https://www.mobygames.com/game/snes/yoshis-cookie/credits

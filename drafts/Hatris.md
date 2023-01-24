@@ -19,7 +19,46 @@ developers: "Bullet Proof Software"
 
 {% include figure.html type="boxart" figcaption="Hats!" %}
 
-The Soviet Union is falling apart. Stretched to its limits by incessant military spendings and its stagnant managed economy, what was supposed to be a reasonable political realignment finally broke the Communist Party's ability to maintain power. Its leader, Mikhail Gorbachev, will ultimately blame the Chernobyl nuclear disaster for this cultural change. After years of independence movements across the Union jockeying hard, Boris Yeltsin becomes Russia's first (and only) democratically elected president. He immediately starts setting the stage for the permanent dissolution of the Soviet Union once his presidency begins in the summer of 1991. A risky period ensues, with a coup to restore the old repressive order of the Soviet Union in Russia now in preparation. Amongst all this deadly serious moment, the russian computer scientist who invented *Tetris* is releasing a game about sorting hats!
+Here's the outline of the article:
+- The Soviet Union is falling already when Game Boy comes out.
+It is the summer of 1989, and the Soviet Union is clearly falling apart. Stretched to its limits by incessant military spendings and its stagnant managed economy, what was supposed to be a reasonable political realignment finally broke the Communist Party's ability to maintain power. Its leader, Mikhail Gorbachev, will ultimately blame the Chernobyl nuclear disaster for this cultural change. After years of independence movements across the Union organizing, a veritable wellspring of revolutions will start in just a couple of months across Eastern Europe, and the Polish people have been allowed for the first time to vote in a free election, leading independent union Solidarność to enter the political sphere and to start breaking Communist rule in Poland.
+
+- So no one bats an eye that every Game Boy comes with a Soviet game; it's in vogue.
+Amongst this troubling era, Game Boy is released in North America and no one bats an eye that every console sold comes with a Russian game; it's in vogue. The once evil Soviet populace is now portrayed as opressed nations now yearning for freedom. Nintendo's *Tetris* for Game Boy fits nicely into this narrative, with its focus on traditional Russian folklore and religion divorced from the CCCP regime. Already by December 1989, the Berlin Wall has fallen and the Communists are clearly on the way out. It's only a matter of time.
+
+- Pajitnov starts making sequels because he's kind of forced into it. He gets no money from Tetris at this time.
+The jovial mathemathician who created *Tetris*, Alexei Pajitnov, is making a game about hats. He makes no money from the licensing deals of *Tetris*. His former employer, the Soviet state, is cashing in all the dough and they are not sharing. However, Pajitnov has the reputation that comes with creating the game. He's already well known for having created *Tetris*, which has quickly become a famous video game. So Pajitnov starts working on Welltris at the company that will become Spectrum Holobyte. He starts working on Hatris and Faces...Tris III at his buddy's company, Bullet-Proof Software.
+
+- He leaves Russia and starts working for Spectrum Holobyte, a licensee of the Tetris license, where his credited works takes a nosedive.
+- At the same time, other licensees are making their own improvments on the Tetris formula.
+- But they forget to add classic modes to their versions. They sell games with the Tetris name, but no way to play a classic game of Tetris. Only their variants are playable.
+- Elorg is not concerned by this. They don't understand.
+- Tetris has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Adding bombs and weirdly shaped blocks detracts from that.
+- If you want to understand the magical qualities of a good bog-standard game of Tetris, look no further than https://tetris.com/play-tetris/. I'm pretty sure it's the reference version the Tetris Company shows licensees to make them understand what an official Tetris title must contain.
+- One licensee gets it; Henk Rogers.
+- Remember, Henk Rogers is the one westerner that Yamauchi trusts like a japanese. He's the one who got Tetris for Nintendo, he's the one who befriends Pajitnov over Go.
+- He's the one who will found The Tetris Company with Pajitnov in 1996.
+- The reason he got Tetris for Nintendo was that he already had a license for Tetris himself, obtained from the complicated, and ultimately deceptive, carving of the rights by Robert Stein.
+- Yamauchi is armed with a powerful tool to win Tetris; the Game Boy.
+- Visualize this: a Tetris licensee can sell from 10,000 to 100,000 units of their computer Tetris versions for 40 to 50 bucks.
+- Yamauchi bets on selling millions of Game Boy. And every single Game Boy outside Japan will come with Tetris. Yamauchi will sell around X millions when he stops bundling Tetris in 199X.
+- Nintendo of America buys the rights for 500 000$ and 50 cents per cartridge sold.
+- It appears that Nintendo thus has worldwide rights to Tetris on consoles and portable systems, except in Japan where they only have portable systems rights.
+- Robert Stein is bamboozled by the Soviets, and signs a new contract clarifying his computer license as a device with a screen and keyboard. Henk Rogers signs with Elorg and conserves the console rights in Japan he already had signed with Stein.
+- Henk Rogers uses his japanese license in the 90s to make a whole series of improved games.
+- All these games have a classic mode alongside them. Henk Rogers gets it.
+- But there's one company who fundamentally does not get the need to offer a classic Tetris mode.
+
+Nintendo.
+
+- Tetris 2, Tetris Attack, they treat Tetris like it simply means falling-block puzzle. 
+- The incredible mariage between Nintendo and Elorg comes with a caveat; Nintendo has no incentive to revisit Tetris.
+- I mean they're right in a sense. Every Game Boy already has a very good Tetris. Why improve it?
+- They have the license for consoles so what they do is they use it with other puzzle games to gin up their marketing.
+- I do not know this for a fact, but it's possible Nintendo had a license that includes the use of the name, and the use of the game separately, so if they don't include the classic game they pay less? It's all conjecture on my part, I'd have to ask Henk Rogers.
+- Tetris Blast to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
+
+
 
 ... Pajitnov had left.
 
@@ -77,35 +116,3 @@ https://harddrop.com/wiki/Tetris_Blast
 https://en.wikipedia.org/wiki/List_of_Tetris_variants
 https://www.mobygames.com/game/hatris/screenshots
 https://gamefaqs.gamespot.com/gameboy/585740-hatris/data
-
-
-Here's the outline of the article:
-The Soviet Union is falling already when Game Boy comes out.
-So no one bats an eye that every Game Boy comes with a Soviet game; it's in vogue.
-Pajitnov starts making sequels because he's kind of forced into it. He gets no money from Tetris at this time.
-So he makes his sequels at a licensee of Elorg.
-At the same time, other licensees are making their own improvments on the Tetris formula.
-But they forget to add classic modes to their versions. They sell games with the Tetris name, but no way to play a classic game of Tetris. Only their variants are playable.
-Elorg is not concerned by this. They don't understand.
-Tetris has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Adding bombs and weirdly shaped blocks detracts from that.
-If you want to understand the magical qualities of a good bog-standard game of Tetris, look no further than https://tetris.com/play-tetris/. I'm pretty sure it's the reference version the Tetris Company shows licensees to make them understand what an official Tetris title must contain.
-One licensee gets it; Henk Rogers.
-Remember, Henk Rogers is the one westerner that Yamauchi trusts like a japanese. He's the one who got Tetris for Nintendo, he's the one who befriends Pajitnov.
-He's the one who will found The Tetris Company with Pajitnov in 1996.
-The reason he got Tetris for Nintendo was that he already had a license for Tetris himself.
-Yamauchi is armed with a powerful tool to win Tetris; the Game Boy.
-Visualize this: a Tetris licensee can sell from 10,000 to 100,000 units of their computer Tetris versions for 40 to 50 bucks.
-Yamauchi bets on selling millions of Game Boy. And every single Game Boy outside Japan will come with Tetris. The game might be valued 10 to 20$ with each bundle, but Yamauchi will sell around X millions when he stops bundling Tetris in 199X.
-I don't know the details but the facts point to him being able to easily outbid the other licensees with generous percentages and advance payments.
-Henk Rogers uses his japanese license in the 90s to make a whole series of improved games.
-All these games have a classic mode alongside them. Henk Rogers gets it.
-But there's one company who fundamentally does not get the need to offer a classic Tetris mode.
-
-Nintendo.
-
-Tetris 2, Tetris Attack, they treat Tetris like it simply means falling-block puzzle. 
-The incredible mariage between Nintendo and Elorg comes with a caveat; Nintendo has no incentive to revisit Tetris.
-I mean they're right in a sense. Every Game Boy already has a very good Tetris. Why improve it?
-They have the license for consoles so what they do is they use it with other puzzle games to gin up their marketing.
-I do not know this for a fact, but it's possible Nintendo had a license that includes the use of the name, and the use of the game separately, so if they don't include the classic game they pay less? It's all conjecture on my part, I'd have to ask Henk Rogers.
-Tetris Blast to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
