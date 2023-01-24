@@ -77,3 +77,35 @@ https://harddrop.com/wiki/Tetris_Blast
 https://en.wikipedia.org/wiki/List_of_Tetris_variants
 https://www.mobygames.com/game/hatris/screenshots
 https://gamefaqs.gamespot.com/gameboy/585740-hatris/data
+
+
+Here's the outline of the article:
+The Soviet Union is falling already when Game Boy comes out.
+So no one bats an eye that every Game Boy comes with a Soviet game; it's in vogue.
+Pajitnov starts making sequels because he's kind of forced into it. He gets no money from Tetris at this time.
+So he makes his sequels at a licensee of Elorg.
+At the same time, other licensees are making their own improvments on the Tetris formula.
+But they forget to add classic modes to their versions. They sell games with the Tetris name, but no way to play a classic game of Tetris. Only their variants are playable.
+Elorg is not concerned by this. They don't understand.
+Tetris has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Adding bombs and weirdly shaped blocks detracts from that.
+If you want to understand the magical qualities of a good bog-standard game of Tetris, look no further than https://tetris.com/play-tetris/. I'm pretty sure it's the reference version the Tetris Company shows licensees to make them understand what an official Tetris title must contain.
+One licensee gets it; Henk Rogers.
+Remember, Henk Rogers is the one westerner that Yamauchi trusts like a japanese. He's the one who got Tetris for Nintendo, he's the one who befriends Pajitnov.
+He's the one who will found The Tetris Company with Pajitnov in 1996.
+The reason he got Tetris for Nintendo was that he already had a license for Tetris himself.
+Yamauchi is armed with a powerful tool to win Tetris; the Game Boy.
+Visualize this: a Tetris licensee can sell from 10,000 to 100,000 units of their computer Tetris versions for 40 to 50 bucks.
+Yamauchi bets on selling millions of Game Boy. And every single Game Boy outside Japan will come with Tetris. The game might be valued 10 to 20$ with each bundle, but Yamauchi will sell around X millions when he stops bundling Tetris in 199X.
+I don't know the details but the facts point to him being able to easily outbid the other licensees with generous percentages and advance payments.
+Hank Rogers uses his japanese license in the 90s to make a whole series of improved games.
+All these games have a classic mode alongside them. Henk Rogers gets it.
+But there's one company who fundamentally does not get the need to offer a classic Tetris mode.
+
+Nintendo.
+
+Tetris 2, Tetris Attack, they treat Tetris like it simply means falling-block puzzle. 
+The incredible mariage between Nintendo and Elorg comes with a caveat; Nintendo has no incentive to revisit Tetris.
+I mean they're right in a sense. Every Game Boy already has a very good Tetris. Why improve it?
+They have the license for consoles so what they do is they use it with other puzzle games to gin up their marketing.
+I do not know this for a fact, but it's possible Nintendo had a license that includes the use of the name, and the use of the game separately, so if they don't include the classic game they pay less? It's all conjecture on my part, I'd have to ask Henk Rogers.
+Tetris Blast to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
