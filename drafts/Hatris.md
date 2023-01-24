@@ -97,7 +97,7 @@ Yamauchi is armed with a powerful tool to win Tetris; the Game Boy.
 Visualize this: a Tetris licensee can sell from 10,000 to 100,000 units of their computer Tetris versions for 40 to 50 bucks.
 Yamauchi bets on selling millions of Game Boy. And every single Game Boy outside Japan will come with Tetris. The game might be valued 10 to 20$ with each bundle, but Yamauchi will sell around X millions when he stops bundling Tetris in 199X.
 I don't know the details but the facts point to him being able to easily outbid the other licensees with generous percentages and advance payments.
-Hank Rogers uses his japanese license in the 90s to make a whole series of improved games.
+Henk Rogers uses his japanese license in the 90s to make a whole series of improved games.
 All these games have a classic mode alongside them. Henk Rogers gets it.
 But there's one company who fundamentally does not get the need to offer a classic Tetris mode.
 
