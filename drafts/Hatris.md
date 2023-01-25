@@ -27,10 +27,14 @@ It is the summer of 1989, and the Soviet Union is clearly falling apart. Stretch
 Amongst this troubling era, Game Boy is released in North America and no one bats an eye that every console sold comes with a Russian game; it's in vogue. The once evil Soviet populace is now portrayed as opressed nations now yearning for freedom. Nintendo's *Tetris* for Game Boy fits nicely into this narrative, with its focus on traditional Russian folklore and religion divorced from the CCCP regime. Already by December 1989, the Berlin Wall has fallen and the Communists are clearly on the way out. It's only a matter of time.
 
 - Pajitnov starts making sequels because he's kind of forced into it. He gets no money from Tetris at this time.
-The jovial mathemathician who created *Tetris*, Alexei Pajitnov, is making a game about hats. He makes no money from the licensing deals of *Tetris*. His former employer, the Soviet state, is cashing in all the dough and they are not sharing. However, Pajitnov has the reputation that comes with creating the game. He's already well known for having created *Tetris*, which has quickly become a famous video game. So Pajitnov starts working on Welltris at the company that will become Spectrum Holobyte. He starts working on Hatris and Faces...Tris III at his buddy's company, Bullet-Proof Software.
+The jovial mathemathician who created *Tetris*, Alexei Pajitnov, is making a game about hats. He makes no money from the licensing deals of *Tetris*. His former employer, the Soviet state, is cashing in all the dough and they are not sharing. However, Pajitnov has the reputation that comes with creating the game. He's already well known for having created *Tetris*, which has quickly become a famous video game. So Pajitnov starts working on Welltris at the company that will become Spectrum Holobyte. He starts working on *Hatris* and *Faces...Tris III* at his buddy's company, Bullet-Proof Software.
 
 - He leaves Russia and starts working for Spectrum Holobyte, a licensee of the Tetris license, where his credited works takes a nosedive.
+Just a year after the release of *Hatris*, Pajitnov leaves Russia to work for Spectrum Holobyte. His credited work takes a nosedive, but he seemingly starts working on projects there.
+
 - At the same time, other licensees are making their own improvments on the Tetris formula.
+
+
 - But they forget to add classic modes to their versions. They sell games with the Tetris name, but no way to play a classic game of Tetris. Only their variants are playable.
 - Elorg is not concerned by this. They don't understand.
 - Tetris has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Adding bombs and weirdly shaped blocks detracts from that.

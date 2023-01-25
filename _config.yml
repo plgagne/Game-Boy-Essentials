@@ -18,6 +18,9 @@ collections:
   folio:
     output: true
     permalink: /:slug/
+  timeline:
+    output: true
+    permalink: /:slug/
   tags:
     output: true
     permalink: tag/:title/
