@@ -51,13 +51,12 @@ figure.timeline {
 	display: inline-block;
 	vertical-align: top;
 	margin: 0.2em;
-	max-width: 110px;
+	width: 10rem;
+	height: 14rem;
 }
 figure.timeline img,
 figure.timeline figcaption {
-	width: 100px;
 	max-width: 100%;
-	height: 100%;
 }
 figure.timeline p {
 	font-size: 0.85rem;
