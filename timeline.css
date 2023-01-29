@@ -9,9 +9,19 @@
 	--eur-blue: #039;
 	--rounded-corners: 0.25em;
 }
-label div {
-	margin: auto;
+#timeline-nav {
+	display: flex;
+	justify-content: flex-end;
 }
+a.timeline-nav-element {
+	width: 15rem;
+	padding: 0.5em;
+}
+img.timeline-nav-element {
+	max-width: 5rem;
+}
+
+
 #timeline h2 {
 	position: sticky;
 	top: 0;
@@ -38,7 +48,6 @@ label div {
 	z-index: 0;
 }
 .month-separator {
-
 }
 section.month {
 	margin-left: 4.2rem;
@@ -81,37 +90,4 @@ figure.timeline p {
 }
 #timeline p.eu {
 	border-color: var(--eur-blue);
-}
-input#all:checked ~ #timeline-jp, 
-input#all:checked ~ #timeline-na, 
-input#all:checked ~ #timeline-eu {
-	display: none;
-}
-input#na:checked ~ #timeline-all, 
-input#na:checked ~ #timeline-jp, 
-input#na:checked ~ #timeline-eu {
-	display: none;
-}
-input#jp:checked ~ #timeline-all, 
-input#jp:checked ~ #timeline-na, 
-input#jp:checked ~ #timeline-eu {
-	display: none;
-}
-input#eu:checked ~ #timeline-all, 
-input#eu:checked ~ #timeline-jp, 
-input#eu:checked ~ #timeline-na {
-	display: none;
-}
-input#all:checked ~ #timeline-all,
-input#jp:checked ~ #timeline-jp, 
-input#na:checked ~ #timeline-na, 
-input#eu:checked ~ #timeline-eu {
-	display: block;
-}
-input#all:checked ~ #alllabel,
-input#jp:checked ~ #jplabel,
-input#na:checked ~ #nalabel, 
-input#eu:checked ~ #eulabel {
-	background: var(--sharp-blue);
-	color: black;
 }
