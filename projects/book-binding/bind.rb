@@ -2,12 +2,16 @@
 file = File.open("temp/intermediate-current.html", "rb")
 contents = file.read
 
+# Remove top and bottom
 contents = contents.gsub(/<!DOCTYPE html>(.*?)<main id="article">/m, '')
 contents = contents.gsub(/<\/main>(.*?)<\/html>/m, '')
+
 # Remove every instance of two spaces
 contents = contents.gsub(/  /, '')
+
 # Remove all tabs
 contents = contents.gsub(/\t/, '')
+
 # Titles
 contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\begingroup \chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2} \endgroup')
 contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{5pt}\section*{')
@@ -52,15 +56,16 @@ contents = contents.gsub(/<div class="gallery-container">
 
 # First Gallery Element without
 contents = contents.gsub(/<div class="gallery-container">
-<div><figure(.*?)class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\begin{center}
-\vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{temp\\3}}')
+<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\begin{center}
+\vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{temp\\2}}')
 
 # Other Elements with Figcaption
-contents = contents.gsub(/<div><figure(.*?)class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{ \sbox0{\includegraphics[width=.45\linewidth]{temp\\3}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\7\end{minipage}}')
+contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{ \sbox0{\includegraphics[width=.45\linewidth]{temp\\2}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\7\end{minipage}}')
 
 # Other Elements without
-contents = contents.gsub(/<div><figure(.*?)class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{temp\\3}}')
+contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{temp\\2}}')
 
+# Gallery bottom
 contents = contents.gsub(/<div class="gallery-container">/, '\begin{center}')
 contents = contents.gsub(/<\/div>/, '\end{center}')
 
@@ -131,6 +136,7 @@ contents = contents.gsub(/<figure class="boxart"><img src="(.*?)" width="(.*?)" 
 \centering \includegraphics[width=.75\linewidth]{temp\\1}\par\pagetwodescription \\5\end{wrapfigure}
 \clearpage')
 
+# Quick and easy replacements
 map = {
 "&amp;"			=>	"\\\\&",
 '&lt;'			=>	'',
