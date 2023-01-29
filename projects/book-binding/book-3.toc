@@ -8,7 +8,7 @@
 \contentsline {chapter}{Kid Icarus: Of Myth and Monsters}{81}{}%
 \contentsline {chapter}{Wave Race}{91}{}%
 \contentsline {chapter}{Dragon Warrior III}{99}{}%
-\contentsline {chapter}{Pokémon: Red, Green \& Blue}{111}{}%
+\contentsline {chapter}{Pokémon: Red, Green, \& Blue}{111}{}%
 \contentsline {chapter}{Mole Mania}{137}{}%
 \contentsline {chapter}{Kirby’s Dream Land}{143}{}%
 \contentsfinish 
