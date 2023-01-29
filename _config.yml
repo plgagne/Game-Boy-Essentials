@@ -58,6 +58,7 @@ sass:
 plugins:
   - jekyll-redirect-from
   - jekyll-image-size
+  - jekyll-minifier
   
 ## Redirect-From
 redirect_from:
