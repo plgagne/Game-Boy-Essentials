@@ -23,17 +23,15 @@ It is the summer of 1989, and the Soviet Union is clearly falling apart. Stretch
 
 During this troubling era, Game Boy is released in North America and no one bats an eye that it comes with a Russian game; it's in vogue. The once evil Soviet populace are now opressed nations yearning for freedom. Nintendo's *Tetris* for Game Boy fits nicely into this narrative, with its focus on traditional Russian religion and folklore divorced from the CCCP regime. Less than six months after the release of the Game Boy, the Berlin Wall has fallen and the Communists are undeniably on the way out. So there's no reason to complain about a game with Russian iconography. They're no longer the vilains, they'll soon be our friends.
 
-The jovial Russian mathemathician who created *Tetris*, Alexei Pajitnov, is making a game about hats while this is happening. This is how he starts making money in the video game industry, since he makes no money from the licensing deals of *Tetris*. His former employer, the Soviet state, is cashing in all the dough and they are not sharing. However, Pajitnov has a reputation. He's already very well known for having created *Tetris*, which has quickly become a famous video game. So Pajitnov starts working on new puzzle ideas. It has a certain appeal; a puzzle game from the creator of *Tetris* must be fun! *Welltris* is being developed at the company that will become Spectrum Holobyte. He also starts working on *Hatris* and *Faces...Tris III* at his Dutch buddy Henk Roger's company, Bullet-Proof Software. Just a year after the release of *Hatris*, Pajitnov leaves Russia to work for Spectrum Holobyte. His credited work takes a nosedive, but he seemingly starts working on their games.
+The jovial Russian mathemathician who created *Tetris*, Alexei Pajitnov, is making a game about hats while this is happening. This is how he starts making money in the video game industry, since he makes no money from the licensing deals of *Tetris*. His former employer, the Soviet state, is cashing in all the dough and they are not sharing. However, Pajitnov has a reputation. He's already very well known for having created *Tetris*, which has quickly become a famous video game. So Pajitnov starts working on new puzzle ideas. It has a certain appeal; a puzzle game from the creator of *Tetris* must be fun! *Welltris* is being developed at the company that will become Spectrum Holobyte. He also starts working on *Hatris* and *Faces...Tris III* at his Dutch buddy Henk Roger's company, Bullet-Proof Software. Just a year after the release of *Hatris*, Pajitnov leaves Russia to work for in the United States. His credited work takes a nosedive, and he ends up joining Microsoft in 1996.
 
-- At the same time, other licensees are making their own improvments on the Tetris formula.
-While Pajitnov is now living in Colorado, 
+At the same time, licensees are making their own improvements on the Tetris formula but they don't add classic modes to their versions. They sell games with the Tetris name without a way to play a classic game of Tetris. Only their new variants are playable. Games like *Super Tetris* on PC and Macintosh did not include any sort of way to play vanilla *Tetris*. A classic mode, so to speak. And while players have always enjoyed improvements on the classic formula and variants that spice things up, there is a fundamental quality with the original version of the game. *Tetris* has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Introducing bombs or weirdly shaped blocks changes its nature. It makes it into something else, and if you just want regular *Tetris*, a game like *Super Tetris* on PC and Macintosh is unsatisfying. This is a problem insofar as The Tetris Company has been supremely concerned about offering players a standard game with everything called Tetris since 1996. Since its creation The Tetris Company has forced licensees to make sure it's included. If you want to understand the magical qualities of a good bog-standard game of Tetris, look no further than [The Tetris Company's own free online version of the game](https://tetris.com/play-tetris/). I'm pretty sure it's the reference version they show licensees to highlight their strict rules on gameplay and presentation.
 
-- But they forget to add classic modes to their versions. They sell games with the Tetris name, but no way to play a classic game of Tetris. Only their variants are playable.
-- Elorg is not concerned by this. They don't understand.
-- Tetris has this magical quality when played in its classic form. It's viceral. It's vital. It vibrates. Adding bombs and weirdly shaped blocks detracts from that.
-- If you want to understand the magical qualities of a good bog-standard game of Tetris, look no further than https://tetris.com/play-tetris/. I'm pretty sure it's the reference version the Tetris Company shows licensees to make them understand what an official Tetris title must contain.
-- One licensee gets it; Henk Rogers.
-- Remember, Henk Rogers is the one westerner that Yamauchi trusts like a japanese. He's the one who got Tetris for Nintendo, he's the one who befriends Pajitnov over Go.
+Back in the early 90's, Elorg, the original owner of *Tetris*, is not concerned by any of this. They're probably more focused on the survival of their state institution in this era of Soviet implosion. One licensee gets it though; Bullet-Proof Software. Remember, this is Henk Rogers' company. He is the Dutch game developper living in Japan with a friendship that Yamauchi, Nintendo's CEO since 1949, trusts like a japanese. He's the one who went to Moscow and got Tetris for Nintendo, he's the one who befriends Pajitnov over Go while there.
+
+
+
+
 - He's the one who will found The Tetris Company with Pajitnov in 1996.
 - The reason he got Tetris for Nintendo was that he already had a license for Tetris himself, obtained from the complicated, and ultimately deceptive, carving of the rights by Robert Stein.
 - Yamauchi is armed with a powerful tool to win Tetris; the Game Boy.
@@ -54,8 +52,11 @@ Nintendo.
 - They have the license for consoles so what they do is they use it with other puzzle games to gin up their marketing.
 - I do not know this for a fact, but it's possible Nintendo had a license that includes the use of the name, and the use of the game separately, so if they don't include the classic game they pay less? It's all conjecture on my part, I'd have to ask Henk Rogers.
 - Tetris Blast to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
-
-
+- Why is it without a classic mode?
+- Nintendo is a smaller software company than you think. Managing their small amount of resources is vital.
+- If Tetris is already available on Game Boy, they feel no need to reimplement what they've already done.
+- They need to provide new experiences to stay relevant with their small headcount. Once the DS came out, *Tetris DS* was released, the most impressive *Tetris* game ever made due to its inventive game modes.
+- But it also had a kickass classic mode. Assuredly mandated by Pajitnov and Rogers, and following the [Tetris guidelines](https://tetris.wiki/Tetris_Guideline) to the letter.
 
 ... Pajitnov had left.
 
@@ -98,7 +99,7 @@ Let's look at a list of all those strange Tetris sequels. **This list does not i
 |*Tetris DX*||||
 |*Tetris 4D*||||
 
-This list is not exhaustive and final; it's only meant to illustrate my point. What is my point? That Tetris suffered under Elorg. They licensed the name, and paid little attention to what the licensees were doing. Games like *Super Tetris* did not include any sort of way to play vanilla *Tetris*. A classic mode, so to speak. And while players have always enjoyed improvements on the classic formula and variants that spiced things up, there is a fundamental quality with the original version of the game. Introducing bombs or weirdly shaped blocks changes the nature of Tetris. It makes it into something else, and if you just want regular *Tetris*, a game like *Super Tetris* on PC and Macintosh is unsatisfying.
+This list is not exhaustive and final; it's only meant to illustrate my point. What is my point? That Tetris suffered under Elorg. 
 
 Bullet-Proof Software was clearly doing the right thing with the license, being Henk Rogers company. Their titles, the *Tetris 2 + Bombliss* series, always had a classic mode **alongside** their reinventions of the classic game. Unfortunately, their license was limited to Japan, with the worst licensee to disregard player expectations an unlikely culprit.
 
