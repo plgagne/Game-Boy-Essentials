@@ -1,8 +1,7 @@
 #!/usr/bin/ruby
-Dir.glob('temp/intermediate-*.html').each do |filename|
-next if File.directory?(filename)
-file = File.open(filename, "rb")
+file = File.open("temp/intermediate-current.html", "rb")
 contents = file.read
+
 contents = contents.gsub(/<!DOCTYPE html>(.*?)<main id="article">/m, '')
 contents = contents.gsub(/<\/main>(.*?)<\/html>/m, '')
 # Remove every instance of two spaces
@@ -163,7 +162,6 @@ map = {
 '<br />'		=>	'\newline '
 }
 map.each_pair {|f,t| contents.gsub! f, t}
-# To write changes to the file, use:
-filename = filename.concat(".tex")
-File.open(filename, "w") {|file| file.puts contents }
-end
+
+# Write changes to file
+File.open('temp/intermediate-current.tex', "w") {|file| file.puts contents}
