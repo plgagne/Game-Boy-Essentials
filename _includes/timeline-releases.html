@@ -1,13 +1,42 @@
+Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+Missing images: 
+/assets/timeline-test/a/box/8/0/1/46801_front.jpg' not found.
+/assets/timeline-test/a/box/0/0/4/21004_front.jpg' not found.
+/assets/timeline-test/a/box/8/1/0/7810_front.jpg' not found.
+/assets/timeline-test/a/box/2/9/1/40291_front.jpg' not found./assets/timeline-test/a/box/2/3/4/10234_front.jpg' not found.
+/assets/timeline-test/a/box/5/7/3/10573_front.jpg' not found.
+/assets/timeline-test/a/box/1/9/3/12193_front.jpg' not found.
+/assets/timeline-test/a/box/2/1/8/32218_front.jpg' not found.
+
+<nav id="timeline-nav">
+  <a class="timeline-nav-element" href="/timeline/jp/">
+    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg"/>
+    Japan
+  </a>
+  <a class="timeline-nav-element" href="/timeline/na/">
+    <img alt="Canada" class="labels" src="/assets/timeline/can.svg"/>
+    <img alt="United States" class="labels" src="/assets/timeline/usa.svg"/>
+    North America
+  </a>
+  <a class="timeline-nav-element" href="/timeline/eu/">
+    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg"/>
+    Europe
+  </a>
+</nav>
+
+{% comment %}
 <div id="timeline">
+  {% if page.region contains 'JP' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "JP" | sort: "release_date" -%}{%- endif -%}
+  {% if page.region contains 'NA' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "NA" | sort: "release_date" -%}{%- endif -%}
+  {% if page.region contains 'EU' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "EU" | sort: "release_date" -%}{%- endif -%}
   {% comment %} {%- assign releases_sorted = site.data.timeline | sort: "time" -%} {% endcomment %}
-  {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
   {% comment %} {% assign releases_sorted=releases_sorted | concat: timeline_sorted %} {% endcomment %}
   {%- assign variable_year = 0 -%}
   {%- assign variable_month = 0 -%}
   {% for release in timeline_sorted %}
     {%- unless release.unclear_year == true -%}
       {%- assign release_year = release.release_date | date: "%Y" -%}
-      {% if release_year contains '2010' %}{% break %}{% else %}
         {%- assign release_month = release.release_date | date: "%B" -%}
         {%- if variable_year == 0 -%}
           <section class="year">
@@ -40,13 +69,12 @@
             {%- assign variable_month = release_month -%}
         {%- endif -%}
         {%- capture image-location -%}
-/assets/timeline-test{{ release.boxart }}
+/assets/timeline{{ release.boxart }}
         {%- endcapture -%}
         <figure class="timeline">
         <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
         <figcaption><p>{{ release.title }}</p></figcaption>
         </figure>
-      {% endif %}
     {% endunless %}
   {% endfor %}
             </div>
@@ -54,3 +82,4 @@
           </section>
           </section>
 </div>
+{% endcomment %}
