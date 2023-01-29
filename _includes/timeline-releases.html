@@ -25,7 +25,6 @@ Missing images:
   </a>
 </nav>
 
-{% comment %}
 <div id="timeline">
   {% if page.region contains 'JP' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "JP" | sort: "release_date" -%}{%- endif -%}
   {% if page.region contains 'NA' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "NA" | sort: "release_date" -%}{%- endif -%}
@@ -82,4 +81,3 @@ Missing images:
           </section>
           </section>
 </div>
-{% endcomment %}
