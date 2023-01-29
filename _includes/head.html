@@ -8,7 +8,7 @@
 	<link rel="canonical" href="{% if page.layout == 'main' %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}"/>
 	<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" title="RSS feed for {{ site.title }}">
 	<link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
-	<link rel="stylesheet" href="/style.css">{% if page.slug == "timeline" %}
+	<link rel="stylesheet" href="/style.css">{% if page.layout == "timeline" %}
 	<link rel="stylesheet" href="/timeline.css">{% else %}{% endif %}
 	<title>{% if page.layout == 'main' %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
 	<link rel="icon" href="/favicon.png" sizes="16x16">
