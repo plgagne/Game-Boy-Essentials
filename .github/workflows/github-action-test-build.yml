@@ -8,9 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
-
-
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       with:
