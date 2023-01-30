@@ -29,6 +29,7 @@ Missing images:
   {% if page.region contains 'JP' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "JP" | sort: "release_date" -%}{%- endif -%}
   {% if page.region contains 'NA' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "NA" | sort: "release_date" -%}{%- endif -%}
   {% if page.region contains 'EU' %}{%- assign timeline_sorted = site.data.timeline-releases-only | where: "market", "EU" | sort: "release_date" -%}{%- endif -%}
+  {% if page.region == null %}{%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}{%- endif -%}
   {% comment %} {%- assign releases_sorted = site.data.timeline | sort: "time" -%} {% endcomment %}
   {% comment %} {% assign releases_sorted=releases_sorted | concat: timeline_sorted %} {% endcomment %}
   {%- assign variable_year = 0 -%}
