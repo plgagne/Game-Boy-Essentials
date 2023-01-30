@@ -1,11 +1,16 @@
 #!/bin/zsh
+
+# Jekyll location
+website_location=../website
+
+# Scraped file backup location
 backup_location="/Users/plgagne/Documents/Game Boy Essentials Others/timeline project backup"
 
 # Set red for echo output
 RED='\033[0;31m'
 
 # Navigate to correct folder
-cd projects/timeline
+cd timeline
 
 # Copy Backup
 if [ -r "temp" ]; then
@@ -18,7 +23,7 @@ else
 fi
 
 # Make resized images 
-if [ -r "../../assets/timeline/a" ]; then
+if [ -r "${website_location}/assets/timeline/a" ]; then
 		echo "${RED}Resized images exist."
 else 
 		echo "${RED}Resized images do not exist. Making them now:"
@@ -27,7 +32,7 @@ else
 				magick mogrify $line -resize 160 $line
 		done
 		echo "${RED}Moving resized images to assets folder ..."
-		mv "temp/a" "../../assets/timeline/"
+		mv "temp/a" "${website_location}/assets/timeline/"
 fi
 
 # Prune data.html files
@@ -87,4 +92,4 @@ echo "Total number of releases in hard releases YAML file:" $releases_number
 
 # Move releases-only to _data folder
 echo "${RED}Moving releases only file to _data folder ..."
-cp "results/timeline-releases-only.yml" "../../_data/timeline-releases-only.yml"
+cp "results/timeline-releases-only.yml" "${website_location}/_data/timeline-releases-only.yml"

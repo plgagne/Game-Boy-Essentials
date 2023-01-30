@@ -12,6 +12,9 @@ last_volume=3
 # Set red for echo output
 RED='\033[0;31m'
 
+# Navigate to correct folder
+cd book-binding
+
 # Make temp 
 mkdir "temp"
 if [ -r "temp/assets" ]; then
