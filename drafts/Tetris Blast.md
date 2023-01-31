@@ -1,6 +1,6 @@
 ---
 title: "Tetris Blast"
-description: ""
+description: "A Blast Without A Bang"
 slug: "dmg-ht"
 release-date: "1995-03-17"
 release-year: "1995"
