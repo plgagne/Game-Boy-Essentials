@@ -216,7 +216,7 @@ div.book-cover {
 #article {
 	margin: 0 auto;
 	padding: 0 0.2rem 0;
-	max-width: 80ch;
+	max-width: 72ch;
 }
 h1, h2 {
 	font-weight: 100;
