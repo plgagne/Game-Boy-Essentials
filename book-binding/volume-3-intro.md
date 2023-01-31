@@ -1,8 +1,0 @@
-# Introduction
-It took way longer than expected, but I have completed another twelve articles, collected here for your enjoyment. I want to thank you; there aren’t many of you reading me but I’m grateful to have found a small audience.
-
-Volume 3 is the book with the most interesting collection of games yet. We have my favourite Game Boy title: *Dragon Warrior III*. There are two fascinating *kusoge* games: *The Simpsons: Itchy and Scratchy—Miniature Golf Madness* and *3D Pocket Pool*. We cap off the book with a long discussion of *Game Boy Camera*, the hottest digital camera of 1998. Oh, there’s also this little game no one’s heard of called *Pokémon*.
-
-At this point, I feel like I’m hitting my stride and the limits of this project at the same time. This collection of articles is my best yet, while at the same time the format is showing its limits. There are sometimes many things outside the game I want to discuss, but I still have to maintain the premise that I’m talking about just one specific game. This forces me to get creative. I hope you’ll appreciate my attempts to square the circle and provide you with an honest take on the game while at the same time talking about the larger history and context that surrounds the title being discussed. *Pokémon* was a particularly difficult game to wrap my head around. I hope you enjoy this book.
-
-P.S: *Super Mario Land 2: Six Golden Coins* is included in this book while it was also in the first edition of Volume II. Due to an error on my part, the article on *Motocross Maniacs* was not included in Volume II and *Mario Land 2* was included instead. The second edition of Volume II solves this problem. Sorry!

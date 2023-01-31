@@ -14,7 +14,7 @@ cd timeline
 
 # Copy Backup
 if [ -r "temp" ]; then
-	echo "${RED}Temporary timeline data is present."
+	echo "${RED}Temporary timeline folder is present at timeline/temp. Delete to recreate."
 else 
 	echo "${RED}Copying temporary timeline data ..."
 	mkdir "temp"
