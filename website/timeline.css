@@ -1,0 +1,79 @@
+:root {
+	--light-beige: #e9e9e9;
+	--lime-green: #94ba65;
+	--sharp-blue: #2790b0;
+	--dark-grey: #4e4d4a;
+	--light-grey: #c1c1c1;
+	--usa-can-white: #fff;
+	--jpn-red: #bc002d;
+	--eur-blue: #039;
+	--rounded-corners: 0.25em;
+}
+label div {
+	margin: auto;
+}
+#timeline h2 {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	font-family: "GB";
+	font-size: 1rem;
+	margin-bottom: -1.6rem;
+}
+section.month {
+	margin-left: 4.3rem;
+	margin-bottom: .75rem;
+}
+#timeline a.ref {
+	padding: 0 .3rem;
+}
+#timeline img {
+	max-height: 1.5rem;
+	width: 2rem;
+}
+#timeline p {
+	border-left: .2rem solid;
+	padding-left: 1rem;
+}
+#timeline p.jp {
+	border-color: var(--jpn-red);
+}
+#timeline p.na {
+	border-color: var(--usa-can-white);
+}
+#timeline p.eu {
+	border-color: var(--eur-blue);
+}
+input#all:checked ~ #timeline-jp, 
+input#all:checked ~ #timeline-na, 
+input#all:checked ~ #timeline-eu {
+	display: none;
+}
+input#na:checked ~ #timeline-all, 
+input#na:checked ~ #timeline-jp, 
+input#na:checked ~ #timeline-eu {
+	display: none;
+}
+input#jp:checked ~ #timeline-all, 
+input#jp:checked ~ #timeline-na, 
+input#jp:checked ~ #timeline-eu {
+	display: none;
+}
+input#eu:checked ~ #timeline-all, 
+input#eu:checked ~ #timeline-jp, 
+input#eu:checked ~ #timeline-na {
+	display: none;
+}
+input#all:checked ~ #timeline-all,
+input#jp:checked ~ #timeline-jp, 
+input#na:checked ~ #timeline-na, 
+input#eu:checked ~ #timeline-eu {
+	display: block;
+}
+input#all:checked ~ #alllabel,
+input#jp:checked ~ #jplabel,
+input#na:checked ~ #nalabel, 
+input#eu:checked ~ #eulabel {
+	background: var(--sharp-blue);
+	color: black;
+}
