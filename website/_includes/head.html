@@ -29,19 +29,21 @@
 		"logo": "{{ site.url }}{{ site.icon-512 }}"
 	}
 	</script>
-<!--Twitter-->
+<!--Card-->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="{{ site.twitter }}">
 	<meta name="twitter:title" content="{% if page.article %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="twitter:image:src" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
-<!--Facebook-->	
+	<meta name="twitter:image:src" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start-social-share-card.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
+<!--Open Graph-->	
 	<meta property="og:type" content="{% if page.article %}{{ 'article' }}{% else %}{{ 'website' }}{% endif %}">
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:url" content="{% if page.layout == 'main' %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}">
 	<meta property="og:title" content="{% if page.article %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:image" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
-{% if page.layout == 'main' %}<!--Mastodon-->	
-	<link rel="me" href="https://peoplemaking.games/@gbe">{% endif %}
+	<meta property="og:image" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start-social-share-card.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
+<!--Mastodon-->	
+{% if page.layout == 'main' %}
+	<link rel="me" href="https://peoplemaking.games/@gbe">
+{% endif %}
 </head>
