@@ -1,7 +1,6 @@
 # Tâches
 - Traduire les mauvaises idées
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
-- Fermer mon compte Twitter
 - Envoyer des copies de mes livres à Bibliothèque et Archives (https://bibliotheque-archives.canada.ca/fra/services/editeurs/depot-legal/Pages/depot-publications-imprimees.aspx)
 - Prendre une photo de mes livres pour la page des livres
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
@@ -55,4 +54,4 @@
 - Removing underlines from links
 - Have the title of articles as H1 and increasing the font
 - Moving the CSS to a Grid or Flex model
-- Using Github as a sync engine
+- Using Github
