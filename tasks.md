@@ -5,9 +5,7 @@
 - Prendre une photo de mes livres pour la page des livres
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
-- Ajouter un script que je roule avant Jekyll build et serve qui crée une image spéciale du start-screen avec Imagemagick pour la distribution de Open Graph et Twitter Card (bordure noire et taille plus grande pour le flou d'agrandissement)
-    - ImageMagick border manual (https://www.imagemagick.org/Usage/crop/#border)
-    - Testeur de Open Graph (https://developers.facebook.com/tools/debug/)
+- Terminer l'intégration de backstopJS dans prebuild.sh
 
 # Liste de vérification pour publication d'un article
 - [ ] Check that you have all release dates (Europe included)
