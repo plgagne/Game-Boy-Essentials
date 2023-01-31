@@ -55,7 +55,6 @@ _site-local/
 # Book Binding & Timeline #
 ######################
 temp/
-assets/timeline-test/
 
 # BackstopJS #
 ######################
