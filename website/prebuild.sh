@@ -14,3 +14,4 @@ find "assets" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' lin
     echo "${RED}Card image "${finalname}" done."
   fi
 done
+echo "${RED}Card images checked."
