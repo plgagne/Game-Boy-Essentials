@@ -43,7 +43,5 @@
 	<meta property="og:description" content="{% if page.article %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta property="og:image" content="{% if page.article %}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start-social-share-card.png{% else %}{{ site.url }}{{ site.icon-512 }}{% endif %}">
 <!--Mastodon-->	
-{% if page.layout == 'main' %}
-	<link rel="me" href="https://peoplemaking.games/@gbe">
-{% endif %}
+	{% if page.layout == 'main' %}<link rel="me" href="https://peoplemaking.games/@gbe">{% endif %}
 </head>
