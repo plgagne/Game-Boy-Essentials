@@ -40,14 +40,14 @@
   tags: ["jp"]
   cat: ["hardware", "nintento", "gb"]
   source: 'https://en.wikipedia.org/wiki/Game_Boy'
-  note: 'Game Boy is released in Japan for ¥12,500 with ["*Super Mario Land*"](articles/dmg-ml), *Alleyway*, *Baseball*, and *Yakuman*. No game is bundled with the unit, as is customary in Japan.'
+  note: 'Game Boy is released in Japan for ¥12,500 with [*Super Mario Land*](articles/dmg-ml), *Alleyway*, *Baseball*, and *Yakuman*. No game is bundled with the unit, as is customary in Japan.'
 - fact:
   time: '1989-07-01'
   tags: ["na"]
   cat: ["hardware", "nintendo", "gb"]
   source: 'https://en.wikipedia.org/wiki/Game_Boy'
   source2: 'https://christmas.musetechnical.com/ShowCatalogPage/1989-Sears-Christmas-Book/412'
-  note: 'Game Boy is released in North America for $90 USD with ["*Super Mario Land*"](articles/dmg-ml)", "*Alleyway*", "*Baseball*, and *Tennis*. ["*Tetris*"](articles/dmg-tr) is of course bundled with the system.'
+  note: 'Game Boy is released in North America for $90 USD with [*Super Mario Land*](articles/dmg-ml)", *Alleyway*, *Baseball*, and *Tennis*. [*Tetris*](articles/dmg-tr) is of course bundled with the system.'
 - fact:
   time: '1989-09-01'
   tags: ["na"]
@@ -59,31 +59,31 @@
   tags: ["jp"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585649-the-bugs-bunny-crazy-castle/data'
-  note: '*Mickey Mouse* is released in Japan, which will become ["*The Bugs Bunny Crazy Castle*"](articles/dmg-bb) upon its North American release.'
+  note: '*Mickey Mouse* is released in Japan, which will become [*The Bugs Bunny Crazy Castle*](articles/dmg-bb) upon its North American release.'
 - fact:
   time: '1989-09-01'
   tags: ["jp"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-  note: '["*Motocross Maniacs*"](articles/dmg-mx) is released in Japan. It is Konami''s first Game Boy title.'
+  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in Japan. It is Konami''s first Game Boy title.'
 - fact:
   time: '1989-09-01'
   tags: ["na"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-  note: '["*Motocross Maniacs*"](articles/dmg-mx) is released in North America. It is Konami''s first Game Boy title.'
+  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in North America. It is Konami''s first Game Boy title.'
 - fact:
   time: '1989-12-01'
   tags: ["jp"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/563273-the-final-fantasy-legend/data'
-  note: '*Makai Toushi SaGa*, the first RPG for the Game Boy, is released in Japan. It will become ["*The Final Fantasy Legend*"](articles/dmg-sa) upon its release in North America.'
+  note: '*Makai Toushi SaGa*, the first RPG for the Game Boy, is released in Japan. It will become [*The Final Fantasy Legend*](articles/dmg-sa) upon its release in North America.'
 - fact:
   time: '1989-12-01'
   tags: ["jp"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585938-the-sword-of-hope/data'
-  note: '*Selection: Erabareshi Mono* is released in Japan. It will become ["*The Sword of Hope*"](articles/dmg-se) upon its release in North America.'
+  note: '*Selection: Erabareshi Mono* is released in Japan. It will become [*The Sword of Hope*](articles/dmg-se) upon its release in North America.'
 - fact:
   time: '1990-10-01'
   tags: ["jp"]
