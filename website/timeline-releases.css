@@ -16,9 +16,13 @@
 a.timeline-nav-element {
 	width: 15rem;
 	padding: 0.5em;
+	display: flex;
+	margin: 0.2em auto;
+	border: 2px solid var(--dark-grey);
+	border-radius: var(--rounded-corners);
 }
-img.timeline-nav-element {
-	max-width: 5rem;
+a.timeline-nav-element img {
+	max-width: 3rem;
 }
 #timeline h2 {
 	position: sticky;
