@@ -8,8 +8,8 @@
 	<link rel="canonical" href="{% if page.layout == 'main' %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}"/>
 	<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" title="RSS feed for {{ site.title }}">
 	<link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
-	<link rel="stylesheet" href="/style.css">{% if page.layout == "timeline" %}
-	<link rel="stylesheet" href="/timeline.css">{% else %}{% endif %}
+	<link rel="stylesheet" href="/style.css">
+	{% if page.layout == "timeline" %}<link rel="stylesheet" href="/timeline-releases.css">{% else %}{% endif %}
 	<title>{% if page.layout == 'main' %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
 	<link rel="icon" href="/favicon.png" sizes="16x16">
 	<link rel="icon" href="{{ site.icon-512 }}" sizes="512x512">
