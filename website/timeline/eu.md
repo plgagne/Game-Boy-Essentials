@@ -4,4 +4,6 @@ slug: "timeline-eu"
 layout: "timeline"
 region: "EU"
 ---
-# Timeline of Significant Game Boy Events
+# Timeline of Game Boy Events
+
+{% include timeline-releases.html %}

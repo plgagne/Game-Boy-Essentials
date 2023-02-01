@@ -4,4 +4,6 @@ slug: "timeline-na"
 layout: "timeline"
 region: "NA"
 ---
-# Timeline of Significant Game Boy Events
+# Timeline of Game Boy Events
+
+{% include timeline-releases.html %}

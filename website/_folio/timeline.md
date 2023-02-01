@@ -4,6 +4,6 @@ slug: "timeline"
 layout: "timeline"
 weight: 4
 ---
-# Timeline of Significant Game Boy Events
+# Timeline of Game Boy Events
 
-{% include timeline.html %}
+{% include timeline-releases.html %}
