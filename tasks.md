@@ -3,7 +3,6 @@
 - Traduire les mauvaises idées
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Envoyer des copies de mes livres à Bibliothèque et Archives (https://bibliotheque-archives.canada.ca/fra/services/editeurs/depot-legal/Pages/depot-publications-imprimees.aspx)
-- Prendre une photo de mes livres pour la page des livres
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 - Terminer l'intégration de backstopJS dans prebuild.sh
