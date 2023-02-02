@@ -1,7 +1,7 @@
 ---
 title: "Timeline"
-slug: "timeline-jp"
-layout: "timeline"
+slug: "jp"
+layout: "timeline-dev"
 region: "JP"
 ---
 # Timeline of Game Boy Events

@@ -1,8 +1,8 @@
 ---
 title: "Timeline"
-slug: "na"
+slug: "timeline"
 layout: "timeline-dev"
-region: "NA"
+weight: 4
 ---
 # Timeline of Game Boy Events
 

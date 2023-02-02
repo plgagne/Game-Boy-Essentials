@@ -7,7 +7,6 @@
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 - Terminer l'intégration de backstopJS dans prebuild.sh
-- FINIR LA LISTE DU TEMPS
 - Images manquantes
 [2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/8/0/1/46801_front.jpg' not found.
 [2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/0/0/4/21004_front.jpg' not found.
