@@ -1,4 +1,5 @@
 # Tâches
+- prendre des photos pour le buyer's guide
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)x
 - Traduire les mauvaises idées
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
