@@ -41,6 +41,9 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
 {% assign year_writer = false %}
 {% assign month_writer = false %}
 {% for i in range %}
+  for i in month_range
+  et la je step 12 fois et une fois pou chaque année
+   
   {% for release in timeline_sorted %}
     {% unless release.unclear_year == true %}
       {% assign year_integer = release.release_date | date: "%Y" %}
