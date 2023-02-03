@@ -19,6 +19,7 @@
 [2023-01-31 22:39:10] ERROR `/assets/timeline/a/box/2/9/1/40291_front.jpg' not found.
 [2023-01-31 22:39:14] ERROR `/assets/timeline/a/box/5/7/3/10573_front.jpg' not found.
 [2023-01-31 22:39:18] ERROR `/assets/timeline/a/box/2/1/8/32218_front.jpg' not found.
+- ajouter les images manquantes dans le backup des données sur iCloud
 
 # Liste de vérification pour publication d'un article
 - [ ] Check that you have all release dates (Europe included)
