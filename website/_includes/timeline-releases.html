@@ -38,19 +38,19 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
 
 {% if page.region contains 'JP' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "JP" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "JP" | sort: "time" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "JP" | sort: "date" %}
 {% endif %}
 {% if page.region contains 'NA' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "NA" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "NA" | sort: "time" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "NA" | sort: "date" %}
 {% endif %}
 {% if page.region contains 'EU' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "EU" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "EU" | sort: "time" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "EU" | sort: "date" %}
 {% endif %}
 {% if page.region == null %}
   {%- assign timeline_sorted = timeline_stripped | sort: "release_date" -%}
-  {% assign facts_sorted = site.data.timeline | sort: "time" %}
+  {% assign facts_sorted = site.data.timeline | sort: "date" %}
 {% endif %}
 
 {% # Start stepping through data %}
