@@ -2,175 +2,183 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
 
 <nav id="timeline-nav">
   <a class="timeline-nav-element" href="/timeline">
-    <img alt="World" class="labels" src="/assets/timeline/world.svg"/>
+    <img
+      alt="World"
+      class="labels"
+      src="/assets/timeline/world.svg" />
     <span>World</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/jp">
-    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg"/>
+    <img
+      alt="Japan"
+      class="labels"
+      src="/assets/timeline/jpn.svg" />
     <span>Japan</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/na">
-    <img alt="North America" class="labels" src="/assets/timeline/na.svg"/>
+    <img
+      alt="North America"
+      class="labels"
+      src="/assets/timeline/na.svg" />
     <span>North America</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/eu">
-    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg"/>
+    <img
+      alt="Japan"
+      class="labels"
+      src="/assets/timeline/eur.svg" />
     <span>Europe</span>
   </a>
 </nav>
 <div id="timeline">
+
+
+{% # Remove release dates without specific months %}
+{% assign timeline_stripped = site.data.timeline-releases-only | where: "unknown_release_month", false %}
+
 {% if page.region contains 'JP' %}
-  {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "JP" | sort: "release_date" %}
+  {% assign timeline_sorted = timeline_stripped | where: "market", "JP" | sort: "release_date" %}
   {% assign facts_sorted = site.data.timeline | where: "tags", "JP" | sort: "time" %}
 {% endif %}
 {% if page.region contains 'NA' %}
-  {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "NA" | sort: "release_date" %}
+  {% assign timeline_sorted = timeline_stripped | where: "market", "NA" | sort: "release_date" %}
   {% assign facts_sorted = site.data.timeline | where: "tags", "NA" | sort: "time" %}
 {% endif %}
 {% if page.region contains 'EU' %}
-  {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "EU" | sort: "release_date" %}
+  {% assign timeline_sorted = timeline_stripped | where: "market", "EU" | sort: "release_date" %}
   {% assign facts_sorted = site.data.timeline | where: "tags", "EU" | sort: "time" %}
 {% endif %}
 {% if page.region == null %}
-  {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
+  {%- assign timeline_sorted = timeline_stripped | sort: "release_date" -%}
   {% assign facts_sorted = site.data.timeline | sort: "time" %}
 {% endif %}
-{% assign year_stepper = 1980 %}
-{% assign range = (year_stepper..2004) %}
-{% assign month_stepper = 1 %}
-{% assign year_writer = false %}
-{% assign month_writer = false %}
-{% for i in range %}
-  for i in month_range
-  et la je step 12 fois et une fois pou chaque année
-   
-  {% for release in timeline_sorted %}
-    {% unless release.unclear_year == true %}
+
+{% # Start stepping through data %}
+{% assign year_stepper = (1980..2003) %}
+{% for i in year_stepper %}
+  {% assign month_stepper = (1..12) %}
+  {% for i in month_stepper %}
+
+    {% # Look through releases to find matches %}
+    {% for release in timeline_sorted %}
       {% assign year_integer = release.release_date | date: "%Y" %}
       {% assign year_integer = year_integer | plus: 0 %}
-      {% if month_stepper == 13 %}
-        </section>
-        {% assign year_writer = false %}
-        {% assign year_stepper = year_stepper | plus: 1 %}
-        {% assign month_stepper = 1 %}
-        {% break %}
-      {% endif %}
+
+      {% # Stop if the year is larger than the position of the stepper  %}
+      {% if year_stepper > year_integer %}{% break %}{% endif %}
+
+      {% # Start parsing if the year is correct %}
       {% if year_stepper == year_integer %}
-        {% if year_writer == false %}
+
+        {% # Open year HTML tags if they are not present %}
+        {% if year_written == false %}
           <section class="year">
           <h2>{{ year_stepper }}</h2>
-          {% assign year_writer = true %}
+          {% assign year_written = true %}
         {% endif %}
+
         {% assign month_integer = release.release_date | date: "%B" %}
         {% assign month_integer = month_integer | plus: 0 %}
-        {% if month_stepper > month_integer %}
-          </div>
-          </section>
-          </div>
-          {% assign month_writer = false %}
-          {% assign month_stepper = month_stepper | plus: 1 %}
-          {% break %}
-        {% endif %}
+
+        {% # Stop if the month is larger than the position of the stepper  %}
+        {% if month_stepper > month_integer %}{% break %}{% endif %}
+
+        {% # Start parsing if the month is correct %}
         {% if month_stepper == month_integer %}
-          {% assign release_month = release.release_date | date: "%B" %}
-          {% assign release_year = release.release_date | date: "%Y" %}
-          {% if month_writer == false %}
+
+          {% # Open month HTML tags if they are not present %}
+          {% if month_written == false %}
+            {% assign release_month = release.release_date | date: "%B" %}
             <div class="month-separator">
             <h3>{{ release_month }}</h3>
             <section class="month">
-		        <div class="release_list">
-            {% assign month_writer = true %}
+            <div class="release_list">
+            {% assign month_written = true %}
           {% endif %}
+
+          {% # Write matched release details %}
           {% capture image-location %}/assets/timeline{{ release.boxart }}{% endcapture %}
           <figure class="timeline">
           <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
-          <figcaption><p>{{ release.title }}</p></figcaption>
+          <figcaption>
+          <p>{{ release.title }}</p>
+          </figcaption>
           </figure>
+          {% assign month_release_present = true %}
+          {% assign element_present = true %}
+
         {% endif %}
       {% endif %}
-    {% endunless %}
-  {% endfor %}
-  {% for fact in facts_sorted %}
-  
-{% endfor %}
-</div>
-{% comment %}   
-  {% if page.region contains 'JP' %}
-    {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "JP" | sort: "release_date" %}
-    {% assign facts_sorted = site.data.timeline | where: "tags", "JP" | sort: "time" %}
-  {% endif %}
-  {% if page.region contains 'NA' %}
-    {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "NA" | sort: "release_date" %}
-    {% assign facts_sorted = site.data.timeline | where: "tags", "NA" | sort: "time" %}
-  {% endif %}
-  {% if page.region contains 'EU' %}
-    {% assign timeline_sorted = site.data.timeline-releases-only | where: "market", "EU" | sort: "release_date" %}
-    {% assign facts_sorted = site.data.timeline | where: "tags", "EU" | sort: "time" %}
-  {% endif %}
-  {% if page.region == null %}
-    {%- assign timeline_sorted = site.data.timeline-releases-only | sort: "release_date" -%}
-    {% assign facts_sorted = site.data.timeline | sort: "time" %}
-  {% endif %}
-  {% assign variable_year = 0 %}
-  {% assign variable_month = 0 %}
-  {% for release in timeline_sorted %}
-    {% assign year_check = release.release_date | date: "%Y" %}
-    {% assign year_check = year_check | plus: 0 %}
-    {% unless year_check > 2003 %}
-    {% unless release.unclear_year == true %}
-      {% assign release_year = release.release_date | date: "%Y" %}
-      {% assign release_month = release.release_date | date: "%B" %}
-        {% if variable_year == 0 -%}
+    {% endfor %}
+
+    {% # Close HTML tag for month's release_list %}
+    {% if month_release_present == true %}</div>{% assign month_release_present == false %}{% endif %}
+
+    {% # Look through facts to find matches %}
+    {% for fact in facts_sorted %}
+      {% assign year_integer = fact.date | date: "%Y" %}
+      {% assign year_integer = year_integer | plus: 0 %}
+
+      {% # Stop if the year is larger than the position of the stepper  %}
+      {% if year_stepper > year_integer %}{% break %}{% endif %}
+
+      {% # Start parsing if the year is correct %}
+      {% if year_stepper == year_integer %}
+        
+        {% # Open year HTML tags if they are not present %}
+        {% if year_written == false %}
           <section class="year">
-            <h2>{{ release.release_date | date: "%Y" }}</h2>
-          {% assign variable_year = release_year %}
-	      {% endif %}
-	      {% if variable_year != release_year %}
-		        </div>
-          </section>
-          </div>
-		      </section>
-		      <section class="year">
-            <h2>{{ release_year }}</h2>
-		      {% assign variable_year = release_year %}
-		      {% assign variable_month = 0 %}
-	      {% endif %}
-        {% if variable_month == 0 %}
-		      <div class="month-separator"><h3>{{ release.release_date | date: "%B" }}</h3>
-          <section class="month">
-		        <div class="release_list">
-              {% assign variable_month = release_month %}
+          <h2>{{ year_stepper }}</h2>
+          {% assign year_written = true %}
         {% endif %}
-        {% if variable_month != release_month %}
-            </div>
-            <div class="facts_list">
-              {% for fact in facts_sorted %}
-                {% assign fact_year = fact.time | date: "%Y" %}
-                {% assign fact_month = fact.time | date: "%B" %}
-                {% if fact_year == release_year %}
-                  {% if fact_month == release_month %}
-                    {{ fact.note }}
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            </div>
-          </section>
-          </div>
-          <div class="month-separator"><h3>{{ release.release_date | date: "%B" }}</h3>
-          <section class="month">
-            <div class="release_list">
-            {% assign variable_month = release_month %}
+
+        {% assign month_integer = fact.date | date: "%B" %}
+        {% assign month_integer = month_integer | plus: 0 %}
+
+        {% # Stop if the month is larger than the position of the stepper  %}
+        {% if month_stepper > month_integer %}{% break %}{% endif %}
+
+        {% # Start parsing if the month is correct %}
+        {% if month_stepper == month_integer %}
+
+          {% # Open month HTML tags if they are not present %}
+          {% if month_written == false %}
+            {% assign release_month = fact.date | date: "%B" %}
+            <div class="month-separator">
+            <h3>{{ release_month }}</h3>
+            <section class="month">
+            {% assign month_written = true %}
+          {% endif %}
+
+          {% # Open fact HTML tags if they are not present %}
+          {% if fact_written == false %}
+            <div class="fact_list">
+            {% assign fact_written = true %}
+          {% endif %}
+
+          {% # Write matched fact details %}
+          <p class="{{ object.tags }}">
+          {{- object.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines -}}
+          <a class="ref" alt="Reference" href="{{ fact.source }}">※</a>
+          </p>
+          {% assign fact_release_present = true %}
+          {% assign element_present = true %}
+
         {% endif %}
-        {% capture image-location %}
-/assets/timeline{{ release.boxart }}
-        {% endcapture %}
-        <figure class="timeline">
-        <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
-        <figcaption><p>{{ release.title }}</p></figcaption>
-        </figure>
-    {% endunless %}
-    {% endunless %}
+      {% endif %}
+    {% endfor %}
+
+    {% # Close HTML tag for month's fact_list %}
+    {% if fact_written == true %}</div>{% assign fact_written == false %}{% endif %}
+
   {% endfor %}
-    </div>
-  </section> 
-{% endcomment %}
+
+  {% # Close HTML tag for month %}
+  {% if element_present == true %}</section></div>{% assign element_present == false %}{% endif %}
+
+{% endfor %}
+
+{% # Close HTML tag for year %}
+{% if year_written == true %}</section>{% assign year_written == false %}{% endif %}
+
+</div>
