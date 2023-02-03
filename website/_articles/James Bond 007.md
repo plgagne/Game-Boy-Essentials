@@ -96,7 +96,7 @@ The next section is Marrakech, which is obviously the main draw of the game. The
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
-After figuring out how to survive the desert and getting to its airbase, the game sections are mostly action-based. The game picks up the pace and in movie terms to quietness of the first act is replaced by the frenetic action of the second and third acts. You climb a mountain in Tibet and finally start getting more weapons, but then you’re captured again and end up in a secret base, where you fight your way out after talking with your former one-time enemy, Zhong Mae. Turns out you both want the same thing and you’re on the same side! What a surprise! You beat Oddjob with the help of a shield to reflect his hats back at him (that’s a Zelda knockoff if there ever was one) and you go back to Kurdistan, now a war zone bombed by the big villain of the story, General Who-Cares. You follow him to Russia, where the entrance to his base is full of nuclear waste and where Jaws waits for you amongst magnets. Having ginormous metal teeth, I think you know what that means. Poor Jaws can’t get a break. The final villain has missiles and lasers aimed at London or something, you kill him in his mech suit (seriously?), save Zhong Mae (who’s strapped to a missile) then disarm his rockets and save the world!
+After figuring out how to survive the desert and getting to its airbase, the game sections are mostly action-based. The game picks up the pace and in movie terms the quietness of the first act is replaced by frenetic action in the second and third acts. You climb a mountain in Tibet and finally start getting more weapons, but then you’re captured again and end up in a secret base, where you fight your way out after talking with your one-time enemy, Zhong Mae. Turns out you both want the same thing and you’re on the same side! What a surprise, like it doesn't happen in every James Bond story. You beat Oddjob with the help of a shield to reflect his hats back at him (that’s a Zelda knockoff if there ever was one) and you go back to Kurdistan, now a war zone bombed by the big villain of the story, General Who-Cares. You follow him to Russia, where the entrance to his base is full of nuclear waste and where Jaws waits for you amongst magnets. Having ginormous metal teeth, I think you know what that means. Poor Jaws can’t get a break. The final villain has missiles and lasers aimed at London or something, you kill him in his mech suit (seriously?), save Zhong Mae (who’s strapped to a missile) then disarm his rockets and save the world!
 
 The ending cutscene is interesting because it’s actually got a secret longer version. The regular ending sees James, being the suave spy he is, tell Zhong Mae he’s bringing her back to China on a slow boat ride home. I believe that at this juncture, our 8-bit, 4-tone video game character is implying he’s going to fuck this woman multiple times on a boat. She’s all happy about that and that’s your ending, here are the credits and a bunch of secret save names to go straight to the card minigames.
 
@@ -112,13 +112,13 @@ The optional ending goes a step further. Back in the second level there was a hi
 {% include figure.html type="gb" class="gallery" %}
 </div>
 
-I mean, is James Bond renowned in the military for his sexual depravity? *Oh yeah, James Bond! He’s the old bloke who’s always shagging in front of our scopes! It’s the only thing that gets him off.*
+I mean, is James Bond renowned in the British military for his sexual depravity? *Oh yeah, James Bond! He’s the old bloke who’s always shagging in front of our scopes! It’s the only thing that gets him off.*
 
 I looked up the game years later online and only by reading FAQs did I learn there was a secret ending. You are not going to figure this thing on your own. But I’m actually impressed by the secret ending. That Bond carries a ridiculous inflatable gadget around the world and only uses it to get laid is the ultimate Bond move.
 
 ## Not Released in Japan. . . Wait, What?
 
-You read that right, Nintendo published a Game Boy title that never saw release in Japan. The exact reason why it happened with this game is nebulous (licensing rights, perhaps?) but this game will be at the forefront of a clear trend. Later on in 1999, 2000 and 2001 you will see many major releases not bothering to even release in Japan. The Japanese public that had already moved on from the Pokémon console by then.
+You read that right, Nintendo published a Game Boy title that never saw release in Japan. The exact reason why it happened with this game is nebulous (licensing rights, perhaps?) but this game will be at the forefront of a clear trend. Later on in 1999, 2000 and 2001 you will see many major releases not bothering to even release in Japan. The Japanese public had already moved on from the Pokémon console by then.
 
 ## Conclusion
 
