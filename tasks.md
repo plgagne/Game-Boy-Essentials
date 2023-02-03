@@ -1,6 +1,9 @@
 # Tâches¸
 - Produire une automatisation pour faire un ebook
-- Trouver une façon de conserver mes modifications de timeline-releases sans briser le flow de timeline-builder.sh
+- Terminer timeline
+- Sortir timeline-release avec la version *stale* des données et en mentionnant la migration à Mobygames
+- Migrer les données de timeline sur Mobygames
+
 - prendre des photos pour le buyer's guide
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Traduire les mauvaises idées
