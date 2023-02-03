@@ -21,7 +21,7 @@ contents = contents.gsub(/- release:\n  title: ".*?"\n  market: ".*?"\n  release
 
 # Unknown release dates
 contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"")
-contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n  unclear_year: true")
+contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n  unknown_release_month: true")
 
 # Write changes to file
 File.open('results/timeline-releases-only.yml', "w") {|file| file.puts contents}
