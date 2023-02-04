@@ -2,19 +2,19 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
 
 <nav id="timeline-nav">
   <a class="timeline-nav-element" href="/timeline">
-    <img alt="World" class="labels" src="/assets/timeline/world.svg" />
+    <img alt="World" class="labels" src="/assets/timeline/world.svg">
     <span>World</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/jp">
-    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg" />
+    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg">
     <span>Japan</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/na">
-    <img alt="North America" class="labels" src="/assets/timeline/na.svg" />
+    <img alt="North America" class="labels" src="/assets/timeline/na.svg">
     <span>North America</span>
   </a>
   <a class="timeline-nav-element" href="/timeline/eu">
-    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg" />
+    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg">
     <span>Europe</span>
   </a>
 </nav>
@@ -25,15 +25,15 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
 
 {% if page.region contains 'JP' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "JP" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "JP" | sort: "date" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "jp" | sort: "date" %}
 {% endif %}
 {% if page.region contains 'NA' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "NA" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "NA" | sort: "date" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "na" | sort: "date" %}
 {% endif %}
 {% if page.region contains 'EU' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "EU" | sort: "release_date" %}
-  {% assign facts_sorted = site.data.timeline | where: "tags", "EU" | sort: "date" %}
+  {% assign facts_sorted = site.data.timeline | where: "tags", "eu" | sort: "date" %}
 {% endif %}
 {% if page.region == nil %}
   {% assign timeline_sorted = timeline_stripped | sort: "release_date" %}
@@ -162,7 +162,7 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
           {% comment %} Write matched fact details {% endcomment %}
           <p class="{{ fact.tags }}">
           {{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
-          <a class="ref" alt="Reference" href="{{ fact.source }}">※</a>
+          <a class="ref" href="{{ fact.source }}">※</a>
           </p>
           
         {% endif %}
