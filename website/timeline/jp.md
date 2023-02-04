@@ -1,9 +1,9 @@
 ---
 title: "Timeline"
 slug: "jp"
-layout: "timeline-dev"
+layout: "timeline"
 region: "JP"
 ---
 # Timeline of Game Boy Events
 
-{% include timeline-releases.html %}
+{% include timeline.html %}
