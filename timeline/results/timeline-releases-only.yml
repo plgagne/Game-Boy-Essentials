@@ -40,7 +40,7 @@
   title: "The Legend of Prince Valiant"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-KC"
   boxart: "/a/box/3/6/5/46365_front.jpg"
@@ -71,7 +71,7 @@
   title: "The Simpsons: Bart vs. the Juggernauts"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-JU-NOE"
   boxart: "/a/box/6/9/2/46692_front.jpg"
@@ -95,7 +95,7 @@
   title: "Space Invaders"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-AIVP-EUR"
   boxart: "/a/box/4/2/0/7420_front.jpg"
@@ -141,7 +141,7 @@
   title: "Yu Yu Hakusho 2"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-211-CHN"
   boxart: "/no_cover.png"
@@ -156,7 +156,7 @@
   title: "VIP"
   market: "NA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BVIE-USA"
   barcode: "008888120193"
@@ -179,7 +179,7 @@
   title: "The Addams Family: Pugsley's Scavenger Hunt"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-A8-NOE"
   boxart: "/a/box/4/3/4/22434_front.jpg"
@@ -203,7 +203,7 @@
   title: "Tiny Toon Adventures 2: Montana's Movie Madness"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-T8"
   boxart: "/a/box/8/6/9/46869_front.jpg"
@@ -219,7 +219,7 @@
   title: "The Three Kingdoms"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Koei"
   id: "DMG-209-CHN"
   boxart: "/no_cover.png"
@@ -290,7 +290,7 @@
   title: "Pinball Dreams"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-D8-FAH"
   boxart: "/a/box/5/8/3/46583_front.jpg"
@@ -344,7 +344,7 @@
   title: "Super Mario Land 2: 6 Golden Coins"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-401 CHN"
   boxart: "/no_cover.png"
@@ -360,14 +360,14 @@
   title: "Super Mario Land 2: Six Golden Coins"
   market: "AU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
   title: "Super Mario Land 2: 6 Golden Coins"
   market: "SA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -397,7 +397,7 @@
   title: "Super Mario Land 2: 6 Golden Coins (GameBoy Nintendo Classics)"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-MQ"
   boxart: "/a/box/8/0/0/46800_front.jpg"
@@ -457,7 +457,7 @@
   title: "E.T. The Extra-Terrestrial and the Cosmic Garden"
   market: "EU"
   release_date: "2002-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BEOP-EUR"
   boxart: "/no_cover.png"
@@ -527,7 +527,7 @@
   title: "NFL Quarterback Club II"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-AQ9P-EUR"
   boxart: "/a/box/1/2/6/21126_front.jpg"
@@ -542,7 +542,7 @@
   title: "Riddick Bowe Boxing"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/no_cover.png"
 - release:
@@ -557,7 +557,7 @@
   title: "Super Chinese Land 3"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   id: "DMG-214-CHN"
   boxart: "/no_cover.png"
@@ -572,7 +572,7 @@
   title: "Solitaire FunPak"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMX-UX-NOE"
   boxart: "/a/box/7/1/1/46711_front.jpg"
@@ -580,7 +580,7 @@
   title: "Ottifanten: Kommando Stortebeker"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "JoWooD Entertainment AG"
   id: "CGB-BOTD-NOE"
   boxart: "/a/box/2/3/5/155235_front.jpg"
@@ -618,7 +618,7 @@
   title: "David Crane's The Rescue of Princess Blobette"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-RP"
   boxart: "/a/box/1/3/5/21135_front.jpg"
@@ -689,7 +689,7 @@
   title: "Animaniacs"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ANCP-EUR"
   boxart: "/a/box/4/9/6/22496_front.jpg"
@@ -705,7 +705,7 @@
   title: "Super Kick Off"
   market: "NA"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Imagineer"
   id: "DMG-KF"
   boxart: "/a/box/1/9/2/309192_front.jpg"
@@ -713,7 +713,7 @@
   title: "Super Kick Off"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "U.S. Gold"
   id: "DMG-KF-UKV"
   boxart: "/no_cover.png"
@@ -729,7 +729,7 @@
   title: "4 in 1 (Hudson Soft)"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-605 CHN"
   boxart: "/no_cover.png"
@@ -784,7 +784,7 @@
   title: "Star Wars: Yoda Stories"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-AYDP-EUR"
   boxart: "/a/box/2/0/4/204_front.jpg"
@@ -800,7 +800,7 @@
   title: "Track Meet"
   market: "NA"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-TM"
   boxart: "/a/box/8/8/8/46888_front.jpg"
@@ -816,7 +816,7 @@
   title: "Litti's Summer Sports"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-TM-NOE"
   boxart: "/a/box/8/9/0/46890_front.jpg"
@@ -824,14 +824,14 @@
   title: "Track Meet"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   boxart: "/no_cover.png"
 - release:
   title: "The Lawnmower Man"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sales Curve Interactive"
   barcode: "735009700902"
   boxart: "/a/box/3/5/4/306354_front.jpg"
@@ -863,7 +863,7 @@
   title: "Battle Unit Zeoth"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   boxart: "/no_cover.png"
 - release:
@@ -878,7 +878,7 @@
   title: "Denki Blocks!"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Rage Software"
   boxart: "/a/box/5/3/9/85539_front.jpg"
 - release:
@@ -892,7 +892,7 @@
   title: "Tasmanian Devil: Munching Madness"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-AVZP-EUR"
   boxart: "/a/box/8/1/8/88818_front.jpg"
@@ -954,7 +954,7 @@
   title: "Days Of Thunder"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-TH-NOE"
   boxart: "/a/box/1/3/9/29139_front.jpg"
@@ -969,7 +969,7 @@
   title: "Asteroids"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Accolade"
   id: "DMG-AN-GPS"
   boxart: "/a/box/5/4/6/43546_front.jpg"
@@ -984,14 +984,14 @@
   title: "Centipede"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Accolade"
   boxart: "/a/box/3/1/4/2314_front.jpg"
 - release:
   title: "Centipede"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AC4E"
   boxart: "/a/box/3/1/3/2313_front.jpg"
@@ -1023,7 +1023,7 @@
   title: "WCW Wrestling: The Main Event"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "FCI, Inc."
   id: "DMG-W8"
   barcode: "022909300098"
@@ -1040,7 +1040,7 @@
   title: "Driver"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BDRP-EUR"
   boxart: "/a/box/1/7/3/3173_front.jpg"
@@ -1071,7 +1071,7 @@
   title: "WWF Superstars"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-LW-NOE"
   boxart: "/a/box/1/9/8/21198_front.jpg"
@@ -1087,7 +1087,7 @@
   title: "Montezuma's Return"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AMTP"
   boxart: "/a/box/3/0/8/5308_front.jpg"
@@ -1125,7 +1125,7 @@
   title: "Soccer"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-YK-NOE-1"
   boxart: "/a/box/1/6/3/46163_front.jpg"
@@ -1187,7 +1187,7 @@
   title: "Tonic Trouble"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-AXTP-EUR"
   barcode: "3307211802155"
@@ -1212,7 +1212,7 @@
   title: "Dynablaster"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-HB-NOE"
   barcode: "045496460099"
@@ -1221,7 +1221,7 @@
   title: "Bomber Boy"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-113-CHN"
   boxart: "/a/box/6/4/6/455646_front.jpg"
@@ -1298,7 +1298,7 @@
   title: "Jungle Strike"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AJGP-EUR"
   boxart: "/a/box/7/4/2/25742_front.jpg"
@@ -1337,7 +1337,7 @@
   title: "Yoshi's Cookie"
   market: "NA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-CI-USA"
   boxart: "/a/box/2/2/6/21226_front.jpg"
@@ -1345,7 +1345,7 @@
   title: "Yoshi's Cookie"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   barcode: "045496730260"
   boxart: "/a/box/2/2/8/21228_front.jpg"
@@ -1368,7 +1368,7 @@
   title: "The Amazing Spider-Man 2"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-ZS"
   boxart: "/a/box/1/4/4/21144_front.jpg"
@@ -1442,7 +1442,7 @@
   title: "NFL Quarterback Club"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-Q6-ESP"
   boxart: "/no_cover.png"
@@ -1497,7 +1497,7 @@
   title: "Ferrari Grand Prix Challenge"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-XP-NOE"
   boxart: "/a/box/1/8/6/46186_front.jpg"
@@ -1528,7 +1528,7 @@
   title: "Black Bass: Lure Fishing"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-ALFE-USA"
   barcode: "096427011767"
@@ -1545,7 +1545,7 @@
   title: "Matchbox Caterpillar Construction Zone"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mattel"
   id: "DMG-AR4P-EUR"
   boxart: "/a/box/5/0/3/38503_front.jpg"
@@ -1574,14 +1574,14 @@
   title: "Blaster Master Jr."
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   boxart: "/a/box/9/9/0/45990_front.jpg"
 - release:
   title: "Blaster Master Jr."
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-115-CHN"
   boxart: "/a/box/6/4/7/455647_front.jpg"
@@ -1604,7 +1604,7 @@
   title: "Mary-Kate and Ashley: Crush Course"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "CGB-BCVP-UKV"
   barcode: "021481512752"
@@ -1629,7 +1629,7 @@
   title: "Boxxle"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "FCI, Inc."
   id: "DMG-SO-UKV"
   boxart: "/no_cover.png"
@@ -1716,7 +1716,7 @@
   title: "Ms. Pac-Man: Special Color Edition"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   id: "DMG-AQCE-USA"
   boxart: "/a/box/4/5/1/467451_front.jpg"
@@ -1724,7 +1724,7 @@
   title: "Ms. Pac-Man: Special Colour Edition"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AQCP-EUR"
   boxart: "/no_cover.png"
@@ -1748,7 +1748,7 @@
   title: "Final Fantasy Legend III (Reprint)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-OS"
   barcode: "094689221078"
@@ -1764,7 +1764,7 @@
   title: "Best of the Best: Championship Karate"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Loriciels"
   boxart: "/no_cover.png"
 - release:
@@ -1802,7 +1802,7 @@
   title: "Zipball"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -1816,7 +1816,7 @@
   title: "Zoop"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Viacom New Media"
   id: "DMG-AZPP-EUR"
   boxart: "/a/box/1/5/2/9152_front.jpg"
@@ -1876,7 +1876,7 @@
   title: "Batman: The Animated Series"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   boxart: "/no_cover.png"
 - release:
@@ -2015,7 +2015,7 @@
   title: "Kirby's Block Ball"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKXP"
   boxart: "/a/box/3/6/8/46368_front.jpg"
@@ -2023,7 +2023,7 @@
   title: "Kirby's Block Ball"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
@@ -2038,7 +2038,7 @@
   title: "Kirby's Block Ball (Target Game Boy Console Bundle)"
   market: "NA"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKXE-USA"
   barcode: "045496730505"
@@ -2181,7 +2181,7 @@
   title: "Magical Drop"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Swing! Deutschland"
   id: "CGB-AXJP-EUR"
   boxart: "/a/box/4/5/9/39459_front.jpg"
@@ -2219,7 +2219,7 @@
   title: "Mortal Kombat 3"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-A3MP-EUR"
   barcode: "3455191994404"
@@ -2325,7 +2325,7 @@
   title: "Miracle Adventure Esparks"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-124-CHN"
   boxart: "/no_cover.png"
@@ -2364,7 +2364,7 @@
   title: "Bob et Bobette: Les Dompteurs du Temps"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BBQP-FAH"
   boxart: "/a/box/7/2/3/200723_front.jpg"
@@ -2372,7 +2372,7 @@
   title: "Suske en Wiske: De Tijdtemmers"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BBQP-FAH"
   boxart: "/no_cover.png"
@@ -2402,7 +2402,7 @@
   title: "Disney's Der Konig Der Lowen (Disney's Classic Video Games)"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-ALNP-EUR"
   boxart: "/a/box/5/8/5/28585_front.jpg"
@@ -2475,7 +2475,7 @@
   title: "Reservoir Rat"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-ARSP-EUR"
   barcode: "5026555040242"
@@ -2500,7 +2500,7 @@
   title: "Godzilla"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-GZ-EUR"
   boxart: "/a/box/2/7/3/46273_front.jpg"
@@ -2523,7 +2523,7 @@
   title: "Double Dragon 3: The Arcade Game"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-DX"
   boxart: "/a/box/1/5/7/46157_front.jpg"
@@ -2531,7 +2531,7 @@
   title: "Donkey Kong"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-403 CHN"
   boxart: "/no_cover.png"
@@ -2562,7 +2562,7 @@
   title: "Donkey Kong (GameBoy Classic Serie)"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-QD"
   barcode: "045496460426"
@@ -2632,7 +2632,7 @@
   title: "Konami GB Collection Vol. 4"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AF8P-EUR"
   boxart: "/a/box/6/2/5/30625_front.jpg"
@@ -2671,7 +2671,7 @@
   title: "Kung Fu Master"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-SX-NOE"
   boxart: "/a/box/3/8/7/46387_front.jpg"
@@ -2709,7 +2709,7 @@
   title: "Stargate"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AGTP-EUR"
   barcode: "3455195100757"
@@ -2765,14 +2765,14 @@
   title: "Cliffhanger"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   boxart: "/no_cover.png"
 - release:
   title: "Die Maus"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-ADXP-NOE"
   boxart: "/a/box/2/7/3/92273_front.jpg"
@@ -2788,7 +2788,7 @@
   title: "Olympic Summer Games: Atlanta 1996"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-AO9P-EUR"
   boxart: "/no_cover.png"
@@ -2818,7 +2818,7 @@
   title: "Chessmaster"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-AC9P-EUR"
   boxart: "/a/box/4/7/3/37473_front.jpg"
@@ -2841,7 +2841,7 @@
   title: "Asteroids"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-AARP-EUR"
   boxart: "/a/box/5/9/0/590_front.jpg"
@@ -2878,7 +2878,7 @@
   title: "Trick Boarder"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Natsume"
   boxart: "/no_cover.png"
 - release:
@@ -2944,7 +2944,7 @@
   title: "Tesserae"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/a/box/8/5/7/46857_front.jpg"
 - release:
@@ -3035,7 +3035,7 @@
   title: "F-1 Race"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-102 CHN"
   boxart: "/a/box/6/5/2/455652_front.jpg"
@@ -3043,7 +3043,7 @@
   title: "F-1 Race (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-F1-USA-1"
   barcode: "045496730208"
@@ -3106,7 +3106,7 @@
   title: "Ninja Boy 2"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   boxart: "/a/box/5/2/7/46527_front.jpg"
 - release:
@@ -3136,7 +3136,7 @@
   title: "Cool Spot"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-QP"
   boxart: "/a/box/0/9/0/46090_front.jpg"
@@ -3374,7 +3374,7 @@
   title: "The Legend of Zelda: Oracle of Seasons"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-AZ7U-AUS"
   boxart: "/a/box/1/1/5/8115_front.jpg"
@@ -3476,7 +3476,7 @@
   title: "King James Bible"
   market: "NA"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Wisdom Tree"
   id: "EBGB"
   barcode: "9789901630158"
@@ -3532,7 +3532,7 @@
   title: "Pop n Pop"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "JVC Digital Studios"
   boxart: "/no_cover.png"
 - release:
@@ -3584,7 +3584,7 @@
   title: "Arcade Classic No. 1: Asteroids / Missile Command"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AMCP-NOE"
   boxart: "/a/box/9/6/4/45964_front.jpg"
@@ -3691,7 +3691,7 @@
   title: "Die Schlumpfe: Reisen Um Die Welt"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AUFP-EUR"
   boxart: "/a/box/0/6/5/31065_front.jpg"
@@ -3699,7 +3699,7 @@
   title: "Les Schtroumpfs: Autour du Monde"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AUFP-FAH"
   boxart: "/a/box/8/4/8/452848_front.jpg"
@@ -3707,7 +3707,7 @@
   title: "Beavis and Butt-Head"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GT Interactive"
   id: "DMG-AVIP-EUR"
   boxart: "/a/box/5/3/9/37539_front.jpg"
@@ -3729,7 +3729,7 @@
   title: "Iron Man / X-O Manowar in Heavy Metal"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-P-AXIP"
   barcode: "455195105738"
@@ -3746,7 +3746,7 @@
   title: "Splitz"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Imagineer"
   id: "DMG-R5-NOE"
   barcode: "745694002014"
@@ -3787,7 +3787,7 @@
   title: "Star Wars: The Empire Strikes Back"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-EB"
   boxart: "/no_cover.png"
@@ -3801,7 +3801,7 @@
   title: "Star Wars: The Empire Strikes Back (Ubisoft Reprint)"
   market: "NA"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-EB"
   boxart: "/a/box/1/6/9/46169_front.jpg"
@@ -3837,21 +3837,21 @@
   title: "Lock n' Chase"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   boxart: "/no_cover.png"
 - release:
   title: "Lock n' Chase"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   boxart: "/no_cover.png"
 - release:
   title: "Lock 'n' Chase"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   id: "DMG-128-CHN"
   boxart: "/a/box/6/6/6/459666_front.jpg"
@@ -3904,7 +3904,7 @@
   title: "Daffy Duck: Fowl Play"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-AD7P"
   boxart: "/a/box/3/0/4/38304_front.jpg"
@@ -3959,7 +3959,7 @@
   title: "Missile Command"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Accolade"
   boxart: "/no_cover.png"
 - release:
@@ -4020,14 +4020,14 @@
   title: "Game Boy Color Hardware (Tommy Hilfiger Edition)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/8/8/3/307883_front.jpg"
 - release:
   title: "Game Boy Color Hardware (Hello Kitty Special Box)"
   market: "JP"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-001"
   boxart: "/a/box/8/8/1/307881_front.jpg"
@@ -4042,14 +4042,14 @@
   title: "Game Boy Color Hardware (Limited Edition Green and Gold Neotones)"
   market: "AU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/8/9/1/307891_front.jpg"
 - release:
   title: "Game Boy Color Hardware (Hello Kitty Special Box 2)"
   market: "JP"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-001"
   boxart: "/a/box/8/9/0/307890_front.jpg"
@@ -4057,7 +4057,7 @@
   title: "Game Boy Color Hardware (Sakura Taisen Edition)"
   market: "JP"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-001"
   boxart: "/a/box/8/9/3/307893_front.jpg"
@@ -4065,14 +4065,14 @@
   title: "Game Boy Color Hardware (Pokemon Limited Edition!)"
   market: "NA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/8/9/6/307896_front.jpg"
 - release:
   title: "Game Boy Color Hardware (Pokemon Special Edition)"
   market: "NA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/8/9/8/307898_front.jpg"
 - release:
@@ -4125,7 +4125,7 @@
   title: "BattleTanx"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "3DO"
   id: "CGB-AVNP"
   boxart: "/a/box/8/3/5/1835_front.jpg"
@@ -4243,7 +4243,7 @@
   title: "Ottos Ottifanten: Baby Brunos Alptraum"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AOBP-NOE"
   boxart: "/a/box/2/4/8/155248_front.jpg"
@@ -4259,7 +4259,7 @@
   title: "Dave Mirra Freestyle BMX"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "CGB-BMXP-EUR"
   boxart: "/no_cover.png"
@@ -4275,7 +4275,7 @@
   title: "Bust-A-Move 3 DX"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-A3VP-EUR"
   barcode: "3455195116147"
@@ -4291,7 +4291,7 @@
   title: "Joe & Mac: Caveman Ninja"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Elite"
   id: "DMG-JM"
   boxart: "/a/box/9/9/7/21997_front.jpg"
@@ -4314,7 +4314,7 @@
   title: "Spider-Man 3: Invasion of the Spider-Slayers"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   boxart: "/no_cover.png"
 - release:
@@ -4344,7 +4344,7 @@
   title: "Tetris Plus"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ATRP"
   boxart: "/a/box/0/7/0/8070_front.jpg"
@@ -4420,7 +4420,7 @@
   title: "Bart Simpson's Escape From Camp Deadly"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/6/9/5/46695_front.jpg"
 - release:
@@ -4486,7 +4486,7 @@
   title: "Game Boy Camera"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "MGB-006"
   boxart: "/a/box/1/4/6/24146_front.jpg"
@@ -4557,7 +4557,7 @@
   title: "Batman: Chaos in Gotham"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BBBP-EUR"
   boxart: "/a/box/8/0/3/13803_front.jpg"
@@ -4603,7 +4603,7 @@
   title: "Max"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-KV"
   boxart: "/a/box/1/8/8/309188_front.jpg"
@@ -4627,7 +4627,7 @@
   title: "Die Schlumpfe: Im Alptraumland"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-P-ASNP"
   boxart: "/a/box/2/6/0/7260_front.jpg"
@@ -4681,7 +4681,7 @@
   title: "Star Trek: 25th Anniversary"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Palcom"
   boxart: "/a/box/2/5/2/22252_front.jpg"
 - release:
@@ -4704,7 +4704,7 @@
   title: "Mega Man III"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-W3"
   barcode: "045496460266"
@@ -4760,14 +4760,14 @@
   title: "Hammerin' Harry"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   boxart: "/a/box/2/8/7/46287_front.jpg"
 - release:
   title: "Carpenter Genzo: Ghost Kingdom"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-208-CHN"
   boxart: "/no_cover.png"
@@ -4814,7 +4814,7 @@
   title: "Reservoir Rat"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AVTP-EUR"
   boxart: "/a/box/8/1/6/36816_front.jpg"
@@ -4830,7 +4830,7 @@
   title: "720 Degrees"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "DMG-AA7P"
   boxart: "/a/box/1/1/8/43118_front.jpg"
@@ -4853,7 +4853,7 @@
   title: "Men in Black 2: The Series"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Crave"
   boxart: "/no_cover.png"
 - release:
@@ -4881,7 +4881,7 @@
   title: "Super Breakout"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AOTP-EUR"
   barcode: "5026555040389"
@@ -4914,7 +4914,7 @@
   title: "The Legend of Zelda: Link's Awakening"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mani"
   id: "DMG-407 CHN"
   barcode: "4891494013548"
@@ -4931,7 +4931,7 @@
   title: "The Legend of Zelda: Link's Awakening (Nintendo Classics)"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ZL-EUR"
   barcode: "045496460501"
@@ -4940,7 +4940,7 @@
   title: "The Legend of Zelda: Link's Awakening (Target Game Boy Pocket Bundle)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ZL-USA-2"
   barcode: "045496730291"
@@ -4973,7 +4973,7 @@
   title: "Shaun Palmer's Pro Snowboarder"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "CGB-B3SP-AUS"
   boxart: "/no_cover.png"
@@ -4997,7 +4997,7 @@
   title: "Brain Bender"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gremlin Interactive"
   boxart: "/a/box/0/0/4/46004_front.jpg"
 - release:
@@ -5028,7 +5028,7 @@
   title: "Mercenary Force"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-TK-FAH"
   boxart: "/no_cover.png"
@@ -5096,7 +5096,7 @@
   title: "Solomon's Club"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tecmo"
   id: "DMG-SC"
   boxart: "/no_cover.png"
@@ -5104,7 +5104,7 @@
   title: "Solomon's Club"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tecmo"
   id: "DMG-125-CHN"
   boxart: "/no_cover.png"
@@ -5136,7 +5136,7 @@
   title: "F1 Pole Position"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-F5-UKV"
   barcode: "3307211005952"
@@ -5152,7 +5152,7 @@
   title: "Last Action Hero"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   id: "DMG-LR-NOE"
   boxart: "/no_cover.png"
@@ -5168,7 +5168,7 @@
   title: "Dragon Warrior Monsters"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Eidos Interactive"
   id: "DMG-AWQP-EUR"
   boxart: "/a/box/1/4/5/3145_front.jpg"
@@ -5214,7 +5214,7 @@
   title: "Deadly Skies"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "CGB-BDLP-EUR"
   boxart: "/a/box/4/0/7/1407_front.jpg"
@@ -5222,7 +5222,7 @@
   title: "The Legend of Zelda: Oracle of Ages / Oracle of Seasons Limited Edition"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/3/0/4/141304_front.jpg"
 - release:
@@ -5261,7 +5261,7 @@
   title: "Hugo 2 1/2"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AHOP-NOE"
   boxart: "/a/box/2/3/4/155234_front.jpg"
@@ -5285,7 +5285,7 @@
   title: "Kirby Tilt 'n' Tumble"
   market: "SA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -5316,7 +5316,7 @@
   title: "Lemmings"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-L8-UKV"
   boxart: "/a/box/5/9/4/23594_front.jpg"
@@ -5340,7 +5340,7 @@
   title: "Disney's The Jungle Book"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-J7-SCN"
   boxart: "/a/box/0/8/3/31083_front.jpg"
@@ -5385,7 +5385,7 @@
   title: "Looney Tunes"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-ALTE-USA"
   barcode: "020763110549"
@@ -5394,7 +5394,7 @@
   title: "Looney Tunes"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-ALTP"
   boxart: "/a/box/8/3/4/4834_front.jpg"
@@ -5433,14 +5433,14 @@
   title: "Donkey Kong Land 2 (Nintendo Classics)"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/9/2/8/352928_front.jpg"
 - release:
   title: "Donkey Kong Land 2"
   market: "AU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ADDP-AUS"
   boxart: "/a/box/5/7/6/350576_front.jpg"
@@ -5448,7 +5448,7 @@
   title: "Donkey Kong Land 2 (Walmart Bundle)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ADDE-USA"
   boxart: "/no_cover.png"
@@ -5456,7 +5456,7 @@
   title: "Donkey Kong Land 2 (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ADDE-USA-1"
   barcode: "045496730529"
@@ -5527,7 +5527,7 @@
   title: "Tiny Toon Adventures: Babs' Big Break"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-TX"
   boxart: "/a/box/8/7/2/46872_front.jpg"
@@ -5557,7 +5557,7 @@
   title: "BattleShip"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AIPE-USA"
   barcode: "096427011736"
@@ -5566,7 +5566,7 @@
   title: "BattleShip"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AIPP-EUR"
   boxart: "/a/box/1/8/1/39181_front.jpg"
@@ -5574,7 +5574,7 @@
   title: "BattleShip"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AIPP-EUR"
   boxart: "/no_cover.png"
@@ -5582,7 +5582,7 @@
   title: "Lingo"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Altron"
   barcode: "4011285679047"
   boxart: "/a/box/2/9/0/182290_front.jpg"
@@ -5590,7 +5590,7 @@
   title: "Bubsy II"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Telstar"
   id: "DMG-ABBP-EUR"
   boxart: "/no_cover.png"
@@ -5658,7 +5658,7 @@
   title: "Jack Nicklaus Golf"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tradewest"
   id: "DMG-JN"
   boxart: "/a/box/4/3/8/4438_front.jpg"
@@ -5674,7 +5674,7 @@
   title: "Football International"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   barcode: "045557678364"
   boxart: "/a/box/1/9/8/306198_front.jpg"
@@ -5713,7 +5713,7 @@
   title: "Spirou"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AUOP-EUR"
   barcode: "3329720010937"
@@ -5729,7 +5729,7 @@
   title: "Swamp Thing"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-WG"
   boxart: "/a/box/8/1/2/46812_front.jpg"
@@ -5767,7 +5767,7 @@
   title: "Elevator Action"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "TDK Mediactive"
   id: "CGB-BEXP-EUR"
   boxart: "/a/box/0/4/2/12042_front.jpg"
@@ -5790,7 +5790,7 @@
   title: "Q*bert"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   id: "DMG-P-QT"
   boxart: "/no_cover.png"
@@ -5820,7 +5820,7 @@
   title: "Matthias Sammer Soccer"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   boxart: "/a/box/1/5/1/306151_front.jpg"
 - release:
@@ -5859,7 +5859,7 @@
   title: "Pokemon Blue (included w/ Game Boy Pocket)"
   market: "SA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -5873,7 +5873,7 @@
   title: "Pokemon Blue Version (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-APEE-USA-1"
   barcode: "045496730826"
@@ -5936,7 +5936,7 @@
   title: "Castelian"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "The Sales Curve"
   id: "DMG-CJ-EUR"
   boxart: "/a/box/0/4/8/46048_front.jpg"
@@ -6041,7 +6041,7 @@
   title: "4 in 1 (Nintendo)"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-601 CHN"
   boxart: "/no_cover.png"
@@ -6057,7 +6057,7 @@
   title: "Games Frenzy"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "3DO"
   boxart: "/a/box/2/8/7/40287_front.jpg"
 - release:
@@ -6087,7 +6087,7 @@
   title: "Exodus: Journey to the Promised Land"
   market: "NA"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Wisdom Tree"
   id: "EGB-1"
   boxart: "/a/box/1/7/1/46171_front.jpg"
@@ -6141,7 +6141,7 @@
   title: "Game Boy Gallery"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGGA-AUS"
   boxart: "/a/box/6/5/0/89650_front.jpg"
@@ -6157,7 +6157,7 @@
   title: "Taxi 3"
   market: "EU"
   release_date: "2002-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BXIF-FRA"
   boxart: "/a/box/7/0/6/93706_front.jpg"
@@ -6264,7 +6264,7 @@
   title: "Mr. Driller"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "CGB-BMDP-EUR"
   boxart: "/a/box/9/8/8/9988_front.jpg"
@@ -6409,7 +6409,7 @@
   title: "B.C. Kid 2"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-RJ-EUR"
   barcode: "039854000348"
@@ -6418,7 +6418,7 @@
   title: "Bonk's Revenge"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-218-CHN"
   boxart: "/no_cover.png"
@@ -6457,7 +6457,7 @@
   title: "Choplifter II"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "JVC Musical Industries, Inc."
   id: "DMG-V4"
   barcode: "009119910217"
@@ -6504,7 +6504,7 @@
   title: "George Foreman's KO Boxing"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/no_cover.png"
 - release:
@@ -6533,14 +6533,14 @@
   title: "Baseball"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
   title: "Baseball"
   market: "AU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-BS-AUS"
   barcode: "045496730024"
@@ -6615,7 +6615,7 @@
   title: "Batman: Return of the Joker"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-P-B5"
   boxart: "/no_cover.png"
@@ -6631,7 +6631,7 @@
   title: "Ms. Pac-Man"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-N4"
   boxart: "/a/box/0/5/2/31052_front.jpg"
@@ -6647,7 +6647,7 @@
   title: "F-18 Thunder Strike"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   boxart: "/no_cover.png"
 - release:
@@ -6685,7 +6685,7 @@
   title: "Sagaia"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-116 CHN"
   boxart: "/a/box/6/8/4/296684_front.jpg"
@@ -6740,7 +6740,7 @@
   title: "Konami Golf"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-KG"
   boxart: "/a/box/9/3/0/46930_front.jpg"
@@ -6787,7 +6787,7 @@
   title: "Die Schlumpfe: Im Alptraumland"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AU3P-EUR"
   boxart: "/a/box/9/5/6/173956_front.jpg"
@@ -6795,7 +6795,7 @@
   title: "Le Cauchemar Des Schtroumpfs"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/5/7/3/454573_front.jpg"
 - release:
@@ -6868,7 +6868,7 @@
   title: "Chase H.Q."
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-119-CHN"
   boxart: "/no_cover.png"
@@ -6884,7 +6884,7 @@
   title: "Chase H.Q."
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-HQ-NOE"
   boxart: "/a/box/3/3/7/2337_front.jpg"
@@ -6899,7 +6899,7 @@
   title: "Rampage: World Tour"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "DMG-ARPP-EUR"
   boxart: "/a/box/4/8/3/6483_front.jpg"
@@ -6929,14 +6929,14 @@
   title: "Navy Seals"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   boxart: "/a/box/6/8/0/39680_front.jpg"
 - release:
   title: "Un Indien Dans La Ville"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-A65P-EUR"
   boxart: "/a/box/6/9/2/114692_front.jpg"
@@ -6989,7 +6989,7 @@
   title: "Tweety's High-Flying Adventure"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "CGB-BTWP-EUR"
   boxart: "/no_cover.png"
@@ -7003,7 +7003,7 @@
   title: "F1 Championship Season 2000"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electronic Arts"
   id: "CGB-BFIP-EUR"
   boxart: "/no_cover.png"
@@ -7032,7 +7032,7 @@
   title: "Spider-Man / X-Men: Arcade's Revenge"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   boxart: "/a/box/7/2/9/46729_front.jpg"
 - release:
@@ -7046,7 +7046,7 @@
   title: "Superman"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-ASMP-EUR"
   boxart: "/a/box/8/5/2/7852_front.jpg"
@@ -7062,7 +7062,7 @@
   title: "Cool Hand"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-ACWP-EUR"
   boxart: "/a/box/3/5/7/37357_front.jpg"
@@ -7084,7 +7084,7 @@
   title: "Disney's Pocahontas"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-AHQP-EUR"
   boxart: "/a/box/5/9/7/46597_front.jpg"
@@ -7161,7 +7161,7 @@
   title: "Halloween Racer"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Microids"
   id: "CGB-AHIP-EUR"
   barcode: "3342180176562"
@@ -7225,7 +7225,7 @@
   title: "Cool Hand"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-ACDP-EUU"
   boxart: "/a/box/2/1/4/179214_front.jpg"
@@ -7255,7 +7255,7 @@
   title: "Dragon's Lair: The Legend"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Elite"
   id: "DMG-P-DL"
   boxart: "/a/box/9/3/9/11939_front.jpg"
@@ -7302,7 +7302,7 @@
   title: "Terminator 2: Judgment Day"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-TZ-NOE"
   boxart: "/a/box/9/1/8/32918_front.jpg"
@@ -7358,7 +7358,7 @@
   title: "Super Chase H.Q."
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   boxart: "/no_cover.png"
 - release:
@@ -7468,7 +7468,7 @@
   title: "Bionic Commando"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-BO"
   boxart: "/a/box/9/3/3/26933_front.jpg"
@@ -7476,7 +7476,7 @@
   title: "Bionic Commando"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-202 CHN"
   boxart: "/no_cover.png"
@@ -7580,7 +7580,7 @@
   title: "Bubble Ghost"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "FCI, Inc."
   id: "DMG-BG"
   boxart: "/a/box/1/1/7/2117_front.jpg"
@@ -7596,14 +7596,14 @@
   title: "Dragon Tales: Dragon Wings"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/no_cover.png"
 - release:
   title: "Golf Classic"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Malibu"
   id: "DMG-AGFP-EUR"
   boxart: "/a/box/7/3/9/46739_front.jpg"
@@ -7626,7 +7626,7 @@
   title: "Rampage 2: Universal Tour"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   boxart: "/no_cover.png"
 - release:
@@ -7657,7 +7657,7 @@
   title: "Teenage Mutant Hero Turtles: Fall of the Foot Clan"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-NT"
   boxart: "/a/box/8/5/2/46852_front.jpg"
@@ -7760,7 +7760,7 @@
   title: "Donkey Kong Land (Players Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-YT-USA-1"
   barcode: "045496730369"
@@ -7769,7 +7769,7 @@
   title: "Donkey Kong Land (Nintendo Classics)"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/1/5/5/46155_front.jpg"
 - release:
@@ -7838,7 +7838,7 @@
   title: "Motocross Maniacs"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-MX"
   boxart: "/a/box/4/8/6/46486_front.jpg"
@@ -7861,7 +7861,7 @@
   title: "Trax"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electro Brain"
   boxart: "/no_cover.png"
 - release:
@@ -7883,7 +7883,7 @@
   title: "Universal Soldier"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Accolade"
   id: "DMG-UD"
   boxart: "/a/box/9/1/7/46917_front.jpg"
@@ -7930,7 +7930,7 @@
   title: "Tom & Jerry 2: The Movie"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi-Tech"
   id: "DMG-P-J8"
   boxart: "/no_cover.png"
@@ -7946,7 +7946,7 @@
   title: "Wendy: Every Witch Way"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "TDK Mediactive"
   id: "CGB-BWGP-EUR"
   boxart: "/a/box/6/8/3/13683_front.jpg"
@@ -7970,7 +7970,7 @@
   title: "Yars' Revenge"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Telegames"
   id: "DMG-AYVP-EUR"
   boxart: "/a/box/0/8/8/38088_front.jpg"
@@ -7985,7 +7985,7 @@
   title: "Robocop"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-P-CP"
   boxart: "/no_cover.png"
@@ -8024,7 +8024,7 @@
   title: "Blades of Steel"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Palcom"
   id: "DMG-UB"
   boxart: "/a/box/8/2/5/21825_front.jpg"
@@ -8130,7 +8130,7 @@
   title: "Yu Yu Hakusho Invincible Ally"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-213-CHN"
   boxart: "/no_cover.png"
@@ -8154,7 +8154,7 @@
   title: "Roadsters"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-ARRP-EUR"
   boxart: "/a/box/8/0/0/6800_front.jpg"
@@ -8178,7 +8178,7 @@
   title: "Palamedes"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-PX-NOE"
   boxart: "/a/box/8/6/5/295865_front.jpg"
@@ -8217,7 +8217,7 @@
   title: "The Mask of Zorro"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-AZRP-EUR"
   boxart: "/no_cover.png"
@@ -8240,7 +8240,7 @@
   title: "Xenon 2"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-X2-NOE"
   boxart: "/a/box/8/1/2/28812_front.jpg"
@@ -8271,7 +8271,7 @@
   title: "Donkey Kong Country"
   market: "AU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-BDDP-AUS"
   boxart: "/a/box/4/7/9/331479_front.jpg"
@@ -8279,7 +8279,7 @@
   title: "Donkey Kong Country"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -8317,7 +8317,7 @@
   title: "FIFA Soccer 96"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-A6SP-EUR"
   barcode: "785138320069"
@@ -8372,7 +8372,7 @@
   title: "Captain Knick-Knack"
   market: "AS"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -8453,7 +8453,7 @@
   title: "Game Boy"
   market: "KO"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/a/box/1/2/6/620126_front.jpg"
 - release:
@@ -8481,7 +8481,7 @@
   title: "Game Boy Pocket Hardware"
   market: "NA"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "MGB-001"
   boxart: "/a/box/6/6/9/307669_front.jpg"
@@ -8489,7 +8489,7 @@
   title: "Game Boy Pocket Hardware"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/6/6/7/307667_front.jpg"
 - release:
@@ -8578,7 +8578,7 @@
   title: "The Simpsons: Bart & the Beanstalk"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/6/9/0/46690_front.jpg"
 - release:
@@ -8592,7 +8592,7 @@
   title: "Mighty Morphin Power Rangers: The Movie"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-A2RP-EUR"
   boxart: "/no_cover.png"
@@ -8616,7 +8616,7 @@
   title: "Pierre le Chef is... Out to Lunch"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-Y5-UKV"
   boxart: "/a/box/9/9/7/50997_front.jpg"
@@ -8640,7 +8640,7 @@
   title: "Mega Man IV"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   id: "DMG-R4-EUR"
   boxart: "/a/box/0/7/5/21075_front.jpg"
@@ -8695,7 +8695,7 @@
   title: "4 in 1 (Tomy)"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-603 CHN"
   boxart: "/no_cover.png"
@@ -8711,7 +8711,7 @@
   title: "Bass Masters Classic"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-AQMP-EUR"
   boxart: "/a/box/2/9/6/38296_front.jpg"
@@ -8727,7 +8727,7 @@
   title: "Lethal Weapon"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   boxart: "/no_cover.png"
 - release:
@@ -8749,7 +8749,7 @@
   title: "Prehistorik Man"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-UH-EUR"
   boxart: "/a/box/7/5/6/14756_front.jpg"
@@ -8765,7 +8765,7 @@
   title: "Populous"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Anco Software"
   id: "DMG-P9"
   boxart: "/a/box/4/3/0/30430_front.jpg"
@@ -8773,7 +8773,7 @@
   title: "Choplifter III"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AC3E-EUR"
   boxart: "/a/box/9/3/8/296938_front.jpg"
@@ -8828,7 +8828,7 @@
   title: "Pang"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-AG"
   barcode: "039854000249"
@@ -8879,7 +8879,7 @@
   title: "International Superstar Soccer 99"
   market: "NA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AWZE-USA"
   boxart: "/a/box/9/8/5/40985_front.jpg"
@@ -8903,7 +8903,7 @@
   title: "Kirby's Dream Land"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-KY-EUR"
   boxart: "/a/box/0/3/1/21031_front.jpg"
@@ -8911,7 +8911,7 @@
   title: "Kirby's Dream Land"
   market: "AU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-KY-AUS"
   boxart: "/no_cover.png"
@@ -8919,7 +8919,7 @@
   title: "Kirby's Dream Land"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-205-CHN"
   boxart: "/no_cover.png"
@@ -8927,7 +8927,7 @@
   title: "Kirby's Dream Land"
   market: "SA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -9003,7 +9003,7 @@
   title: "Missao Impossivel"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -9054,7 +9054,7 @@
   title: "Primal Rage"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Time Warner Interactive"
   id: "DMG-AR9P-EUR"
   boxart: "/a/box/1/1/4/11114_front.jpg"
@@ -9099,7 +9099,7 @@
   title: "Race Days"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-ARDP-EUR"
   boxart: "/a/box/6/1/9/46619_front.jpg"
@@ -9122,7 +9122,7 @@
   title: "Mortal Kombat"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-C9"
   boxart: "/a/box/1/0/3/21103_front.jpg"
@@ -9175,7 +9175,7 @@
   title: "Tetris Blast"
   market: "AU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ASBP-AUS"
   boxart: "/no_cover.png"
@@ -9325,7 +9325,7 @@
   title: "Popeye 2"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-PG-SCN"
   boxart: "/a/box/5/9/5/46595_front.jpg"
@@ -9364,7 +9364,7 @@
   title: "Extreme Sports with the Berenstain Bears"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sound Source"
   id: "CGB-BESP-EUR"
   boxart: "/no_cover.png"
@@ -9380,7 +9380,7 @@
   title: "Robocop"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "CGB-BR9P-EUR"
   boxart: "/a/box/4/7/9/14479_front.jpg"
@@ -9388,7 +9388,7 @@
   title: "Boarder Zone"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AXWE-USA"
   barcode: "020295020323"
@@ -9397,7 +9397,7 @@
   title: "Supreme Snowboarding"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AXWP-NOE"
   boxart: "/no_cover.png"
@@ -9428,7 +9428,7 @@
   title: "Hyper Dunk"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-DW-NOE"
   boxart: "/a/box/1/4/8/46148_front.jpg"
@@ -9468,7 +9468,7 @@
   title: "Mary-Kate & Ashley: Get a Clue!"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-BXFP-EUR"
   boxart: "/a/box/8/7/1/39871_front.jpg"
@@ -9499,7 +9499,7 @@
   title: "Explosive Brick"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -9522,7 +9522,7 @@
   title: "R-Type"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-RE"
   boxart: "/a/box/8/1/4/20814_front.jpg"
@@ -9569,7 +9569,7 @@
   title: "FIFA 97"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-A7SP-EUR"
   boxart: "/a/box/1/9/9/46199_front.jpg"
@@ -9617,7 +9617,7 @@
   title: "Asterix & Obelix"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AXOP-EUR"
   boxart: "/a/box/8/6/5/28865_front.jpg"
@@ -9641,7 +9641,7 @@
   title: "Batman Forever"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/9/7/7/10977_front.jpg"
 - release:
@@ -9700,7 +9700,7 @@
   title: "Worm Visitor"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -9715,7 +9715,7 @@
   title: "Joshua & the Battle of Jericho"
   market: "NA"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Wisdom Tree"
   id: "JGB-1"
   boxart: "/a/box/3/4/7/46347_front.jpg"
@@ -9738,7 +9738,7 @@
   title: "Indiana Jones and the Last Crusade"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/no_cover.png"
 - release:
@@ -9790,7 +9790,7 @@
   title: "Classic Bubble Bobble"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Metro3D"
   id: "DMG-AVWE-USA"
   boxart: "/a/box/1/1/0/38110_front.jpg"
@@ -9829,7 +9829,7 @@
   title: "Turrican"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Accolade"
   id: "DMG-TQ"
   boxart: "/no_cover.png"
@@ -9869,7 +9869,7 @@
   title: "NBA All-Star Challenge"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-AC"
   barcode: "023582058016"
@@ -9901,7 +9901,7 @@
   title: "NASCAR 2000"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electronic Arts"
   boxart: "/no_cover.png"
 - release:
@@ -9924,7 +9924,7 @@
   title: "Bugs Bunny & Lola Bunny: Operation Carrot Patch"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-ABLP-EUR"
   boxart: "/a/box/1/8/7/39187_front.jpg"
@@ -9994,7 +9994,7 @@
   title: "Gex: Enter the Gecko"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-AEXP"
   boxart: "/a/box/9/3/0/3930_front.jpg"
@@ -10026,7 +10026,7 @@
   title: "Pokemon Yellow Version: Special Pikachu Edition (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-APSE-USA-1"
   barcode: "045496730895"
@@ -10035,7 +10035,7 @@
   title: "Pokemon Yellow Version: Edicao Especial Pikachu"
   market: "SA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -10089,7 +10089,7 @@
   title: "Gauntlet II"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-G2-NOE"
   barcode: "050047104995"
@@ -10146,7 +10146,7 @@
   title: "Duck Adventures"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -10192,7 +10192,7 @@
   title: "Ultimate Fighting Championship"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Crave"
   id: "CGB-BUCP-EUR"
   boxart: "/a/box/5/1/0/8510_front.jpg"
@@ -10207,7 +10207,7 @@
   title: "Montezuma's Return"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AZMP-EUR"
   barcode: "5026555040303"
@@ -10293,7 +10293,7 @@
   title: "Missile Command"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hasbro Interactive"
   id: "CGB-ALCP-EUR"
   boxart: "/no_cover.png"
@@ -10317,7 +10317,7 @@
   title: "Judge Dredd"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AJDP-EUR"
   barcode: "3455195101716"
@@ -10342,7 +10342,7 @@
   title: "Golf"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-GO-NOE"
   boxart: "/a/box/9/6/1/22961_front.jpg"
@@ -10350,21 +10350,21 @@
   title: "Golf"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
   title: "Golf"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
   title: "Golf (Player's Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-GO-USA-1"
   barcode: "045496730062"
@@ -10448,7 +10448,7 @@
   title: "Caesars Palace II"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   boxart: "/a/box/9/9/1/33991_front.jpg"
 - release:
@@ -10469,7 +10469,7 @@
   title: "Caesars Palace"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-CE-NOE"
   boxart: "/a/box/0/3/5/46035_front.jpg"
@@ -10531,7 +10531,7 @@
   title: "The Bugs Bunny Crazy Castle"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "DMG-BB-EUR"
   boxart: "/no_cover.png"
@@ -10539,7 +10539,7 @@
   title: "The Bugs Bunny Crazy Castle (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-BB-USA-1"
   barcode: "045496730727"
@@ -10548,7 +10548,7 @@
   title: "Asterix & Obelix"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AOLP"
   boxart: "/a/box/8/6/6/28866_front.jpg"
@@ -10564,7 +10564,7 @@
   title: "Maya the Bee and Her Friends"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AMVP-EUR"
   boxart: "/a/box/9/8/9/40989_front.jpg"
@@ -10604,7 +10604,7 @@
   title: "Pocket Bomberman"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKQP-EUR"
   boxart: "/a/box/7/3/9/36739_front.jpg"
@@ -10612,7 +10612,7 @@
   title: "Pocket Bomberman"
   market: "SA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -10664,7 +10664,7 @@
   title: "Magnetic Soccer"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-KQ"
   barcode: "045496730246"
@@ -10719,7 +10719,7 @@
   title: "Pop Up"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-OP-NOE"
   boxart: "/a/box/3/9/2/26392_front.jpg"
@@ -10750,7 +10750,7 @@
   title: "NBA Jam 99"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AJMP-EUR"
   boxart: "/a/box/5/0/7/5507_front.jpg"
@@ -10933,7 +10933,7 @@
   title: "The Incredible Crash Dummies"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   boxart: "/no_cover.png"
 - release:
@@ -10955,7 +10955,7 @@
   title: "Double Dragon II"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-D2-NOE"
   boxart: "/a/box/9/9/6/20996_front.jpg"
@@ -10979,7 +10979,7 @@
   title: "Barbie: Ocean Discovery"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mattel"
   id: "DMG-ADYP-EUR"
   boxart: "/a/box/6/4/5/38645_front.jpg"
@@ -10995,7 +10995,7 @@
   title: "Knockout Kings"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electronic Arts"
   boxart: "/no_cover.png"
 - release:
@@ -11066,7 +11066,7 @@
   title: "Harvest Moon GB"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AYXP-EUR"
   boxart: "/a/box/1/5/1/4151_front.jpg"
@@ -11126,7 +11126,7 @@
   title: "Probotector 2"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ACSP-EUR"
   boxart: "/a/box/9/9/3/20993_front.jpg"
@@ -11150,7 +11150,7 @@
   title: "Franky, Joe & Dirk: On The Tiles"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Elite Systems Ltd."
   id: "DMG-E5"
   barcode: "5012189234560"
@@ -11182,7 +11182,7 @@
   title: "Fire Fighter"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-F8-NOE"
   barcode: "4013195000430"
@@ -11221,7 +11221,7 @@
   title: "Road Rash"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-H5-UKV"
   barcode: "5013156610523"
@@ -11287,7 +11287,7 @@
   title: "Jordan vs Bird: One on One"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electronic Arts"
   boxart: "/no_cover.png"
 - release:
@@ -11317,7 +11317,7 @@
   title: "Foreman For Real"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AFEP-EUR"
   boxart: "/no_cover.png"
@@ -11376,7 +11376,7 @@
   title: "The Flash"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-EF-NOE"
   boxart: "/no_cover.png"
@@ -11428,14 +11428,14 @@
   title: "Fighting Simulator: 2-in-1 Flying Warriors"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   boxart: "/no_cover.png"
 - release:
   title: "Flying Dragon Cuff"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   id: "DMG-131-CHN"
   boxart: "/no_cover.png"
@@ -11458,7 +11458,7 @@
   title: "InfoGenius Productivity Pak: Berlitz Spanish Translator"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/no_cover.png"
 - release:
@@ -11489,7 +11489,7 @@
   title: "Tonka Raceway"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hasbro Interactive"
   id: "CGB-ATQP-EUR"
   boxart: "/a/box/2/9/2/8292_front.jpg"
@@ -11513,7 +11513,7 @@
   title: "Disney/Pixar A Bug's Life"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-APXP-EUR"
   boxart: "/a/box/3/1/6/1316_front.jpg"
@@ -11537,7 +11537,7 @@
   title: "Disney's Darkwing Duck"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-DC-EUR"
   boxart: "/a/box/7/6/9/2769_front.jpg"
@@ -11596,7 +11596,7 @@
   title: "Milon's Secret Castle"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-M8_UKV"
   boxart: "/no_cover.png"
@@ -11604,7 +11604,7 @@
   title: "Milon's Secret Castle"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-111-CHN"
   boxart: "/no_cover.png"
@@ -11658,14 +11658,14 @@
   title: "Top Gun: Guts and Glory"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   boxart: "/no_cover.png"
 - release:
   title: "McDonaldland"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-CU"
   boxart: "/a/box/7/4/5/46745_front.jpg"
@@ -11703,7 +11703,7 @@
   title: "WWF King of the Ring"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-WP-NOE-I"
   boxart: "/a/box/1/9/4/21194_front.jpg"
@@ -11727,7 +11727,7 @@
   title: "Snow Brothers"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   boxart: "/no_cover.png"
 - release:
@@ -11741,7 +11741,7 @@
   title: "Micro Machines 1 and 2: Twin Turbo"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-AT8P-EUR"
   boxart: "/a/box/3/2/0/9320_front.jpg"
@@ -11749,7 +11749,7 @@
   title: "Hugo 2"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   id: "DMG-AO2P-NOE"
   boxart: "/a/box/2/4/9/155249_front.jpg"
@@ -11893,7 +11893,7 @@
   title: "Attack of the Killer Tomatoes"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AK-NOE"
   boxart: "/no_cover.png"
@@ -11956,7 +11956,7 @@
   title: "Mario's Picross"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-APCP-AUS"
   boxart: "/a/box/0/6/2/21062_front.jpg"
@@ -12011,7 +12011,7 @@
   title: "The Dukes of Hazzard"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/no_cover.png"
 - release:
@@ -12109,7 +12109,7 @@
   title: "Monopoly"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-LYP"
   boxart: "/a/box/2/8/0/5280_front.jpg"
@@ -12125,7 +12125,7 @@
   title: "Babe and Friends"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Crave"
   id: "DMG-AVAP"
   boxart: "/a/box/6/8/1/1681_front.jpg"
@@ -12149,7 +12149,7 @@
   title: "Wave Race (Player's Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-WA-USA-1"
   barcode: "045496730222"
@@ -12204,7 +12204,7 @@
   title: "Disney's DuckTales"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-DT-NOE"
   boxart: "/a/box/1/8/4/3184_front.jpg"
@@ -12228,7 +12228,7 @@
   title: "Disney's DuckTales (Rerelease)"
   market: "NA"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-DT-USA-1"
   boxart: "/a/box/1/8/6/3186_front.jpg"
@@ -12236,7 +12236,7 @@
   title: "Disney's DuckTales"
   market: "AU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-DT"
   boxart: "/a/box/1/8/5/3185_front.jpg"
@@ -12282,7 +12282,7 @@
   title: "DIsney's Atlantis: The Lost Empire"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-BABP-AUS"
   barcode: "4005209035774"
@@ -12322,7 +12322,7 @@
   title: "Adventure Island (United Kingdom)"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-T3-UKV"
   boxart: "/no_cover.png"
@@ -12330,7 +12330,7 @@
   title: "Adventure Island"
   market: "AU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mattel"
   boxart: "/a/box/9/2/9/45929_front.jpg"
 - release:
@@ -12374,7 +12374,7 @@
   title: "Madden 95"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Malibu"
   id: "DMG-ANLP-EUR"
   boxart: "/a/box/9/4/1/10941_front.jpg"
@@ -12398,7 +12398,7 @@
   title: "Worms"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Team17"
   id: "DMG-AW3P-EUR"
   boxart: "/a/box/9/8/8/8988_front.jpg"
@@ -12414,7 +12414,7 @@
   title: "Cutthroat Island"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/1/1/9/46119_front.jpg"
 - release:
@@ -12536,7 +12536,7 @@
   title: "Lucky Luke"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-ALLP-EUR"
   boxart: "/a/box/7/6/3/35763_front.jpg"
@@ -12560,7 +12560,7 @@
   title: "Deja Vu I & II"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   boxart: "/no_cover.png"
 - release:
@@ -12575,7 +12575,7 @@
   title: "Shanghai Pocket"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-AHPP-EUU"
   boxart: "/a/box/0/3/9/38039_front.jpg"
@@ -12814,7 +12814,7 @@
   title: "Kirby's Dream Land 2"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKBP-EUR"
   boxart: "/a/box/0/4/0/21040_front.jpg"
@@ -12822,14 +12822,14 @@
   title: "Kirby's Dream Land 2"
   market: "SA"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
   title: "Kirby's Dream Land 2 (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKBE-USA"
   boxart: "/a/box/0/4/2/21042_front.jpg"
@@ -12883,7 +12883,7 @@
   title: "Zen: Intergalactic Ninja"
   market: "NA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ZN"
   boxart: "/a/box/9/7/1/46971_front.jpg"
@@ -12891,7 +12891,7 @@
   title: "Zen: Intergalactic Ninja"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Palcom"
   boxart: "/a/box/9/7/2/46972_front.jpg"
 - release:
@@ -12905,7 +12905,7 @@
   title: "Gear Works"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   boxart: "/a/box/2/5/7/46257_front.jpg"
 - release:
@@ -12950,7 +12950,7 @@
   title: "Carmageddon"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SCi"
   id: "CGB-AKWD-NOE"
   boxart: "/a/box/2/3/6/2236_front.jpg"
@@ -12980,7 +12980,7 @@
   title: "Pinball Fantasies"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-APFP"
   boxart: "/no_cover.png"
@@ -13065,7 +13065,7 @@
   title: "Batman"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-BA-NOE"
   boxart: "/no_cover.png"
@@ -13073,7 +13073,7 @@
   title: "Batman The Video Game"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-BA-FAH"
   boxart: "/a/box/5/8/4/454584_front.jpg"
@@ -13128,7 +13128,7 @@
   title: "Kirby's Pinball Land"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-K9-EUR"
   boxart: "/a/box/3/7/7/46377_front.jpg"
@@ -13136,7 +13136,7 @@
   title: "Kirby's Pinball Land"
   market: "SA"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -13206,7 +13206,7 @@
   title: "Match Mania"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-109 CHN"
   boxart: "/a/box/6/5/9/455659_front.jpg"
@@ -13229,7 +13229,7 @@
   title: "Janosch: Das grosse Panama-Spiel"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AJOD-NOE"
   boxart: "/a/box/7/9/2/72792_front.jpg"
@@ -13245,7 +13245,7 @@
   title: "Lucky Luke: Desperado Train"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BLLP-EUR"
   barcode: "3546430012444"
@@ -13297,21 +13297,21 @@
   title: "Barca Total 2000"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/a/box/3/2/0/41320_front.jpg"
 - release:
   title: "Co Adriaanse Football Manager"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/no_cover.png"
 - release:
   title: "DSF Fussball Manager (German)"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/no_cover.png"
 - release:
@@ -13513,7 +13513,7 @@
   title: "Battleship"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   boxart: "/no_cover.png"
 - release:
@@ -13565,7 +13565,7 @@
   title: "Papyrus"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-AY9P-EUR"
   boxart: "/a/box/3/1/4/40314_front.jpg"
@@ -13581,7 +13581,7 @@
   title: "RodLand"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   id: "DMG-RL"
   boxart: "/a/box/2/9/9/306299_front.jpg"
@@ -13596,7 +13596,7 @@
   title: "Woody Woodpecker"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Cryo Interactive"
   boxart: "/a/box/9/7/8/42978_front.jpg"
 - release:
@@ -13610,7 +13610,7 @@
   title: "Arcade Classic No. 4: Defender / Joust"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ADJP-UKV"
   boxart: "/a/box/1/3/7/46137_front.jpg"
@@ -13657,7 +13657,7 @@
   title: "FIFA International Soccer"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Malibu"
   id: "DMG-AFSP-EUR"
   barcode: "758739220106"
@@ -13666,7 +13666,7 @@
   title: "Pinball Deluxe"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-APDP-EUR"
   barcode: "5026555040204"
@@ -13699,7 +13699,7 @@
   title: "Mickey Mouse V: Zauberstaebe!"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-I5-NOE"
   boxart: "/a/box/2/6/2/43262_front.jpg"
@@ -13715,7 +13715,7 @@
   title: "InfoGenius Productivity Pak: Personal Organizer and Phone Book"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-ZR-UKV"
   barcode: "5026555040136"
@@ -13800,7 +13800,7 @@
   title: "Chuck Rock"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   boxart: "/no_cover.png"
 - release:
@@ -13831,7 +13831,7 @@
   title: "Hollywood Pinball"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AHLP-EUR"
   boxart: "/a/box/0/0/7/39007_front.jpg"
@@ -13855,7 +13855,7 @@
   title: "Aerostar (Vic Tokai release)"
   market: "NA"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Vic Tokai"
   id: "DMG-AE-USA"
   barcode: "034912784673"
@@ -13864,7 +13864,7 @@
   title: "Aerostar"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Vic Tokai"
   id: "DMG-AE-ITA"
   boxart: "/no_cover.png"
@@ -13872,7 +13872,7 @@
   title: "Aerostar"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Vic Tokai"
   id: "DMG-AE"
   boxart: "/no_cover.png"
@@ -13903,7 +13903,7 @@
   title: "Star Wars Episode I: Racer"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
@@ -13993,7 +13993,7 @@
   title: "Bill & Ted's Excellent Game Boy Adventure"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   boxart: "/a/box/9/8/2/45982_front.jpg"
 - release:
@@ -14064,7 +14064,7 @@
   title: "Mortal Kombat I & II"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AK2P-EUR"
   barcode: "3455195108814"
@@ -14097,7 +14097,7 @@
   title: "Wario Blast: Featuring Bomberman!"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-EE"
   boxart: "/a/box/1/8/8/21188_front.jpg"
@@ -14152,7 +14152,7 @@
   title: "Mad Magazine's Official Spy vs. Spy"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "First Star Software"
   boxart: "/no_cover.png"
 - release:
@@ -14174,7 +14174,7 @@
   title: "BurgerTime Deluxe"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   id: "DMG-GM-NOE"
   boxart: "/a/box/0/2/5/46025_front.jpg"
@@ -14182,7 +14182,7 @@
   title: "Burgertime Deluxe"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   id: "DMG-129-CHN"
   boxart: "/no_cover.png"
@@ -14227,7 +14227,7 @@
   title: "Muhammad Ali: Heavyweight Boxing"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-XB"
   boxart: "/a/box/4/8/8/46488_front.jpg"
@@ -14251,7 +14251,7 @@
   title: "Game Boy Gallery 4"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGQU-AUS"
   boxart: "/a/box/8/7/3/3873_front.jpg"
@@ -14333,7 +14333,7 @@
   title: "The Final Fantasy Legend (Reprint)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-SA"
   barcode: "020763120050"
@@ -14396,7 +14396,7 @@
   title: "Army Men"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "3DO"
   id: "CGB-AVCP-UKV"
   boxart: "/no_cover.png"
@@ -14455,7 +14455,7 @@
   title: "Phantom Air Mission"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-UR-UKV"
   boxart: "/a/box/9/0/9/46909_front.jpg"
@@ -14471,7 +14471,7 @@
   title: "NBA All-Star Challenge 2"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMGP-H2"
   boxart: "/no_cover.png"
@@ -14494,7 +14494,7 @@
   title: "DSF All Star Tennis"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-AZTX-NOE"
   boxart: "/a/box/1/1/3/38113_front.jpg"
@@ -14502,7 +14502,7 @@
   title: "Yannik Noah All Star Tennis 2000"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-AZTP-FRA"
   boxart: "/no_cover.png"
@@ -14549,7 +14549,7 @@
   title: "Daffy Duck"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-YS-NOE-1"
   boxart: "/a/box/1/3/1/46131_front.jpg"
@@ -14564,7 +14564,7 @@
   title: "Speedy Gonzales"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-P-G6"
   boxart: "/a/box/7/1/9/46719_front.jpg"
@@ -14587,7 +14587,7 @@
   title: "Looney Tunes 2: Tasmanian Devil in Island Chase"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-ZT-NOE"
   boxart: "/a/box/9/3/5/7935_front.jpg"
@@ -14640,7 +14640,7 @@
   title: "Hook"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-HS-SCN"
   boxart: "/a/box/1/0/1/25101_front.jpg"
@@ -14670,7 +14670,7 @@
   title: "Cross Country Racing"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ARLP-EUR"
   barcode: "4988602665123"
@@ -14694,7 +14694,7 @@
   title: "Battletoads in Ragnarok's World"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-R7"
   boxart: "/a/box/9/7/8/45978_front.jpg"
@@ -14716,7 +14716,7 @@
   title: "Parasol Henbee"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Epoch"
   id: "DMG-127-CHN"
   boxart: "/no_cover.png"
@@ -14763,7 +14763,7 @@
   title: "Spiritual Warfare"
   market: "NA"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Wisdom Tree"
   id: "SPCN-9901630189"
   boxart: "/a/box/7/3/5/46735_front.jpg"
@@ -14818,7 +14818,7 @@
   title: "Mario Golf (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-AWXE-USA-1"
   barcode: "045496730963"
@@ -14891,7 +14891,7 @@
   title: "Tamagotchi"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-ATAP-EUR"
   boxart: "/a/box/6/0/3/19603_front.jpg"
@@ -14945,7 +14945,7 @@
   title: "Jimmy Connors Tennis"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-JC"
   boxart: "/a/box/3/7/0/26370_front.jpg"
@@ -14960,7 +14960,7 @@
   title: "Yannick Noah Tennis"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-JC"
   boxart: "/a/box/3/6/7/26367_front.jpg"
@@ -14983,7 +14983,7 @@
   title: "Centipede"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AC5E-USA"
   barcode: "096427011668"
@@ -14999,7 +14999,7 @@
   title: "Super Star Wars: Return of the Jedi"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-ARJP-EUR"
   boxart: "/a/box/1/6/2/21162_front.jpg"
@@ -15023,7 +15023,7 @@
   title: "Metroid II: Return of Samus"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
@@ -15045,7 +15045,7 @@
   title: "Metroid II: Return of Samus"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-206 CHN"
   boxart: "/no_cover.png"
@@ -15053,7 +15053,7 @@
   title: "Metroid II: Return of Samus (Players Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ME-USA-1"
   barcode: "045496730192"
@@ -15121,7 +15121,7 @@
   title: "Goal!"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   id: "DMG-JV-NOE"
   boxart: "/a/box/2/6/2/46262_front.jpg"
@@ -15160,7 +15160,7 @@
   title: "Puzzled"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Swing! Deutschland"
   id: "CGB-AZWP-EUR"
   boxart: "/no_cover.png"
@@ -15183,7 +15183,7 @@
   title: "Solar Striker"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-SS-NOE"
   boxart: "/a/box/1/4/2/21142_front.jpg"
@@ -15191,7 +15191,7 @@
   title: "Solar Striker"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-120 CHN"
   boxart: "/no_cover.png"
@@ -15199,7 +15199,7 @@
   title: "Solar Striker"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
@@ -15243,7 +15243,7 @@
   title: "World Beach Volley: 1992 GB Cup"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   boxart: "/a/box/3/6/6/30366_front.jpg"
 - release:
@@ -15332,7 +15332,7 @@
   title: "Elevator Action"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-EA-NOE"
   boxart: "/a/box/1/2/8/23128_front.jpg"
@@ -15340,7 +15340,7 @@
   title: "Elevator Action"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-117-CHN"
   boxart: "/a/box/6/5/1/455651_front.jpg"
@@ -15355,7 +15355,7 @@
   title: "F-1 World Grand Prix"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Video System"
   id: "CGB-AFIP-EUR"
   boxart: "/a/box/4/5/0/3450_front.jpg"
@@ -15371,7 +15371,7 @@
   title: "Boulder Dash"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/0/1/1/2011_front.jpg"
 - release:
@@ -15393,7 +15393,7 @@
   title: "Snoopy's Magic Show"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "DMG-SN"
   boxart: "/a/box/7/0/2/46702_front.jpg"
@@ -15416,7 +15416,7 @@
   title: "Fortified Zone"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   boxart: "/a/box/2/2/2/46222_front.jpg"
 - release:
@@ -15453,7 +15453,7 @@
   title: "Ghostbusters II"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "DMG-GB-SCN"
   barcode: "047875720039"
@@ -15494,7 +15494,7 @@
   title: "F1 World Grand Prix II for Game Boy Color"
   market: "NA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "CGB-BF2E-USA"
   barcode: "083717140832"
@@ -15503,7 +15503,7 @@
   title: "F1 World Grand Prix II for Game Boy Color"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "CGB-BF2P-EUR"
   boxart: "/a/box/8/4/4/38844_front.jpg"
@@ -15535,7 +15535,7 @@
   title: "Tetris Attack"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AYLP-EUR"
   boxart: "/a/box/0/5/0/8050_front.jpg"
@@ -15543,7 +15543,7 @@
   title: "Tetris Attack (Toys R Us Game Boy Console Bundle)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AYLE-USA"
   barcode: "045496730512"
@@ -15583,7 +15583,7 @@
   title: "Titus the Fox"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-FO-FRG"
   boxart: "/no_cover.png"
@@ -15637,7 +15637,7 @@
   title: "Spot: The Video Game"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   boxart: "/no_cover.png"
 - release:
@@ -15727,7 +15727,7 @@
   title: "Baby T-Rex"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laser Beam Entertainment"
   id: "DMG-A6-NOE"
   boxart: "/a/box/3/2/6/307326_front.jpg"
@@ -15735,7 +15735,7 @@
   title: "Bamse"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laser Beam Entertainment"
   id: "DMG-A6-SCN"
   boxart: "/a/box/9/5/0/46950_front.jpg"
@@ -15743,7 +15743,7 @@
   title: "Agro Soar"
   market: "AU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laser Beam Entertainment"
   id: "DMG-A6"
   boxart: "/a/box/9/4/8/46948_front.jpg"
@@ -15774,7 +15774,7 @@
   title: "Asterix"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-XA-NOE"
   boxart: "/a/box/6/4/7/1647_front.jpg"
@@ -15802,7 +15802,7 @@
   title: "The Ren & Stimpy Show: Veediots!"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   boxart: "/no_cover.png"
 - release:
@@ -15840,7 +15840,7 @@
   title: "Double Dragon"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-DD"
   boxart: "/a/box/0/7/5/3075_front.jpg"
@@ -15909,7 +15909,7 @@
   title: "4 in 1 (Irem)"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-604 CHN"
   boxart: "/a/box/7/5/2/459752_front.jpg"
@@ -16070,7 +16070,7 @@
   title: "Dexterity"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SNK"
   boxart: "/a/box/1/4/6/46146_front.jpg"
 - release:
@@ -16140,7 +16140,7 @@
   title: "Zoids"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-123-CHN"
   boxart: "/no_cover.png"
@@ -16170,7 +16170,7 @@
   title: "True Lies"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-ATLP-EUR"
   boxart: "/a/box/8/9/2/46892_front.jpg"
@@ -16194,7 +16194,7 @@
   title: "Tiny Toon Adventures: Wacky Sports"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ED"
   boxart: "/a/box/8/6/3/46863_front.jpg"
@@ -16233,7 +16233,7 @@
   title: "Kwirk"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AP"
   boxart: "/a/box/3/9/0/46390_front.jpg"
@@ -16241,7 +16241,7 @@
   title: "The Battle of Olympus"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Imagineer"
   id: "DMG-OL-NOE"
   boxart: "/a/box/2/2/1/43221_front.jpg"
@@ -16273,7 +16273,7 @@
   title: "Super Mario Land"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ML-FAH"
   boxart: "/a/box/5/8/6/454586_front.jpg"
@@ -16281,14 +16281,14 @@
   title: "Super Mario Land"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
   title: "Super Mario Land"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-101 CHN"
   boxart: "/a/box/6/4/4/455644_front.jpg"
@@ -16296,7 +16296,7 @@
   title: "Super Mario Land"
   market: "SA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -16311,7 +16311,7 @@
   title: "Super Mario Land (GameBoy Nintendo Classics)"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ML"
   boxart: "/a/box/7/8/8/46788_front.jpg"
@@ -16409,7 +16409,7 @@
   title: "WWF Attitude"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "CGB-AWTP-EUR"
   boxart: "/no_cover.png"
@@ -16417,7 +16417,7 @@
   title: "WWF Attitude"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "CGB-AWTP-AUS"
   boxart: "/no_cover.png"
@@ -16433,7 +16433,7 @@
   title: "Rampart"
   market: "NA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   id: "DMG-R8"
   boxart: "/a/box/4/8/2/10482_front.jpg"
@@ -16441,7 +16441,7 @@
   title: "Rampart"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   id: "DMG-R8-NOE"
   boxart: "/a/box/4/8/3/10483_front.jpg"
@@ -16472,7 +16472,7 @@
   title: "Disney Pinocchio"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-ACGP-EUR"
   boxart: "/a/box/5/8/1/46581_front.jpg"
@@ -16512,7 +16512,7 @@
   title: "Pro Pool"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Codemasters"
   id: "CGB-BPLP-EUR"
   boxart: "/no_cover.png"
@@ -16527,7 +16527,7 @@
   title: "Dan Laser"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -16565,7 +16565,7 @@
   title: "Ganso!! Yancha-Maru"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-107 CHN"
   boxart: "/no_cover.png"
@@ -16626,7 +16626,7 @@
   title: "NHL Hockey '95"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "EA Sports"
   id: "DMG-ANHP-EUR"
   boxart: "/a/box/5/1/0/46510_front.jpg"
@@ -16673,7 +16673,7 @@
   title: "The Rugrats Movie"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ARZP"
   boxart: "/a/box/8/7/2/6872_front.jpg"
@@ -16712,7 +16712,7 @@
   title: "Who Framed Roger Rabbit"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-RR"
   boxart: "/a/box/9/5/3/46953_front.jpg"
@@ -16743,7 +16743,7 @@
   title: "Spanky's Quest"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-LM-NOE"
   boxart: "/no_cover.png"
@@ -16813,14 +16813,14 @@
   title: "Dr. Mario"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/0/0/8/21008_front.jpg"
 - release:
   title: "Dr. Mario"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-102 CHN"
   boxart: "/no_cover.png"
@@ -16828,7 +16828,7 @@
   title: "Dr. Mario (Players Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-VU-USA-1"
   barcode: "045496730086"
@@ -16837,7 +16837,7 @@
   title: "Dr. Mario (Best Buy Game Boy Pocket Bundle)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-VU-USA-2"
   boxart: "/no_cover.png"
@@ -16904,7 +16904,7 @@
   title: "Diva Starz: Mall Mania"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "VU Games"
   boxart: "/no_cover.png"
 - release:
@@ -16942,7 +16942,7 @@
   title: "Pokemon Gold Version"
   market: "SA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -17003,7 +17003,7 @@
   title: "Tom Clancy's Rainbow Six"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Red Storm Entertainment"
   boxart: "/no_cover.png"
 - release:
@@ -17048,7 +17048,7 @@
   title: "The Sword of Hope"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "DMG-SE"
   boxart: "/a/box/8/0/9/46809_front.jpg"
@@ -17064,7 +17064,7 @@
   title: "Jim Henson's Bear in the Big Blue House"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BBNP-EUR"
   boxart: "/a/box/1/0/7/27107_front.jpg"
@@ -17088,7 +17088,7 @@
   title: "R-Type II"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-RZ"
   boxart: "/a/box/2/7/8/306278_front.jpg"
@@ -17096,7 +17096,7 @@
   title: "R-Type II"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-110-CHN"
   boxart: "/a/box/6/5/7/455657_front.jpg"
@@ -17112,7 +17112,7 @@
   title: "The Lost World: Jurassic Park"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ALWP-EUR"
   boxart: "/no_cover.png"
@@ -17182,7 +17182,7 @@
   title: "Bugs Bunny: Crazy Castle 3"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AB6P-EUR"
   boxart: "/a/box/9/0/8/36908_front.jpg"
@@ -17220,7 +17220,7 @@
   title: "Monster Truck Wars"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-ATWP-EUR"
   boxart: "/no_cover.png"
@@ -17288,7 +17288,7 @@
   title: "Shadowgate Classic"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ASWP-EUR"
   boxart: "/a/box/1/0/9/7109_front.jpg"
@@ -17296,7 +17296,7 @@
   title: "Shadowgate Classic"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ASWP-AUS"
   boxart: "/no_cover.png"
@@ -17413,7 +17413,7 @@
   title: "Adventure Island II"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-GQ-NOE"
   boxart: "/a/box/9/4/2/45942_front.jpg"
@@ -17421,7 +17421,7 @@
   title: "Adventure Island II (French)"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-GQ-FAH"
   boxart: "/a/box/5/8/3/454583_front.jpg"
@@ -17429,7 +17429,7 @@
   title: "Adventure Island II (Italian)"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-GQ-ITA"
   boxart: "/a/box/3/3/7/455337_front.jpg"
@@ -17437,7 +17437,7 @@
   title: "Adventure Island II"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-112-CHN"
   boxart: "/a/box/6/4/5/455645_front.jpg"
@@ -17504,7 +17504,7 @@
   title: "Holy Magic Century"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-AQTP-EUR"
   boxart: "/a/box/3/6/3/37363_front.jpg"
@@ -17542,7 +17542,7 @@
   title: "Qix"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-QX"
   boxart: "/a/box/6/1/0/46610_front.jpg"
@@ -17550,7 +17550,7 @@
   title: "Qix"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-QX-AUS"
   boxart: "/a/box/6/1/5/46615_front.jpg"
@@ -17611,7 +17611,7 @@
   title: "Bomb Disposer"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -17685,7 +17685,7 @@
   title: "SD Flying Dragon Cuff"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   id: "DMG-408 CHN"
   boxart: "/a/box/6/7/2/459672_front.jpg"
@@ -17701,7 +17701,7 @@
   title: "PGA Tour 96"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Electronic Arts"
   id: "DMG-A3GP-EUR"
   boxart: "/no_cover.png"
@@ -17717,7 +17717,7 @@
   title: "Parodius"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Palcom"
   id: "DMG-PV"
   barcode: "083717140009"
@@ -17741,7 +17741,7 @@
   title: "Super James Pond"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-JD-UKV"
   boxart: "/a/box/4/7/0/179470_front.jpg"
@@ -17804,7 +17804,7 @@
   title: "Microsoft: The 6in1 Puzzle Collection Entertainment Pack"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Conspiracy Entertainment"
   id: "CGB-BMEP-EUR"
   boxart: "/a/box/4/5/7/39457_front.jpg"
@@ -17843,7 +17843,7 @@
   title: "Trip World"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-T4-NOE"
   barcode: "020763220026"
@@ -17959,14 +17959,14 @@
   title: "E.T. The Extra-Terrestrial: The 20th Anniversary"
   market: "EU"
   release_date: "2002-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/a/box/4/5/8/42458_front.jpg"
 - release:
   title: "Crazy Burger"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -17996,7 +17996,7 @@
   title: "Ninja Boy"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   id: "DMG-CL-NOE"
   boxart: "/no_cover.png"
@@ -18004,7 +18004,7 @@
   title: "Super Chinese Land"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Culture Brain"
   id: "DMG-130 CHN"
   boxart: "/no_cover.png"
@@ -18020,7 +18020,7 @@
   title: "Sylvester and Tweety: Breakfast on the Run"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AYRP-EUR"
   barcode: "3546430003404"
@@ -18037,7 +18037,7 @@
   title: "Jurassic Park"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-JQ"
   barcode: "5013156610462"
@@ -18091,7 +18091,7 @@
   title: "All-Star Baseball 2000"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/no_cover.png"
 - release:
@@ -18184,7 +18184,7 @@
   title: "V-Rally Championship Edition"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AVLP"
   boxart: "/a/box/2/7/4/92274_front.jpg"
@@ -18205,7 +18205,7 @@
   title: "Corrida Maluca"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -18236,7 +18236,7 @@
   title: "Pinball: Revenge of the Gator"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "HAL Labs"
   id: "DMG-PB"
   boxart: "/a/box/6/3/7/46637_front.jpg"
@@ -18276,7 +18276,7 @@
   title: "Konami GB Collection Vol. 1"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AF5P-EUR"
   barcode: "4988602682151"
@@ -18338,14 +18338,14 @@
   title: "The Flintstones"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   boxart: "/a/box/2/1/5/46215_front.jpg"
 - release:
   title: "Beethoven"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   id: "DMG P ABVP"
   barcode: "087855000683"
@@ -18393,7 +18393,7 @@
   title: "Yakuman"
   market: "AS"
   release_date: "1989-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-105 CHN"
   boxart: "/no_cover.png"
@@ -18415,7 +18415,7 @@
   title: "Klustar"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AKUP-EUR"
   boxart: "/a/box/4/8/7/37487_front.jpg"
@@ -18447,7 +18447,7 @@
   title: "Castlevania: The Adventure (Player's Choice)"
   market: "NA"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-CV"
   boxart: "/no_cover.png"
@@ -18508,7 +18508,7 @@
   title: "Perfect Dark"
   market: "SA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -18572,7 +18572,7 @@
   title: "Star Wars"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-WS"
   boxart: "/a/box/5/3/8/532538_front.jpg"
@@ -18595,7 +18595,7 @@
   title: "Paperboy"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-MP"
   boxart: "/a/box/0/0/4/6004_front.jpg"
@@ -18647,7 +18647,7 @@
   title: "Titeuf"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/9/0/0/42900_front.jpg"
 - release:
@@ -18662,7 +18662,7 @@
   title: "Glucksrad"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-WF"
   boxart: "/a/box/5/3/2/532_front.jpg"
@@ -18670,7 +18670,7 @@
   title: "Wheel of Fortune (Re-release)"
   market: "NA"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-WF-USA-1"
   barcode: "043948010038"
@@ -18709,7 +18709,7 @@
   title: "Zool: Ninja of the Nth Dimension"
   market: "NA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-ZG-USA"
   barcode: "043948091037"
@@ -18718,7 +18718,7 @@
   title: "Zool: Ninja of the Nth Dimension"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gremlin Interactive"
   id: "DMG-ZG"
   barcode: "5013658050087"
@@ -18743,7 +18743,7 @@
   title: "Mega Man V"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-WM-EUR"
   boxart: "/a/box/0/7/9/21079_front.jpg"
@@ -18805,7 +18805,7 @@
   title: "WWF Superstars 2"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-WX-NOE"
   boxart: "/a/box/2/0/1/21201_front.jpg"
@@ -18912,7 +18912,7 @@
   title: "Street Fighter Alpha: Warriors' Dreams"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "CGB-AFZP-EUR"
   boxart: "/a/box/6/4/7/7647_front.jpg"
@@ -18989,7 +18989,7 @@
   title: "Killer Instinct (Walmart Game Boy Console Bundle)"
   market: "NA"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKLE-USA"
   barcode: "045496730482"
@@ -19030,7 +19030,7 @@
   title: "Pokemon Versao Silver"
   market: "SA"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -19083,7 +19083,7 @@
   title: "Vegas Games"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "3DO"
   boxart: "/no_cover.png"
 - release:
@@ -19098,7 +19098,7 @@
   title: "Raijinou"
   market: "AS"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-122-CHN"
   boxart: "/no_cover.png"
@@ -19129,7 +19129,7 @@
   title: "Tetris DX (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ATEA-USA-1"
   barcode: "045496730840"
@@ -19138,7 +19138,7 @@
   title: "Tetris DX"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ATEA-AUS"
   boxart: "/no_cover.png"
@@ -19153,7 +19153,7 @@
   title: "Tetris DX"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -19168,7 +19168,7 @@
   title: "MTV Sports: Pure Ride"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-BPVP-EUR"
   boxart: "/no_cover.png"
@@ -19207,7 +19207,7 @@
   title: "Hyper Lode Runner"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-HL-SCN"
   boxart: "/a/box/3/2/5/46325_front.jpg"
@@ -19299,7 +19299,7 @@
   title: "Konami Winter Games"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   boxart: "/a/box/8/3/7/38837_front.jpg"
 - release:
@@ -19330,7 +19330,7 @@
   title: "Super Mario Bros. Deluxe (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-AHYE-USA-1"
   barcode: "045496730925"
@@ -19339,7 +19339,7 @@
   title: "Super Mario Bros. Deluxe"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/7/3/1/681731_front.jpg"
 - release:
@@ -19410,7 +19410,7 @@
   title: "The Chessmaster"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-EM-NOE"
   boxart: "/a/box/5/9/1/22591_front.jpg"
@@ -19457,7 +19457,7 @@
   title: "King of the Zoo"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-PW-EUR"
   boxart: "/a/box/5/7/8/46578_front.jpg"
@@ -19465,7 +19465,7 @@
   title: "Magical Tower"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -19488,7 +19488,7 @@
   title: "Star Trek: The Next Generation"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Absolute Entertainment"
   boxart: "/no_cover.png"
 - release:
@@ -19534,7 +19534,7 @@
   title: "Raging Fighter"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-OB-NOE"
   boxart: "/no_cover.png"
@@ -19557,7 +19557,7 @@
   title: "Disney's Aladdin (Re-release)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ALAE-USA-1"
   barcode: "785138320212"
@@ -19635,7 +19635,7 @@
   title: "Yu Yu Hakusho"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-210-CHN"
   boxart: "/no_cover.png"
@@ -19675,7 +19675,7 @@
   title: "The Smurfs"
   market: "NA"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-UF"
   boxart: "/no_cover.png"
@@ -19683,7 +19683,7 @@
   title: "Die Schlumpfe"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-P-UF"
   barcode: "329720006773"
@@ -19692,14 +19692,14 @@
   title: "Les Schtroumpfs"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/5/7/2/454572_front.jpg"
 - release:
   title: "The Smurfs (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-UF"
   barcode: "045496730796"
@@ -19754,7 +19754,7 @@
   title: "The Powerpuff Girls: Paint the Townsville Green"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bam Entertainment"
   id: "CGB-BPTP-EUR"
   boxart: "/no_cover.png"
@@ -19777,7 +19777,7 @@
   title: "Pac-In-Time"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   id: "DMG-APTP-EUR"
   boxart: "/a/box/5/6/4/46564_front.jpg"
@@ -19800,7 +19800,7 @@
   title: "Street Racer"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-ASRP-EUR"
   boxart: "/a/box/7/2/4/7724_front.jpg"
@@ -19823,7 +19823,7 @@
   title: "International Superstar Soccer"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AIGP-EUR"
   boxart: "/a/box/6/2/8/296628_front.jpg"
@@ -19854,7 +19854,7 @@
   title: "Mickey's Dangerous Chase"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-MC"
   boxart: "/a/box/4/5/8/46458_front.jpg"
@@ -19862,7 +19862,7 @@
   title: "Mickey's Dangerous Chase (Players Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-MC-USA-1"
   boxart: "/a/box/4/6/0/46460_front.jpg"
@@ -19900,7 +19900,7 @@
   title: "Radar Mission"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-RM"
   boxart: "/no_cover.png"
@@ -19908,7 +19908,7 @@
   title: "Radar Mission"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
@@ -19967,7 +19967,7 @@
   title: "Madden 96"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-A6MP-EUR"
   boxart: "/no_cover.png"
@@ -19998,7 +19998,7 @@
   title: "Ultimate Paintball"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "CGB-BUPP-EUR"
   boxart: "/a/box/9/8/8/40988_front.jpg"
@@ -20090,7 +20090,7 @@
   title: "RoboCop Versus The Terminator"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   boxart: "/a/box/6/5/8/46658_front.jpg"
 - release:
@@ -20105,7 +20105,7 @@
   title: "Disney's The Hunchback of Notre Dame"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ANDP-UKV"
   boxart: "/no_cover.png"
@@ -20137,7 +20137,7 @@
   title: "Pokemon Red (included w/ Game Boy Pocket)"
   market: "SA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -20152,7 +20152,7 @@
   title: "Pokemon Red Version (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-APAE-USA-1"
   barcode: "045496730734"
@@ -20214,7 +20214,7 @@
   title: "Megalit"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   boxart: "/no_cover.png"
 - release:
@@ -20236,7 +20236,7 @@
   title: "Track & Field"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-KH"
   boxart: "/a/box/1/5/9/33159_front.jpg"
@@ -20260,7 +20260,7 @@
   title: "Sea Battle"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AB8D-NOE"
   barcode: "4014762800118"
@@ -20283,7 +20283,7 @@
   title: "Super R.C. Pro-Am (Player's Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-RC-USA-1"
   barcode: "045496730161"
@@ -20307,14 +20307,14 @@
   title: "World Heroes 2 Jet"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   boxart: "/no_cover.png"
 - release:
   title: "World Heroes 2 Jet"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-404 CHN"
   boxart: "/no_cover.png"
@@ -20330,7 +20330,7 @@
   title: "Shrek: Fairy Tale Freakdown"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "TDK Mediactive"
   id: "CGB-BFUP-EUR"
   boxart: "/a/box/9/1/0/13910_front.jpg"
@@ -20360,7 +20360,7 @@
   title: "Golden Goal"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AAFD-NOE"
   boxart: "/a/box/4/2/9/1429_front.jpg"
@@ -20368,7 +20368,7 @@
   title: "Pro Foot"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AAFF-FRA"
   boxart: "/a/box/4/3/0/1430_front.jpg"
@@ -20376,7 +20376,7 @@
   title: "Three Lions"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Take-Two Interactive"
   id: "DMG-AAFP-UKV"
   boxart: "/a/box/4/2/8/1428_front.jpg"
@@ -20424,7 +20424,7 @@
   title: "Pocket Racing"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "CGB-BPKP-EUR"
   barcode: "5028587070341"
@@ -20440,7 +20440,7 @@
   title: "Mickey's Ultimate Challenge"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   boxart: "/no_cover.png"
 - release:
@@ -20463,7 +20463,7 @@
   title: "Arcade Classics: Super Breakout / Battlezone"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   boxart: "/no_cover.png"
 - release:
@@ -20493,7 +20493,7 @@
   title: "Daruman Busters"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Banpresto"
   id: "DMG-114-CHN"
   barcode: "4891494013166"
@@ -20570,7 +20570,7 @@
   title: "Waterworld"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AWEP-EUR"
   barcode: "5013156610936"
@@ -20579,7 +20579,7 @@
   title: "Lamborghini American Challenge"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-F7-FRG"
   boxart: "/no_cover.png"
@@ -20626,7 +20626,7 @@
   title: "The Humans"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/no_cover.png"
 - release:
@@ -20673,7 +20673,7 @@
   title: "Teenage Mutant Hero Turtles III: Radical Rescue"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-K8-UKV"
   boxart: "/a/box/8/5/5/46855_front.jpg"
@@ -20688,7 +20688,7 @@
   title: "Worms Armageddon"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AAOP-EUR"
   boxart: "/a/box/9/5/9/959_front.jpg"
@@ -20834,7 +20834,7 @@
   title: "Dr. Franken"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Elite Systems Ltd."
   id: "DMG-FN-NOE"
   boxart: "/a/box/0/0/0/21000_front.jpg"
@@ -20857,7 +20857,7 @@
   title: "Nintendo World Cup"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-NC"
   boxart: "/a/box/5/3/3/46533_front.jpg"
@@ -20865,7 +20865,7 @@
   title: "Nintendo World Cup"
   market: "SA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -20902,7 +20902,7 @@
   title: "Bust-A-Move 4"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AA4P-EUR"
   boxart: "/a/box/2/0/8/2208_front.jpg"
@@ -20926,7 +20926,7 @@
   title: "10 Pin Bowling"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "CGB-AXPP-EUR"
   boxart: "/no_cover.png"
@@ -20966,7 +20966,7 @@
   title: "Tetris"
   market: "AU"
   release_date: "1989-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-TR-AUS"
   boxart: "/a/box/2/8/9/22289_front.jpg"
@@ -20981,7 +20981,7 @@
   title: "Tetris"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-104 CHN"
   boxart: "/no_cover.png"
@@ -20989,14 +20989,14 @@
   title: "Tetris"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
   title: "Tetris"
   market: "SA"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -21065,7 +21065,7 @@
   title: "Battletoads / Double Dragon"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   id: "DMG-VN"
   boxart: "/no_cover.png"
@@ -21150,7 +21150,7 @@
   title: "Dogz"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "CGB-AOZP-EUR"
   barcode: "5390102434076"
@@ -21167,7 +21167,7 @@
   title: "Lucle"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-LU"
   boxart: "/a/box/3/4/3/306343_front.jpg"
@@ -21206,7 +21206,7 @@
   title: "The Spirit of F-1"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-PFZ"
   boxart: "/a/box/9/5/5/8955_front.jpg"
@@ -21253,7 +21253,7 @@
   title: "Game & Watch Gallery 2"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGLP-EUR"
   boxart: "/a/box/6/9/7/36697_front.jpg"
@@ -21261,7 +21261,7 @@
   title: "Game Boy Gallery 3"
   market: "AU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGLU-AUS"
   boxart: "/a/box/6/9/8/36698_front.jpg"
@@ -21269,7 +21269,7 @@
   title: "Game & Watch Gallery 2 (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGLE-USA-1"
   barcode: "045496730529"
@@ -21361,7 +21361,7 @@
   title: "Mario Tennis"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-BM8P-AUS"
   boxart: "/a/box/8/7/5/563875_front.jpg"
@@ -21401,7 +21401,7 @@
   title: "Spirou: The Robot Invasion"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BSCP-EUR"
   boxart: "/a/box/3/0/5/43305_front.jpg"
@@ -21409,7 +21409,7 @@
   title: "Dropzone"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   boxart: "/a/box/5/7/2/28572_front.jpg"
 - release:
@@ -21424,7 +21424,7 @@
   title: "World Cup USA '94"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "U.S. Gold"
   id: "DMG-W9-UKV"
   boxart: "/a/box/4/6/2/30462_front.jpg"
@@ -21440,7 +21440,7 @@
   title: "Disney's Hercules"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-AHCP"
   boxart: "/a/box/4/4/7/25447_front.jpg"
@@ -21448,7 +21448,7 @@
   title: "Full Time Soccer"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Datel"
   barcode: "Other"
   boxart: "/no_cover.png"
@@ -21493,7 +21493,7 @@
   title: "Arctic Zone"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -21531,7 +21531,7 @@
   title: "Wario Land II"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AW2P"
   boxart: "/a/box/8/4/1/8841_front.jpg"
@@ -21614,7 +21614,7 @@
   title: "The Addams Family"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AF-UKV"
   boxart: "/no_cover.png"
@@ -21654,7 +21654,7 @@
   title: "Disney's Mulan"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-AMLP-EUR"
   boxart: "/a/box/8/1/1/36811_front.jpg"
@@ -21686,7 +21686,7 @@
   title: "Conker's Pocket Tales"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Rare Ltd."
   id: "DMG-ACRP-EUR"
   boxart: "/a/box/4/4/4/37444_front.jpg"
@@ -21734,7 +21734,7 @@
   title: "Pong"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hasbro Interactive"
   id: "CGB-AOVP-EUR"
   boxart: "/no_cover.png"
@@ -21742,7 +21742,7 @@
   title: "Konami GB Collection Vol. 2"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AF6P-EUR"
   boxart: "/a/box/3/1/3/40313_front.jpg"
@@ -21774,7 +21774,7 @@
   title: "Fortress of Fear: Wizards & Warriors X"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-WW-NOE"
   boxart: "/a/box/2/1/9/46219_front.jpg"
@@ -21805,7 +21805,7 @@
   title: "Pokemon Trading Card Game"
   market: "AU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AXQU-AUS"
   boxart: "/a/box/3/3/0/9330_front.jpg"
@@ -21852,7 +21852,7 @@
   title: "Paperboy 2"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-Y2-NOE"
   boxart: "/a/box/1/5/5/22155_front.jpg"
@@ -21990,7 +21990,7 @@
   title: "Gargoyle's Quest"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-RA-NOE"
   boxart: "/a/box/2/4/9/46249_front.jpg"
@@ -21998,7 +21998,7 @@
   title: "Gargoyle's Quest"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   boxart: "/no_cover.png"
 - release:
@@ -22057,7 +22057,7 @@
   title: "Tintin: Le Temple Du Soleil"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/1/0/5/110105_front.jpg"
 - release:
@@ -22087,7 +22087,7 @@
   title: "Alfred Chicken"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-C3-FAH"
   boxart: "/a/box/4/3/4/1434_front.jpg"
@@ -22141,7 +22141,7 @@
   title: "Brain Drain"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-ABRP-EUR"
   boxart: "/a/box/0/6/7/38067_front.jpg"
@@ -22180,7 +22180,7 @@
   title: "Pac-Panic"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   boxart: "/a/box/5/5/3/46553_front.jpg"
 - release:
@@ -22225,7 +22225,7 @@
   title: "V-Rally: Championship Edition"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-AVYP-EUR"
   boxart: "/a/box/8/5/1/37851_front.jpg"
@@ -22256,7 +22256,7 @@
   title: "Urban Strike"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-AUSP-EUR"
   boxart: "/a/box/9/2/2/46922_front.jpg"
@@ -22279,7 +22279,7 @@
   title: "Super Hunchback"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-HN-NOE"
   boxart: "/a/box/7/8/4/46784_front.jpg"
@@ -22310,7 +22310,7 @@
   title: "Amazing Penguin"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Natsume"
   boxart: "/no_cover.png"
 - release:
@@ -22410,7 +22410,7 @@
   title: "Castle Quest"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-QH"
   barcode: "039854200014"
@@ -22427,7 +22427,7 @@
   title: "Ganbaruga"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-121-CHN"
   boxart: "/no_cover.png"
@@ -22464,7 +22464,7 @@
   title: "Itchy & Scratchy in Miniature Golf Madness"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/3/3/4/46334_front.jpg"
 - release:
@@ -22509,7 +22509,7 @@
   title: "Mystical Ninja Starring Goemon"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   boxart: "/a/box/3/9/1/5391_front.jpg"
 - release:
@@ -22572,7 +22572,7 @@
   title: "The Legend of Zelda: Link's Awakening DX (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AZLE-USA-1"
   barcode: "045496730857"
@@ -22581,7 +22581,7 @@
   title: "The Legend of Zelda: Link's Awakening DX"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AZLF-NFRA"
   barcode: "045496460686"
@@ -22651,7 +22651,7 @@
   title: "T2: The Arcade Game"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-AV-NOE"
   boxart: "/a/box/1/6/6/21166_front.jpg"
@@ -22698,7 +22698,7 @@
   title: "Nail 'N Scale"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   boxart: "/no_cover.png"
 - release:
@@ -22786,7 +22786,7 @@
   title: "Arcade Classic No. 2: Centipede / Millipede"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ACPP-AUS"
   barcode: "045496730437"
@@ -22817,7 +22817,7 @@
   title: "Mr. Nutz"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AN8E"
   boxart: "/a/box/1/4/1/37141_front.jpg"
@@ -22825,7 +22825,7 @@
   title: "Mr. Nutz (Re-release)"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AN8P"
   boxart: "/a/box/1/4/2/37142_front.jpg"
@@ -22885,7 +22885,7 @@
   title: "FIFA: Road to World Cup 98"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-A8SP-EUR"
   boxart: "/a/box/5/0/9/3509_front.jpg"
@@ -22909,7 +22909,7 @@
   title: "Mystic Quest"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SquareSoft"
   id: "DMG-FF-EUR"
   barcode: "045496460235"
@@ -22918,7 +22918,7 @@
   title: "Final Fantasy Adventure (Reprint)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-FF"
   barcode: "020763120081"
@@ -22943,7 +22943,7 @@
   title: "Midway presents Arcade Hits: Spy Hunter / Moon Patrol"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "DMG-ADUP-EUR"
   boxart: "/a/box/8/1/1/38811_front.jpg"
@@ -22989,7 +22989,7 @@
   title: "The Legend of Zelda: Oracle of Ages"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "CGB-AZ8U-AUS"
   boxart: "/a/box/2/4/8/13248_front.jpg"
@@ -23066,7 +23066,7 @@
   title: "Kirby's Star Stacker"
   market: "AU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AKCP-AUS"
   boxart: "/a/box/4/2/3/25423_front.jpg"
@@ -23132,7 +23132,7 @@
   title: "Deep: Final Mission"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -23216,7 +23216,7 @@
   title: "Mario & Yoshi"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-YO"
   boxart: "/a/box/2/0/4/21204_front.jpg"
@@ -23224,7 +23224,7 @@
   title: "Mario & Yoshi"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-132-CHN"
   boxart: "/no_cover.png"
@@ -23248,7 +23248,7 @@
   title: "Legend of the River King GB"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AFHU-AUS"
   boxart: "/no_cover.png"
@@ -23271,7 +23271,7 @@
   title: "Frogger"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Majesco"
   id: "DMG-AFRP-EUR"
   boxart: "/a/box/3/3/3/333_front.jpg"
@@ -23303,7 +23303,7 @@
   title: "4-in-1 Funpak: Volume II"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-F9-GPS"
   boxart: "/a/box/1/0/2/79102_front.jpg"
@@ -23319,7 +23319,7 @@
   title: "Tim in Tibet"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AT6P-EUR"
   boxart: "/a/box/7/4/0/37740_front.jpg"
@@ -23327,7 +23327,7 @@
   title: "Tintin au Tibet"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/1/6/4/733164_front.jpg"
 - release:
@@ -23425,7 +23425,7 @@
   title: "NIV Bible & the 20 Lost Levels of Joshua"
   market: "NA"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Wisdom Tree"
   id: "NVGB"
   barcode: "016315110099"
@@ -23472,7 +23472,7 @@
   title: "Shadow Warriors"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tecmo"
   id: "DMG-NG"
   boxart: "/a/box/1/2/9/21129_front.jpg"
@@ -23480,7 +23480,7 @@
   title: "Ninja's Skyscraper Fight"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tecmo"
   id: "DMG-126-CHN"
   boxart: "/no_cover.png"
@@ -23495,7 +23495,7 @@
   title: "NFL Quarterback Club 96"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AQBP-EUR"
   boxart: "/no_cover.png"
@@ -23519,7 +23519,7 @@
   title: "The Adventures Of Star Saver"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-KS-NOE"
   boxart: "/a/box/9/4/5/45945_front.jpg"
@@ -23535,7 +23535,7 @@
   title: "Quest For Camelot"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   id: "DMG-ACNP-EUR"
   boxart: "/a/box/1/8/7/11187_front.jpg"
@@ -23551,7 +23551,7 @@
   title: "Home Alone 2: Lost in New York"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   boxart: "/a/box/3/0/4/46304_front.jpg"
 - release:
@@ -23588,7 +23588,7 @@
   title: "Tetris 2"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-EH-FAH"
   boxart: "/a/box/5/8/7/454587_front.jpg"
@@ -23604,7 +23604,7 @@
   title: "Ninja Spirit"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-108 CHN"
   boxart: "/a/box/6/5/8/455658_front.jpg"
@@ -23651,7 +23651,7 @@
   title: "Oddworld Adventures"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GT Interactive"
   id: "DMG-AODP-EUR"
   boxart: "/a/box/6/6/5/36665_front.jpg"
@@ -23689,7 +23689,7 @@
   title: "The King of Fighters '95"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   id: "DMG-AKFP-EUR"
   boxart: "/no_cover.png"
@@ -23704,7 +23704,7 @@
   title: "WWF Raw"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-AWFP-EUR"
   boxart: "/a/box/4/3/4/12434_front.jpg"
@@ -23720,7 +23720,7 @@
   title: "Toonsylvania"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   boxart: "/a/box/7/9/9/10799_front.jpg"
 - release:
@@ -23748,7 +23748,7 @@
   title: "Micro Machines 2: Turbo Tournament"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-A2XP"
   boxart: "/a/box/7/7/1/295771_front.jpg"
@@ -23779,7 +23779,7 @@
   title: "Pinball Mania"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-APIP-EUR"
   boxart: "/no_cover.png"
@@ -23803,7 +23803,7 @@
   title: "Mega Man: Dr. Wily's Revenge"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-RW"
   barcode: "045496460211"
@@ -23812,7 +23812,7 @@
   title: "Mega Man: Dr. Wily's Revenge"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-RW"
   barcode: "045496460211"
@@ -23911,7 +23911,7 @@
   title: "Small Soldiers"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ASIP-NOE"
   boxart: "/a/box/2/5/4/7254_front.jpg"
@@ -23942,7 +23942,7 @@
   title: "Microsoft Pinball Arcade"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Cryo Interactive"
   id: "CGB-BMQP-EUR"
   boxart: "/no_cover.png"
@@ -23995,7 +23995,7 @@
   title: "WWF War Zone"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/0/3/5/9035_front.jpg"
 - release:
@@ -24016,7 +24016,7 @@
   title: "Felix the Cat"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Electronics Inc."
   boxart: "/a/box/1/9/5/46195_front.jpg"
 - release:
@@ -24078,7 +24078,7 @@
   title: "Frank Thomas: Big Hurt Baseball"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AFKP-EUR"
   boxart: "/no_cover.png"
@@ -24094,7 +24094,7 @@
   title: "PGA European Tour"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Malibu"
   id: "DMG-APRP-EUR"
   boxart: "/a/box/5/7/6/46576_front.jpg"
@@ -24206,7 +24206,7 @@
   title: "InfoGenius Productivity Pak: Berlitz French Translator"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/no_cover.png"
 - release:
@@ -24267,7 +24267,7 @@
   title: "NFL Blitz"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "DMG-ABZP-EUR"
   boxart: "/a/box/4/5/9/459_front.jpg"
@@ -24291,7 +24291,7 @@
   title: "Spy vs Spy"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "CGB-AS6P-EUR"
   boxart: "/no_cover.png"
@@ -24361,7 +24361,7 @@
   title: "Nemesis II: The Return of the Hero"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-NE"
   boxart: "/a/box/2/7/6/46276_front.jpg"
@@ -24400,7 +24400,7 @@
   title: "Sneaky Snakes"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tradewest"
   id: "DMG-NK-UKV"
   boxart: "/a/box/7/0/0/46700_front.jpg"
@@ -24447,7 +24447,7 @@
   title: "Disney's Tarzan"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Activision"
   id: "CGB-ATHP-EUR"
   boxart: "/no_cover.png"
@@ -24479,7 +24479,7 @@
   title: "UEFA 2000"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BUEP-NOE"
   boxart: "/a/box/5/5/7/39557_front.jpg"
@@ -24494,7 +24494,7 @@
   title: "Ronaldo V-Football"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-AORP"
   boxart: "/a/box/5/5/6/39556_front.jpg"
@@ -24549,7 +24549,7 @@
   title: "Triple Play 2001"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-BTPP-EUR"
   boxart: "/a/box/4/3/2/8432_front.jpg"
@@ -24581,7 +24581,7 @@
   title: "Garou Densetsu 2"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-405 CHN"
   boxart: "/no_cover.png"
@@ -24716,7 +24716,7 @@
   title: "Mickey's Racing Adventure"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-ARNP-AUS"
   barcode: "045496731014"
@@ -24740,7 +24740,7 @@
   title: "Lemmings 2: The Tribes"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Psygnosis"
   id: "DMG-AL2P"
   boxart: "/a/box/7/7/7/24777_front.jpg"
@@ -24771,7 +24771,7 @@
   title: "Burai Fighter Deluxe"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-BU-NOE"
   boxart: "/a/box/0/3/1/46031_front.jpg"
@@ -24815,7 +24815,7 @@
   title: "Super Battletank"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-N6-EUR"
   boxart: "/no_cover.png"
@@ -24831,7 +24831,7 @@
   title: "Nigel Mansell's World Championship Racing"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/5/1/4/46514_front.jpg"
 - release:
@@ -24884,7 +24884,7 @@
   title: "Othello"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-OT"
   boxart: "/a/box/8/1/9/41819_front.jpg"
@@ -24892,7 +24892,7 @@
   title: "Disney's The Little Mermaid"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-LD-EUR"
   boxart: "/a/box/4/2/5/46425_front.jpg"
@@ -24908,7 +24908,7 @@
   title: "Disney's The Little Mermaid (Players Choice)"
   market: "NA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-LD-USA-1"
   barcode: "045496730673"
@@ -24954,7 +24954,7 @@
   title: "Dropzone"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AD4P-EUR"
   boxart: "/a/box/5/4/0/85540_front.jpg"
@@ -24970,7 +24970,7 @@
   title: "Pac-Man: Special Colour Edition"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AACP-EUR"
   boxart: "/a/box/9/0/1/5901_front.jpg"
@@ -24985,7 +24985,7 @@
   title: "F-15 Strike Eagle"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "MicroProse"
   boxart: "/a/box/2/3/1/31231_front.jpg"
 - release:
@@ -25016,7 +25016,7 @@
   title: "Mole Mania"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AMOP-EUR"
   boxart: "/a/box/4/7/2/46472_front.jpg"
@@ -25071,7 +25071,7 @@
   title: "Jurassic Park Part 2: The Chaos Continues"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-A2JP-EUR"
   barcode: "735009702302"
@@ -25125,7 +25125,7 @@
   title: "Dig Dug"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   boxart: "/no_cover.png"
 - release:
@@ -25231,7 +25231,7 @@
   title: "Bonk's Adventure Land Kingdom"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-215-CHN"
   boxart: "/no_cover.png"
@@ -25255,7 +25255,7 @@
   title: "Black Forest Tale"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/a/box/4/3/9/88439_front.jpg"
 - release:
@@ -25299,7 +25299,7 @@
   title: "Bust-A-Move 2 Arcade Edition"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/1/9/0/2190_front.jpg"
 - release:
@@ -25329,7 +25329,7 @@
   title: "Tom & Jerry"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   id: "DMG-JY"
   boxart: "/a/box/1/8/0/21180_front.jpg"
@@ -25383,7 +25383,7 @@
   title: "Kid Dracula"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-DF"
   boxart: "/a/box/3/6/2/46362_front.jpg"
@@ -25406,7 +25406,7 @@
   title: "Earthworm Jim"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playmates"
   id: "DMG-AEJP-EUR"
   boxart: "/a/box/0/7/2/72_front.jpg"
@@ -25430,7 +25430,7 @@
   title: "Men in Black: The Series"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-AMNP-EUR"
   boxart: "/a/box/1/2/7/5127_front.jpg"
@@ -25469,7 +25469,7 @@
   title: "Looney Tunes"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   boxart: "/no_cover.png"
 - release:
@@ -25491,7 +25491,7 @@
   title: "Top Gear Rally 2"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   boxart: "/no_cover.png"
 - release:
@@ -25528,7 +25528,7 @@
   title: "Micro Maniacs"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-B3NP"
   barcode: "4005209035958"
@@ -25568,7 +25568,7 @@
   title: "Bubble Bobble Part 2"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mitsui & Co."
   id: "DMG-LX-NOE"
   boxart: "/no_cover.png"
@@ -25576,7 +25576,7 @@
   title: "Bubble Bobble Junior"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-133 CHN"
   boxart: "/a/box/5/8/5/454585_front.jpg"
@@ -25615,7 +25615,7 @@
   title: "Power Racer"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Tecmo"
   boxart: "/no_cover.png"
 - release:
@@ -25630,7 +25630,7 @@
   title: "4 in 1"
   market: "AS"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-602 CHN"
   boxart: "/a/box/6/7/9/459679_front.jpg"
@@ -25646,7 +25646,7 @@
   title: "Desert Strike: Return to the Gulf"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-ADSP-NOE"
   boxart: "/a/box/1/3/9/46139_front.jpg"
@@ -25699,7 +25699,7 @@
   title: "LoopZ"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "DMG-LP-NOE"
   boxart: "/a/box/9/4/5/37945_front.jpg"
@@ -25754,7 +25754,7 @@
   title: "Mickey Mouse"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "DMG-M2"
   boxart: "/a/box/0/1/5/46015_front.jpg"
@@ -25792,7 +25792,7 @@
   title: "Battle Arena Toshinden"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-ATDP-EUR"
   boxart: "/a/box/8/0/5/1805_front.jpg"
@@ -25800,7 +25800,7 @@
   title: "Battle Arena Toshinden"
   market: "SA"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -25814,7 +25814,7 @@
   title: "Suzuki Alstare Extreme Racing"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-AXRP-EUR"
   boxart: "/a/box/8/6/3/7863_front.jpg"
@@ -25926,7 +25926,7 @@
   title: "Sensible Soccer: European Champions"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   id: "DMG-VZ-NOE"
   boxart: "/a/box/3/9/5/201395_front.jpg"
@@ -25987,7 +25987,7 @@
   title: "Donkey Kong Land III"
   market: "AU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AD3P-AUS"
   barcode: "045496730666"
@@ -25996,7 +25996,7 @@
   title: "Donkey Kong Land III"
   market: "SA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -26040,7 +26040,7 @@
   title: "Makai-Mura Gaiden: The Demon Darkness"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-201 CHN"
   boxart: "/a/box/6/6/7/459667_front.jpg"
@@ -26062,7 +26062,7 @@
   title: "Cool World"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-WL"
   boxart: "/a/box/1/0/7/46107_front.jpg"
@@ -26070,7 +26070,7 @@
   title: "Racin' Ratz"
   market: "NA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mattel"
   id: "CGB-BTIE-USA"
   barcode: "074299400865"
@@ -26079,7 +26079,7 @@
   title: "Die Original Moorhuhn Jagd"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ravensburger Interactive Media GmbH"
   id: "CGB-BOMD-NOE"
   boxart: "/a/box/5/7/7/454577_front.jpg"
@@ -26111,7 +26111,7 @@
   title: "Castlevania Legends"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-ADNP-EUR"
   barcode: "4988602390988"
@@ -26159,7 +26159,7 @@
   title: "Tip Off"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Imagineer"
   id: "DMG-OF"
   barcode: "745694001048"
@@ -26205,14 +26205,14 @@
   title: "Pac-Man"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   boxart: "/no_cover.png"
 - release:
   title: "Pac-Man"
   market: "AU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Namco"
   boxart: "/no_cover.png"
 - release:
@@ -26262,7 +26262,7 @@
   title: "Casino FunPak"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-ACFP-EUR"
   boxart: "/a/box/0/4/2/46042_front.jpg"
@@ -26285,7 +26285,7 @@
   title: "Samurai Shodown"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-X4-NOE"
   boxart: "/no_cover.png"
@@ -26293,7 +26293,7 @@
   title: "Nettou Samurai Spirits"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara"
   id: "DMG-406 CHN"
   boxart: "/no_cover.png"
@@ -26339,7 +26339,7 @@
   title: "Die Maus"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "DMG-ADMP"
   boxart: "/a/box/2/7/2/92272_front.jpg"
@@ -26355,7 +26355,7 @@
   title: "ECW Hardcore Revolution"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   boxart: "/a/box/2/9/8/3298_front.jpg"
 - release:
@@ -26393,7 +26393,7 @@
   title: "Ant Soldiers"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   barcode: "Other"
   boxart: "/a/box/6/0/8/85608_front.jpg"
@@ -26431,7 +26431,7 @@
   title: "Klax"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   boxart: "/no_cover.png"
 - release:
@@ -26451,7 +26451,7 @@
   title: "Bomb Jack"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   boxart: "/a/box/5/3/8/311538_front.jpg"
 - release:
@@ -26466,7 +26466,7 @@
   title: "Rainbow Islands"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "TDK Mediactive"
   boxart: "/a/box/7/6/3/88763_front.jpg"
 - release:
@@ -26504,7 +26504,7 @@
   title: "Power Rangers"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-ZW-EUR"
   boxart: "/a/box/0/9/3/11093_front.jpg"
@@ -26560,7 +26560,7 @@
   title: "Colin McRae Rally"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-BCOP-EUR"
   boxart: "/a/box/4/5/5/2455_front.jpg"
@@ -26599,7 +26599,7 @@
   title: "Game Boy Gallery 2"
   market: "AU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGAU-AUS"
   barcode: "045496730628"
@@ -26654,7 +26654,7 @@
   title: "The Flintstones: King Rock Treasure Island"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-FE"
   boxart: "/no_cover.png"
@@ -26670,7 +26670,7 @@
   title: "Bomberman GB 2"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-217-CHN"
   boxart: "/no_cover.png"
@@ -26686,7 +26686,7 @@
   title: "Bomberman GB"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/a/box/1/3/3/24133_front.jpg"
 - release:
@@ -26741,7 +26741,7 @@
   title: "Matchbox Emergency Patrol"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   boxart: "/no_cover.png"
 - release:
@@ -26815,7 +26815,7 @@
   title: "seaQuest DSV"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Malibu"
   id: "DMG-ASQE-EUR"
   boxart: "/no_cover.png"
@@ -26839,7 +26839,7 @@
   title: "Side Pocket"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   id: "DMG-SW-NOE"
   boxart: "/a/box/6/4/1/44641_front.jpg"
@@ -26847,14 +26847,14 @@
   title: "Side Pocket"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   boxart: "/no_cover.png"
 - release:
   title: "Side Pocket"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Data East"
   id: "DMG-134-CHN"
   boxart: "/no_cover.png"
@@ -26899,7 +26899,7 @@
   title: "Dracula: Crazy Vampire"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Cryo Interactive"
   boxart: "/a/box/4/2/7/43427_front.jpg"
 - release:
@@ -26929,7 +26929,7 @@
   title: "Ken Griffey Jr. Presents Major League Baseball"
   market: "EU"
   release_date: "1997-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
@@ -26999,7 +26999,7 @@
   title: "Parasol Stars: Rainbow Islands II"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-P6"
   boxart: "/a/box/5/9/0/28590_front.jpg"
@@ -27030,7 +27030,7 @@
   title: "Tennis"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-TN-NOE"
   barcode: "045496730031"
@@ -27039,14 +27039,14 @@
   title: "Tennis"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   boxart: "/no_cover.png"
 - release:
   title: "Tennis"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-106 CHN"
   boxart: "/a/box/6/4/3/455643_front.jpg"
@@ -27054,14 +27054,14 @@
   title: "Tennis"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
   title: "Tennis (Player's Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-TN-USA-1"
   barcode: "045496730031"
@@ -27192,7 +27192,7 @@
   title: "Sunsoft Grand Prix"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "SunSoft"
   id: "DMG-FB-NOE"
   boxart: "/a/box/1/3/8/37138_front.jpg"
@@ -27246,7 +27246,7 @@
   title: "Star Trek: Generations - Beyond the Nexus"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   id: "DMG-ASTP-EUR"
   boxart: "/a/box/7/5/3/46753_front.jpg"
@@ -27262,7 +27262,7 @@
   title: "Paperboy"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "CGB-AYPE-USA"
   barcode: "031719199129"
@@ -27271,7 +27271,7 @@
   title: "Paperboy"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Midway"
   id: "CGB-AYPP-EUR"
   boxart: "/no_cover.png"
@@ -27295,7 +27295,7 @@
   title: "Disney's DuckTales 2"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-D7-NOE"
   boxart: "/a/box/1/9/2/3192_front.jpg"
@@ -27303,7 +27303,7 @@
   title: "Disney's Ducktales 2 (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-D7-USA-1"
   barcode: "045496730789"
@@ -27336,7 +27336,7 @@
   title: "Supercross Freestyle"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-P-BSXP"
   barcode: "3546430011034"
@@ -27353,7 +27353,7 @@
   title: "Tail 'Gator"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Natsume"
   boxart: "/a/box/8/3/5/46835_front.jpg"
 - release:
@@ -27391,7 +27391,7 @@
   title: "Taz-Mania"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-ZM-UKV"
   barcode: "719575020206"
@@ -27422,7 +27422,7 @@
   title: "The Blues Brothers: Jukebox Adventure"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Titus Software"
   boxart: "/a/box/9/9/2/45992_front.jpg"
 - release:
@@ -27453,7 +27453,7 @@
   title: "Street Fighter II"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ASFP-EUR"
   boxart: "/a/box/5/7/0/32570_front.jpg"
@@ -27461,14 +27461,14 @@
   title: "Street Fighter II"
   market: "SA"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
   title: "Street Fighter II (Player's Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-ASFE-USA-1"
   barcode: "045496730444"
@@ -27501,7 +27501,7 @@
   title: "Nemesis"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-NM-EUR"
   boxart: "/a/box/5/0/8/46508_front.jpg"
@@ -27525,7 +27525,7 @@
   title: "Carpenter Genzo Robot Empire"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Irem"
   id: "DMG-207-CHN"
   boxart: "/a/box/7/2/4/457724_front.jpg"
@@ -27549,7 +27549,7 @@
   title: "Logical"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "CGB-AOGP-EUR"
   boxart: "/no_cover.png"
@@ -27557,7 +27557,7 @@
   title: "Die Maus: Verrueckte Olympiade"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BVOD-NOE"
   boxart: "/a/box/2/3/3/155233_front.jpg"
@@ -27589,7 +27589,7 @@
   title: "Super Mario Land 3: Wario Land"
   market: "AU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-WJ-AUS"
   barcode: "045496730321"
@@ -27598,7 +27598,7 @@
   title: "Super Mario Land 3: Wario Land"
   market: "AS"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-402 CHN"
   boxart: "/no_cover.png"
@@ -27606,7 +27606,7 @@
   title: "Super Mario Land 3: Wario Land"
   market: "SA"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Playtronic"
   boxart: "/no_cover.png"
 - release:
@@ -27628,7 +27628,7 @@
   title: "Super Mario Land 3: Wario Land (GameBoy Nintendo Classics)"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-WJ"
   boxart: "/a/box/1/5/1/21151_front.jpg"
@@ -27680,7 +27680,7 @@
   title: "Skate or Die: Bad 'N Rad"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Palcom"
   id: "DMG-SK"
   barcode: "083717140030"
@@ -27763,7 +27763,7 @@
   title: "Mr. Do!"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-M4"
   boxart: "/no_cover.png"
@@ -27818,7 +27818,7 @@
   title: "Alleyway"
   market: "AU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AW-AUS"
   boxart: "/no_cover.png"
@@ -27826,7 +27826,7 @@
   title: "Alleyway"
   market: "KO"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hyundai Electronics"
   boxart: "/no_cover.png"
 - release:
@@ -27993,7 +27993,7 @@
   title: "Duke Nukem"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GT Interactive"
   id: "CGB-ADIP-EUR"
   boxart: "/a/box/1/9/8/3198_front.jpg"
@@ -28083,7 +28083,7 @@
   title: "Jelly Boy"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-AJBP"
   barcode: "5013156610608"
@@ -28115,7 +28115,7 @@
   title: "NBA Jam: Tournament Edition"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-AJTP-EUR"
   boxart: "/a/box/1/5/8/11158_front.jpg"
@@ -28123,7 +28123,7 @@
   title: "Rhino Rumble"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Telegames"
   id: "CGB-BRNP-EUR"
   boxart: "/a/box/8/0/1/28801_front.jpg"
@@ -28161,7 +28161,7 @@
   title: "Speedball 2"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   barcode: "050047110293"
   boxart: "/a/box/7/2/1/46721_front.jpg"
@@ -28200,7 +28200,7 @@
   title: "Azure Dreams"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   id: "DMG-AAYP-EUR"
   boxart: "/a/box/6/7/8/1678_front.jpg"
@@ -28215,7 +28215,7 @@
   title: "NHL 96"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "NMG-A6HP-EUR"
   boxart: "/no_cover.png"
@@ -28331,7 +28331,7 @@
   title: "Pokemon Pinball (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-VPHE-USA-1"
   barcode: "045496730901"
@@ -28347,7 +28347,7 @@
   title: "Pokemon Pinball (Game Boy Color Bundle)"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -28362,7 +28362,7 @@
   title: "Looney Tunes Collector: Martian Alert!"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-ALMP-EUR"
   boxart: "/a/box/5/2/2/10522_front.jpg"
@@ -28394,7 +28394,7 @@
   title: "Wario Land II (Rerelease)"
   market: "NA"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AWLE-USA-1"
   barcode: "045496730888"
@@ -28403,7 +28403,7 @@
   title: "Wario Land II"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AWLP-EUR"
   barcode: "045496730888"
@@ -28412,7 +28412,7 @@
   title: "Wario Land II"
   market: "AU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AWLP-AUS"
   barcode: "045496730888"
@@ -28533,7 +28533,7 @@
   title: "B.C. Kid"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson"
   id: "DMG-GK"
   boxart: "/a/box/1/3/3/28133_front.jpg"
@@ -28541,7 +28541,7 @@
   title: "Bonk's Adventure"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hudson Soft"
   id: "DMG-204 CHN"
   boxart: "/a/box/7/2/1/457721_front.jpg"
@@ -28557,7 +28557,7 @@
   title: "The King of Fighters: Heat of Battle"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   id: "DMG-AK6P-EUR"
   boxart: "/a/box/0/8/9/20089_front.jpg"
@@ -28572,7 +28572,7 @@
   title: "Home Alone"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   boxart: "/no_cover.png"
 - release:
@@ -28611,7 +28611,7 @@
   title: "Turok: Battle of the Bionosaurs"
   market: "EU"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "DMG-ATUP-EUR"
   boxart: "/a/box/1/5/1/24151_front.jpg"
@@ -28657,7 +28657,7 @@
   title: "Arcade Classic No. 3: Galaga / Galaxian"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AGCP-NOE"
   boxart: "/a/box/2/4/5/46245_front.jpg"
@@ -28719,7 +28719,7 @@
   title: "Towers: Lord Baniff's Deceit"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Telegames"
   id: "CGB-ALHP-EUR"
   boxart: "/a/box/3/9/4/9394_front.jpg"
@@ -28743,7 +28743,7 @@
   title: "Disney's TaleSpin"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Bandai"
   id: "DMG-LS"
   boxart: "/a/box/8/1/7/46817_front.jpg"
@@ -28759,7 +28759,7 @@
   title: "Yu Yu Hakusho - Access To Darkness"
   market: "AS"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Takara Tomy"
   id: "DMG-212-CHN"
   boxart: "/no_cover.png"
@@ -28775,7 +28775,7 @@
   title: "Turok: Rage Wars"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Acclaim"
   id: "CGB-AR7P-EUR"
   boxart: "/a/box/4/6/9/8469_front.jpg"
@@ -28883,7 +28883,7 @@
   title: "Pit-Fighter"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   id: "DMG-QF"
   boxart: "/no_cover.png"
@@ -28913,7 +28913,7 @@
   title: "The Fidgetts"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Elite"
   boxart: "/a/box/4/8/6/30486_front.jpg"
 - release:
@@ -28943,7 +28943,7 @@
   title: "Pop'n TwinBee"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Konami"
   barcode: "083717160038"
   boxart: "/a/box/0/0/6/42006_front.jpg"
@@ -28996,7 +28996,7 @@
   title: "The Pagemaster"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Virgin Interactive"
   id: "DMG-APME-EUR"
   boxart: "/a/box/5/6/9/46569_front.jpg"
@@ -29019,7 +29019,7 @@
   title: "Altered Space: A 3-D Alien Adventure"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi-Tech"
   boxart: "/no_cover.png"
 - release:
@@ -29088,7 +29088,7 @@
   title: "Pitfall: Beyond the Jungle"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Interplay"
   id: "DMG-AFLP-EUR"
   boxart: "/a/box/8/1/4/36814_front.jpg"
@@ -29174,7 +29174,7 @@
   title: "Micro Machines"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   boxart: "/a/box/7/5/8/18758_front.jpg"
 - release:
@@ -29228,7 +29228,7 @@
   title: "Casper"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Laguna"
   boxart: "/no_cover.png"
 - release:
@@ -29250,7 +29250,7 @@
   title: "Hexcite: Duels de Strateges"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-AICP-FAH"
   boxart: "/a/box/2/4/0/20240_front.jpg"
@@ -29258,7 +29258,7 @@
   title: "Hexcite: The Shapes of Victory"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "DMG-AICP-EUR"
   boxart: "/a/box/2/3/9/20239_front.jpg"
@@ -29274,7 +29274,7 @@
   title: "Catz"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mindscape"
   id: "CGB-AZCP-EUR"
   barcode: "5390102434069"
@@ -29321,7 +29321,7 @@
   title: "Zoo Block"
   market: "AS"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -29344,7 +29344,7 @@
   title: "Top Gear Rally"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Kemco"
   id: "CGB-VGRP"
   boxart: "/a/box/3/4/0/8340_front.jpg"
@@ -29435,7 +29435,7 @@
   title: "Disney's Toy Story"
   market: "EU"
   release_date: "1996-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Black Pearl"
   id: "DMG-AQHP-EUR"
   barcode: "045496460396"
@@ -29459,7 +29459,7 @@
   title: "Disney's The Little Mermaid II: Pinball Frenzy"
   market: "AU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "CGB-VM2P-AUS"
   boxart: "/no_cover.png"
@@ -29497,7 +29497,7 @@
   title: "Wings of Fury"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Red Orb Entertainment"
   id: "DMG-AFXP-EUR"
   boxart: "/a/box/4/1/4/9414_front.jpg"
@@ -29513,7 +29513,7 @@
   title: "Roswell Conspiracies: Aliens, Myths & Legends"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Red Storm Entertainment"
   boxart: "/a/box/4/9/8/10498_front.jpg"
 - release:
@@ -29549,14 +29549,14 @@
   title: "Barbie Game Girl"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   boxart: "/no_cover.png"
 - release:
   title: "Barbie Game Girl"
   market: "AU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Hi Tech Expressions"
   id: "DMG-GU-AUS"
   boxart: "/no_cover.png"
@@ -29579,14 +29579,14 @@
   title: "Bubble Bobble"
   market: "EU"
   release_date: "1991-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   boxart: "/a/box/8/5/2/21852_front.jpg"
 - release:
   title: "Bubble Bobble"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Taito Corporation"
   id: "DMG-118-CHN"
   boxart: "/no_cover.png"
@@ -29625,7 +29625,7 @@
   title: "Top Ranking Tennis"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-XT-EUR"
   boxart: "/a/box/8/8/0/46880_front.jpg"
@@ -29693,7 +29693,7 @@
   title: "A-Force: Armour Force"
   market: "AS"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sachen"
   boxart: "/no_cover.png"
 - release:
@@ -29776,7 +29776,7 @@
   title: "Avenging Spirit"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Jaleco Entertainment"
   boxart: "/a/box/9/2/1/37921_front.jpg"
 - release:
@@ -29843,7 +29843,7 @@
   title: "Winter Gold"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "U.S. Gold"
   boxart: "/a/box/9/5/5/46955_front.jpg"
 - release:
@@ -29880,7 +29880,7 @@
   title: "Vegas Stakes"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GIG Electronics"
   id: "DMG-AVSP-GPS"
   boxart: "/no_cover.png"
@@ -29888,7 +29888,7 @@
   title: "Vegas Stakes"
   market: "AU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-AVSP-AUS"
   boxart: "/a/box/8/8/0/743880_front.jpg"
@@ -29972,7 +29972,7 @@
   title: "The Adventures of the Smurfs"
   market: "EU"
   release_date: "2001-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-BSFP-UKV-1"
   boxart: "/no_cover.png"
@@ -30003,7 +30003,7 @@
   title: "Mr. Nutz"
   market: "EU"
   release_date: "1999-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Infogrames"
   id: "CGB-ANUP-EUR"
   boxart: "/a/box/3/8/4/38384_front.jpg"
@@ -30110,7 +30110,7 @@
   title: "Godzilla the Series: Monster Wars"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ubisoft"
   id: "CGB-BGDP-EUR"
   boxart: "/no_cover.png"
@@ -30162,7 +30162,7 @@
   title: "Adventures of Lolo"
   market: "EU"
   release_date: "1995-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-LO-EUR"
   barcode: "045496460341"
@@ -30187,7 +30187,7 @@
   title: "Space Invaders"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-SP"
   barcode: "045496730376"
@@ -30196,7 +30196,7 @@
   title: "Space Invaders"
   market: "AU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-SP"
   boxart: "/no_cover.png"
@@ -30335,7 +30335,7 @@
   title: "Tarzan: Lord of the Jungle"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "GameTek"
   boxart: "/a/box/8/3/7/46837_front.jpg"
 - release:
@@ -30387,7 +30387,7 @@
   title: "Race Drivin'"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "THQ"
   boxart: "/no_cover.png"
 - release:
@@ -30472,7 +30472,7 @@
   title: "Dennis"
   market: "EU"
   release_date: "1994-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Ocean"
   id: "DMG-YD-NOE"
   boxart: "/no_cover.png"
@@ -30532,7 +30532,7 @@
   title: "Bram Stoker's Dracula"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Sony Imagesoft"
   id: "DMG-D4-NOE"
   boxart: "/no_cover.png"
@@ -30570,7 +30570,7 @@
   title: "The Amazing Spider-Man"
   market: "EU"
   release_date: "1990-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-SM-NOE"
   boxart: "/a/box/6/1/8/24618_front.jpg"
@@ -30650,7 +30650,7 @@
   title: "Barbie: Fashion Pack Games"
   market: "EU"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Mattel"
   id: "DMG-BFPP-EUR"
   boxart: "/a/box/3/0/4/39304_front.jpg"
@@ -30704,7 +30704,7 @@
   title: "Metal Gear Solid"
   market: "SA"
   release_date: "2000-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Gradiente"
   boxart: "/no_cover.png"
 - release:
@@ -30749,7 +30749,7 @@
   title: "Mega Man II"
   market: "EU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-W2"
   barcode: "045496460242"
@@ -30758,14 +30758,14 @@
   title: "Mega Man II"
   market: "AU"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   boxart: "/no_cover.png"
 - release:
   title: "Mega Man II"
   market: "AS"
   release_date: "1992-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Capcom"
   id: "DMG-203 CHN"
   boxart: "/no_cover.png"
@@ -30773,7 +30773,7 @@
   title: "Mega Man II (Players Choice)"
   market: "NA"
   release_date: "1998-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "Nintendo"
   id: "DMG-W2-USA-1"
   barcode: "045496730710"
@@ -30836,7 +30836,7 @@
   title: "Alien 3"
   market: "EU"
   release_date: "1993-01-01"
-  unclear_year: true
+  unknown_release_month: true
   publisher: "LJN Ltd."
   id: "DMG-L3-NOE"
   boxart: "/a/box/4/6/7/22467_front.jpg"
