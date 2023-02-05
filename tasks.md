@@ -4,6 +4,7 @@
     - Sortir timeline-release avec la version *stale* des données et en mentionnant la migration à Mobygames
     - Migrer les données de timeline sur Mobygames
 
+- enlever .DS_Store de _site avant de publier
 - prendre des photos pour le buyer's guide
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Traduire les mauvaises idées
