@@ -47,7 +47,7 @@
   cat: ["hardware", "nintendo", "gb"]
   source: 'https://en.wikipedia.org/wiki/Game_Boy'
   source2: 'https://christmas.musetechnical.com/ShowCatalogPage/1989-Sears-Christmas-Book/412'
-  note: 'Game Boy is released in North America for $90 USD with [*Super Mario Land*](articles/dmg-ml)", *Alleyway*, *Baseball*, and *Tennis*. [*Tetris*](articles/dmg-tr) is of course bundled with the system.'
+  note: 'Game Boy is released in North America for $90 USD with [*Super Mario Land*](articles/dmg-ml), *Alleyway*, *Baseball*, and *Tennis*. [*Tetris*](articles/dmg-tr) is of course bundled with the system.'
 - fact: true
   date: '1989-09-01'
   tags: ["na"]
@@ -65,13 +65,13 @@
   tags: ["jp"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in Japan. It is Konami''s first Game Boy title.'
+  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in Japan. It is Konami’s first Game Boy title.'
 - fact: true
   date: '1989-09-01'
   tags: ["na"]
   cat: ["game", "gb"]
   source: 'https://gamefaqs.gamespot.com/gameboy/585813-motocross-maniacs/data'
-  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in North America. It is Konami''s first Game Boy title.'
+  note: '[*Motocross Maniacs*](articles/dmg-mx) is released in North America. It is Konami’s first Game Boy title.'
 - fact: true
   date: '1989-12-01'
   tags: ["jp"]
