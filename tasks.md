@@ -1,8 +1,8 @@
-# Tâches¸
+# Tâches
 - Produire une automatisation pour faire un ebook
 - Terminer timeline
-- Sortir timeline-release avec la version *stale* des données et en mentionnant la migration à Mobygames
-- Migrer les données de timeline sur Mobygames
+    - Sortir timeline-release avec la version *stale* des données et en mentionnant la migration à Mobygames
+    - Migrer les données de timeline sur Mobygames
 
 - prendre des photos pour le buyer's guide
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
@@ -11,7 +11,7 @@
 - Envoyer des copies de mes livres à Bibliothèque et Archives (https://bibliotheque-archives.canada.ca/fra/services/editeurs/depot-legal/Pages/depot-publications-imprimees.aspx)
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
-- Terminer l'intégration de backstopJS dans postbuild.sh
+- Terminer l'intégration de backstopJS dans un postbuild.sh
 - Images manquantes
 [2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/8/0/1/46801_front.jpg' not found.
 [2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/0/0/4/21004_front.jpg' not found.
