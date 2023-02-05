@@ -1,22 +1,24 @@
-Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+This visual timeline’s release data and cover images come from [GameFAQs](https://gamefaqs.com). It is temporary, and a move to data from [MobyGames](https://mobygames.com) is in development. 
+
+In the meantine, feel free to contact me with any addition or errata at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 <nav id="timeline-nav">
-  <a class="timeline-nav-element" href="/timeline">
+  <{% if page.region == nil %}div id="selected"{% else %}a class="timeline-nav-element" href="/timeline"{% endif %}>
     <img alt="World" class="labels" src="/assets/timeline/world.svg">
     <span>World</span>
-  </a>
-  <a class="timeline-nav-element" href="/timeline/jp">
+  </{% if page.region == nil %}div{% else %}a{% endif %}>
+  <{% if page.region contains 'JP' %}div id="selected"{% else %}a class="timeline-nav-element" href="/timeline/jp"{% endif %}>
     <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg">
     <span>Japan</span>
-  </a>
-  <a class="timeline-nav-element" href="/timeline/na">
+  </{% if page.region contains 'JP' %}div{% else %}a{% endif %}>
+  <{% if page.region contains 'NA' %}div id="selected"{% else %}a class="timeline-nav-element" href="/timeline/na"{% endif %}>
     <img alt="North America" class="labels" src="/assets/timeline/na.svg">
     <span>North America</span>
-  </a>
-  <a class="timeline-nav-element" href="/timeline/eu">
+  </{% if page.region contains 'NA' %}div{% else %}a{% endif %}>
+  <{% if page.region contains 'EU' %}div id="selected"{% else %}a class="timeline-nav-element" href="/timeline/eu"{% endif %}>
     <img alt="Japan" class="labels" src="/assets/timeline/eur.svg">
     <span>Europe</span>
-  </a>
+  </{% if page.region contains 'EU' %}div{% else %}a{% endif %}>
 </nav>
 <div id="timeline">
 
@@ -102,9 +104,20 @@ Feel free to contact me with any addition at <a href="mailto:{{ site.email }}">{
           {% comment %} Write matched release details {% endcomment %}
           {% capture image-location %}/assets/timeline{{ release.boxart }}{% endcapture %}
           <figure class="timeline">
-          <img loading="lazy" src="{{ image-location }}" alt="{{ release.title }}">
+          <img loading="lazy" class="cover" src="{{ image-location }}" alt="{{ release.title }}">
           <figcaption>
-          <p>{{ release.title }}</p>
+          {% if release.market == "JP" %}
+            <img alt="Japan" class="region" src="/assets/timeline/jpn.svg">
+            <p>{{ release.title }}</p>
+          {% endif %}
+          {% if release.market == "NA" %}
+            <img alt="North America" class="region" src="/assets/timeline/na.svg">
+            <p>{{ release.title }}</p>
+          {% endif %}
+          {% if release.market == "EU" %}
+            <img alt="Europe" class="region" src="/assets/timeline/eur.svg">
+            <p>{{ release.title }}</p>
+          {% endif %}
           </figcaption>
           </figure>
           
