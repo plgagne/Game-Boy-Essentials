@@ -12,17 +12,30 @@
 #timeline-nav {
 	display: flex;
 	justify-content: flex-end;
+	flex-wrap: wrap;
 }
-a.timeline-nav-element {
+.timeline-nav-element, #selected {
 	width: 15rem;
 	padding: 0.5em;
 	display: flex;
 	margin: 0.2em auto;
 	border: 2px solid var(--dark-grey);
 	border-radius: var(--rounded-corners);
+	color: black;
 }
-a.timeline-nav-element img {
+.timeline-nav-element img, #selected img {
 	max-width: 3rem;
+}
+#selected {
+	background: var(--sharp-blue);
+}
+.timeline-nav-element:hover,
+.timeline-nav-element:focus,
+.timeline-nav-element:active {
+	cursor: pointer;
+	background: var(--sharp-blue);
+	color: var(--lime-green);
+	transition: .2s ease-out;
 }
 #timeline h2 {
 	position: sticky;
@@ -61,33 +74,45 @@ figure.timeline {
 	vertical-align: top;
 	margin: 0.2em;
 	width: 10rem;
-}
-figure.timeline img,
-figure.timeline figcaption {
-	max-width: 100%;
+	border-top-color: var(--jpn-red);
 }
 figure.timeline p {
 	font-size: 0.85rem;
 }
-/*
-#timeline a.ref {
-	padding: 0 .3rem;
+.cover {
+	max-width: 100%;
 }
-#timeline img.labels {
-	max-height: 1.5rem;
-	width: 2rem;
-} 
-#timeline p {
+figcaption {
+	display: flex;
+	padding-top: 0;
+}
+.region {
+	width: 1rem;
+	height: 1rem;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+figcaption p {
+	margin-right: auto;
+}
+.fact_list {
+	margin-top: 1em;
+}
+.fact_list p {
 	border-left: .2rem solid;
-	padding-left: 1rem;
+	padding-left: 0.5rem;
+	margin-left: 0.4rem;
 } 
-*/
-#timeline p.jp {
+.fact_list p.jp {
 	border-color: var(--jpn-red);
 }
-#timeline p.na {
+.fact_list p.na {
 	border-color: var(--usa-can-white);
 }
-#timeline p.eu {
+.fact_list p.eu {
 	border-color: var(--eur-blue);
+}
+.fact_list a.ref {
+	padding: 0 .3rem;
 }
