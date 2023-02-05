@@ -14,10 +14,10 @@ collections:
   articles:
     output: true
     permalink: /articles/:title/
-  folio:
-    output: true
-    permalink: /:slug/
   timeline:
+    output: true
+    permalink: timeline/:slug/
+  folio:
     output: true
     permalink: /:slug/
   tags:
@@ -30,6 +30,13 @@ defaults:
       type: articles
     values:
       layout: article
+      article: true
+  -
+    scope:
+      path: ""
+      type: timeline
+    values:
+      layout: timeline
       article: true
   -
     scope:
