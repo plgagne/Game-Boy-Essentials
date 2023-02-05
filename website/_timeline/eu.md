@@ -1,5 +1,5 @@
 ---
-title: "Timeline"
+title: "Timeline - Europe Only"
 slug: "eu"
 layout: "timeline"
 region: "EU"

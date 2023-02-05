@@ -1,5 +1,5 @@
 ---
-title: "Timeline"
+title: "Timeline - Japan Only"
 slug: "jp"
 layout: "timeline"
 region: "JP"

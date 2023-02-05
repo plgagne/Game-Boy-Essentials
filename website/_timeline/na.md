@@ -1,5 +1,5 @@
 ---
-title: "Timeline"
+title: "Timeline - North America Only"
 slug: "na"
 layout: "timeline"
 region: "NA"
