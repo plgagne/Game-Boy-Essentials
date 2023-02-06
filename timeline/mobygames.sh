@@ -36,7 +36,8 @@ game_list_fetch() {
         done
         offset=0
         platform=$game_boy_color
-    done   
+    done
+    jq -s 'map(.[][])' "games.json" > INPUT.tmp && mv INPUT.tmp "games.json"
 }
 
 specific_game_fetch() {
