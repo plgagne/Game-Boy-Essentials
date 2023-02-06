@@ -1,4 +1,5 @@
 # Tâches
+- Jouer à https://taylormccue.itch.io/trauma
 - enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
 - Faire une automatisation pour mettre les drafts a la bonne place
 - Produire une automatisation pour faire un ebook
