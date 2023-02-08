@@ -1,4 +1,5 @@
 # Tâches
+- Finir les nouveaux liens de livres sur Amazon et Barnes et Noble
 - Jouer à https://taylormccue.itch.io/trauma
 - enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
 - Faire une automatisation pour mettre les drafts a la bonne place

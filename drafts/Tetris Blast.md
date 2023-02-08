@@ -53,13 +53,19 @@ Henk, like I said, uses his japanese license in the 90s to make a whole series o
 
 Nintendo.
 
-That's right. The very same people who immediately understood that *Tetris* would make the Game Boy an even bigger success don't understand that all copies of anything called *Tetris* should offer a classic mode. With *Tetris 2* and *Tetris Attack*, Nintendo treat the word Tetris like it simply means falling-block puzzle. I mean they're right in a sense. Every Game Boy already has a very good copy of *Tetris*. Outside of Japan, everybody who bought a Game Boy already owns *Tetris*. Why bother including it? They have the US console license so they use it with other puzzle games to gin up their marketing. *Tetris Blast* to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
+That's right. The very same people who immediately understood that *Tetris* would make the Game Boy an even bigger success don't understand that all copies of anything called *Tetris* should offer a classic mode. With *Tetris 2* and *Tetris Attack*, Nintendo treated the word Tetris like it simply means falling-block puzzle, so made new games and called them *Tetris*. It's also indicative of Nintendo's development strategy. Every Game Boy already has a very good copy of *Tetris*. Outside of Japan, everybody who bought a Game Boy already owns *Tetris*. Why bother including it? That's the difference with Nintendo's approach. Nintendo is a smaller software company than you think. Managing their small amount of resources is vital. If *Tetris* is already available on Game Boy, they don't want to reimplement what they've already done. They need to provide new experiences to stay relevant with their small headcount. A great example with *Tetris* is the Nintendo developped *Tetris DS*. It was Nintendo coming back to *Tetris* after leaving the franchise to others for 8 years.
+
+It's the most impressive *Tetris* game ever made due to its inventive game modes.
+
+
+- But it also had a kickass classic mode. Assuredly mandated by Pajitnov and Rogers, and following the [Tetris guidelines](https://tetris.wiki/Tetris_Guideline) to the letter.
+
+
+
+They have the US console license so they use it with other puzzle games to gin up their marketing. *Tetris Blast* to me is the final nail in the coffin; it's Bombliss from Rogers but **without** the accompanying classic mode. That stings.
 
 - Why is it without a classic mode?
-- Nintendo is a smaller software company than you think. Managing their small amount of resources is vital.
-- If Tetris is already available on Game Boy, they feel no need to reimplement what they've already done.
-- They need to provide new experiences to stay relevant with their small headcount. Once the DS came out, *Tetris DS* was released, the most impressive *Tetris* game ever made due to its inventive game modes.
-- But it also had a kickass classic mode. Assuredly mandated by Pajitnov and Rogers, and following the [Tetris guidelines](https://tetris.wiki/Tetris_Guideline) to the letter.
+- 
 
 # Tetris Blast
 
