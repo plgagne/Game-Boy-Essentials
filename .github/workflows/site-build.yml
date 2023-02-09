@@ -62,9 +62,9 @@ jobs:
           # See https://git-scm.com/docs/git-commit#_options
           commit_options: '--no-verify --signoff'
 
-          # Optional. Options used by `git-push`.
-          # See https://git-scm.com/docs/git-push#_options
-          push_options: '--force'
+          # Optional. Options used by `git-add`.
+          # See https://git-scm.com/docs/git-add#_options
+          add_options: '-u'
 
           # Optional. Local file path to the repository.
           # Defaults to the root of the repository.
