@@ -18,8 +18,9 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-    - uses:  helaili/jekyll-action@2.5.0
+    - uses:  helaili/jekyll-action@master
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         jekyll_src: '/website'
         target_branch: 'jekyll-build'
+        build_only: true
