@@ -74,7 +74,6 @@ figure.timeline {
 	vertical-align: top;
 	margin: 0.2em;
 	width: 10rem;
-	border-top-color: var(--jpn-red);
 }
 figure.timeline p {
 	font-size: 0.85rem;
