@@ -1,4 +1,5 @@
 # Tâches
+[![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 - Finir les nouveaux liens de livres sur Amazon et Barnes et Noble
 - Jouer à https://taylormccue.itch.io/trauma
@@ -6,7 +7,6 @@
 - Faire une automatisation pour mettre les drafts a la bonne place
 - Produire une automatisation pour faire un ebook
 - Terminer timeline
-    - Sortir timeline-release avec la version *stale* des données et en mentionnant la migration à Mobygames
     - Migrer les données de timeline sur Mobygames
 
 - enlever .DS_Store de _site avant de publier
@@ -18,28 +18,18 @@
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 - Terminer l'intégration de backstopJS dans un postbuild.sh
-- Images manquantes
-[2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/8/0/1/46801_front.jpg' not found.
-[2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/0/0/4/21004_front.jpg' not found.
-[2023-01-31 22:39:03] ERROR `/assets/timeline/a/box/8/1/0/7810_front.jpg' not found.
-[2023-01-31 22:39:10] ERROR `/assets/timeline/a/box/2/9/1/40291_front.jpg' not found.
-[2023-01-31 22:39:14] ERROR `/assets/timeline/a/box/5/7/3/10573_front.jpg' not found.
-[2023-01-31 22:39:18] ERROR `/assets/timeline/a/box/2/1/8/32218_front.jpg' not found.
-- ajouter les images manquantes dans le backup des données sur iCloud
 
-# Liste de vérification pour publication d'un article
+## Liste de vérification pour publication d'un article
 - [ ] Check that you have all release dates (Europe included)
 - [ ] Edit final article with Antidote
 - [ ] Run titles with Title Case Service
 - [ ] Move article to the articles folder
 - [ ] Run ImageOptim.app on all new images
-- [ ] Insert release dates in the timeline
-- [ ] Build with Jekyll
-- [ ] Synchronize with Nova task
+- [ ] Build & Synchronize with Nova task
 - [ ] Check that everything is OK
 - [ ] Publish link to Mastodon
 
-# Liste de mauvaises idées
+## Liste de mauvaises idées
 - Have the further reading section with the same width as the article
     - It’s never influencing the width of the page and it’s drawing attention to it when its wider
 - Simplifying the CSS
@@ -67,7 +57,7 @@
     - The plugins you use are too niche to work with the classic Github Pages interface. Any of the custom Github Actions require more fiddling with Git than you know about. And Github Actions are not free, I think?
     - Tu l'utilises en ce moment mais il y a un bogue qui l'arrête de fonctionner. C'est un chateau de cartes trop compliqué.
 
-# The Shit I Went Back On
+## The Shit I Went Back On
 - Programmatically making the book
 - Removing underlines from links
 - Have the title of articles as H1 and increasing the font
