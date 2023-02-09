@@ -1,4 +1,5 @@
 # Tâches
+
 - Finir les nouveaux liens de livres sur Amazon et Barnes et Noble
 - Jouer à https://taylormccue.itch.io/trauma
 - enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
@@ -72,5 +73,3 @@
 - Have the title of articles as H1 and increasing the font
 - Moving the CSS to a Grid or Flex model
 - Using Github
-
-[![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/github-action-test-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/github-action-test-build.yml)

@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Push _site to site-build Branch
+name: site-build
 
 on:
   # Runs on pushes targeting the default branch
