@@ -49,6 +49,7 @@ Gemfile.lock
 ######################
 .jekyll-cache/
 .jekyll-metadata
+_site/
 _site-local/
 
 # Book Binding & Timeline #
