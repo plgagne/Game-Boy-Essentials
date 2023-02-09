@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Push _site to site-build Branch
 
 on:
   # Runs on pushes targeting the default branch
@@ -41,10 +41,10 @@ jobs:
           working-directory: website
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: cd website && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: cd website && bundle exec jekyll build -d website/_site-github-action
         env:
           JEKYLL_ENV: production
-      - name: Push build to branch
+      - name: Push Build to Branch
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           # Optional. Commit message for the created commit.
@@ -54,7 +54,8 @@ jobs:
           # Optional. Local and remote branch name where commit is going to be pushed
           #  to. Defaults to the current branch.
           #  You might need to set `create_branch: true` if the branch does not exist.
-          branch: jekyll-build
+          create_branch: true
+          branch: site-build
 
           # Optional. Options used by `git-commit`.
           # See https://git-scm.com/docs/git-commit#_options
@@ -62,4 +63,4 @@ jobs:
 
           # Optional. Local file path to the repository.
           # Defaults to the root of the repository.
-          repository: website/_site
+          repository: website/_site-github-action
