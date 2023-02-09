@@ -191,6 +191,7 @@ div.markets {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	height: fit-content;
 }
 div.book-cover {
 	display: flex;
@@ -201,16 +202,26 @@ div.book-cover {
 	max-height: 100%;
 }
 .book a,
-.book a:visited {
+.book a:visited,
+h4 {
 	display: flex;
 	flex-direction: column;
-	border-radius: var(--rounded-corners);
-	color: var(--lime-green);
 	width: 8rem;
 	height: 100%;
 	justify-content: center;
 	text-align: center;
 	margin-left: 0.2em;
+}
+	.book a,
+	.book a:visited {
+	border-radius: var(--rounded-corners);
+	color: var(--lime-green);
+}
+h4 {
+	color: black;
+	font-size: 1.05em;
+	border-bottom: .1rem solid;
+	border-color: black;
 }
 /* Articles */
 #article {
