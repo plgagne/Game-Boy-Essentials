@@ -44,14 +44,22 @@ jobs:
         run: cd website && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Push build to branch
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          path: 'website/_site'
-          name: site-build
-      - name: Push artifact to branch
-        uses: solana-mobile/gha-commit-artifact-to-branch@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional. Commit message for the created commit.
+          # Defaults to "Apply automatic changes"
+          commit_message: Github Action Site Build
+
+          # Optional. Local and remote branch name where commit is going to be pushed
+          #  to. Defaults to the current branch.
+          #  You might need to set `create_branch: true` if the branch does not exist.
           branch: jekyll-build
-          artifact-name: site-build
+
+          # Optional. Options used by `git-commit`.
+          # See https://git-scm.com/docs/git-commit#_options
+          commit_options: '--no-verify --signoff'
+
+          # Optional. Local file path to the repository.
+          # Defaults to the root of the repository.
+          repository: website/_site
