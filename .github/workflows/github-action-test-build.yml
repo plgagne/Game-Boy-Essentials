@@ -41,7 +41,7 @@ jobs:
           working-directory: website
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: cd website && bundle exec jekyll build -d website/_site-github-action
+        run: cd website && bundle exec jekyll build -d _site-github-action
         env:
           JEKYLL_ENV: production
       - name: Push Build to Branch
