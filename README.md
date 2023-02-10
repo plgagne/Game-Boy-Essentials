@@ -1,13 +1,14 @@
 # Tâches
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
+- Déclarer mon compte Goodreads d'auteur [Goodreads](https://www.goodreads.com/author/show/16559473.Pierre_Luc_Gagn_)
 - Finir les nouveaux liens de livres sur Amazon et Barnes et Noble
 - Jouer à https://taylormccue.itch.io/trauma
-- enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
 - Faire une automatisation pour mettre les drafts a la bonne place
 - Produire une automatisation pour faire un ebook
 - Terminer timeline
     - Migrer les données de timeline sur Mobygames
+    - enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
 
 - enlever .DS_Store de _site avant de publier
 - prendre des photos pour le buyer's guide
