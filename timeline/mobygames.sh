@@ -38,10 +38,12 @@ game_list_fetch() {
         platform=$game_boy_color
     done
     jq -s 'map(.[][])' "games.json" > INPUT.tmp && mv INPUT.tmp "games.json"
+    sed "[" "" > "games.json""
 }
 
 specific_game_fetch() {
     curl -k --location --request GET "https://api.mobygames.com/v1/games/141/platforms/10?api_key=$key" | jq '.' > "specific.json"
+    
 }
 
 game_list_fetch
