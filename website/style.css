@@ -181,6 +181,7 @@ div.date {
 	justify-content: center;
 	flex-direction: column;
 	width: 16rem;
+	height: 100%;
 }
 div.volume {
 	display: flex;
@@ -192,13 +193,14 @@ div.markets {
 	flex-direction: column;
 	justify-content: space-between;
 	height: fit-content;
+	margin-left: 0.8em;
 }
 div.book-cover {
 	display: flex;
 	flex-direction: column;
 }
 .book img {
-	width: 100%;
+	max-width: 100%;
 	max-height: 100%;
 }
 .book a,
@@ -210,7 +212,7 @@ h4 {
 	height: 100%;
 	justify-content: center;
 	text-align: center;
-	margin-left: 0.2em;
+	padding: 0.2em;
 }
 	.book a,
 	.book a:visited {
@@ -218,10 +220,10 @@ h4 {
 	color: var(--lime-green);
 }
 h4 {
-	color: black;
+	color: var(--light-beige);
 	font-size: 1.05em;
 	border-bottom: .1rem solid;
-	border-color: black;
+	border-color: var(--light-beige);
 }
 /* Articles */
 #article {
