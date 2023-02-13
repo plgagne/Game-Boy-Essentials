@@ -12,6 +12,7 @@
 - Vérifier la disponibilité du Volume 1
     - https://www.amazon.com/s?k=game+boy+essentials+book
     - https://www.barnesandnoble.com/s/game%20boy%20essentials
+- Créer un _include pour la page d'accueil
 
 ## Long terme
 - Jouer à https://taylormccue.itch.io/trauma
