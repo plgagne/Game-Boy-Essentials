@@ -12,7 +12,6 @@
 - Vérifier la disponibilité du Volume 1
     - https://www.amazon.com/s?k=game+boy+essentials+book
     - https://www.barnesandnoble.com/s/game%20boy%20essentials
-- Créer un _include pour la page d'accueil
 
 ## Long terme
 - Jouer à https://taylormccue.itch.io/trauma
@@ -61,6 +60,8 @@
 - Using Github Pages to publish the website
     - The plugins you use are too niche to work with the classic Github Pages interface. Any of the custom Github Actions require more fiddling with Git than you know about. And Github Actions are not free, I think?
     - Tu l'utilises en ce moment mais il y a un bogue qui l'arrête de fonctionner. C'est un chateau de cartes trop compliqué.
+- Créer un _includes pour la page d'accueil
+    - Il apparait juste une fois, c'est inutile.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
