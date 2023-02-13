@@ -13,9 +13,10 @@
 	display: flex;
 	justify-content: flex-end;
 	flex-wrap: wrap;
+	margin-bottom: 3em;
 }
 .timeline-nav-element, #selected {
-	width: 15rem;
+	width: 10.5rem;
 	padding: 0.5em;
 	display: flex;
 	margin: 0.2em auto;
@@ -85,32 +86,12 @@ figcaption {
 	display: flex;
 	padding-top: 0;
 }
-.region {
-	width: 1rem;
-	height: 1rem;
-	margin-right: auto;
-	margin-top: auto;
-	margin-bottom: auto;
-}
 figcaption p {
-	margin-right: auto;
+	margin: auto;
 }
 .fact_list {
 	margin-top: 1em;
-}
-.fact_list p {
-	border-left: .2rem solid;
-	padding-left: 0.5rem;
-	margin-left: 0.4rem;
-} 
-.fact_list p.jp {
-	border-color: var(--jpn-red);
-}
-.fact_list p.na {
-	border-color: var(--usa-can-white);
-}
-.fact_list p.eu {
-	border-color: var(--eur-blue);
+	padding: 0 0 0 0;
 }
 .fact_list a.ref {
 	padding: 0 .3rem;

@@ -6,4 +6,4 @@ weight: 4
 ---
 # Timeline of Game Boy Events
 
-{% include timeline.html %}
+{% include timeline-nav.html %}

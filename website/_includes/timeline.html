@@ -1,25 +1,3 @@
-This visual timeline’s release data and cover images come from [GameFAQs](https://gamefaqs.com). It is temporary, and a move to data from [MobyGames](https://mobygames.com) is in development. 
-
-In the meantine, feel free to contact me with any addition or errata at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
-
-<nav id="timeline-nav">
-  <{%- if page.region == nil -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline"{%- endif -%}>
-    <img alt="World" class="labels" src="/assets/timeline/world.svg">
-    <span>World</span>
-  </{%- if page.region == nil -%}div{%- else -%}a{%- endif -%}>
-  <{%- if page.region contains 'JP' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/jp"{%- endif -%}>
-    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg">
-    <span>Japan</span>
-  </{%- if page.region contains 'JP' -%}div{%- else -%}a{%- endif -%}>
-  <{%- if page.region contains 'NA' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/na"{%- endif -%}>
-    <img alt="North America" class="labels" src="/assets/timeline/na.svg">
-    <span>North America</span>
-  </{%- if page.region contains 'NA' -%}div{%- else -%}a{%- endif -%}>
-  <{%- if page.region contains 'EU' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/eu"{%- endif -%}>
-    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg">
-    <span>Europe</span>
-  </{%- if page.region contains 'EU' -%}div{%- else -%}a{%- endif -%}>
-</nav>
 <div id="timeline">
 
 {%- comment -%} Remove release dates without specific months {%- endcomment -%}
@@ -36,10 +14,6 @@ In the meantine, feel free to contact me with any addition or errata at <a href=
 {%- if page.region contains 'EU' -%}
   {%- assign timeline_sorted = timeline_stripped | where: "market", "EU" | sort: "release_date" -%}
   {%- assign facts_sorted = site.data.timeline | where: "tags", "eu" | sort: "date" -%}
-{%- endif -%}
-{%- if page.region == nil -%}
-  {%- assign timeline_sorted = timeline_stripped | sort: "release_date" -%}
-  {%- assign facts_sorted = site.data.timeline | sort: "date" -%}
 {%- endif -%}
 
 {%- assign release_html_written = false -%}
@@ -110,18 +84,7 @@ In the meantine, feel free to contact me with any addition or errata at <a href=
               <figure class="timeline">
               <img loading="lazy" class="cover" src="{{ image-location }}" alt="{{ release.title }}">
               <figcaption>
-              {%- if release.market == "JP" -%}
-                <img alt="Japan" class="region" src="/assets/timeline/jpn.svg">
-                <p>{{ release.title }}</p>
-              {%- endif -%}
-              {%- if release.market == "NA" -%}
-                <img alt="North America" class="region" src="/assets/timeline/na.svg">
-                <p>{{ release.title }}</p>
-              {%- endif -%}
-              {%- if release.market == "EU" -%}
-                <img alt="Europe" class="region" src="/assets/timeline/eur.svg">
-                <p>{{ release.title }}</p>
-              {%- endif -%}
+              <p>{{ release.title }}</p>
               </figcaption>
               </figure>
             {%- endif -%}  
@@ -173,15 +136,15 @@ In the meantine, feel free to contact me with any addition or errata at <a href=
           
           {%- comment -%} Open fact HTML tags if they are not present {%- endcomment -%}
           {%- if fact_html_written == false -%}
-            <div class="fact_list">
+            <ul class="fact_list">
             {%- assign fact_html_written = true -%}
           {%- endif -%}
           
           {%- comment -%} Write matched fact details {%- endcomment -%}
-          <p class="{{ fact.tags }}">
+          <li class="fact">
           {{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
           <a class="ref" href="{{ fact.source }}">※</a>
-          </p>
+          </li>
           
         {%- endif -%}
       {%- endif -%} 
@@ -189,7 +152,7 @@ In the meantine, feel free to contact me with any addition or errata at <a href=
     
     {%- comment -%} Close fact HTML tag {%- endcomment -%}
     {%- if fact_html_written == true -%}
-      </div>
+      </ul>
     {%- endif -%}
     
     {%- comment -%} Close HTML tag for month {%- endcomment -%}

@@ -1,0 +1,18 @@
+This visual timeline’s release data and cover images come from [GameFAQs](https://gamefaqs.com). It is temporary, and a move to data from [MobyGames](https://mobygames.com) is in development. 
+
+In the meantine, feel free to contact me with any addition or errata at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+<nav id="timeline-nav">
+  <{%- if page.region contains 'JP' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/jp"{%- endif -%}>
+    <img alt="Japan" class="labels" src="/assets/timeline/jpn.svg">
+    <span>Japan</span>
+  </{%- if page.region contains 'JP' -%}div{%- else -%}a{%- endif -%}>
+  <{%- if page.region contains 'NA' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/na"{%- endif -%}>
+    <img alt="North America" class="labels" src="/assets/timeline/na.svg">
+    <span>North America</span>
+  </{%- if page.region contains 'NA' -%}div{%- else -%}a{%- endif -%}>
+  <{%- if page.region contains 'EU' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="/timeline/eu"{%- endif -%}>
+    <img alt="Japan" class="labels" src="/assets/timeline/eur.svg">
+    <span>Europe</span>
+  </{%- if page.region contains 'EU' -%}div{%- else -%}a{%- endif -%}>
+</nav>
