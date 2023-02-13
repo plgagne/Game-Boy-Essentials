@@ -14,7 +14,7 @@ weight: 1
 {%- assign articlepub = true -%}
 {%- assign sorted = site.articles | sort: "publication" | reverse -%}
 {%- for article in sorted -%}
-{%- include game.html -%}
+  {%- include game.html -%}
 {%- endfor -%}
 {%- assign articlepub = false -%}
 </section>
@@ -23,13 +23,13 @@ weight: 1
 {%- assign articles_grouped = site.articles | group_by: 'release-year' -%}
 {%- assign sorted = articles_grouped | sort: 'name' -%}
 {%- for group in sorted -%}
-<div class="year" id="year{{ group.name | round }}">
-{{- group.name | round -}}
-</div>
-{%- assign sorting = group.items | sort: 'release-month' -%}
-{%- for article in sorting -%}
-{%- include game.html -%}
-{%- endfor -%}
+  <div class="year" id="year{{ group.name | round }}">
+  {{- group.name | round -}}
+  </div>
+  {%- assign sorting = group.items | sort: 'release-month' -%}
+  {%- for article in sorting -%}
+    {%- include game.html -%}
+  {%- endfor -%}
 {%- endfor -%}
 {%- assign gamerelease = false -%}
 <script>
