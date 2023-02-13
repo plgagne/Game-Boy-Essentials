@@ -1,6 +1,6 @@
 <footer>
-	{% if page.layout == "timeline" %}<div>Timeline icons created by <a href="https://www.freepik.com" title="Freepik">Freepik</a> on <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></div>
-	<div>North America icon created by <a href="https://www.flaticon.com/free-icons/north-america" title="north-america icons">ChilliColor on Flaticon</a>{% else %}{% endif %}
+	{%- if page.layout == "timeline" -%}<div>Timeline icons created by <a href="https://www.freepik.com" title="Freepik">Freepik</a> on <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></div>
+	<div>North America icon created by <a href="https://www.flaticon.com/free-icons/north-america" title="north-america icons">ChilliColor on Flaticon</a>{%- else -%}{%- endif -%}
 	<form title="Search" enctype="multipart/form-data" action="https://duckduckgo.com/" method="get">
 		<input type="search" name="q" maxlength="255" value="" spellcheck="false" placeholder="Search…">
 		<input type="hidden" name="sites" value="gameboyessentials.com">

@@ -1,18 +1,18 @@
-{% include head.html %}
-{% include header.html %}
-{% assign number_of_articles = 0 %}
-{% for article in site.articles %}
-	{% if article.tags contains page.name or page.name == post.tags %}
-		{% assign number_of_articles = number_of_articles | plus: 1 %}
-	{% endif %}
-{% endfor %}
+{%- include head.html -%}
+{%- include header.html -%}
+{%- assign number_of_articles = 0 -%}
+{%- for article in site.articles -%}
+	{%- if article.tags contains page.name or page.name == post.tags -%}
+		{%- assign number_of_articles = number_of_articles | plus: 1 -%}
+	{%- endif -%}
+{%- endfor -%}
 {{ number_of_articles }}
 <main id="article">
 {%- assign sorted = site.articles | sort: "publication" -%}
-{% for article in sorted %}
-	{% if article.tags contains page.name or page.name == post.tags %}
+{%- for article in sorted -%}
+	{%- if article.tags contains page.name or page.name == post.tags -%}
 		{{- article.content -}}
-	{% endif %}
-{% endfor %}
+	{%- endif -%}
+{%- endfor -%}
 </main>
-{% include footer.html %}
+{%- include footer.html -%}
