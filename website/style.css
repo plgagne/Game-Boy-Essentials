@@ -313,13 +313,17 @@ object {
 	padding: 0.2em;
 }
 figure:not(.float) {
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+figure.gallery {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 video,
 audio {
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 5em;
+	margin-bottom: 5em;
 }
 video {
 	width: 160px;
