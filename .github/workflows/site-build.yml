@@ -58,7 +58,7 @@ jobs:
           create_branch: true
           branch: site-build
 
-          file_pattern: "website/_site-github-action/*"
+          file_pattern: "_site-github-action/*"
 
           # Optional. Options used by `git-commit`.
           # See https://git-scm.com/docs/git-commit#_options
@@ -70,4 +70,4 @@ jobs:
 
           # Optional. Local file path to the repository.
           # Defaults to the root of the repository.
-          repository: website/_site-github-action
+          # repository: website/_site-github-action
