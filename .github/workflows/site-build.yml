@@ -52,7 +52,7 @@ jobs:
         # below accordingly.
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./website/_site-github-action
+          publish_dir: website/_site-github-action
           publish_branch: site-build  # default: gh-pages
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
