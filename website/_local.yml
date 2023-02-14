@@ -3,4 +3,4 @@ host: localhost
 url: ""
 baseurl: ""
 destination: "_site-local"
-exclude: [/_site-local, /projects, prebuild.sh]
+exclude: [/_site-local, /projects, build.sh]

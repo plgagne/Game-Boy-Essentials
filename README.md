@@ -1,12 +1,10 @@
-# Tâches
+# Game Boy Essentials
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
+# Tâches
 - Envoyer des copies de mes livres à Bibliothèque et Archives (https://bibliotheque-archives.canada.ca/fra/services/editeurs/depot-legal/Pages/depot-publications-imprimees.aspx)
 - Terminer timeline
     - Migrer les données de timeline sur Mobygames
-    - enlever les images de pays et les bordures de couleur dans les sous-sections de timeline
-- enlever .DS_Store de _site avant de publier
-- prendre des photos pour le buyer's guide
 - Traduire les mauvaises idées
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
@@ -22,6 +20,7 @@
 - Terminer l'intégration de backstopJS dans un postbuild.sh
 - Implanter SASS
 - Avoir une liste complète des logiciels nécessaires pour les mettre à jour (xelatex, kramdown, backstopJS, curl)
+- Trouver comment avoir des secrets dans un github public
 
 ## Liste de vérification pour publication d'un article
 - [ ] Vérifier que toutes les dates sont bien incluses (incluant l'europe)
@@ -57,11 +56,10 @@
     - You just don’t know enough CSS to make it sharp; what would be beautiful cannot be achieved with the ethos of simple, readable CSS
 - Using SCSS
     - Fuck that noise; clean, simple CSS is one file, written in a reasonable order and SCSS introduces weird edge cases that I cannot figure out.
-- Using Github Pages to publish the website
-    - The plugins you use are too niche to work with the classic Github Pages interface. Any of the custom Github Actions require more fiddling with Git than you know about. And Github Actions are not free, I think?
-    - Tu l'utilises en ce moment mais il y a un bogue qui l'arrête de fonctionner. C'est un chateau de cartes trop compliqué.
+- Utiliser Github Pages pour le site web
+    - C'est interdit de l'utiliser à des fins commerciales.
 - Créer un _includes pour la page d'accueil
-    - Il apparait juste une fois, c'est inutile.
+    - Le code apparait juste une fois, c'est inutile.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre

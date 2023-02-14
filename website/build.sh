@@ -15,3 +15,10 @@ find "assets" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' lin
   fi
 done
 echo "${RED}Card images checked."
+
+# Batir le site
+JEKYLL_ENV=production bundle exec jekyll build
+
+# Trouver et enlever les fichiers de macOS
+find "_site" -type f -name '.DS_store' -delete
+echo "${RED}.DS_store in _site removed."

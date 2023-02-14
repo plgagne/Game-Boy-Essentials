@@ -6,7 +6,7 @@ baseurl: ""
 email: "pl@gameboyessentials.com"
 icon-512: "/apple-touch-icon.png"
 description: "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success."
-exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test, prebuild.sh]
+exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test, build.sh]
 incremental: false
 
 ## Use of Collections for my articles
