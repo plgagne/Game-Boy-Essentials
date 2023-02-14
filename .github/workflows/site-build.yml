@@ -46,28 +46,14 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Push Build to Branch
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: peaceiris/actions-gh-pages@v3
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
         with:
-          # Optional. Commit message for the created commit.
-          # Defaults to "Apply automatic changes"
-          commit_message: Github Action Site Build
-
-          # Optional. Local and remote branch name where commit is going to be pushed
-          #  to. Defaults to the current branch.
-          #  You might need to set `create_branch: true` if the branch does not exist.
-          create_branch: true
-          branch: site-build
-
-          file_pattern: "*_site-github-action/*"
-
-          # Optional. Options used by `git-commit`.
-          # See https://git-scm.com/docs/git-commit#_options
-          # commit_options: '--no-verify --signoff'
-
-          # Optional. Options used by `git-add`.
-          # See https://git-scm.com/docs/git-add#_options
-          # add_options: '-u'
-
-          # Optional. Local file path to the repository.
-          # Defaults to the root of the repository.
-          # repository: website/_site-github-action
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./website/_site-github-action
+          publish_branch: site-build  # default: gh-pages
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: publication avec Github Actions
