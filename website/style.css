@@ -313,8 +313,8 @@ object {
 	padding: 0.2em;
 }
 figure:not(.float) {
-	margin-top: 5em;
-	margin-bottom: 5em;
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 figure.gallery {
 	margin-top: 1em;
@@ -397,7 +397,7 @@ ol {
 	list-style: decimal;
 }
 li {
-	margin-left: 1em;
+	margin-left: 1.2em;
 }
 /* Tables */
 table {
