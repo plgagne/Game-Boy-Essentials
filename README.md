@@ -2,7 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 # Tâches
-- Envoyer des copies de mes livres à Bibliothèque et Archives (https://bibliotheque-archives.canada.ca/fra/services/editeurs/depot-legal/Pages/depot-publications-imprimees.aspx)
+- Envoyer des copies de mes livres à Bibliothèque et Archives
 - Terminer timeline
     - Migrer les données de timeline sur Mobygames
 - Traduire les mauvaises idées
