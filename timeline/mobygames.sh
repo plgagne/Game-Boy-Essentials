@@ -82,33 +82,31 @@ games_fetch() {
     jq -r '.[]' $list | while read id; do
         
         echo "${RED}Game id:$id"
+        
         # Get detailed release
         fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&format=normal&id=$id")
         echo $fetched >> $file
         sleep 2
         
         # Get specific platform release
-        # truncate -s -2 temp/game_boy_detailed.json
-        echo ',' >> $file
+        sed -i '' '$s/...$/},/' $file
         fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform?api_key=$key")
         echo $fetched >> $file
         sleep 2
         
         # Get specific platform cover art
-        # truncate -s -2 temp/game_boy_detailed.json
         echo ',' >> $file
         fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform/covers?api_key=$key")
         echo $fetched >> $file
         sleep 2
         
         # End the current game
-        echo ',' >> $file
+        echo ']},' >> $file
     
     done
-    tr -d "\n" < $file > "temp/tmp"
-    truncate -s -1 temp/tmp
-    echo ']' >> "temp/tmp"
-    jsonlint "temp/tmp" > $file
+    tr -d "\n" < $file > "temp/tmp.json"
+    sed -i '' '$s/.$/]/' "temp/tmp.json"
+    jsonlint "temp/tmp.json" > $file
 }
 
 detailed_games_fetch
