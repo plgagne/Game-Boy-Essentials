@@ -44,7 +44,7 @@ gb_gbc_ids_fetch() {
   
 game_ids_fetch() {   
     echo "${RED}Doing platform number:$platform"
-    echo "${RED}$offset"
+    echo "${RED}Offset:$offset"
     for i in {0..8}
         do
             curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&platform=$platform&format=id&offset=$offset" | jq '.' >> $file
@@ -59,25 +59,56 @@ game_ids_fetch() {
     jsonlint -q $file
 }
 
-games_fetch() {
-    file="temp/games.json"
-    rm $file
-    jq -r '.[]' "temp/game_ids.json" | while read id; do
-        curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&format=normal&id=$id" | jq '.' >> $file
-        sleep 2
-    done
-    jsonlint -q $file
-}
+detailed_games_fetch() {
 
-platform_release_fetch() {
+    # GB
     platform=$game_boy
-    file="temp/releases.json"
+    list="temp/game_boy_ids.json"
+    file="temp/game_boy_detailed.json"
     rm $file
-    jq -r '.[]' "temp/game_ids.json" | while read id; do
-        curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform?api_key=$key" | jq '.' >> $file
-        sleep 2
-    done
-    jsonlint -q $file
+    touch $file
+    echo '[' > $file
+    echo "${RED}Doing platform number:$platform"
+    games_fetch
+
+    # GBC
+    #platform=$game_boy_color
+    #list="temp/game_boy_color_ids.json"
+    #file="temp/game_boy_color_detailed.json"
+    #rm $file
 }
 
-gb_gbc_ids_fetch
+games_fetch() {
+    jq -r '.[]' $list | while read id; do
+        
+        echo "${RED}Game id:$id"
+        # Get detailed release
+        fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&format=normal&id=$id")
+        echo $fetched >> $file
+        sleep 2
+        
+        # Get specific platform release
+        # truncate -s -2 temp/game_boy_detailed.json
+        echo ',' >> $file
+        fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform?api_key=$key")
+        echo $fetched >> $file
+        sleep 2
+        
+        # Get specific platform cover art
+        # truncate -s -2 temp/game_boy_detailed.json
+        echo ',' >> $file
+        fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform/covers?api_key=$key")
+        echo $fetched >> $file
+        sleep 2
+        
+        # End the current game
+        echo ',' >> $file
+    
+    done
+    tr -d "\n" < $file > "temp/tmp"
+    truncate -s -1 temp/tmp
+    echo ']' >> "temp/tmp"
+    jsonlint "temp/tmp" > $file
+}
+
+detailed_games_fetch
