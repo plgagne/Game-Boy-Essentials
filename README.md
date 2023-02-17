@@ -2,19 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 # Tâches
-- Envoyer des copies de mes livres à Bibliothèque et Archives
-- Terminer timeline
-    - [x] fetch the list of all Game Boy games
-    - [x] fetch the list of all Game Boy Color games
-    - for each platform
-        - for each game
-            - [x] open an object 
-            - [x] get the game
-            - [] correct release
-            - [] cover
-            - [] close the object
-    - Adapter timeline pour utiliser les nouvelles données
-    - Intégrer les couvertures manquantes de MobyGames avec celles de GameFAQs
+- Intégrer les couvertures manquantes de timeline d'une façon reproductible
 - Traduire les mauvaises idées
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
@@ -70,6 +58,8 @@
     - C'est interdit de l'utiliser à des fins commerciales.
 - Créer un _includes pour la page d'accueil
     - Le code apparait juste une fois, c'est inutile.
+- Utiliser Mobygames pour la ligne du temps
+    - Leurs données sont moins complètes que GameFAQs.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
