@@ -49,7 +49,7 @@ game_ids_fetch() {
         do
             curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&platform=$platform&format=id&offset=$offset" | jq '.' >> $file
             let "offset+=100"
-            echo $offset
+            echo "${RED}Offset:$offset"
             sleep 2
         done
     offset=0
@@ -72,10 +72,14 @@ detailed_games_fetch() {
     games_fetch
 
     # GBC
-    #platform=$game_boy_color
-    #list="temp/game_boy_color_ids.json"
-    #file="temp/game_boy_color_detailed.json"
-    #rm $file
+    platform=$game_boy_color
+    list="temp/game_boy_color_ids.json"
+    file="temp/game_boy_color_detailed.json"
+    rm $file
+    touch $file
+    echo '[' > $file
+    echo "${RED}Doing platform number:$platform"
+    games_fetch
 }
 
 games_fetch() {
@@ -107,6 +111,8 @@ games_fetch() {
     tr -d "\n" < $file > "temp/tmp.json"
     sed -i '' '$s/.$/]/' "temp/tmp.json"
     jsonlint "temp/tmp.json" > $file
+    rm "temp/tmp.json"
 }
 
-detailed_games_fetch
+gb_gbc_ids_fetch
+#detailed_games_fetch
