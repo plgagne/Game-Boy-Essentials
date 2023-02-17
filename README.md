@@ -4,7 +4,17 @@
 # Tâches
 - Envoyer des copies de mes livres à Bibliothèque et Archives
 - Terminer timeline
-    - Migrer les données de timeline sur Mobygames
+    - [x] fetch the list of all Game Boy games
+    - [x] fetch the list of all Game Boy Color games
+    - for each platform
+        - for each game
+            - [x] open an object 
+            - [x] get the game
+            - [] correct release
+            - [] cover
+            - [] close the object
+    - Adapter timeline pour utiliser les nouvelles données
+    - Intégrer les couvertures manquantes de MobyGames avec celles de GameFAQs
 - Traduire les mauvaises idées
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
