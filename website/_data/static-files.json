@@ -1,0 +1,61 @@
+{
+  "art": {
+    "alt": "Picture",
+    "extension": "jpg",
+    "name": "art",
+    "wrapper": "figure"
+  },
+  "art-png": {
+    "alt": "Picture",
+    "extension": "png",
+    "name": "art",
+    "wrapper": "figure"
+  },
+  "audio": {
+    "controllers": "controls",
+    "data-location": "src",
+    "extension": "mp3",
+    "name": "audio",
+    "type": "audio/mpeg",
+    "wrapper": "audio"
+  },
+  "boxart": {
+    "alt": "Boxart",
+    "extension": "jpg",
+    "name": "boxart",
+    "wrapper": "figure"
+  },
+  "boxart-png": {
+    "alt": "Boxart",
+    "extension": "png",
+    "name": "boxart",
+    "wrapper": "figure"
+  },
+  "gb": {
+    "alt": "Game Boy Screenshot",
+    "extension": "png",
+    "name": "gb",
+    "wrapper": "figure"
+  },
+  "pdf": {
+    "data-location": "data",
+    "extension": "pdf",
+    "name": "pdf",
+    "type": "application/pdf",
+    "wrapper": "object"
+  },
+  "pixel": {
+    "alt": "Screenshot",
+    "extension": "png",
+    "name": "pixel",
+    "wrapper": "figure"
+  },
+  "video": {
+    "controllers": "controls loop",
+    "data-location": "src",
+    "extension": "mp4",
+    "name": "video",
+    "type": "video/mp4",
+    "wrapper": "video"
+  }
+}

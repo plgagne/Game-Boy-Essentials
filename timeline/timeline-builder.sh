@@ -90,6 +90,10 @@ echo "Total number of titles in backup:" $total_number
 echo "Total number of titles in YAML file:" $timeline_number
 echo "Total number of releases in hard releases YAML file:" $releases_number
 
+# Convert to JSON
+echo "${RED}Converting to JSON ..."
+cat "results/timeline-releases-only.yml" | yj | jsonlint -s | cat > "results/timeline-releases-only.json"
+
 # Move releases-only to _data folder
 echo "${RED}Moving releases only file to _data folder ..."
-cp "results/timeline-releases-only.yml" "${website_location}/_data/timeline-releases-only.yml"
+cp "results/timeline-releases-only.json" "${website_location}/_data/timeline-releases-only.json"
