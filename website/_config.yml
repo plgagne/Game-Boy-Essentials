@@ -8,7 +8,7 @@ description: "A project to review and talk about the essential games you should 
 exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test, build.sh]
 incremental: false
 
-## Use of Collections for my articles
+## Use of Collections for underscored folders
 collections:
   articles:
     output: true
@@ -22,6 +22,7 @@ collections:
   tags:
     output: true
     permalink: tag/:title/
+
 defaults:
   -
     scope:
@@ -39,25 +40,27 @@ defaults:
       article: true
   -
     scope:
-      path: "drafts"
-    values:
-      layout: article
-      article: true
-  -
-    scope:
       path: ""
       type: tags
     values:
       layout: tags
+  -
+    scope:
+      path: "drafts"
+    values:
+      layout: article
+      article: true
+
+## SASS
+sass:
+  sass_dir: _scss
+  sourcemap: development
+  style: compressed
 
 ## Markdown
 markdown: kramdown
 kramdown:
   entity_output: as_input
-
-## SASS
-sass:
-  sourcemap: never
 
 ## Plugins
 plugins:

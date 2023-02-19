@@ -170,8 +170,15 @@ div.date {
 	font-size: 0.8em;
 	text-align: right;
 }
-/* Book Boxes */
-.book {
+/* Books */
+.books {
+	display: flex;
+	clear: both;
+	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.books_item {
 	vertical-align: top;
 	background: var(--dark-grey);
 	color: var(--lime-green);
@@ -183,29 +190,31 @@ div.date {
 	width: 16rem;
 	height: 100%;
 }
-div.volume {
+.books_title {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.books_volume {
 	display: flex;
 	flex-direction: row;
 	margin-top: 0.5rem;
 }
-div.markets {
+.books_cover {
+	display: flex;
+	flex-direction: column;
+}
+.books_img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.books_markets {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 	height: fit-content;
 	margin-left: 0.8em;
 }
-div.book-cover {
-	display: flex;
-	flex-direction: column;
-}
-.book img {
-	max-width: 100%;
-	max-height: 100%;
-}
-.book a,
-.book a:visited,
-h4 {
+.books_storetitle {
 	display: flex;
 	flex-direction: column;
 	width: 8rem;
@@ -213,17 +222,32 @@ h4 {
 	justify-content: center;
 	text-align: center;
 	padding: 0.2em;
-}
-	.book a,
-	.book a:visited {
-	border-radius: var(--rounded-corners);
-	color: var(--lime-green);
-}
-h4 {
 	color: var(--light-beige);
 	font-size: 1.05em;
 	border-bottom: .1rem solid;
 	border-color: var(--light-beige);
+}
+.books_link {
+	&,
+	&:visited {
+	display: flex;
+	flex-direction: column;
+	width: 8rem;
+	height: 100%;
+	justify-content: center;
+	text-align: center;
+	padding: 0.2em;
+	border-radius: var(--rounded-corners);
+	color: var(--lime-green);
+	}
+	&:hover,
+	&:focus,
+	&:active {
+	cursor: pointer;
+	background: var(--sharp-blue);
+	color: black;
+	transition: .2s ease-out;
+	}
 }
 /* Articles */
 #article {
@@ -287,8 +311,7 @@ img {
 	-ms-interpolation-mode: nearest-neighbor;
 	vertical-align: bottom;
 }
-.gallery-container,
-.book-container {
+.gallery-container {
 	display: flex;
 	clear: both;
 	text-align: center;
@@ -512,10 +535,7 @@ a:active {
 /* Links on var(--dark-grey) */
 .game:hover,
 .game:focus,
-.game:active,
-.book a:hover,
-.book a:focus,
-.book a:active {
+.game:active {
 	cursor: pointer;
 	background: var(--sharp-blue);
 	color: black;
