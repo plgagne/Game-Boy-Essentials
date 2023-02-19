@@ -1,0 +1,20 @@
+{
+    "name": "Game Boy Essentials",
+    "short_name": "GB Essentials",
+    "icons": [
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/safari-pinned-tab.png",
+            "sizes": "any",
+            "type": "image/svg",
+            "purpose": "monochrome"
+        }
+    ],
+    "theme_color": "#4e4d4a",
+    "background_color": "#c1c1c1",
+    "display": "standalone"
+}
