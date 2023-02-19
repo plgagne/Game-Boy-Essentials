@@ -2,15 +2,16 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-- Intégrer les couvertures manquantes de timeline d'une façon reproductible
 - Traduire les mauvaises idées
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
     - https://www.amazon.com/s?k=game+boy+essentials+book
     - https://www.barnesandnoble.com/s/game%20boy%20essentials
 
+
 ## Long terme
-- Intégrer les bonnes idées d'un web app manifest (<link rel="manifest" href="manifest.json" />)
+- Simplifier la structure des images de timeline
+    - ensuite, ajouter des images non-disponible
 - Jouer à https://taylormccue.itch.io/trauma
 - Produire une automatisation pour faire un ebook
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
