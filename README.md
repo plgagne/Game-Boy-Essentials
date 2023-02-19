@@ -2,6 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Transférer les classes en BEM (https://getbem.com) et les réimplenter en SCSS
 - Traduire les mauvaises idées
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
