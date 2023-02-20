@@ -169,6 +169,106 @@ object {
   background-position: left;
 }
 
+// Timeline
+:root {
+	--light-beige: #e9e9e9;
+	--lime-green: #94ba65;
+	--sharp-blue: #2790b0;
+	--dark-grey: #4e4d4a;
+	--light-grey: #c1c1c1;
+	--na-white: #fff;
+	--jpn-red: #bc002d;
+	--eur-blue: #039;
+	--rounded-corners: 0.25em;
+}
+#timeline-nav {
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+	margin-bottom: 3em;
+}
+.timeline-nav-element, #selected {
+	width: 10.5rem;
+	padding: 0.5em;
+	display: flex;
+	margin: 0.2em auto;
+	border: 2px solid var(--dark-grey);
+	border-radius: var(--rounded-corners);
+	color: black;
+}
+.timeline-nav-element img, #selected img {
+	max-width: 3rem;
+}
+#selected {
+	background: var(--sharp-blue);
+}
+.timeline-nav-element:hover,
+.timeline-nav-element:focus,
+.timeline-nav-element:active {
+	cursor: pointer;
+	background: var(--sharp-blue);
+	color: var(--lime-green);
+	transition: .2s ease-out;
+}
+#timeline h2 {
+	position: sticky;
+	top: 0;
+	font-family: "GB";
+	font-size: 1.05rem;
+	margin-bottom: 1rem;
+	background: var(--light-beige);
+	width: 4.2rem;
+	display: flex;
+	justify-content: flex-end;
+	white-space: nowrap;
+	z-index: 1;
+	padding-top: 0;
+	border-bottom: .12rem solid;
+}
+#timeline h3 {
+	position: sticky;
+	top: 1.6rem;
+	font-size: 0.75rem;
+	width: 4.2rem;
+	display: flex;
+	justify-content: flex-end;
+	white-space: nowrap;
+	z-index: 0;
+}
+section.month {
+	margin-left: 4.2rem;
+	margin-bottom: .75rem;
+}
+.release_list {
+	display: block;
+}
+figure.timeline {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0.2em;
+	width: 10rem;
+}
+figure.timeline p {
+	font-size: 0.85rem;
+}
+.cover {
+	max-width: 100%;
+}
+#timeline figcaption {
+	display: flex;
+	padding-top: 0;
+}
+#timeline figcaption p {
+	margin: auto;
+}
+.fact_list {
+	margin-top: 1em;
+	padding: 0 0 0 0;
+}
+.fact_list a.ref {
+	padding: 0 .3rem;
+}
+
 // COMPLETED
 
 // Header
@@ -358,28 +458,16 @@ hr {
   margin-left: 0.8em;
 }
 .books_storetitle {
-  display: flex;
-  flex-direction: column;
-  width: 8rem;
-  height: 100%;
-  justify-content: center;
-  text-align: center;
-  padding: 0.2em;
+  @include button;
   color: $light-beige;
   font-size: 1.05em;
-  border-bottom: .1rem solid;
   border-color: $light-beige;
+  border-bottom: .1rem solid;
 }
 .books_link {
   &,
   &:visited {
-  display: flex;
-  flex-direction: column;
-  width: 8rem;
-  height: 100%;
-  justify-content: center;
-  text-align: center;
-  padding: 0.2em;
+  @include store;
   @include button;
   }
   &:hover,
