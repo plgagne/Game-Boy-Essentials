@@ -6,11 +6,15 @@ redirect_from:
 layout: "main"
 weight: 1
 ---
-<input type="radio" id="pub" name="grouplist" checked="checked">
-<input type="radio" id="rel" name="grouplist">
-<label id="publabel" for="pub"><span>Article Publication</span></label>
-<label id="rellabel" for="rel"><span>Earliest Release Date</span></label>
-<section id="articlepub">
+<input class="list_input" type="radio" id="pub" name="grouplist" checked="checked">
+<input class="list_input" type="radio" id="rel" name="grouplist">
+<label class="list_labelpublication" for="pub">
+  <span class="list_span">Article Publication</span>
+</label>
+<label class="list_labelrelease" for="rel">
+  <span class="list_span">Earliest Release Date</span>
+</label>
+<section class="list_publication">
 {%- assign articlepub = true -%}
 {%- assign sorted = site.articles | sort: "publication" | reverse -%}
 {%- for article in sorted -%}
@@ -18,12 +22,12 @@ weight: 1
 {%- endfor -%}
 {%- assign articlepub = false -%}
 </section>
-<section id="gamerelease">
+<section class="list_release">
 {%- assign gamerelease = true -%}
 {%- assign articles_grouped = site.articles | group_by: 'release-year' -%}
 {%- assign sorted = articles_grouped | sort: 'name' -%}
 {%- for group in sorted -%}
-  <div class="year" id="year{{ group.name | round }}">
+  <div class="list_year" id="year{{ group.name | round }}">
   {{- group.name | round -}}
   </div>
   {%- assign sorting = group.items | sort: 'release-month' -%}

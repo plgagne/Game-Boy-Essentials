@@ -1,4 +1,4 @@
-/* General Classes */
+// General Classes
 html {
 	height: 100%;
 	min-width: 100%; 
@@ -12,116 +12,7 @@ html {
 	text-shadow: none; 
 }
 
-/* Main page lists */
-#list {
-	text-align: center;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-input[type="radio"] {
-	display: none;
-}
-label {
-	display: flex;
-	margin: 0.2em auto;
-	list-style: none;
-	border: 2px solid $dark-grey;
-	border-radius: $rounded-corners;
-	width: 15rem;
-	padding: 0.5em;
-}
-span {
-	margin: auto;
-}
-label:hover,
-label:focus,
-label:active {
-	cursor: pointer;
-	color: $sharp-blue;
-	transition: .2s ease-out;
-}
-input#pub:checked ~ #gamerelease,
-input#rel:checked ~ #articlepub {
-	display: none;
-}
-input#pub:checked ~ #articlepub,
-input#rel:checked ~ #gamerelease {
-	display: block;
-}
-input#pub:checked ~ #publabel,
-input#rel:checked ~ #rellabel {
-	background: $sharp-blue;
-	color: black;
-}
-#articlepub, #gamerelease {
-	margin-top: 1em;
-}
-h2 {
-	font-weight: 100;
-	clear: both;
-}
-div.year {
-	font-size: 2em;
-	font-weight: 100;
-	clear: both;
-	width: 100%;
-	height: 2.6em;
-	line-height: 2.7em;
-	margin-bottom: 0.3em;
-}
-
-/* Articles */
-#article {
-	margin: 0 auto;
-	padding: 0 0.2rem 0;
-	max-width: 72ch;
-}
-h1, h2 {
-	font-weight: 100;
-	clear: both;
-	padding-top: 0.3em;
-}
-h1 {
-	font-size: 3em;
-}
-h2 {
-	font-size: 2.5em;
-}
-h3,
-caption {
-	font-size: 1.1em;
-	font-weight: bold;
-}
-p,
-blockquote,
-ul,
-ol {
-	margin-bottom: 1em;
-	font-size: 1.05rem;
-}
-strong {
-	font-weight: bold;
-}
-em {
-	font-style: italic;
-}
-blockquote {
-	padding-left: 0.5em; 
-	margin: 0 1em 1em 1em; 
-	border-left: 2px solid black;
-	quotes: none;
-}
-blockquote:before,
-blockquote:after {
-	content: '';
-	content: none; 
-}
-code {
-	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-	word-break: break-all;
-}
-/* Media */
+// Media
 img {
 	vertical-align: top;
 }
@@ -220,80 +111,21 @@ object {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
-hr {
-	border: 0;
-	height: 2px;
-	background-color: black;
-	margin: 1.2em 0;
+
+// Media Queries
+@media only screen and (max-width: 640px) {
+	.left, .right {
+	float: none;
+	margin: 0 auto;
+	}
+	.pixel, .art, .boxart {
+	max-width: 90%;
+	}
 }
-/* Lists */
-ul,
-ol { 
-	padding: 0 0 0 2.5em;
-	overflow: hidden;
-}
-ul {
-	list-style: disc;
-}
-ol {
-	list-style: decimal;
-}
-li {
-	margin-left: 1.2em;
-}
-/* Tables */
-table {
-	table-layout: fixed;
-	width: 100%;
-	margin: 0.5em 0;
-	border-spacing: 0;
-	border: 1px solid black;
-}
-th {
-	background-color: $dark-grey;
-	color: $light-beige;
-}
-th,
-td {
-	padding: 0.5em;
-	text-align: center;
-	vertical-align: middle;
-	border: 1px solid black;
-	width: 20%;
-	word-break: normal;
-}
-tr:nth-child(even) {
-	background-color: $light-grey;
-}
-#year1989, #year1990, #year1991, #year1992, #year1993, #year1994, #year1995, #year1996, #year1997 { 
-	background: #8BB317;
-	font-family: "gb";
-}
-#year1998 { 
-	background: #3D3597;
-	font-family: "gb";
-}
-#year1999 { 
-	background: #A82332;
-	font-family: "gb";
-}
-#year2000 { 
-	background: #5DA61A;
-	font-family: "gb";
-}
-#year2001 { 
-	background: #D19E21;
-	font-family: "gb";
-}
-#year2002 { 
-	background: #338377;
-	font-family: "gb";
-}
-/* Article navigation */
+
+// Article navigation
 #navigation {
 	margin-bottom: 1em;
-}
-#navigation {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
@@ -310,6 +142,7 @@ tr:nth-child(even) {
 	width: 15rem;
 	min-height: 2rem;
 	margin: 0.4em;
+	text-decoration: none;
 }
 #navigation .text {
 	padding: 0.4em 0;
@@ -317,48 +150,28 @@ tr:nth-child(even) {
 #navigation a.left-button {
 	background: linear-gradient(to right, $light-beige 50%, $sharp-blue 50%);
 	background-size: 200%;
-	transition: .5s ease-out;
+	transition: .2s ease-out;
 }
 #navigation a.left-button:hover {
 	background-position: right;
-	transition: .5s ease-out;
+	transition: .2s ease-out;
 }
 #navigation a.centre:hover {
 	background: $sharp-blue;
+	transition: .2s ease-out;
 }
 #navigation a.right-button {
 	background: linear-gradient(to left, $light-beige 50%, $sharp-blue 50%) right;
 	background-size: 200%;
-	transition: .5s ease-out;
+	transition: .2s ease-out;
 }
 #navigation a.right-button:hover {
 	background-position: left;
 }
 
-/* Links on  $light-grey */
-a, 
-a:visited {
-	@include link;
-}
-a:hover,
-a:active {
-	@include link-focus;
-}
+// COMPLETED
 
-/* Media Queries */
-@media only screen and (max-width: 640px) {
-	.left, .right {
-	float: none;
-	margin: 0 auto;
-	}
-	.pixel, .art, .boxart {
-	max-width: 90%;
-	}
-}
-
-/* COMPLETED */
-
-/* Header */
+// Header
 .header {
 	background: $dark-grey;
 	text-align: center;
@@ -375,6 +188,7 @@ a:active {
 	color: $lime-green;
 	padding-bottom: 0.2em;
 	display: inline-block;
+	text-decoration: none;
 	}
 }
 .header_menu {
@@ -395,7 +209,61 @@ a:active {
 	}
 }
 
-/* Game Items */
+// Main Page Game List
+.list {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.list_input {
+	display: none;
+}
+.list_labelpublication,
+.list_labelrelease {
+	& {
+	width: 15rem;
+	@include radio;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+	cursor: pointer;
+	color: $sharp-blue;
+	transition: .2s ease-out;
+	}
+}
+input#pub:checked ~ .list_labelpublication,
+input#rel:checked ~ .list_labelrelease {
+	background: $sharp-blue;
+	color: black;
+}
+.list_span {
+	margin: auto;
+}
+input#pub:checked ~ .list_release,
+input#rel:checked ~ .list_publication {
+	display: none;
+}
+input#pub:checked ~ .list_publication,
+input#rel:checked ~ .list_release {
+	display: block;
+}
+.list_publication,
+.list_release {
+	margin-top: 1em;
+}
+.list_year {
+	font-size: 2em;
+	font-weight: 100;
+	clear: both;
+	width: 100%;
+	height: 2.6em;
+	line-height: 2.7em;
+	margin-bottom: 0.3em;
+}
+
+// Main Page Game Items
 .game {
 	&,
 	&:visited {
@@ -433,7 +301,23 @@ a:active {
 	text-align: right;
 }
 
-/* Books */
+// Articles & Pages Container
+.article,
+.page {
+	margin: 0 auto;
+	padding: 0 0.2rem 0;
+	max-width: 72ch;
+}
+
+// Articles Footer
+hr {
+	border: 0;
+	height: 2px;
+	background-color: black;
+	margin: 1.2em 0;
+}
+
+// Book Items
 .books {
 	display: flex;
 	clear: both;
@@ -505,7 +389,7 @@ a:active {
 	}
 }
 
-/* Footer */
+// Footer
 .footer {
 	margin-top: 5em;
 	padding: 2em 0;
@@ -517,7 +401,7 @@ a:active {
 .footer_link {
 	&,
 	&:visited {
-		@include link;
+	@include link;
 	}
 	&:hover,
 	&:focus,
