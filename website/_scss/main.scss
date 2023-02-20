@@ -1,85 +1,17 @@
-:root {
-	--light-beige: #e9e9e9;
-	--lime-green: #94ba65;
-	--sharp-blue: #2790b0;
-	--dark-grey: #4e4d4a;
-	--light-grey: #c1c1c1;
-	--usa-can-white: #fff;
-	--jpn-red: #bc002d;
-	--eur-blue: #039;
-	--rounded-corners: 0.25em;
-}
-@font-face {
-	font-family: 'GB';
-	src: url(data:application/x-font-woff;charset=utf-8;base64,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) format('woff');
-	font-weight: normal;
-	font-style: normal;
-}
-/* Reset */
-html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, cite, code, del, em, img, strong, sub, sup, ol, ul, li, form, table, caption, tbody, tfoot, thead, tr, th, td, article, figure, figcaption, footer, header, nav, section, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
 /* General Classes */
 html {
 	height: 100%;
 	min-width: 100%; 
-	background: var(--light-beige);
+	background: $light-beige;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Avenir Next", system-ui, Verdana, sans-serif;
 	line-height: 1.5;
 }
 ::selection {
-	background: var(--lime-green);
+	background: $lime-green;
 	color: white;
 	text-shadow: none; 
 }
-/* Header */
-header,
-footer {
-	background: var(--dark-grey);
-	text-align: center;
-}
-header, #navigation {
-	margin-bottom: 1em;
-}
-header div, #menu {
-	padding-bottom: 0.4em;
-}
-header div a,
-header div a:hover,
-header div a:active,
-header div a:visited {
-	font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
-	font-style: italic;
-	font-weight: 600;
-	color: var(--lime-green);
-	width: 20rem;
-	height: 20rem;
-	}
-#menu a,
-#menu a:visited {
-	display: inline-block;
-	border-radius: var(--rounded-corners);
-	color: var(--lime-green);
-}
-#menu a,
-#menu a:visited,
-footer div {
-	font-size: 1.2rem;
-	padding: 0.1em 0.6em;
-}
-#menu a:hover,
-#menu a:focus,
-#menu a:active {
-	cursor: pointer;
-	background: var(--sharp-blue);
-	color: black;
-	transition: .2s ease-out;
-}
+
 /* Main page lists */
 #list {
 	text-align: center;
@@ -94,8 +26,8 @@ label {
 	display: flex;
 	margin: 0.2em auto;
 	list-style: none;
-	border: 2px solid var(--dark-grey);
-	border-radius: var(--rounded-corners);
+	border: 2px solid $dark-grey;
+	border-radius: $rounded-corners;
 	width: 15rem;
 	padding: 0.5em;
 }
@@ -106,7 +38,7 @@ label:hover,
 label:focus,
 label:active {
 	cursor: pointer;
-	color: var(--sharp-blue);
+	color: $sharp-blue;
 	transition: .2s ease-out;
 }
 input#pub:checked ~ #gamerelease,
@@ -119,7 +51,7 @@ input#rel:checked ~ #gamerelease {
 }
 input#pub:checked ~ #publabel,
 input#rel:checked ~ #rellabel {
-	background: var(--sharp-blue);
+	background: $sharp-blue;
 	color: black;
 }
 #articlepub, #gamerelease {
@@ -138,117 +70,7 @@ div.year {
 	line-height: 2.7em;
 	margin-bottom: 0.3em;
 }
-/* Game Items & Book Links */
-.game, .game:visited {
-	display: inline-block;
-}
-.game, .game:visited {
-	vertical-align: top;
-	background: var(--dark-grey);
-	color: var(--lime-green);
-	border-radius: 0.25em;
-	margin: 0.4em;
-	padding: 0.2em;
-	max-width: 320px;
-}
-.game img {
-	width: 320px;
-	max-width: 100%;
-	height: 100%;
-}
-div.title {
-	margin-top: 0.2em;
-	margin-bottom: 0.2em;
-}
-div.developers {
-	text-align: left;
-	font-size: 0.8em;
-	margin-left: 0.2em;
-}
-div.date {
-	margin-top: 0.2em;
-	font-size: 0.8em;
-	text-align: right;
-}
-/* Books */
-.books {
-	display: flex;
-	clear: both;
-	text-align: center;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-.books_item {
-	vertical-align: top;
-	background: var(--dark-grey);
-	color: var(--lime-green);
-	border-radius: var(--rounded-corners);
-	margin: 0.4em;
-	padding: 0.2em;
-	justify-content: center;
-	flex-direction: column;
-	width: 16rem;
-	height: 100%;
-}
-.books_title {
-	font-size: 1.1em;
-	font-weight: bold;
-}
-.books_volume {
-	display: flex;
-	flex-direction: row;
-	margin-top: 0.5rem;
-}
-.books_cover {
-	display: flex;
-	flex-direction: column;
-}
-.books_img {
-	max-width: 100%;
-	max-height: 100%;
-}
-.books_markets {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	height: fit-content;
-	margin-left: 0.8em;
-}
-.books_storetitle {
-	display: flex;
-	flex-direction: column;
-	width: 8rem;
-	height: 100%;
-	justify-content: center;
-	text-align: center;
-	padding: 0.2em;
-	color: var(--light-beige);
-	font-size: 1.05em;
-	border-bottom: .1rem solid;
-	border-color: var(--light-beige);
-}
-.books_link {
-	&,
-	&:visited {
-	display: flex;
-	flex-direction: column;
-	width: 8rem;
-	height: 100%;
-	justify-content: center;
-	text-align: center;
-	padding: 0.2em;
-	border-radius: var(--rounded-corners);
-	color: var(--lime-green);
-	}
-	&:hover,
-	&:focus,
-	&:active {
-	cursor: pointer;
-	background: var(--sharp-blue);
-	color: black;
-	transition: .2s ease-out;
-	}
-}
+
 /* Articles */
 #article {
 	margin: 0 auto;
@@ -304,11 +126,8 @@ img {
 	vertical-align: top;
 }
 .gb img,
-.pixel img,
-.game img {
-	image-rendering: -moz-crisp-edges;
+.pixel img {
 	image-rendering: pixelated;
-	-ms-interpolation-mode: nearest-neighbor;
 	vertical-align: bottom;
 }
 .gallery-container {
@@ -329,9 +148,9 @@ audio,
 object {
 	display: grid;
 	clear: both;
-	background-color: var(--light-grey);
+	background-color: $light-grey;
 	text-align: center;
-	border-radius: var(--rounded-corners);
+	border-radius: $rounded-corners;
 	margin: 0 auto;
 	padding: 0.2em;
 }
@@ -431,8 +250,8 @@ table {
 	border: 1px solid black;
 }
 th {
-	background-color: var(--dark-grey);
-	color: var(--light-beige);
+	background-color: $dark-grey;
+	color: $light-beige;
 }
 th,
 td {
@@ -444,7 +263,7 @@ td {
 	word-break: normal;
 }
 tr:nth-child(even) {
-	background-color: var(--light-grey);
+	background-color: $light-grey;
 }
 #year1989, #year1990, #year1991, #year1992, #year1993, #year1994, #year1995, #year1996, #year1997 { 
 	background: #8BB317;
@@ -470,10 +289,9 @@ tr:nth-child(even) {
 	background: #338377;
 	font-family: "gb";
 }
-/* Nav & Footer */
-form {
-	margin-top: 0.8em;
-	padding-bottom: 0.8em;
+/* Article navigation */
+#navigation {
+	margin-bottom: 1em;
 }
 #navigation {
 	display: flex;
@@ -487,8 +305,8 @@ form {
 	flex-direction: column;
 	text-align: center;
 	color: black;
-	border: 2px solid var(--dark-grey);
-	border-radius: var(--rounded-corners);
+	border: 2px solid $dark-grey;
+	border-radius: $rounded-corners;
 	width: 15rem;
 	min-height: 2rem;
 	margin: 0.4em;
@@ -497,7 +315,7 @@ form {
 	padding: 0.4em 0;
 }
 #navigation a.left-button {
-	background: linear-gradient(to right, var(--light-beige) 50%, var(--sharp-blue) 50%);
+	background: linear-gradient(to right, $light-beige 50%, $sharp-blue 50%);
 	background-size: 200%;
 	transition: .5s ease-out;
 }
@@ -506,41 +324,27 @@ form {
 	transition: .5s ease-out;
 }
 #navigation a.centre:hover {
-	background: var(--sharp-blue);
+	background: $sharp-blue;
 }
 #navigation a.right-button {
-	background: linear-gradient(to left, var(--light-beige) 50%, var(--sharp-blue) 50%) right;
+	background: linear-gradient(to left, $light-beige 50%, $sharp-blue 50%) right;
 	background-size: 200%;
 	transition: .5s ease-out;
 }
 #navigation a.right-button:hover {
 	background-position: left;
 }
-footer {
-	margin-top: 5em;
-	padding: 2em 0;
-}
-/* Links on  var(--light-grey) */
+
+/* Links on  $light-grey */
 a, 
 a:visited {
-	color: var(--sharp-blue);
-	text-decoration: none;
+	@include link;
 }
 a:hover,
 a:active {
-	color: var(--lime-green);
-	text-decoration: none;
-	transition: .2s ease-out;
+	@include link-focus;
 }
-/* Links on var(--dark-grey) */
-.game:hover,
-.game:focus,
-.game:active {
-	cursor: pointer;
-	background: var(--sharp-blue);
-	color: black;
-	transition: .2s ease-out;
-}
+
 /* Media Queries */
 @media only screen and (max-width: 640px) {
 	.left, .right {
@@ -550,4 +354,182 @@ a:active {
 	.pixel, .art, .boxart {
 	max-width: 90%;
 	}
+}
+
+/* COMPLETED */
+
+/* Header */
+.header {
+	background: $dark-grey;
+	text-align: center;
+	margin-bottom: 1em;
+}
+.header_title {
+	&,
+	&:hover,
+	&:active,
+  &:visited {
+	font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
+	font-style: italic;
+	font-weight: 600;
+	color: $lime-green;
+	padding-bottom: 0.2em;
+	display: inline-block;
+	}
+}
+.header_menu {
+	padding-bottom: 0.4em;
+}
+.header_link {
+	&,
+	&:visited {
+	display: inline-block;
+	font-size: 1.2rem;
+	padding: 0.1em 0.6em;
+	@include button;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+	@include button-focus;
+	}
+}
+
+/* Game Items */
+.game {
+	&,
+	&:visited {
+	@include dark-box;
+	display: inline-block;
+	max-width: 320px;
+	@include button;
+	}
+	&:hover,
+  &:focus,
+	&:active {
+	@include button-focus;
+	}
+}
+.game_img {
+	width: 320px;
+	max-width: 100%;
+	height: 100%;
+	image-rendering: pixelated;
+	vertical-align: bottom;
+}
+.game_title {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+.game_developers {
+	text-align: left;
+	font-size: 0.8em;
+	margin-left: 0.2em;
+}
+.game_publication,
+.game_release {
+	margin-top: 0.2em;
+	font-size: 0.8em;
+	text-align: right;
+}
+
+/* Books */
+.books {
+	display: flex;
+	clear: both;
+	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.books_item {
+	@include dark-box;
+	justify-content: center;
+	flex-direction: column;
+	width: 16rem;
+	height: 100%;
+}
+.books_title {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.books_volume {
+	display: flex;
+	flex-direction: row;
+	margin-top: 0.5rem;
+}
+.books_cover {
+	display: flex;
+	flex-direction: column;
+}
+.books_img {
+	vertical-align: top;
+	max-width: 100%;
+	max-height: 100%;
+}
+.books_markets {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: fit-content;
+	margin-left: 0.8em;
+}
+.books_storetitle {
+	display: flex;
+	flex-direction: column;
+	width: 8rem;
+	height: 100%;
+	justify-content: center;
+	text-align: center;
+	padding: 0.2em;
+	color: $light-beige;
+	font-size: 1.05em;
+	border-bottom: .1rem solid;
+	border-color: $light-beige;
+}
+.books_link {
+	&,
+	&:visited {
+	display: flex;
+	flex-direction: column;
+	width: 8rem;
+	height: 100%;
+	justify-content: center;
+	text-align: center;
+	padding: 0.2em;
+	@include button;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+	@include button-focus;
+	}
+}
+
+/* Footer */
+.footer {
+	margin-top: 5em;
+	padding: 2em 0;
+	background: $dark-grey;
+	text-align: center;
+}
+.footer_notice {
+}
+.footer_link {
+	&,
+	&:visited {
+		@include link;
+	}
+	&:hover,
+	&:focus,
+	&:active {
+	@include link-focus;
+	}
+}
+.footer_search {
+	margin-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+.footer_copyright {
+	font-size: 1.2rem;
+	padding: 0.1em 0.6em;
 }

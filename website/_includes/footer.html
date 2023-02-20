@@ -1,11 +1,11 @@
-<footer>
-	{%- if page.layout == "timeline" -%}<div>Timeline icons created by <a href="https://www.freepik.com" title="Freepik">Freepik</a> on <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></div>
-	<div>North America icon created by <a href="https://www.flaticon.com/free-icons/north-america" title="north-america icons">ChilliColor on Flaticon</a>{%- else -%}{%- endif -%}
-	<form title="Search" enctype="multipart/form-data" action="https://duckduckgo.com/" method="get">
+<footer class="footer">
+	{%- if page.layout == "timeline" -%}<div class="footer_notice">Timeline icons created by <a  class="footer_link" href="https://www.freepik.com" title="Freepik">Freepik</a> on <a class="footer_link" href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></div>
+	<div class="footer_notice">North America icon created by <a class="footer_link" href="https://www.flaticon.com/free-icons/north-america" title="north-america icons">ChilliColor on Flaticon</a>{%- else -%}{%- endif -%}
+	<form class="footer_search" title="Search" enctype="multipart/form-data" action="https://duckduckgo.com/" method="get">
 		<input type="search" name="q" maxlength="255" value="" spellcheck="false" placeholder="Search…">
 		<input type="hidden" name="sites" value="gameboyessentials.com">
 	</form>
-	<div>© 2015 - {{ 'now' | date: "%Y" }}</div>
+	<div class="footer_copyright">© 2015 - {{ 'now' | date: "%Y" }}</div>
 </footer>
 </body>
 </html>
