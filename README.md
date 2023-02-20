@@ -3,24 +3,21 @@
 
 ## Tâches
 - Changer le tab de Nova en double espace
-- Transférer les classes en BEM (https://getbem.com) et les réimplenter en SCSS
-- Traduire les mauvaises idées
+- Finir de convertir le site web en BEM/SCSS
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
-    - https://www.amazon.com/s?k=game+boy+essentials+book
-    - https://www.barnesandnoble.com/s/game%20boy%20essentials
-
+  - https://www.amazon.com/s?k=game+boy+essentials+book
+  - https://www.barnesandnoble.com/s/game%20boy%20essentials
 
 ## Long terme
 - Simplifier la structure des images de timeline
-    - ensuite, ajouter des images non-disponible
+  - ensuite, ajouter des images non-disponible
 - Jouer à https://taylormccue.itch.io/trauma
 - Produire une automatisation pour faire un ebook
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 - Terminer l'intégration de backstopJS dans un postbuild.sh
-- Implanter SASS
 - Trouver comment avoir des secrets dans un github public
 
 ## Liste de vérification pour publication d'un article
@@ -34,33 +31,22 @@
 - [ ] Publier le lien de l'article sur Mastodon
 
 ## Liste de mauvaises idées
-- Have the further reading section with the same width as the article
-    - It’s never influencing the width of the page and it’s drawing attention to it when its wider
 - Avoir une infolettre
-- Use ?v=1 to version your files
-    - Coda very poorly handles it and this means it would take more effort than simply invalidating the file in Cyberduck. Not a time gain, a time waste.
-- Les notes de bas de page
-    - C'est une mauvaise manière d'écrire.
-- Moving the collection spreadsheet to HTML
-    - Markdown tables are a mess
-    - You lose the ability to play with the data
-- Having an SVG logo that includes the Game Boy wordmark
-    - The Game Boy wordmark is ugly on a computer screen. Another idea for a logo would be needed.
-- Having Full Bleed images in articles
-    - Achieving it with display:grid means you would have to abandon the use of figure
-    - It breaks the overall aesthetic of the website when it works; it would require a thorough redesign
-- Redesigning the Home Page game lists
-    - You just don’t know enough CSS to make it sharp; what would be beautiful cannot be achieved with the ethos of simple, readable CSS
-- Simplifier le CSS
-- Utiliser SCSS
+- Écrire des notes de bas de page
+  - C'est une mauvaise manière d'écrire.
+- Convertir mon fichier de collection de Numbers à HTML
+  - Les tables Markdown sont impossibles à regarder
+  - Tu perds la capacité de facilement jouer avec les données
+- Avoir un logo SVG inlcuant Game Boy tel qu'utilisé par Nintendo
+  - Le logo du Game Boy n'est pas fait pour un écran d'ordinateur.
 - Utiliser Github Pages pour le site web
-    - C'est interdit de l'utiliser à des fins commerciales.
+  - C'est interdit de l'utiliser à des fins commerciales.
 - Créer un _includes pour la page d'accueil
-    - Le code apparait juste une fois, c'est inutile.
+  - Le code apparait juste une fois, c'est inutile.
 - Utiliser Mobygames pour la ligne du temps
-    - Leurs données sont moins complètes que GameFAQs.
+  - Leurs données sont moins complètes que GameFAQs.
 - Conserver des données avec YAML
-    - JSON diminue en deux le temps de construction.
+  - JSON diminue en deux le temps de construction.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
@@ -68,3 +54,4 @@
 - Utiliser H1 pour le titre des articles
 - Utiliser Grid et Flex pour le CSS
 - Me servir de Github
+- Passer à SCSS
