@@ -1,7 +1,7 @@
 ---
 title: "Game Name"
 description: "Article Title"
-slug: "cartridge id"
+slug: "template"
 release-year: "year of earliest release"
 release-month: "month of earliest release"
 publication-order:
