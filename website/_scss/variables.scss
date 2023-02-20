@@ -56,6 +56,17 @@ $rounded-corners: 0.25em;
   transition: .2s ease-out;
 }
 
+// Book items listed store
+@mixin store {
+  display: flex;
+  flex-direction: column;
+  width: 8rem;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 0.2em;
+}
+
 // Game Boy font
 @font-face {
   font-family: 'GB';
