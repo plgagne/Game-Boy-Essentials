@@ -1,40 +1,40 @@
 h1, h2 {
-	font-weight: 100;
-	clear: both;
-	padding-top: 0.3em;
+  font-weight: 100;
+  clear: both;
+  padding-top: 0.3em;
 }
 h1 {
-	font-size: 3em;
+  font-size: 3em;
 }
 h2 {
-	font-size: 2.5em;
+  font-size: 2.5em;
 }
 /* Lists */
 ul,
 ol { 
-	padding: 0 0 0 2.5em;
-	overflow: hidden;
+  padding: 0 0 0 2.5em;
+  overflow: hidden;
 }
 ul {
-	list-style: disc;
+  list-style: disc;
 }
 ol {
-	list-style: decimal;
+  list-style: decimal;
 }
 li {
-	margin-left: 1.2em;
+  margin-left: 1.2em;
 }
 h3,
 caption {
-	font-size: 1.1em;
-	font-weight: bold;
+  font-size: 1.1em;
+  font-weight: bold;
 }
 p,
 blockquote,
 ul,
 ol {
-	margin-bottom: 1em;
-	font-size: 1.05rem;
+  margin-bottom: 1em;
+  font-size: 1.05rem;
 }
 .article a {
   &,
@@ -59,48 +59,48 @@ ol {
   }
 }
 strong {
-	font-weight: bold;
+  font-weight: bold;
 }
 em {
-	font-style: italic;
+  font-style: italic;
 }
 blockquote {
-	padding-left: 0.5em; 
-	margin: 0 1em 1em 1em; 
-	border-left: 2px solid black;
-	quotes: none;
+  padding-left: 0.5em; 
+  margin: 0 1em 1em 1em; 
+  border-left: 2px solid black;
+  quotes: none;
 }
 blockquote:before,
 blockquote:after {
-	content: '';
-	content: none; 
+  content: '';
+  content: none; 
 }
 code {
-	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-	word-break: break-all;
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  word-break: break-all;
 }
 
 /* Tables */
 table {
-	table-layout: fixed;
-	width: 100%;
-	margin: 0.5em 0;
-	border-spacing: 0;
-	border: 1px solid black;
+  table-layout: fixed;
+  width: 100%;
+  margin: 0.5em 0;
+  border-spacing: 0;
+  border: 1px solid black;
 }
 th {
-	background-color: $dark-grey;
-	color: $light-beige;
+  background-color: $dark-grey;
+  color: $light-beige;
 }
 th,
 td {
-	padding: 0.5em;
-	text-align: center;
-	vertical-align: middle;
-	border: 1px solid black;
-	width: 20%;
-	word-break: normal;
+  padding: 0.5em;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid black;
+  width: 20%;
+  word-break: normal;
 }
 tr:nth-child(even) {
-	background-color: $light-grey;
+  background-color: $light-grey;
 }

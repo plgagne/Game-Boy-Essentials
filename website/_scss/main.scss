@@ -1,419 +1,419 @@
 // General Classes
 html {
-	height: 100%;
-	min-width: 100%; 
-	background: $light-beige;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Avenir Next", system-ui, Verdana, sans-serif;
-	line-height: 1.5;
+  height: 100%;
+  min-width: 100%; 
+  background: $light-beige;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Avenir Next", system-ui, Verdana, sans-serif;
+  line-height: 1.5;
 }
 ::selection {
-	background: $lime-green;
-	color: white;
-	text-shadow: none; 
+  background: $lime-green;
+  color: white;
+  text-shadow: none; 
 }
 
 // Media
 img {
-	vertical-align: top;
+  vertical-align: top;
 }
 .gb img,
 .pixel img {
-	image-rendering: pixelated;
-	vertical-align: bottom;
+  image-rendering: pixelated;
+  vertical-align: bottom;
 }
 .gallery-container {
-	display: flex;
-	clear: both;
-	text-align: center;
-	flex-wrap: wrap;
-	justify-content: center;
+  display: flex;
+  clear: both;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .gallery-container div {
-	margin-left: 0.15rem;
-	margin-right: 0.15rem;
-	max-width: 48%;
+  margin-left: 0.15rem;
+  margin-right: 0.15rem;
+  max-width: 48%;
 }
 figure,
 video,
 audio,
 object {
-	display: grid;
-	clear: both;
-	background-color: $light-grey;
-	text-align: center;
-	border-radius: $rounded-corners;
-	margin: 0 auto;
-	padding: 0.2em;
+  display: grid;
+  clear: both;
+  background-color: $light-grey;
+  text-align: center;
+  border-radius: $rounded-corners;
+  margin: 0 auto;
+  padding: 0.2em;
 }
 figure:not(.float) {
-	margin-top: 3em;
-	margin-bottom: 3em;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 figure.gallery {
-	margin-top: 1em;
-	margin-bottom: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 video,
 audio {
-	margin-top: 5em;
-	margin-bottom: 5em;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 video {
-	width: 160px;
+  width: 160px;
 }
 figcaption {
-	padding-top: 0.4em;
+  padding-top: 0.4em;
 }
 figcaption p {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 .art, .pixel {
-	max-width: 70%;
+  max-width: 70%;
 }
 .pixel img,
 .art img,
 .boxart img {
-	width: 100%;
-	height: 100%;
+  width: 100%;
+  height: 100%;
 }
 .float {
-	min-width: 100pt;
-	margin-top: 0.4em;
-	margin-bottom: 0.4em;
+  min-width: 100pt;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }
 @media only screen and (min-width: 640px) {
-	.float {
-	max-width: 35%;
-	max-height: 35%;
-	}
+  .float {
+  max-width: 35%;
+  max-height: 35%;
+  }
 }
 .left {
-	float: left;
-	margin-left: 0;
-	margin-right: 0.4em;
+  float: left;
+  margin-left: 0;
+  margin-right: 0.4em;
 }
 .right {
-	float: right;
-	margin-right: 0;
-	margin-left: 0.4em;
+  float: right;
+  margin-right: 0;
+  margin-left: 0.4em;
 }
 .gb {
-	max-width: 320px;
+  max-width: 320px;
 }
 .gb img {
-	width: 320px;
-	max-width: 100%;
-	height: 100%;
+  width: 320px;
+  max-width: 100%;
+  height: 100%;
 }
 object {
-	width: 100%;
-	height: 500px;
-	margin-top: 1em;
-	margin-bottom: 1em;
+  width: 100%;
+  height: 500px;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 // Media Queries
 @media only screen and (max-width: 640px) {
-	.left, .right {
-	float: none;
-	margin: 0 auto;
-	}
-	.pixel, .art, .boxart {
-	max-width: 90%;
-	}
+  .left, .right {
+  float: none;
+  margin: 0 auto;
+  }
+  .pixel, .art, .boxart {
+  max-width: 90%;
+  }
 }
 
 // Article navigation
 #navigation {
-	margin-bottom: 1em;
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
+  margin-bottom: 1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 #navigation a {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-	text-align: center;
-	color: black;
-	border: 2px solid $dark-grey;
-	border-radius: $rounded-corners;
-	width: 15rem;
-	min-height: 2rem;
-	margin: 0.4em;
-	text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: black;
+  border: 2px solid $dark-grey;
+  border-radius: $rounded-corners;
+  width: 15rem;
+  min-height: 2rem;
+  margin: 0.4em;
+  text-decoration: none;
 }
 #navigation .text {
-	padding: 0.4em 0;
+  padding: 0.4em 0;
 }
 #navigation a.left-button {
-	background: linear-gradient(to right, $light-beige 50%, $sharp-blue 50%);
-	background-size: 200%;
-	transition: .2s ease-out;
+  background: linear-gradient(to right, $light-beige 50%, $sharp-blue 50%);
+  background-size: 200%;
+  transition: .2s ease-out;
 }
 #navigation a.left-button:hover {
-	background-position: right;
-	transition: .2s ease-out;
+  background-position: right;
+  transition: .2s ease-out;
 }
 #navigation a.centre:hover {
-	background: $sharp-blue;
-	transition: .2s ease-out;
+  background: $sharp-blue;
+  transition: .2s ease-out;
 }
 #navigation a.right-button {
-	background: linear-gradient(to left, $light-beige 50%, $sharp-blue 50%) right;
-	background-size: 200%;
-	transition: .2s ease-out;
+  background: linear-gradient(to left, $light-beige 50%, $sharp-blue 50%) right;
+  background-size: 200%;
+  transition: .2s ease-out;
 }
 #navigation a.right-button:hover {
-	background-position: left;
+  background-position: left;
 }
 
 // COMPLETED
 
 // Header
 .header {
-	background: $dark-grey;
-	text-align: center;
-	margin-bottom: 1em;
+  background: $dark-grey;
+  text-align: center;
+  margin-bottom: 1em;
 }
 .header_title {
-	&,
-	&:hover,
-	&:active,
+  &,
+  &:hover,
+  &:active,
   &:visited {
-	font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
-	font-style: italic;
-	font-weight: 600;
-	color: $lime-green;
-	padding-bottom: 0.2em;
-	display: inline-block;
-	text-decoration: none;
-	}
+  font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  color: $lime-green;
+  padding-bottom: 0.2em;
+  display: inline-block;
+  text-decoration: none;
+  }
 }
 .header_menu {
-	padding-bottom: 0.4em;
+  padding-bottom: 0.4em;
 }
 .header_link {
-	&,
-	&:visited {
-	display: inline-block;
-	font-size: 1.2rem;
-	padding: 0.1em 0.6em;
-	@include button;
-	}
-	&:hover,
-	&:focus,
-	&:active {
-	@include button-focus;
-	}
+  &,
+  &:visited {
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.1em 0.6em;
+  @include button;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+  @include button-focus;
+  }
 }
 
 // Main Page Game List
 .list {
-	text-align: center;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .list_input {
-	display: none;
+  display: none;
 }
 .list_labelpublication,
 .list_labelrelease {
-	& {
-	width: 15rem;
-	@include radio;
-	}
-	&:hover,
-	&:focus,
-	&:active {
-	cursor: pointer;
-	color: $sharp-blue;
-	transition: .2s ease-out;
-	}
+  & {
+  width: 15rem;
+  @include radio;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+  cursor: pointer;
+  color: $sharp-blue;
+  transition: .2s ease-out;
+  }
 }
 input#pub:checked ~ .list_labelpublication,
 input#rel:checked ~ .list_labelrelease {
-	background: $sharp-blue;
-	color: black;
+  background: $sharp-blue;
+  color: black;
 }
 .list_span {
-	margin: auto;
+  margin: auto;
 }
 input#pub:checked ~ .list_release,
 input#rel:checked ~ .list_publication {
-	display: none;
+  display: none;
 }
 input#pub:checked ~ .list_publication,
 input#rel:checked ~ .list_release {
-	display: block;
+  display: block;
 }
 .list_publication,
 .list_release {
-	margin-top: 1em;
+  margin-top: 1em;
 }
 .list_year {
-	font-size: 2em;
-	font-weight: 100;
-	clear: both;
-	width: 100%;
-	height: 2.6em;
-	line-height: 2.7em;
-	margin-bottom: 0.3em;
+  font-size: 2em;
+  font-weight: 100;
+  clear: both;
+  width: 100%;
+  height: 2.6em;
+  line-height: 2.7em;
+  margin-bottom: 0.3em;
 }
 
 // Main Page Game Items
 .game {
-	&,
-	&:visited {
-	@include dark-box;
-	display: inline-block;
-	max-width: 320px;
-	@include button;
-	}
-	&:hover,
+  &,
+  &:visited {
+  @include dark-box;
+  display: inline-block;
+  max-width: 320px;
+  @include button;
+  }
+  &:hover,
   &:focus,
-	&:active {
-	@include button-focus;
-	}
+  &:active {
+  @include button-focus;
+  }
 }
 .game_img {
-	width: 320px;
-	max-width: 100%;
-	height: 100%;
-	image-rendering: pixelated;
-	vertical-align: bottom;
+  width: 320px;
+  max-width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+  vertical-align: bottom;
 }
 .game_title {
-	margin-top: 0.2em;
-	margin-bottom: 0.2em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
 }
 .game_developers {
-	text-align: left;
-	font-size: 0.8em;
-	margin-left: 0.2em;
+  text-align: left;
+  font-size: 0.8em;
+  margin-left: 0.2em;
 }
 .game_publication,
 .game_release {
-	margin-top: 0.2em;
-	font-size: 0.8em;
-	text-align: right;
+  margin-top: 0.2em;
+  font-size: 0.8em;
+  text-align: right;
 }
 
 // Articles & Pages Container
 .article,
 .page {
-	margin: 0 auto;
-	padding: 0 0.2rem 0;
-	max-width: 72ch;
+  margin: 0 auto;
+  padding: 0 0.2rem 0;
+  max-width: 72ch;
 }
 
 // Articles Footer
 hr {
-	border: 0;
-	height: 2px;
-	background-color: black;
-	margin: 1.2em 0;
+  border: 0;
+  height: 2px;
+  background-color: black;
+  margin: 1.2em 0;
 }
 
 // Book Items
 .books {
-	display: flex;
-	clear: both;
-	text-align: center;
-	flex-wrap: wrap;
-	justify-content: center;
+  display: flex;
+  clear: both;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .books_item {
-	@include dark-box;
-	justify-content: center;
-	flex-direction: column;
-	width: 16rem;
-	height: 100%;
+  @include dark-box;
+  justify-content: center;
+  flex-direction: column;
+  width: 16rem;
+  height: 100%;
 }
 .books_title {
-	font-size: 1.1em;
-	font-weight: bold;
+  font-size: 1.1em;
+  font-weight: bold;
 }
 .books_volume {
-	display: flex;
-	flex-direction: row;
-	margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0.5rem;
 }
 .books_cover {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .books_img {
-	vertical-align: top;
-	max-width: 100%;
-	max-height: 100%;
+  vertical-align: top;
+  max-width: 100%;
+  max-height: 100%;
 }
 .books_markets {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	height: fit-content;
-	margin-left: 0.8em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: fit-content;
+  margin-left: 0.8em;
 }
 .books_storetitle {
-	display: flex;
-	flex-direction: column;
-	width: 8rem;
-	height: 100%;
-	justify-content: center;
-	text-align: center;
-	padding: 0.2em;
-	color: $light-beige;
-	font-size: 1.05em;
-	border-bottom: .1rem solid;
-	border-color: $light-beige;
+  display: flex;
+  flex-direction: column;
+  width: 8rem;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 0.2em;
+  color: $light-beige;
+  font-size: 1.05em;
+  border-bottom: .1rem solid;
+  border-color: $light-beige;
 }
 .books_link {
-	&,
-	&:visited {
-	display: flex;
-	flex-direction: column;
-	width: 8rem;
-	height: 100%;
-	justify-content: center;
-	text-align: center;
-	padding: 0.2em;
-	@include button;
-	}
-	&:hover,
-	&:focus,
-	&:active {
-	@include button-focus;
-	}
+  &,
+  &:visited {
+  display: flex;
+  flex-direction: column;
+  width: 8rem;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 0.2em;
+  @include button;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+  @include button-focus;
+  }
 }
 
 // Footer
 .footer {
-	margin-top: 5em;
-	padding: 2em 0;
-	background: $dark-grey;
-	text-align: center;
+  margin-top: 5em;
+  padding: 2em 0;
+  background: $dark-grey;
+  text-align: center;
 }
 .footer_notice {
 }
 .footer_link {
-	&,
-	&:visited {
-	@include link;
-	}
-	&:hover,
-	&:focus,
-	&:active {
-	@include link-focus;
-	}
+  &,
+  &:visited {
+  @include link;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+  @include link-focus;
+  }
 }
 .footer_search {
-	margin-top: 0.8em;
-	padding-bottom: 0.8em;
+  margin-top: 0.8em;
+  padding-bottom: 0.8em;
 }
 .footer_copyright {
-	font-size: 1.2rem;
-	padding: 0.1em 0.6em;
+  font-size: 1.2rem;
+  padding: 0.1em 0.6em;
 }
