@@ -2,6 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Ajouter jekyll_env=development au serve de Nova
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
   2. bouton fond transparent, texte bleu
