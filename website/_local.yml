@@ -1,6 +1,4 @@
 # Site Settings Override When Using Serve
-host: localhost
-url: ""
-baseurl: ""
+host: "pl-macbook-air.local"
 destination: "_site-local"
 exclude: [/_site-local, /projects, build.sh]
