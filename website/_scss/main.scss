@@ -125,91 +125,91 @@ object {
 
 // Timeline
 #timeline-nav {
-	display: flex;
-	justify-content: flex-end;
-	flex-wrap: wrap;
-	margin-bottom: 3em;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  margin-bottom: 3em;
 }
 .timeline-nav-element, #selected {
-	width: 10.5rem;
-	padding: 0.5em;
-	display: flex;
-	margin: 0.2em auto;
-	border: 2px solid var(--dark-grey);
-	border-radius: var(--rounded-corners);
-	color: black;
+  width: 10.5rem;
+  padding: 0.5em;
+  display: flex;
+  margin: 0.2em auto;
+  border: 2px solid var(--dark-grey);
+  border-radius: var(--rounded-corners);
+  color: black;
 }
 .timeline-nav-element img, #selected img {
-	max-width: 3rem;
+  max-width: 3rem;
 }
 #selected {
-	background: var(--sharp-blue);
+  background: var(--sharp-blue);
 }
 .timeline-nav-element:hover,
 .timeline-nav-element:focus,
 .timeline-nav-element:active {
-	cursor: pointer;
-	background: var(--sharp-blue);
-	color: var(--lime-green);
-	transition: .2s ease-out;
+  cursor: pointer;
+  background: var(--sharp-blue);
+  color: var(--lime-green);
+  transition: .2s ease-out;
 }
 #timeline h2 {
-	position: sticky;
-	top: 0;
-	font-family: "GB";
-	font-size: 1.05rem;
-	margin-bottom: 1rem;
-	background: var(--light-beige);
-	width: 4.2rem;
-	display: flex;
-	justify-content: flex-end;
-	white-space: nowrap;
-	z-index: 1;
-	padding-top: 0;
-	border-bottom: .12rem solid;
+  position: sticky;
+  top: 0;
+  font-family: "GB";
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+  background: var(--light-beige);
+  width: 4.2rem;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 1;
+  padding-top: 0;
+  border-bottom: .12rem solid;
 }
 #timeline h3 {
-	position: sticky;
-	top: 1.6rem;
-	font-size: 0.75rem;
-	width: 4.2rem;
-	display: flex;
-	justify-content: flex-end;
-	white-space: nowrap;
-	z-index: 0;
+  position: sticky;
+  top: 1.6rem;
+  font-size: 0.75rem;
+  width: 4.2rem;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 0;
 }
 section.month {
-	margin-left: 4.2rem;
-	margin-bottom: .75rem;
+  margin-left: 4.2rem;
+  margin-bottom: .75rem;
 }
 .release_list {
-	display: block;
+  display: block;
 }
 figure.timeline {
-	display: inline-block;
-	vertical-align: top;
-	margin: 0.2em;
-	width: 10rem;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0.2em;
+  width: 10rem;
 }
 figure.timeline p {
-	font-size: 0.85rem;
+  font-size: 0.85rem;
 }
 .cover {
-	max-width: 100%;
+  max-width: 100%;
 }
 #timeline figcaption {
-	display: flex;
-	padding-top: 0;
+  display: flex;
+  padding-top: 0;
 }
 #timeline figcaption p {
-	margin: auto;
+  margin: auto;
 }
 .fact_list {
-	margin-top: 1em;
-	padding: 0 0 0 0;
+  margin-top: 1em;
+  padding: 0 0 0 0;
 }
 .fact_list a.ref {
-	padding: 0 .3rem;
+  padding: 0 .3rem;
 }
 
 // COMPLETED
