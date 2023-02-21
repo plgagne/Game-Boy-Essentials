@@ -2,8 +2,6 @@
 title: "Get the Books"
 slug: "book"
 layout: "page"
-redirect_from:
-  - /book.html
 weight: 5
 ---
 # Game Boy Essentials Is Portable!

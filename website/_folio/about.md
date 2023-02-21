@@ -2,8 +2,6 @@
 title: "About"
 slug: "about"
 layout: "page"
-redirect_from:
-  - /about.html
 weight: 2
 ---
 # About the Author
