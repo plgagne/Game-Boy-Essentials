@@ -63,10 +63,10 @@ kramdown:
 
 ## Plugins
 plugins:
-  - jekyll-redirect-from
   - jekyll-image-size
   - jekyll-minifier
   - jekyll-sitemap
+  - jekyll-redirect-from
   
 ## Redirect-From
 redirect_from:
