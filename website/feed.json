@@ -6,7 +6,7 @@
     "description":{{ site.description | jsonify }},
     "home_page_url":"{{ site.url }}",
     "feed_url":"{{ site.url }}/feed.json",
-    "favicon":"{{ site.url}}/apple-touch-icon.png",
+    "favicon":"{{ site.url }}/apple-touch-icon.png",
     "items":[
     	{% assign sorted = site.articles | sort: "publication" | reverse %}
     	{%- for article in sorted limit:10 -%}
