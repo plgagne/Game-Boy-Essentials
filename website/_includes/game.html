@@ -1,6 +1,6 @@
-<a class="game" href="/articles/{{ article.slug }}">
+<a class="game" href="articles/{{ article.slug }}">
 {%- capture image-variable -%}
-/assets/{{ article.slug }}/{{ article.slug }}-start.png
+assets/{{ article.slug }}/{{ article.slug }}-start.png
 {%- endcapture -%}	
 	<img class="game_img" src="{{ image-variable }}" {% imagesize {{ image-variable }}:props %} alt="{{ article.title }}">
 	<div class="game_title">{{ article.title }}</div>

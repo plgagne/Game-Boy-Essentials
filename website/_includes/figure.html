@@ -1,7 +1,7 @@
 {%- assign details = site.data.static-files[include.type] -%}
 {%- if include.class == "gallery" -%}<div>{%- else -%}{%- endif -%}<{{ details.wrapper }} class="{{ details.name }}{% if include.class %} {{ include.class }}{% else %}{% endif %}">
 {%- capture image-variable -%}
-/assets/{{ page.slug }}/{{ page.slug }}-{%- assign order = order | plus: 1 -%}{{ order }}.{{ details.extension }}
+assets/{{ page.slug }}/{{ page.slug }}-{%- assign order = order | plus: 1 -%}{{ order }}.{{ details.extension }}
 {%- endcapture -%}
 <img src="{{ image-variable }}" {% imagesize {{ image-variable }}:props %} alt="{%- if include.figcaption -%}{{ include.figcaption }}{%- else -%}{{ details.alt }}{%- endif -%}">{%- if include.figcaption -%}<figcaption><p>{{ include.figcaption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</p></figcaption>
 {%- else -%}

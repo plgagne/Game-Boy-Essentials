@@ -6,32 +6,32 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if jekyll.environment == "production" %}
-  <base href="{{ site.url }}">
+  <base target="_blank" href="{{ site.url }}">
   {% endif %}
   {% if jekyll.environment == "remote_development" %}
   <meta name="robots" content="noindex,nofollow">
-  <base href="{{ site.github_pages_url }}">
+  <base target="_blank" href="{{ site.github_pages_url }}">
   {% endif %}
   {% if jekyll.environment == "local_serve" %}
-  <base href="{{ site.localhost_url }}">
+  <base target="_blank" href="{{ site.localhost_url }}">
   {% endif %}
   <link rel="canonical" href="{%- if page.layout == 'main' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
   <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" title="RSS feed for {{ site.title }}">
   <link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
-  <link rel="stylesheet" href="/style.css">
-  {%- if page.layout == "timeline" -%}<link rel="stylesheet" href="/timeline.css">{%- else -%}{%- endif -%}
+  <link rel="stylesheet" href="style.css">
+  {%- if page.layout == "timeline" -%}<link rel="stylesheet" href="timeline.css">{%- else -%}{%- endif -%}
   <title>{%- if page.layout == 'main' -%}{{ site.title }}{%- else -%}{{ page.title }} — {{ site.title }}{%- endif -%}</title>
-  <link rel="manifest" href="/site.webmanifest">
+  <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#4e4d4a">
   
   <!--Favicon-->
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
   
   <!--Apple-->
-  <link rel="apple-touch-icon" sizes="512x512" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="GB Essentials">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <link rel="mask-icon" href="safari-pinned-tab.svg" color="#000000">
   
   <!--Android-->
   <meta name="application-name" content="GBe">
