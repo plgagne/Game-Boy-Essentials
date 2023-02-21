@@ -1,6 +1,5 @@
 ---
 ---
-{% if jekyll.environment == "development" %}
-User-agent: *
-Disallow: /
-{% endif %}
+Sitemap: https://gameboyessentials.com/sitemap.xml
+{% if jekyll.environment == "development" %}User-agent: *
+Disallow: /{% endif %}

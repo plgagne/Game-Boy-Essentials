@@ -66,6 +66,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-image-size
   - jekyll-minifier
+  - jekyll-sitemap
   
 ## Redirect-From
 redirect_from:
