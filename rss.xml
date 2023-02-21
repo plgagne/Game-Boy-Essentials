@@ -3,8 +3,8 @@
 <channel>
 	<title>Game Boy Essentials</title>
 	<description>A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success.</description>		
-	<link>https://gameboyessentials.com/</link>
-	<atom:link href="https://gameboyessentials.com//rss.xml" rel="self" type="application/rss+xml" />
+	<link>https://gameboyessentials.com</link>
+	<atom:link href="https://gameboyessentials.com/rss.xml" rel="self" type="application/rss+xml" />
 	<item>
 		<title>Game Boy Camera</title>
 		<description>&lt;h1 id=&quot;game-boy-camera&quot;&gt;Game Boy Camera&lt;/h1&gt;
@@ -159,7 +159,7 @@
 &lt;figure class=&quot;gb&quot;&gt;&lt;img src=&quot;assets/mgb-006/mgb-006-29.png&quot; width=&quot;480&quot; height=&quot;432&quot; alt=&quot;Game Boy Screenshot&quot; /&gt;&lt;/figure&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/mgb-006/</link>
+		<link>https://gameboyessentials.com/articles/mgb-006/</link>
 		<guid isPermaLink="false">mgb-006</guid>
 	</item>
 	<item>
@@ -259,7 +259,7 @@
 &lt;p&gt;Oh, I totally forgot! I was supposed to get back to the mystery of the many Kirbys! When you finish the game, during the ending cinematic, Kirby can be seen dropping on a stage with a crowd barely visible at the bottom of the screen. They’re all perfectly round shapes, only seen in shadows, which leads me to believe that Kirby was envisioned as the member of a whole species of Kirbys. They seemed to have abandoned that idea.&lt;/p&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-ky/</link>
+		<link>https://gameboyessentials.com/articles/dmg-ky/</link>
 		<guid isPermaLink="false">dmg-ky</guid>
 	</item>
 	<item>
@@ -303,7 +303,7 @@
 &lt;p&gt;As a last aside, &lt;em&gt;Mole Mania&lt;/em&gt; gives a great example against the concept of console generations to classify video games. Go read about video game history on Wikipedia for example or pick up any lesser book and you’ll be very quickly presented with this idea of console generations defining the whole industry. It’s everywhere, to the point where developers themselves constantly discuss their work in the context of generations. While generations can make some sense if only TV consoles existed, portable systems exist and are just as important. A game like &lt;em&gt;Mole Mania&lt;/em&gt; and any Game Boy game released in 1996 is considered in the same goddamn generation as the Famicom released in 1983. &lt;em&gt;Mole Mania&lt;/em&gt; was developed by Miyamoto concurrently with &lt;em&gt;Super Mario 64&lt;/em&gt;. Both titles are brethrens, directed by the same man at the same time. No one should consider those games two generations apart. So that’s why I’m against the concept of generations, which is player-centric, while video games are made by artists. Artistic considerations and mindsets are more important than marketing categorization. &lt;em&gt;Mole Mania&lt;/em&gt; embodies that idea perfectly.&lt;/p&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-amoe/</link>
+		<link>https://gameboyessentials.com/articles/dmg-amoe/</link>
 		<guid isPermaLink="false">dmg-amoe</guid>
 	</item>
 	<item>
@@ -524,7 +524,7 @@
 &lt;p&gt;It also happened to be the only console where you could make a &lt;em&gt;Pokémon&lt;/em&gt; ripoff, since no other popular system could allow trades between cartridges. All of that gave the Game Boy a renaissance that no console ever had, or ever will. The Game Boy was reborn thanks to those little insects walking up and down the link cable.&lt;/p&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-apee/</link>
+		<link>https://gameboyessentials.com/articles/dmg-apee/</link>
 		<guid isPermaLink="false">dmg-apee</guid>
 	</item>
 	<item>
@@ -606,7 +606,7 @@
 &lt;p&gt;I’ll still be playing &lt;em&gt;Dragon Quest III&lt;/em&gt; when I’m 80 years old, and I’ll play it on Game Boy Color like god intended. The mobile versions have terrible redrawn sprites and all sorts of poor artistic choices. Please do me a favour and stay away. I also cannot wrap my head around playing that game tethered to a television. I want to put on a podcast and relax in my sunroom with the game in my hands, the dog at my feet, and my wife next to me. That’s my definition of heaven.&lt;/p&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/cgb-bd3e/</link>
+		<link>https://gameboyessentials.com/articles/cgb-bd3e/</link>
 		<guid isPermaLink="false">cgb-bd3e</guid>
 	</item>
 	<item>
@@ -664,7 +664,7 @@
 &lt;figure class=&quot;art&quot;&gt;&lt;img src=&quot;assets/dmg-wa/dmg-wa-7.jpg&quot; width=&quot;640&quot; height=&quot;473&quot; alt=&quot;Sold in the United Kingdom, this set included a Game Boy Pocket and two games, *Wave Race* and *Metroid II: Return of Samus*.&quot; /&gt;&lt;figcaption&gt;&lt;p&gt;Sold in the United Kingdom, this set included a Game Boy Pocket and two games, &lt;em&gt;Wave Race&lt;/em&gt; and &lt;em&gt;Metroid II: Return of Samus&lt;/em&gt;.&lt;/p&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-wa/</link>
+		<link>https://gameboyessentials.com/articles/dmg-wa/</link>
 		<guid isPermaLink="false">dmg-wa</guid>
 	</item>
 	<item>
@@ -743,7 +743,7 @@
 &lt;figure class=&quot;gb&quot;&gt;&lt;img src=&quot;assets/dmg-ka/dmg-ka-6.png&quot; width=&quot;160&quot; height=&quot;144&quot; alt=&quot;Damn eggplant wizards.&quot; /&gt;&lt;figcaption&gt;&lt;p&gt;Damn eggplant wizards.&lt;/p&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-ka/</link>
+		<link>https://gameboyessentials.com/articles/dmg-ka/</link>
 		<guid isPermaLink="false">dmg-ka</guid>
 	</item>
 	<item>
@@ -935,7 +935,7 @@
 &lt;figure class=&quot;gb&quot;&gt;&lt;img src=&quot;assets/cgb-bwle/cgb-bwle-16.png&quot; width=&quot;160&quot; height=&quot;144&quot; alt=&quot;Game Boy Screenshot&quot; /&gt;&lt;/figure&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/cgb-bwle/</link>
+		<link>https://gameboyessentials.com/articles/cgb-bwle/</link>
 		<guid isPermaLink="false">cgb-bwle</guid>
 	</item>
 	<item>
@@ -995,7 +995,7 @@
 &lt;figure class=&quot;gb&quot;&gt;&lt;img src=&quot;assets/cgb-bvpp/cgb-bvpp-6.png&quot; width=&quot;160&quot; height=&quot;144&quot; alt=&quot;The game switches to a top-down view upon pressing Select. It just serves to show how the game is even less complex than *Side Pocket*, a game from way back in 1990.&quot; /&gt;&lt;figcaption&gt;&lt;p&gt;The game switches to a top-down view upon pressing Select. It just serves to show how the game is even less complex than &lt;em&gt;Side Pocket&lt;/em&gt;, a game from way back in 1990.&lt;/p&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/cgb-bvpp/</link>
+		<link>https://gameboyessentials.com/articles/cgb-bvpp/</link>
 		<guid isPermaLink="false">cgb-bvpp</guid>
 	</item>
 	<item>
@@ -1102,7 +1102,7 @@
 &lt;p&gt;I guess it proves that the developers at Rare never lost their roots as developers of flawed games. They made interesting games before &lt;em&gt;Donkey Kong Country&lt;/em&gt; when they were originally Ultimate Play the Game and afterwards as Rare. Their games usually had some sort of fatal flaw that made them impossible to love. &lt;em&gt;Battletoads&lt;/em&gt; like most of their games was way too hard. &lt;em&gt;A Nightmare on Elm Street&lt;/em&gt; was too complicated for its own sake. &lt;em&gt;Wizards &amp;amp; Warriors&lt;/em&gt; had floaty controls ill-suited for the levels in the game. When they started collaborating directly with Nintendo, however, they started making flawless titles. They also severely slowed down and stopped releasing a dizzying number of games. They still had it in them to make a bunch of clunkers, it seems.&lt;/p&gt;
 
 		</description>
-		<link>https://gameboyessentials.com//articles/dmg-adde/</link>
+		<link>https://gameboyessentials.com/articles/dmg-adde/</link>
 		<guid isPermaLink="false">dmg-adde</guid>
 	</item></channel>
 </rss>
