@@ -11,16 +11,6 @@ $eur-blue: #039;
 // Structure
 $rounded-corners: 0.25em;
 
-// Rounded dark grey box
-@mixin dark-box {
-  vertical-align: top;
-  background: $dark-grey;
-  border-radius: $rounded-corners;
-  color: $lime-green;
-  margin: 0.4em;
-  padding: 0.2em;
-}
-
 // Blue link turning green
 @mixin link {
   color: $sharp-blue;
@@ -32,7 +22,7 @@ $rounded-corners: 0.25em;
   transition: .2s ease-out;
 }
 
-// Rounded radio selector with blue background
+// Fond clair: bouton état de base (joindre radio & navigation)
 @mixin radio {
   display: flex;
   list-style: none;
@@ -42,18 +32,46 @@ $rounded-corners: 0.25em;
   padding: 0.5em;
 }
 
-// Rounded button turning into blue background with black text
+// Fond clair: bouton état de base
+@mixin navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: black;
+  border: 2px solid $dark-grey;
+  border-radius: $rounded-corners;
+  width: 15rem;
+  min-height: 2rem;
+  margin: 0.4em;
+  text-decoration: none;
+}
+
+// Fond foncé: bouton état de base
 @mixin button {
   border-radius: $rounded-corners;
   color: $lime-green;
   text-decoration: none;
 }
+
+// Fond-foncé: bouton en sélection
 @mixin button-focus {
   cursor: pointer;
   background: $sharp-blue;
   color: black;
   text-decoration: none;
   transition: .2s ease-out;
+}
+
+// Rounded dark grey box
+@mixin dark-box {
+  vertical-align: top;
+  background: $dark-grey;
+  border-radius: $rounded-corners;
+  color: $lime-green;
+  margin: 0.4em;
+  padding: 0.2em;
 }
 
 // Book items listed store

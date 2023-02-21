@@ -36,18 +36,7 @@ ol {
   margin-bottom: 1em;
   font-size: 1.05rem;
 }
-.article a {
-  &,
-  &:visited {
-  @include link;
-  }
-  &:hover,
-  &:focus,
-  &:active {
-  @include link-focus;
-  }
-}
-.page a {
+a {
   &,
   &:visited {
   @include link;

@@ -123,64 +123,7 @@ object {
   }
 }
 
-// Article navigation
-#navigation {
-  margin-bottom: 1em;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-#navigation a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-  color: black;
-  border: 2px solid $dark-grey;
-  border-radius: $rounded-corners;
-  width: 15rem;
-  min-height: 2rem;
-  margin: 0.4em;
-  text-decoration: none;
-}
-#navigation .text {
-  padding: 0.4em 0;
-}
-#navigation a.left-button {
-  background: linear-gradient(to right, $light-beige 50%, $sharp-blue 50%);
-  background-size: 200%;
-  transition: .2s ease-out;
-}
-#navigation a.left-button:hover {
-  background-position: right;
-  transition: .2s ease-out;
-}
-#navigation a.centre:hover {
-  background: $sharp-blue;
-  transition: .2s ease-out;
-}
-#navigation a.right-button {
-  background: linear-gradient(to left, $light-beige 50%, $sharp-blue 50%) right;
-  background-size: 200%;
-  transition: .2s ease-out;
-}
-#navigation a.right-button:hover {
-  background-position: left;
-}
-
 // Timeline
-:root {
-	--light-beige: #e9e9e9;
-	--lime-green: #94ba65;
-	--sharp-blue: #2790b0;
-	--dark-grey: #4e4d4a;
-	--light-grey: #c1c1c1;
-	--na-white: #fff;
-	--jpn-red: #bc002d;
-	--eur-blue: #039;
-	--rounded-corners: 0.25em;
-}
 #timeline-nav {
 	display: flex;
 	justify-content: flex-end;
@@ -282,13 +225,13 @@ figure.timeline p {
   &:hover,
   &:active,
   &:visited {
-  font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
-  font-style: italic;
-  font-weight: 600;
-  color: $lime-green;
-  padding-bottom: 0.2em;
-  display: inline-block;
-  text-decoration: none;
+    font: 3em 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    color: $lime-green;
+    padding-bottom: 0.2em;
+    display: inline-block;
+    text-decoration: none;
   }
 }
 .header_menu {
@@ -297,15 +240,15 @@ figure.timeline p {
 .header_link {
   &,
   &:visited {
-  display: inline-block;
-  font-size: 1.2rem;
-  padding: 0.1em 0.6em;
-  @include button;
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: 0.1em 0.6em;
+    @include button;
   }
   &:hover,
   &:focus,
   &:active {
-  @include button-focus;
+    @include button-focus;
   }
 }
 
@@ -322,15 +265,15 @@ figure.timeline p {
 .list_labelpublication,
 .list_labelrelease {
   & {
-  width: 15rem;
-  @include radio;
+    width: 15rem;
+    @include radio;
   }
   &:hover,
   &:focus,
   &:active {
-  cursor: pointer;
-  color: $sharp-blue;
-  transition: .2s ease-out;
+    cursor: pointer;
+    color: $sharp-blue;
+    transition: .2s ease-out;
   }
 }
 input#pub:checked ~ .list_labelpublication,
@@ -367,15 +310,15 @@ input#rel:checked ~ .list_release {
 .game {
   &,
   &:visited {
-  @include dark-box;
-  display: inline-block;
-  max-width: 320px;
-  @include button;
+    @include dark-box;
+    display: inline-block;
+    max-width: 320px;
+    @include button;
   }
   &:hover,
   &:focus,
   &:active {
-  @include button-focus;
+    @include button-focus;
   }
 }
 .game_img {
@@ -415,6 +358,27 @@ hr {
   height: 2px;
   background-color: black;
   margin: 1.2em 0;
+}
+
+// Articles navigation
+.navigation {
+  margin-bottom: 1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.navigation_button {
+  &,
+  &:visited {
+    @include navigation;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    color: black;
+    background: $sharp-blue;
+    transition: .2s ease-out;
+  }
 }
 
 // Book Items
@@ -458,22 +422,21 @@ hr {
   margin-left: 0.8em;
 }
 .books_storetitle {
-  @include button;
-  color: $light-beige;
   font-size: 1.05em;
+  color: $light-beige;
   border-color: $light-beige;
   border-bottom: .1rem solid;
 }
 .books_link {
   &,
   &:visited {
-  @include store;
-  @include button;
+    @include store;
+    @include button;
   }
   &:hover,
   &:focus,
   &:active {
-  @include button-focus;
+    @include button-focus;
   }
 }
 
@@ -489,12 +452,12 @@ hr {
 .footer_link {
   &,
   &:visited {
-  @include link;
+    @include link;
   }
   &:hover,
   &:focus,
   &:active {
-  @include link-focus;
+    @include link-focus;
   }
 }
 .footer_search {
