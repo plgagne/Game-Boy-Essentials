@@ -2,6 +2,10 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- batir mes variables de bouton
+  1. bouton noir, contour noir, texte noir
+  2. bouton fond transparent, texte bleu
+  3. bouton fond bleu, texte noir
 - Changer le tab de Nova en double espace
 - Finir de convertir le site web en BEM/SCSS
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
