@@ -5,6 +5,6 @@
 			<a class="header_link" href="">Home</a>
 			{%- assign sorted = site.folio | sort: "weight" -%}
 			{%- for page in sorted -%}
-			{%- if page.slug != '0test' -%}<a class="header_link" href="{%- if page.layout == 'main' -%}/{%- else -%}/{{ page.slug }}{%- endif -%}">{{ page.title }}</a>{%- endif -%}{%- endfor -%}
+			{%- if page.slug != '0test' -%}<a class="header_link" href="{%- if page.layout == 'main' -%}{%- else -%}{{ page.slug }}{%- endif -%}">{{ page.title }}</a>{%- endif -%}{%- endfor -%}
 		</nav>
 	</header>

@@ -80,7 +80,7 @@
               {%- endif -%}
               
               {%- comment -%} Write matched release details {%- endcomment -%}
-              {%- capture image-location -%}/assets/timeline{{ release.boxart }}{%- endcapture -%}
+              {%- capture image-location -%}assets/timeline{{ release.boxart }}{%- endcapture -%}
               <figure class="timeline">
               <img loading="lazy" class="cover" src="{{ image-location }}" alt="{{ release.title }}">
               <figcaption>
