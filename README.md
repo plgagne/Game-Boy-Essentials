@@ -3,6 +3,7 @@
 
 ## Tâches
 - Ajouter jekyll_env=development au serve de Nova
+- Vérifier que la publication pour diffusion sur mon Mac n'a pas les nofollow
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
   2. bouton fond transparent, texte bleu
