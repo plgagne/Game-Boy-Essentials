@@ -37,7 +37,6 @@ defaults:
       type: timeline
     values:
       layout: timeline
-      article: true
   -
     scope:
       path: ""
