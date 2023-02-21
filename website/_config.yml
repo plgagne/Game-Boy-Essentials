@@ -65,7 +65,6 @@ kramdown:
 plugins:
   - jekyll-image-size
   - jekyll-minifier
-  - jekyll-sitemap
   - jekyll-redirect-from
   
 ## Redirect-From
