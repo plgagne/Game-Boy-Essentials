@@ -8,7 +8,9 @@
   {% if jekyll.environment == "development" %}
   <meta name="robots" content="noindex,nofollow">
   {% endif %}
+  {% if jekyll.environment == "production" %}
   <base href="{{ site.url }}">
+  {% endif %}
   <link rel="canonical" href="{%- if page.layout == 'main' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
   <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" title="RSS feed for {{ site.title }}">
   <link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
