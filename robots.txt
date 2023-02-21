@@ -1,3 +1,2 @@
-Sitemap: https://gameboyessentials.com/sitemap.xml
 User-agent: *
 Disallow: /
