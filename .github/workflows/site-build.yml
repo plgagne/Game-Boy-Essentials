@@ -44,7 +44,7 @@ jobs:
         # Outputs to the './_site' directory by default
         run: cd website && bundle exec jekyll build -d _site-github-action
         env:
-          JEKYLL_ENV: production
+          JEKYLL_ENV: development
       - name: Push Build to Branch
         uses: peaceiris/actions-gh-pages@v3
         # If you're changing the branch from main,
