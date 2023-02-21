@@ -12,7 +12,7 @@
     	{%- for article in sorted limit:10 -%}
     	{
     	"id": "{{ article.slug }}",
-    	"url": "{{ article.url | prepend: site.baseurl | prepend: site.url }}",
+    	"url": "{{ article.url | prepend: site.url }}",
     	"title": {{ article.title | jsonify }},
     	"content_html": {{ article.content | jsonify  }}
     	}{% unless forloop.last %},
