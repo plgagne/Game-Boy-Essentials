@@ -2,7 +2,7 @@
 title: "Game Boy Essentials"
 domain: "gameboyessentials.com"
 baseurl: ""
-url: "https://gameboyessentials.com/"
+url: "https://gameboyessentials.com"
 github_pages_url: "https://plgagne.github.io/Game-Boy-Essentials/"
 localhost_url: "http://pl-macbook-air.local:4000/"
 email: "pl@gameboyessentials.com"
