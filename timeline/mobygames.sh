@@ -4,7 +4,7 @@
 # https://www.mobygames.com/info/api
 
 # MobyGames API Key
-key=vC7/9vmj7RGEMdT14uf3Aw==
+key=
 
 # Offset 
 offset=0
