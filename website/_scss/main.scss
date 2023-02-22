@@ -13,45 +13,23 @@ html {
 }
 
 // Media
-img {
-  vertical-align: top;
-}
-.gb img,
-.pixel img {
-  image-rendering: pixelated;
-  vertical-align: bottom;
-}
-.gallery-container {
+.gallery {
   display: flex;
   clear: both;
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
 }
-.gallery-container div {
+.gallery_element {
   margin-left: 0.15rem;
   margin-right: 0.15rem;
   max-width: 48%;
 }
-figure,
+.figure,
 video,
 audio,
 object {
-  display: grid;
-  clear: both;
-  background-color: $light-grey;
-  text-align: center;
-  border-radius: $rounded-corners;
-  margin: 0 auto;
-  padding: 0.2em;
-}
-figure:not(.float) {
-  margin-top: 3em;
-  margin-bottom: 3em;
-}
-figure.gallery {
-  margin-top: 1em;
-  margin-bottom: 1em;
+  @include figure;
 }
 video,
 audio {
@@ -61,18 +39,40 @@ audio {
 video {
   width: 160px;
 }
-figcaption {
+object {
+  width: 100%;
+  height: 500px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.figure img {
+  vertical-align: top;
+}
+.figure_gb img,
+.figure_pixel img {
+  image-rendering: pixelated;
+  vertical-align: bottom;
+}
+.figure :not(.float) {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.figure .gallery {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.figure_figcaption {
   padding-top: 0.4em;
 }
-figcaption p {
+.figure_paragraph {
   margin-bottom: 0;
 }
-.art, .pixel {
+.figure_art, .figure_pixel {
   max-width: 70%;
 }
-.pixel img,
-.art img,
-.boxart img {
+.figure_pixel img,
+.figure_art img,
+.figure_boxart img {
   width: 100%;
   height: 100%;
 }
@@ -97,20 +97,15 @@ figcaption p {
   margin-right: 0;
   margin-left: 0.4em;
 }
-.gb {
+.figure_gb {
   max-width: 320px;
 }
-.gb img {
+.figure_gb img {
   width: 320px;
   max-width: 100%;
   height: 100%;
 }
-object {
-  width: 100%;
-  height: 500px;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
+
 
 // Media Queries
 @media only screen and (max-width: 640px) {
@@ -118,7 +113,7 @@ object {
   float: none;
   margin: 0 auto;
   }
-  .pixel, .art, .boxart {
+  .figure_pixel, .figure_art, .figure_boxart {
   max-width: 90%;
   }
 }

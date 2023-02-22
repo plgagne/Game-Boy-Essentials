@@ -22,6 +22,17 @@ $rounded-corners: 0.25em;
   text-decoration: none;
 }
 
+// Fond foncé pour les figures, les vidéos, audio et objet
+@mixin figure {
+  display: grid;
+  clear: both;
+  background-color: $light-grey;
+  text-align: center;
+  border-radius: $rounded-corners;
+  margin: 0 auto;
+  padding: 0.2em;
+}
+
 // Fond clair: bouton état de base (joindre radio, timeline-nav-button & navigation)
 @mixin radio {
   display: flex;
