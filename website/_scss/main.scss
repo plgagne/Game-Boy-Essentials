@@ -90,12 +90,6 @@ object {
   margin-top: 0.4em;
   margin-bottom: 0.4em;
 }
-@media only screen and (min-width: 640px) {
-  .float {
-  max-width: 35%;
-  max-height: 35%;
-  }
-}
 .left {
   float: left;
   margin-left: 0;
@@ -115,6 +109,12 @@ object {
   }
   .figure_pixel, .figure_art, .figure_boxart {
   max-width: 90%;
+  }
+}
+@media only screen and (min-width: 640px) {
+  .float {
+  max-width: 35%;
+  max-height: 35%;
   }
 }
 
