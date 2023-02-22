@@ -2,8 +2,6 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-- Ajouter jekyll_env=local_serve au serve de Nova
-- Vérifier que la publication pour diffusion sur mon Mac n'a pas les nofollow
 - Vérifier qu'un fil RSS sans liens complets est capable de trouver les images
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
