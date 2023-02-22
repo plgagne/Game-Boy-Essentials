@@ -15,11 +15,11 @@
   {% if jekyll.environment == "local_serve" %}
   <base href="{{ site.localhost_url }}">
   {% endif %}
-  <link rel="canonical" href="{%- if page.layout == 'main' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
+  <link rel="canonical" href="{%- if page.slug == 'index' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
   <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" title="RSS feed for {{ site.title }}">
   <link rel="alternate" type="application/json" href="{{ site.url }}/feed.json" title="JSON Feed for {{ site.title }}">
   <link rel="stylesheet" href="style.css">
-  <title>{%- if page.layout == 'main' -%}{{ site.title }}{%- else -%}{{ page.title }} — {{ site.title }}{%- endif -%}</title>
+  <title>{%- if page.slug == 'index' -%}{{ site.title }}{%- else -%}{{ page.title }} — {{ site.title }}{%- endif -%}</title>
   <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#4e4d4a">
   
@@ -49,7 +49,7 @@
   </script>
   
   <!--Mastodon-->  
-  {%- if page.layout == 'main' -%}<link rel="me" href="https://peoplemaking.games/@gbe">{%- endif -%}
+  {%- if page.slug == 'index' -%}<link rel="me" href="https://peoplemaking.games/@gbe">{%- endif -%}
   {%- if page.slug == 'about' -%}<link rel="me" href="https://ludosphere.fr/@pl">{%- endif -%}
   
   <!--Card-->
@@ -62,7 +62,7 @@
   <!--Open Graph-->  
   <meta property="og:type" content="{%- if page.article -%}{{ 'article' }}{%- else -%}{{ 'website' }}{%- endif -%}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:url" content="{%- if page.layout == 'main' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
+  <meta property="og:url" content="{%- if page.slug == 'index' -%}{{ site.url }}{%- else -%}{{ site.url }}{{ page.url }}{%- endif -%}">
   <meta property="og:title" content="{%- if page.article -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}">
   <meta property="og:description" content="{%- if page.article -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}">
   <meta property="og:image" content="{%- if page.article -%}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start-social-share-card.png{%- else -%}{{ site.url }}/apple-touch-icon.png{%- endif -%}">
