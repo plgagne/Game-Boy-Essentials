@@ -45,14 +45,13 @@ object {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-.figure img {
-  vertical-align: top;
+.figure_gb {
+  max-width: 320px;
 }
-.figure_gb img,
-.figure_pixel img {
-  image-rendering: pixelated;
-  vertical-align: bottom;
+.figure_art, .figure_pixel {
+  max-width: 70%;
 }
+.figure_boxart {}
 .figure :not(.float) {
   margin-top: 3em;
   margin-bottom: 3em;
@@ -67,13 +66,23 @@ object {
 .figure_paragraph {
   margin-bottom: 0;
 }
-.figure_art, .figure_pixel {
-  max-width: 70%;
+.figure img {
+  vertical-align: top;
 }
 .figure_pixel img,
 .figure_art img,
 .figure_boxart img {
   width: 100%;
+  height: 100%;
+}
+.figure_gb img,
+.figure_pixel img {
+  image-rendering: pixelated;
+  vertical-align: bottom;
+}
+.figure_gb img {
+  width: 320px;
+  max-width: 100%;
   height: 100%;
 }
 .float {
@@ -97,15 +106,6 @@ object {
   margin-right: 0;
   margin-left: 0.4em;
 }
-.figure_gb {
-  max-width: 320px;
-}
-.figure_gb img {
-  width: 320px;
-  max-width: 100%;
-  height: 100%;
-}
-
 
 // Media Queries
 @media only screen and (max-width: 640px) {
