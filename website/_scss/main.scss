@@ -123,95 +123,6 @@ object {
   }
 }
 
-// Timeline
-#timeline-nav {
-  display: flex;
-  justify-content: flex-end;
-  flex-wrap: wrap;
-  margin-bottom: 3em;
-}
-.timeline-nav-element, #selected {
-  width: 10.5rem;
-  padding: 0.5em;
-  display: flex;
-  margin: 0.2em auto;
-  border: 2px solid var(--dark-grey);
-  border-radius: var(--rounded-corners);
-  color: black;
-}
-.timeline-nav-element img, #selected img {
-  max-width: 3rem;
-}
-#selected {
-  background: var(--sharp-blue);
-}
-.timeline-nav-element:hover,
-.timeline-nav-element:focus,
-.timeline-nav-element:active {
-  cursor: pointer;
-  background: var(--sharp-blue);
-  color: var(--lime-green);
-  transition: .2s ease-out;
-}
-#timeline h2 {
-  position: sticky;
-  top: 0;
-  font-family: "GB";
-  font-size: 1.05rem;
-  margin-bottom: 1rem;
-  background: var(--light-beige);
-  width: 4.2rem;
-  display: flex;
-  justify-content: flex-end;
-  white-space: nowrap;
-  z-index: 1;
-  padding-top: 0;
-  border-bottom: .12rem solid;
-}
-#timeline h3 {
-  position: sticky;
-  top: 1.6rem;
-  font-size: 0.75rem;
-  width: 4.2rem;
-  display: flex;
-  justify-content: flex-end;
-  white-space: nowrap;
-  z-index: 0;
-}
-section.month {
-  margin-left: 4.2rem;
-  margin-bottom: .75rem;
-}
-.release_list {
-  display: block;
-}
-figure.timeline {
-  display: inline-block;
-  vertical-align: top;
-  margin: 0.2em;
-  width: 10rem;
-}
-figure.timeline p {
-  font-size: 0.85rem;
-}
-.cover {
-  max-width: 100%;
-}
-#timeline figcaption {
-  display: flex;
-  padding-top: 0;
-}
-#timeline figcaption p {
-  margin: auto;
-}
-.fact_list {
-  margin-top: 1em;
-  padding: 0 0 0 0;
-}
-.fact_list a.ref {
-  padding: 0 .3rem;
-}
-
 // COMPLETED
 
 // Header
@@ -273,7 +184,6 @@ figure.timeline p {
   &:active {
     cursor: pointer;
     color: $sharp-blue;
-    transition: .2s ease-out;
   }
 }
 input#pub:checked ~ .list_labelpublication,
@@ -377,8 +287,95 @@ hr {
   &:active {
     color: black;
     background: $sharp-blue;
-    transition: .2s ease-out;
   }
+}
+
+// Timeline Navigation
+.timeline-nav {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  margin-bottom: 3em;
+}
+.timeline-nav_element {
+  & {
+    @include timeline-nav-button;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    cursor: pointer;
+    background: $sharp-blue;
+    color: $lime-green;
+  }
+}
+.timeline-nav_selected {
+  @include timeline-nav-button;
+  background: $sharp-blue;
+}
+.timeline-nav_label {
+  max-width: 3rem;
+}
+.timeline-nav_span {
+  margin: auto;
+}
+
+// Timeline
+.timeline_year {
+  position: sticky;
+  top: 0;
+  font-family: "GB";
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+  background: $light-beige;
+  width: 4.2rem;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 1;
+  padding-top: 0;
+  border-bottom: .12rem solid;
+}
+.timeline_month {
+  position: sticky;
+  top: 1.6rem;
+  font-size: 0.75rem;
+  width: 4.2rem;
+  display: flex;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 0;
+}
+.timeline_month-section {
+  margin-left: 4.2rem;
+  margin-bottom: .75rem;
+}
+.timeline_release-list {
+  display: block;
+}
+.timeline_figure {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0.2em;
+  width: 10rem;
+}
+.timeline_p {
+  font-size: 0.85rem;
+  margin: auto;
+}
+.timeline_cover {
+  max-width: 100%;
+}
+.timeline_figcaption {
+  display: flex;
+  padding-top: 0;
+}
+.timeline_fact-list {
+  margin-top: 1em;
+  padding: 0 0 0 0;
+}
+.timeline_reference {
+  padding: 0 .3rem;
 }
 
 // Book Items

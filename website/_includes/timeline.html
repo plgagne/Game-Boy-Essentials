@@ -1,4 +1,4 @@
-<div id="timeline">
+<div class="timeline">
 
 {%- comment -%} Remove release dates without specific months {%- endcomment -%}
 {%- assign timeline_stripped = site.data.timeline-releases-only | where: "unknown_release_month", nil -%}
@@ -48,8 +48,8 @@
           
           {%- comment -%} Open year HTML tags {%- endcomment -%}
           {%- if year_written == false -%}
-            <section class="year">
-            <h2>{{ year_stepper }}</h2>
+            <section class="timeline_year-section">
+            <h2 class="timeline_year">{{ year_stepper }}</h2>
             {%- assign year_written = true -%}
           {%- endif -%}
           
@@ -67,24 +67,24 @@
               {%- comment -%} Open month HTML tags {%- endcomment -%}
               {%- if month_written == false -%}
                 {%- assign release_month = release.release_date | date: "%B" -%}
-                <div class="month-separator">
-                <h3>{{ release_month }}</h3>
-                <section class="month">
+                <div class="timeline_month-separator">
+                <h3 class="timeline_month">{{ release_month }}</h3>
+                <section class="timeline_month-section">
                 {%- assign month_written = true -%}
               {%- endif -%}
               
               {%- comment -%} Open release HTML tags {%- endcomment -%}
               {%- if release_html_written == false -%}
-                <div class="release_list">
+                <div class="timeline_release-list">
                 {%- assign release_html_written = true -%}
               {%- endif -%}
               
               {%- comment -%} Write matched release details {%- endcomment -%}
               {%- capture image-location -%}assets/timeline{{ release.boxart }}{%- endcapture -%}
-              <figure class="timeline">
-              <img loading="lazy" class="cover" src="{{ image-location }}" alt="{{ release.title }}">
-              <figcaption>
-              <p>{{ release.title }}</p>
+              <figure class="timeline_figure">
+              <img loading="lazy" class="timeline_cover" src="{{ image-location }}" alt="{{ release.title }}">
+              <figcaption clas="timeline_figcaption">
+              <p class="timeline_p">{{ release.title }}</p>
               </figcaption>
               </figure>
             {%- endif -%}  
@@ -111,8 +111,8 @@
         
         {%- comment -%} Open year HTML tags if they are not present {%- endcomment -%}
         {%- if year_written == false -%}
-          <section class="year">
-          <h2>{{ year_stepper }}</h2>
+          <section class="timeline_year-section">
+          <h2 class="timeline_year">{{ year_stepper }}</h2>
           {%- assign year_written = true -%}
         {%- endif -%}
         
@@ -128,22 +128,22 @@
           {%- comment -%} Open month HTML tags if they are not present {%- endcomment -%}
           {%- if month_written == false -%}
             {%- assign release_month = fact.date | date: "%B" -%}
-            <div class="month-separator">
-            <h3>{{ release_month }}</h3>
-            <section class="month">
+            <div class="timeline_month-separator">
+            <h3 class="timeline_month">{{ release_month }}</h3>
+            <section class="timeline_month-section">
             {%- assign month_written = true -%}
           {%- endif -%}
           
           {%- comment -%} Open fact HTML tags if they are not present {%- endcomment -%}
           {%- if fact_html_written == false -%}
-            <ul class="fact_list">
+            <ul class="timeline_fact-list">
             {%- assign fact_html_written = true -%}
           {%- endif -%}
           
           {%- comment -%} Write matched fact details {%- endcomment -%}
-          <li class="fact">
+          <li class="timeline_fact">
           {{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
-          <a class="ref" href="{{ fact.source }}">※</a>
+          <a class="timeline_reference" href="{{ fact.source }}">※</a>
           </li>
           
         {%- endif -%}

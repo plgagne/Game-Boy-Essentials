@@ -2,17 +2,17 @@ This visual timeline’s release data and cover images come from [GameFAQs](http
 
 In the meantine, feel free to contact me with any addition or errata at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-<nav id="timeline-nav">
-  <{%- if page.region contains 'JP' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="timeline/jp"{%- endif -%}>
-    <img alt="Japan" class="labels" src="assets/timeline/jpn.svg">
-    <span>Japan</span>
+<nav class="timeline-nav">
+  <{%- if page.region contains 'JP' -%}div class="timeline-nav_selected"{%- else -%}a class="timeline-nav_element" href="timeline/jp"{%- endif -%}>
+    <img alt="Japan" class="timeline-nav_label" src="assets/timeline/jpn.svg">
+    <span class="timeline-nav_span">Japan</span>
   </{%- if page.region contains 'JP' -%}div{%- else -%}a{%- endif -%}>
-  <{%- if page.region contains 'NA' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="timeline/na"{%- endif -%}>
-    <img alt="North America" class="labels" src="assets/timeline/na.svg">
-    <span>North America</span>
+  <{%- if page.region contains 'NA' -%}div class="timeline-nav_selected"{%- else -%}a class="timeline-nav_element" href="timeline/na"{%- endif -%}>
+    <img alt="North America" class="timeline-nav_label" src="assets/timeline/na.svg">
+    <span class="timeline-nav_span">North America</span>
   </{%- if page.region contains 'NA' -%}div{%- else -%}a{%- endif -%}>
-  <{%- if page.region contains 'EU' -%}div id="selected"{%- else -%}a class="timeline-nav-element" href="timeline/eu"{%- endif -%}>
-    <img alt="Japan" class="labels" src="assets/timeline/eur.svg">
-    <span>Europe</span>
+  <{%- if page.region contains 'EU' -%}div class="timeline-nav_selected"{%- else -%}a class="timeline-nav_element" href="timeline/eu"{%- endif -%}>
+    <img alt="Japan" class="timeline-nav_label" src="assets/timeline/eur.svg">
+    <span class="timeline-nav_span">Europe</span>
   </{%- if page.region contains 'EU' -%}div{%- else -%}a{%- endif -%}>
 </nav>
