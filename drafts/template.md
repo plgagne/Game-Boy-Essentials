@@ -40,7 +40,6 @@ Here's an explanation of what all the types and classes do and when to use them.
 - pixel (any PNG game screenshot that is not strictly 160x144)
 - art
 - art-png
-- audio
 
 ## Objects
 
