@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+
   <!--HTML Essentials-->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +22,7 @@
   <title>{%- if page.slug == 'index' -%}{{ site.title }}{%- else -%}{{ page.title }} — {{ site.title }}{%- endif -%}</title>
   <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#4e4d4a">
-  
+
   <!--Favicon-->
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
@@ -31,10 +31,10 @@
   <link rel="apple-touch-icon" sizes="512x512" href="apple-touch-icon.png">
   <meta name="apple-mobile-web-app-title" content="GB Essentials">
   <link rel="mask-icon" href="safari-pinned-tab.svg" color="#000000">
-  
+
   <!--Android-->
   <meta name="application-name" content="GBe">
-  
+
   <!--Google Search-->
   <meta name="description" content="{%- if page.article -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}">
   <meta name="google-site-verification" content="GENumlLeYNjkfUJBOp8bozg0S18pPdvEjt5QKfyLW8E">
@@ -47,18 +47,18 @@
     "logo": "{{ site.url }}/apple-touch-icon.png"
   }
   </script>
-  
+
   <!--Mastodon-->  
   {%- if page.slug == 'index' -%}<link rel="me" href="https://peoplemaking.games/@gbe">{%- endif -%}
   {%- if page.slug == 'about' -%}<link rel="me" href="https://ludosphere.fr/@pl">{%- endif -%}
-  
+
   <!--Card-->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter }}">
   <meta name="twitter:title" content="{%- if page.article -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}">
   <meta name="twitter:description" content="{%- if page.article -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}">
   <meta name="twitter:image:src" content="{%- if page.article -%}{{ site.url }}/assets/{{ page.slug }}/{{ page.slug }}-start-social-share-card.png{%- else -%}{{ site.url }}/apple-touch-icon.png{%- endif -%}">
-  
+
   <!--Open Graph-->  
   <meta property="og:type" content="{%- if page.article -%}{{ 'article' }}{%- else -%}{{ 'website' }}{%- endif -%}">
   <meta property="og:site_name" content="{{ site.title }}">

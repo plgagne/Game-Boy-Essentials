@@ -1,10 +1,10 @@
 <body>
-	<header class="header">
-		<a class="header_title" href="">GAME BOY ESSENTIALS</a>
-		<nav class="header_menu">
-			<a class="header_link" href="">Home</a>
-			{%- assign sorted = site.folio | sort: "weight" -%}
-			{%- for page in sorted -%}
-			{%- if page.slug != '0test' -%}<a class="header_link" href="{%- if page.slug == 'index' -%}{%- else -%}{{ page.slug }}{%- endif -%}">{{ page.title }}</a>{%- endif -%}{%- endfor -%}
-		</nav>
-	</header>
+  <header class="header">
+    <a class="header_title" href="">GAME BOY ESSENTIALS</a>
+    <nav class="header_menu">
+      <a class="header_link" href="">Home</a>
+      {%- assign sorted = site.folio | sort: "weight" -%}
+      {%- for page in sorted -%}
+      {%- if page.slug != '0test' -%}<a class="header_link" href="{%- if page.slug == 'index' -%}{%- else -%}{{ page.slug }}{%- endif -%}">{{ page.title }}</a>{%- endif -%}{%- endfor -%}
+    </nav>
+  </header>

@@ -14,41 +14,41 @@ cd timeline
 
 # Copy Backup
 if [ -r "temp" ]; then
-	echo "${RED}Temporary timeline folder is present at timeline/temp. Delete to recreate."
+  echo "${RED}Temporary timeline folder is present at timeline/temp. Delete to recreate."
 else 
-	echo "${RED}Copying temporary timeline data ..."
-	mkdir "temp"
-	cp -R  "$backup_location"/* "temp"
-	echo "${RED}Done copying."
+  echo "${RED}Copying temporary timeline data ..."
+  mkdir "temp"
+  cp -R  "$backup_location"/* "temp"
+  echo "${RED}Done copying."
 fi
 
 # Make resized images 
 if [ -r "${website_location}/assets/timeline/a" ]; then
-		echo "${RED}Resized images exist."
+    echo "${RED}Resized images exist."
 else 
-		echo "${RED}Resized images do not exist. Making them now:"
-		find "temp" -type f -name '*.jpg' -print0 | while IFS= read -r -d '' line; do
-				echo $line
-				magick mogrify $line -resize 160 $line
-		done
-		echo "${RED}Moving resized images to assets folder ..."
-		mv "temp/a" "${website_location}/assets/timeline/"
+    echo "${RED}Resized images do not exist. Making them now:"
+    find "temp" -type f -name '*.jpg' -print0 | while IFS= read -r -d '' line; do
+        echo $line
+        magick mogrify $line -resize 160 $line
+    done
+    echo "${RED}Moving resized images to assets folder ..."
+    mv "temp/a" "${website_location}/assets/timeline/"
 fi
 
 # Prune data.html files
 echo "${RED}Pruning data files ..."
 find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
-	sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
-	sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
-	sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
+  sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
+  sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
+  sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
 done
 
 # Move data.html files to base
 echo "${RED}Moving pruned data files ..."
 find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
-	dir="$(dirname $line)"   # Returns "/from/here/to"
-	dir="$(basename $dir)"  # Returns just "to"
-	mv "$line" "$line".tmp
+  dir="$(dirname $line)"   # Returns "/from/here/to"
+  dir="$(basename $dir)"  # Returns just "to"
+  mv "$line" "$line".tmp
 done
 
 # Concatenate all files together
