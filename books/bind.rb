@@ -3,7 +3,7 @@ file = File.open("temp/intermediate-current.html", "rb")
 contents = file.read
 
 # Remove top and bottom
-contents = contents.gsub(/<!DOCTYPE html>(.*?)<main id="article">/m, '')
+contents = contents.gsub(/<!DOCTYPE html>(.*?)<main class="article">/m, '')
 contents = contents.gsub(/<\/main>(.*?)<\/html>/m, '')
 
 # Remove every instance of two spaces
