@@ -7,7 +7,6 @@
   1. bouton noir, contour noir, texte noir
   2. bouton fond transparent, texte bleu
   3. bouton fond bleu, texte noir
-- Finir de convertir le site web en BEM/SCSS
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
   - https://www.amazon.com/s?k=game+boy+essentials+book
@@ -22,7 +21,6 @@
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 - Terminer l'intégration de backstopJS dans un postbuild.sh
-- Trouver comment avoir des secrets dans un github public
 
 ## Liste de vérification pour publication d'un article
 - [ ] Vérifier que toutes les dates sont bien incluses (incluant l'europe)
