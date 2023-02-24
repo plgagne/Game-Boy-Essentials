@@ -8,7 +8,7 @@
             "type": "image/png"
         },
         {
-            "src": "/safari-pinned-tab.png",
+            "src": "/safari-pinned-tab.svg",
             "sizes": "any",
             "type": "image/svg",
             "purpose": "monochrome"
