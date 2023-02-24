@@ -81,7 +81,7 @@ I am now in front of one of my old demons: the first hidden passage you need to 
 4. Move to the right through what looks like a solid wall.
 5. Place a bomb midway down the hidden passage to destroy a solid block.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

@@ -51,7 +51,7 @@ You destroy enemy ships that will have been predetermined to leave behind an upg
 
 It’s the same system and upgrades as *Gradius* with one little notable exception: the first upgrade. The speed upgrade has a maximum of three levels to spend on. *Gradius* on NES allowed you to mess up royally: you could put too much upgrades into speed which made you go way too fast to conveniently manage your ship. Nowadays this means that Tool-Assisted Speedruns of *Gradius* are really interesting to watch, but to a human player it means a quick death because you run into a wall. To top it off, you could also spend upgrades on speed even if it brought you no more improvements. In *Nemesis* they fixed both problems; the third speed upgrade is the last one and is indeed harder to manage than the previous speed levels. It might be too fast for the average player, which meant you still had to take a meaningful decision regarding your speed: do you go for the third level and hone your reflexes or do you stay at the comfortable second speed level? To me this really feels like a developper who thought things through.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
@@ -76,7 +76,7 @@ Konami put a new coat of paint on *Nemesis* and rereleased it in 1998–1999 in 
 {% include figure.html type="gb" class="float left" %}
 The *GB Collection* was ultimately released in Europe in 2000, making them the only English-language versions of this collection we have, since they were released in no other territory. The European versions received Game Boy Color palettes while dropping Super Game Boy support. I previously said that *Zelda DX* will get its own article. The questions must then be asked: Are the versions of *Nemesis* on the two *GB Collection* versions essential in their own right? I don’t think so. They’re neat to try and look at, but they’re not different enough to warrant their own article, like *The Legend of Zelda: Link’s Awakening DX*. I have not dug too deep into their differences, but I immediately saw that there were some significant changes: the death screen has a different text and the weapons bar took the whole bottom of the screen. The score has been pushed to being visible only when you die.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

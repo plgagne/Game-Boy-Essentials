@@ -28,13 +28,13 @@ weight: 6
 {% include figure.html type="pixel" figcaption="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." %}
 {% include figure.html type="art" figcaption="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." %}
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 </div>
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." %}
 {% include figure.html type="gb" class="gallery" figcaption="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." %}
 </div>
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 3. item 3
 
 ~~~ html
-<div class="gallery-container">
+<div class="gallery">
 </div>
 ~~~
 

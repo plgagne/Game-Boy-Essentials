@@ -57,7 +57,7 @@ If you look at a picture of the game, you’ll see what I mean when I talk about
 
 You might argue that the game features different environments and that we should also look at the other type of backgrounds. You are correct. The first set of levels uses the jungle tileset, the worst of the whole game in terms of readability, but believe me the others are not much better. Why? Because there still is no respect for what the screen can’t do right. See for yourself.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

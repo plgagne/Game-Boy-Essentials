@@ -39,7 +39,7 @@ Close your eyes and think of the *Contra* games. What images come to mind? For m
 {% include figure.html type="art" class="float left" %}
 Within those traced packages where games that were a bit more . . . subdued than what would suddenly burst through with 1992’s *Contra III*. What we have with *Operation C* is the last hurrah of that classic *Contra* era. The Japanese cover has a blatant mix of Michael Biehn and Arnold on its cover but the American game’s box is clearly not trying to sell us on a Stallone/Schwarzenegger video game, it’s forging a new unique identity for *Contra* (fun fact: the artist for this cover, [Tom DuBois](http://tomduboisart.com/index.html), is now a hardcore Christian artist). The game itself is a Game Boy adaptation of the NES adaptation of the arcade *Super Contra*. These three-step adaptations are way more common in video games than you might think and here we have one of my favourite ones. This little game is just awesome.
 
-I often hear commentators, youtubers, podcasters start talking about a Game Boy game with: *Even though it’s on Game Boy, it’s still good. How surprising!* These are benign comments not given much thought, a reflex to think that portable system are somehow a lesser thing, that somehow the natural state of a portable game is to be bad. But there is no surprise that *Operation C* is an extraordinary game. It was made by a company with a stellar reputation for quality in 1991, a small group of four internal developers used to the Game Boy. **Of course it’s good even though it’s on Game Boy!**
+I often hear commentators, youtubers, podcasters start talking about a Game Boy game with: *Even though it’s on Game Boy, it’s still good. How surprising!* These are benign comments not given much thought, a reflex to think that portable systems are somehow a lesser thing, that somehow the natural state of a portable game is to be bad. But there is no surprise that *Operation C* is an extraordinary game. It was made by a company with a stellar reputation for quality in 1991, a small group of four internal developers used to the Game Boy. **Of course it’s good even though it’s on Game Boy!**
 
 {% include figure.html type="gb" figcaption="The Japanese version allows you to select any of the first four levels." %}
 
@@ -83,7 +83,7 @@ Don’t worry, I haven’t forgotten to talk about the Konami code too. On the N
 
 We need to talk about censorship, kids. First off, it’s not what you think. If a country has a legally binding review board that deems cultural content inappropriate for *minors* and thus enforces that the material only be sold to adults, that’s not exactly censorship. Nobody’s harshly censored, you’re just deemed inappropriate for **sale** to children. An adult will have to make the call on whether or not their children can play those games.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
@@ -99,7 +99,7 @@ They did this **of their own volition**, since they seemed to have never submitt
 
 ## Standard Collection Reissue
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

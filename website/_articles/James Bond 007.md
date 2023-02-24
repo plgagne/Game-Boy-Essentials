@@ -67,7 +67,7 @@ So the top-down view is similar to Zelda but don’t mistake the overarching str
 {% include figure.html type="gb" %}
 On a more inspired note, the third level has a guard who will not let you pass through a door. Do you bribe him? Shoot him? Sleep with him? No, you shoot the light with your gun and walk past him once it’s dark. The game has many of those quirky little fetch quest adapting James Bond tropes. In Marrakech, you very clearly have sex with a brothel’s Madame to get a diamond, which you exchange for a tranquillizer gun to steal hotel keys from a casino patron who works for the villains. Yes indeed: you have to go to a casino and play card games. *Goldeneye 007* on N64 focuses on James Bond as a cold-blooded killer with cool guns. *James Bond 007* on Game Boy focuses on James Bond as an aging misogynist who blows government money in casinos to score with women young enough to be his daughter. You know, the good stuff!
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
@@ -92,7 +92,7 @@ You then go to Kurdistan, where you get to do a bit of everything that the game 
 {% include figure.html type="gb" %}
 The next section is Marrakech, which is obviously the main draw of the game. They were clearly trying to emulate movie moments like the first act of *Dr. No*. You have a lot of things to do here, and you could easily spend half your playtime in this section your first time around. You have multiple trading sequences that make no sense (let’s trade a roasted chicken for a cat?) and your first goal is to attract a high roller at the baccarat table who works for Oddjob. You want his hotel key so you shoot him with a tranquillizer gun from a little opening in the casino wall that you access from the sewers underneath the black market. It’s all clearly inspired by the plot to steal the Lektor from the Russian Embassy in *From Russia With Love*. It all ends with you being captured by Oddjob (wasn’t he dead by electrocution at the end of *Goldfinger* by the way?) who then throws you without your items in the Sahara Desert. Oh by the way, Oddjob totally talks in this game when his whole deal in *Goldfinger* was that he didn’t speak. There’s an electronics store in Marrakech, before you get to the desert, which sells the satellite link. It’s kind of a crappy GPS. It just tells you which screen you’re on, nothing more. It is not mandatory to get it, you can completely ignore it and the way Marrakech is built with its weird copy-pasted tunnels, you can very easily miss it. And not having the satellite link to help you figure out the desert’s layout can really screw you in the Sahara after Marrakech.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
@@ -104,7 +104,7 @@ The ending cutscene is interesting because it’s actually got a secret longer v
 
 The optional ending goes a step further. Back in the second level there was a hidden object in Q’s lab called the M.A.R.B.L.E. It looks like a big gem, so you have no idea what it does. It’s behind a wall that you blow up with the scientist on the rocket chair. The first time you interact with the chair, Q stops you, but the second time you do get to send the chair flying to its user’s doom. If you manage to find the M.A.R.B.L.E. you then spend the whole game carrying it, even though you get captured and stripped of your equipment twice. They don’t bother taking your suspicious object of unknown use. Of course not! You go through the first part of the ending just the same. But then you see the M.A.R.B.L.E. sprite for a split second move towards the water next to Bond and it turns into what looks like a canoe! Mae and Bond embark and then you’d think they’d proceed to the sexual plan Bond just laid out. But a submarine lifts up the canoe and tells Bond he’s to escort them back to China. They’ve copied the ending from *The Spy Who Loved Me*! Zhong Mae is pissed that their vacation is cut short, but James reassures her. The submarine captain is a buddy of his and he’s going to take the long way back. Being Bond and all, of course, you’re supposed to understand he’s going to then fuck her right in view of the submarine’s bloody periscope.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

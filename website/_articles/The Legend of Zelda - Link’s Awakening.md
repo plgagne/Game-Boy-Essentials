@@ -41,7 +41,7 @@ When you first turn it on, you’re immediately thrown into a storm, without any
 
 In exactly one minute, you are given a wonderful introduction to a story that will unfold in front of your eyes through hours of play. This is a masterclass in portable storytelling. No words, no undue length, full of emotion and mystery. Yoshiaki Koizumi, who was responsible for making the introductory sequence, knew exactly what he was doing.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

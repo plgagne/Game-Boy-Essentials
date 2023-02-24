@@ -64,13 +64,13 @@ It needs to be removed if you are not putting text underneath the image otherwis
 You can also build a gallery by putting your declarations inside a div. Galleries force two pictures side by side on a desktop display. Do not forget to include gallery as a class. Remember that galleries are an either/or proposition: either they all have figcaption or none of them do (this is a LaTeX constraint).
 
 ~~~ html
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 </div>
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="" %}
 {% include figure.html type="gb" class="gallery" figcaption="" %}
 </div>

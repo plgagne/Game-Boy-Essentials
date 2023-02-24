@@ -28,7 +28,7 @@ developers: "TOSE"
 {% include figure.html type="gb" class="float left" %}
 *Game Boy Gallery* is one of Nintendo’s most obscure game. For comparison, the company has released many kind-of unknown titles in Japan. Games that never saw translation nor rerelease. Titles whose only thing holding them back from being completely forgotten is the notoriety of Nintendo. The question then has to be asked, what makes *Game Boy Gallery* more obscure than games like *Famicom Basic*? Because it was only released in Europe and Australia, and people confuse it for its sequel. *But wait a minute, everybody knows about Game & Watch Gallery!*
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="*Game Boy Gallery*" %}
 {% include figure.html type="gb" class="gallery" figcaption="*Game & Watch Gallery*" %}
 </div>
@@ -60,7 +60,7 @@ With an impact this big on Nintendo’s identity, it’s no wonder that in 1995 
 
 *Game Boy Gallery* is a collection of five Game & Watch toys, the early classics of the electronic toy line:
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="Ball" %}
 {% include figure.html type="gb" class="gallery" figcaption="Vermin" %}
 {% include figure.html type="gb" class="gallery" figcaption="Flagman" %}

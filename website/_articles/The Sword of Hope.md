@@ -57,7 +57,7 @@ But the RPG that *The Sword of Hope* offers is terribly boring. I guess that’s
 
 But it’s not very helpful; while you don’t have to worry about fights and you one-shot all the enemies, you still lose an inordinate amount of time in battles. Enemies are represented with dots on your minimap and if there’s a dot in the direction you want to go, you will have no choice but to fight a battle **instead of** moving. So you could be stuck for 5–6 battles on the same screen trying to go north. Had they simply changed it to forcing a battle **after** your move it would have made it completely fine. So even starting from a fully decked-out save and walking to the end boss, knowing what you need to do to get there is still an unbearable chore.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

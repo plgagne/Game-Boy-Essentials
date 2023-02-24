@@ -63,7 +63,7 @@ This stinginess with necessary upgrades means that you spend the whole game swea
 
 When you move from the two fast bullets to the three bullets your bullet speed goes back down. Then it shoots back up with the next upgrade, before going back down in speed at the final level. It’s a seesaw upgrade system. When you get hit, you immediately lose a ship and reappear at the bottom of the screen. You also go back to the start of the previous **visual level** of upgrades. So if you were shooting three faster bullets, meaning you were at level 5, after you die you end up all the way back at two **slow** bullets, back at level 2. But if you were at three slow bullets you go back to the same two slow bullets as well. Depending on when you die, it can be a small nuisance or a total catastrophe. The fact that you reappear where you died would make you think the game is not punishing, but robbing you of very sparsely distributed upgrades is no fun.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
@@ -79,7 +79,7 @@ On top of that your bullets do not get wider after the second level, they only g
 
 *Solar Striker* is ultimately a blunt object. It’s a game with six levels of unfair enemies that are there to make you learn their quirks by playing it time and time again. That way, it lengthens the experience of what is ultimately a barebones experience, even for the first shooter on Game Boy. Nintendo should have just waited a month and left the task of being the first shooter to Konami’s *Nemesis*. It’s a legit classic that puts *Solar Striker* to shame.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

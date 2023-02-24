@@ -54,7 +54,7 @@ I can think of no other GBC game with such smooth animation. We have TOSE, the s
 
 I didn’t know about any of those details when I bought the game. What had convinced me to buy it was the poster for Nintendo Power 144, one of the first issues I read when I first subscribed to the magazine. I wanted to learn more about the upcoming Game Boy Advance and my English-reading abilities were now good enough to read a game magazine by then. The poster features the cover art for the box and cartridge, a beautiful Toriyama Akira drawing, but what ultimately drew me in were all the details about the game on the back of the poster.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}

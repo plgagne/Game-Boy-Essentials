@@ -34,7 +34,7 @@ I put the tiniest tie wrap I could find to hold the two pieces of the plastic hi
 
 I have to say, I initially thought the electronics were broken. The batteries were so foreign to me that I put them in backwards. By the way, those small watch batteries **can kill you** if you swallow them. They leak their acid in your stomach and intestine. Keep them out of reach of children! I finally figured out the batteries, and the system came to life.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" figcaption="The initial box for the American release." %}
 {% include figure.html type="art" class="gallery" figcaption="The back of the box, with the label of a Montréal toy store!" %}
 {% include figure.html type="art" class="gallery" figcaption="Nintendo later sold Game & Watch devices through third parties. Nintendo would never design such a terrible blister pack." %}
@@ -78,7 +78,7 @@ And some of Nintendo’s best talent were working on this game. Two managers at 
 
 The secret to Nintendo’s improvement: the Modern and Classic dichotomy. *Game Boy Gallery* offered new graphics but the same gameplay as the original game. Here, we instead have two distinct modes. First, a faithful recreation of the original game called the Classic Mode. Second, a reinvention of the game with new sound, gameplay, and graphics using characters related to the Mario franchise called the Modern Mode.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="Classic *Manhole*" %}
 {% include figure.html type="gb" class="gallery" figcaption="Modern *Manhole*" %}
 {% include figure.html type="gb" class="gallery" figcaption="Classic *Fire*" %}
@@ -103,7 +103,7 @@ The game flow for me is somewhat frustrating. Since you want to get stars, you n
 
 ## Interrupt Save
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

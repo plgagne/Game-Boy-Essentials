@@ -53,7 +53,7 @@ When you clear a level it starts all over again with a different shield pattern 
 
 Let’s be clear here: *Yars’ Revenge* on Game Boy is not a shining diamond illuminating the Game Boy library. It’s just an Atari classic that sold like gangbusters in its time, somewhat adapted for Game Boy. How?
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
@@ -66,7 +66,7 @@ The two glyphs are positive points, but there are negative things. I don’t lik
 
 The overall presentation is passable. I mean there are literally five screens that are not the game itself. Here they are:
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
@@ -81,7 +81,7 @@ Those screens are nothing special but the presentation’s brevity has the benef
 {% include figure.html type="gb" class="float left" %}
 With a game like *Yars’ Revenge*, one thing to keep in mind is that the game is the same short burst of gameplay repeated forever. The only change is a slight enemy speed increase or a difference in the shield of the enemy. The Game Boy version strangely adds the appearance of two new enemies: a kind of blue bullet that freezes you in place if you touch it and a weird squid that brings new shield parts that you can steal before they’re in place. They’re not very interesting, and honestly they start appearing so late in the levels as to not really matter. Their inclusion is puzzling. I had to put in a password to see them because I never played long enough otherwise to get to them.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

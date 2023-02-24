@@ -71,7 +71,7 @@ Upon starting the device, you’re presented with a start screen with photos of 
 
 We get a complete rookie mistake on the main screen of the interface: they never indicate you can press the Start button to access settings. So on a screen with three clearly written choices, you actually have four. Let’s jump into the worst segment of the device; Play. When you go into this segment, a game of *Space Fever II* immediately begins. Two enemies drop down from the top of the screen, with letters written on them. Now, those enemies are actually the selection method for the **other** games you can play. So if you shoot those lettered enemies, you start another completely different game. However, if you shoot none of them, or miss your shot, *Space Fever II* will begin. Imagine that; a selection menu with a time limit. Upon starting those other games, you get astoundingly different screens to navigate their respective options. There is no general logic. The whole UI is a mad house.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
@@ -89,7 +89,7 @@ That jokey screen is meant to tell the player that they can’t run away, this i
  
 The two most sedate and reasonable segments of the software are the viewfinder screens and the photo album under View. The picture taking features all the controls around the viewfinder, arranged in an intelligent manner that focuses on quick adjustments. The photo album navigation is pretty straightforward, and once you reach the single picture view, all the options are also arranged around the picture. If you dig deep enough, you can find drawing tools that provide you with a barebones *Mario Paint*. You could take a picture of a white wall and just draw on your Game Boy. You don’t get the benefit of a mouse, but it’s a fun, well designed little drawing utility in a sea of terrible UI.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
@@ -100,7 +100,7 @@ The two most sedate and reasonable segments of the software are the viewfinder s
 
 The camera has far more tricks up its sleeve, and they are all bespoke tools that are hard to grasp because their user interface is not standardized. All in all I think part of the mess is explained by the number of companies who worked on the project. Employees from Creatures (formerly Ape), Game Freak, and R&D1 are all credited. This is a complete guess, but I think employees completed different segments of the software alone and those were added together with no regards for consistency. Even Jupiter, the company mostly known for Picross, is thanked in the credits but they might have supported in other ways like Quality Assurance. None of the craziness in the software was featured on the box; the box is very sedate, even in Japanese. The ads themselves, in both Japan and the US, focus heavily on the power of easy photography (duh) and the fun that can be had with the stamps implemented in the painting tools of the photo album.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

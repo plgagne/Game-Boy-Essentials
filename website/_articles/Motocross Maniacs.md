@@ -34,7 +34,7 @@ Imagine if Mario had to gather boost items that he needed to use to gather enoug
 
 The levels have multiple routes stacked on top of one another, and the best route is generally the top one. Part of the challenge is to reach the top of the level and stay there, since that’s where the quickest route and the most items are found. It’s surprisingly reminiscent of the Sonic games on Mega Drive/Genesis. I guess it’s a natural level layout for a platformer based on momentum.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>

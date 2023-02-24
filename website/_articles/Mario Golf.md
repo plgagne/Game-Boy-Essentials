@@ -37,7 +37,7 @@ The contrast of what adding RPG mechanics to a game concept meant in 1999 versus
 
 I think Camelot was trying to keep you more engaged than when playing other golf games. Golf games usually feature a main menu that allows you to select exactly what you want to do. It’s perfectly reasonable as a way to present a golf game, but it divorces the menu from the game. The menu is not a part of the game, it gives you **access** to the game.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="pixel" figcaption="*Mario Golf* on N64 tries its best to make its menu fun." class="gallery" %}
 {% include figure.html type="pixel" figcaption="Most golf games instead tried to look serious and ended up drab." class="gallery" %}
 </div>

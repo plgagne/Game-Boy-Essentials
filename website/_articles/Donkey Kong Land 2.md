@@ -31,7 +31,7 @@ With the first game, I had decades of experience to share; I owned the game has 
 
 The biggest issue with the first *Donkey Kong Land* is its inscrutable backgrounds that make everything blurry. The developers of *Donkey Kong Land 2* thought so too; the second game has somewhat cleaner backgrounds.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

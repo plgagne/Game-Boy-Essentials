@@ -86,7 +86,7 @@ Which, of course, this being a *Mega Man* game, you then win as a weapon once yo
 
 I mean, they had to have come up with the character design before inventing a dumb pogo-based history for him, right? There’s no explanation anywhere in the game that he’s come from the future with his pogo stick. . . **OH MY GOD IS THE POGO STICK HIS TIME MACHINE?**
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

@@ -42,7 +42,7 @@ They basically tried everything they could to make the Game & Watch games feel a
 
 When Nintendo abandoned the Game & Watch concept in 1991 Tiger Electronics was by then the king of the LCD games. Starting in 1988, they had managed to reduce production costs to oblivion and had flooded the market with crappy licensed games of everything under the sun. In time, this included old franchises like *The Flintstones*, popular movies like *Batman Returns* and *Jurassic Park*, blockbuster arcade titles like *Street Fighter II* or *Mortal Kombat* and corny 80s sitcoms like *Full House*. I kid you not there even was a [*MC Hammer* LCD game](http://tinycartridge.com/post/453318251/mc-hammer-u-cant-touch-this-the-tiger-lcd-game). As someone born in 1986, I never laid hands on a Game & Watch but by the middle of the 90s I can attest that Tiger Electronics games were everywhere.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="art" class="gallery" %}
 {% include figure.html type="art" class="gallery" %}
 </div>
@@ -86,7 +86,7 @@ Since the game is so clearly meant to emulate *Super Mario Bros.* how does it co
 
 The levels are also not as interesting and memorable as on NES. Even though the building blocks are more varied and the enemies truly weird the levels are sparsely populated (they were probably very careful with enemy placement due to the poor screen) and the obstacles are not that inspired. Interestingly, the game separates its twelve levels in four distinct worlds with very clear real-world analogues.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" figcaption="Egypt" %}
 {% include figure.html type="gb" class="gallery" figcaption="The Bermuda Triangle" %}
 {% include figure.html type="gb" class="gallery" figcaption="Easter island" %}
@@ -95,7 +95,7 @@ The levels are also not as interesting and memorable as on NES. Even though the 
 
 This is another aspect of Mario that is not traditional. When one thinks of the setting of Mario games you think of blocks, tunnels, castles, anything *but* adaptations of real-world locations. *Super Mario Bros. 3* is all Piranha plants and pipes, not anything realistic. I mean there are pyramids but they don’t have any Egyptian hieroglyphs or mummies. The exception to the rule is *Super Mario Bros. 2* with its very clear Arabian influence but that was originally another game based on a Japanese festival that was influenced by *One Thousand and One Nights*. I’ve read rumours that *Super Mario Land* was originally not a *Mario* game and got turned into one during development. All its off-key weird levels including the side-scrolling shooter levels might make you think that. Seriously, who thought of dumping Mario in a submarine? A prop plane? Why does Mario start World 2 coming out of a flying saucer? Whatever the case may be, the most important thing to keep in mind is *Super Mario Land* was not made by Mario’s father, Miyamoto and his team, but by Yokoi’s team. To me that’s enough explanation for why the controls and the levels are weird. Everything about this game is off-key. It’s a cavalcade of weird enemies and bosses.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}

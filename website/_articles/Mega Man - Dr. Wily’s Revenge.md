@@ -58,7 +58,7 @@ They did succeed in making sure the upcoming environmental challenges were alway
 
 The enemies are usually the same size and act the same as on NES, and are as varied. It’s great for presentation but that means they give you less time to react since they’re always so big and so close to you. Imagine a robot with a shield in front of you; when he shoots you have less time to jump than you would on NES.
 
-<div class="gallery-container">
+<div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
 {% include figure.html type="gb" class="gallery" %}
 </div>
