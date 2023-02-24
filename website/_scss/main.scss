@@ -12,114 +12,6 @@ html {
   text-shadow: none; 
 }
 
-// Media
-.gallery {
-  display: flex;
-  clear: both;
-  text-align: center;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.gallery_element {
-  margin-left: 0.15rem;
-  margin-right: 0.15rem;
-  max-width: 48%;
-}
-.figure,
-video,
-audio,
-object {
-  @include figure;
-}
-video,
-audio {
-  margin-top: 5em;
-  margin-bottom: 5em;
-}
-video {
-  width: 160px;
-}
-object {
-  width: 100%;
-  height: 500px;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-.figure_gb {
-  max-width: 320px;
-}
-.figure_art, .figure_pixel {
-  max-width: 70%;
-}
-.figure_boxart {}
-.figure :not(.float) {
-  margin-top: 3em;
-  margin-bottom: 3em;
-}
-.figure .gallery {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-.figure_figcaption {
-  padding-top: 0.4em;
-}
-.figure_paragraph {
-  margin-bottom: 0;
-}
-.figure img {
-  vertical-align: top;
-}
-.figure_pixel img,
-.figure_art img,
-.figure_boxart img {
-  width: 100%;
-  height: 100%;
-}
-.figure_gb img,
-.figure_pixel img {
-  image-rendering: pixelated;
-  vertical-align: bottom;
-}
-.figure_gb img {
-  width: 320px;
-  max-width: 100%;
-  height: 100%;
-}
-.float {
-  min-width: 100pt;
-  margin-top: 0.4em;
-  margin-bottom: 0.4em;
-}
-.left {
-  float: left;
-  margin-left: 0;
-  margin-right: 0.4em;
-}
-.right {
-  float: right;
-  margin-right: 0;
-  margin-left: 0.4em;
-}
-
-// Media Queries
-@media only screen and (max-width: 640px) {
-  .left, .right {
-  float: none;
-  margin: 0 auto;
-  }
-  .figure_pixel, .figure_art, .figure_boxart {
-  max-width: 90%;
-  }
-}
-@media only screen and (min-width: 640px) {
-  .float {
-  max-width: 35%;
-  max-height: 35%;
-  }
-}
-
-// COMPLETED
-
 // Header
 .header {
   background: $dark-grey;
@@ -285,6 +177,105 @@ hr {
   }
 }
 
+// Media
+.figure,
+video,
+audio,
+object {
+  @include figure;
+  @include figure-margins;
+}
+video {
+  width: 160px;
+}
+object {
+  width: 100%;
+  height: 500px;
+}
+.figure_gb {
+  max-width: 320px;
+}
+.figure_gb img {
+  width: 320px;
+  height: 100%;
+  vertical-align: top;
+  image-rendering: pixelated;
+}
+.figure_pixel {
+  max-width: 70%;
+}
+.figure_pixel img {
+  image-rendering: pixelated;
+  @include width-height;
+}
+.figure_art {
+  max-width: 70%;
+}
+.figure_art img {
+  @include width-height;
+}
+.figure_boxart img {
+  @include width-height;
+}
+.figure_figcaption {
+  padding-top: 0.4em;
+  text-align: center;
+}
+.gallery {
+  display: flex;
+  clear: both;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  @include figure-margins;
+}
+.gallery_element {
+  margin-left: 0.15rem;
+  margin-right: 0.15rem;
+  max-width: 48%;
+}
+.gallery .figure {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+}
+.gallery .figure_pixel {
+  max-width: 100%;
+}
+.gallery .figure_art {
+  max-width: 100%;
+}
+.float {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+.float.figure_pixel {
+  max-width: 35%;
+}
+.float.figure_art {
+  max-width: 35%;
+}
+.left {
+  float: left;
+  margin-left: 0;
+  margin-right: 0.4em;
+}
+.right {
+  float: right;
+  margin-right: 0;
+  margin-left: 0.4em;
+}
+
+// Media Queries
+@media only screen and (max-width: 640px) {
+  .left, .right {
+  float: none;
+  margin: 0 auto;
+  }
+  .figure_pixel, .figure_art, .figure_boxart {
+  max-width: 90%;
+  }
+}
+
 // Timeline Navigation
 .timeline-nav {
   display: flex;
@@ -353,17 +344,16 @@ hr {
   vertical-align: top;
   margin: 0.2em;
   width: 10rem;
-}
-.timeline_p {
-  font-size: 0.85rem;
-  margin: auto;
+  background-color: $light-grey;
+  border-radius: $rounded-corners;
+  padding: 0.2em;
 }
 .timeline_cover {
   max-width: 100%;
 }
 .timeline_figcaption {
-  display: flex;
-  padding-top: 0;
+  font-size: 0.85rem;
+  text-align: center;
 }
 .timeline_fact-list {
   margin-top: 1em;

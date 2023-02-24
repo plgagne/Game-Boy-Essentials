@@ -83,9 +83,7 @@
               {%- capture image-location -%}assets/timeline{{ release.boxart }}{%- endcapture -%}
               <figure class="timeline_figure">
               <img loading="lazy" class="timeline_cover" src="{{ image-location }}" alt="{{ release.title }}">
-              <figcaption clas="timeline_figcaption">
-              <p class="timeline_p">{{ release.title }}</p>
-              </figcaption>
+              <figcaption class="timeline_figcaption">{{ release.title }}</figcaption>
               </figure>
             {%- endif -%}  
           {%- endif -%}

@@ -32,6 +32,15 @@ $rounded-corners: 0.25em;
   margin: 0 auto;
   padding: 0.2em;
 }
+@mixin figure-margins {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+@mixin width-height {
+  width: 100%;
+  height: 100%;
+  vertical-align: top;
+}
 
 // Fond clair: bouton état de base (joindre radio, timeline-nav-button & navigation)
 @mixin radio {
