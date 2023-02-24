@@ -17,7 +17,7 @@ done
 echo "${RED}Card images checked."
 
 # Batir le site
-JEKYLL_ENV=production bundle exec jekyll build --incremental
+JEKYLL_ENV=production bundle exec jekyll build
 
 # Trouver et enlever les fichiers de macOS
 find "_site" -type f -name '.DS_store' -delete
