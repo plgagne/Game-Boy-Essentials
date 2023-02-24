@@ -50,12 +50,12 @@ contents = contents.gsub(/<\/table>/, '\hline \normalsize\end{tabulary} \end{cen
 
 # Gallery
 # First Gallery Element with Figcaption
-contents = contents.gsub(/<div class="gallery-container">
+contents = contents.gsub(/<div class="gallery">
 <div><figure(.*?)class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure><\/div>/, '\begin{center}
 \vspace{8pt}\adjustbox{valign=t}{\sbox0{\includegraphics[width=.45\linewidth]{assets\\3}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\7\end{minipage}}')
 
 # First Gallery Element without
-contents = contents.gsub(/<div class="gallery-container">
+contents = contents.gsub(/<div class="gallery">
 <div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\begin{center}
 \vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\2}}')
 
@@ -66,7 +66,7 @@ contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" wid
 contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\2}}')
 
 # Gallery bottom
-contents = contents.gsub(/<div class="gallery-container">/, '\begin{center}')
+contents = contents.gsub(/<div class="gallery">/, '\begin{center}')
 contents = contents.gsub(/<\/div>/, '\end{center}')
 
 # The godforsaken figures
