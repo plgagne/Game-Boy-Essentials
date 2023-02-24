@@ -9,7 +9,7 @@
     "favicon":"{{ site.url }}/apple-touch-icon.png",
     "items":[
       {% assign sorted = site.articles | sort: "publication" | reverse %}
-      {%- for article in sorted limit:10 -%}
+      {% for article in sorted limit:10 %}
       {
       "id": "{{ article.slug }}",
       "url": "{{ article.url | prepend: site.url }}",
@@ -17,6 +17,6 @@
       "content_html": {{ article.content | jsonify  }}
       }{% unless forloop.last %},
       {% endunless %}
-      {%- endfor -%}
+      {% endfor %}
     ]
 }
