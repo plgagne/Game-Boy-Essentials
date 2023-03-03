@@ -55,7 +55,7 @@ defaults:
 ## SASS
 sass:
   sass_dir: _scss
-  sourcemap: development
+  sourcemap: local_serve
   style: compressed
 
 ## Markdown
@@ -68,7 +68,7 @@ plugins:
   - jekyll-image-size
   - jekyll-minifier
   - jekyll-redirect-from
-  
+
 ## Redirect-From
 redirect_from:
   json: false
