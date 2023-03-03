@@ -11,6 +11,7 @@
 - Vérifier la disponibilité du Volume 1
   - https://www.amazon.com/s?k=game+boy+essentials+book
   - https://www.barnesandnoble.com/s/game%20boy%20essentials
+- Implanter une façon de changer les données de la ligne du temps de façon répétable
 
 ## Long terme
 - Simplifier la structure des images de timeline

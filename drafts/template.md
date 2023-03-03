@@ -30,7 +30,7 @@ Every image is to be used inside a figure. !fig will autocomplete into what you 
 
 (slug)-(number).(filename)
 
-Here's an explanation of what all the types and classes do and when to use them.
+Here’s an explanation of what all the types and classes do and when to use them.
 
 ## Types
 
