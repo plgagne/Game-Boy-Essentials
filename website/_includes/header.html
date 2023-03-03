@@ -3,9 +3,9 @@
     <a class="header_title" href="">GAME BOY ESSENTIALS</a>
     <nav class="header_menu">
       <a class="header_link" href="">Home</a>
-      {% assign sorted = site.folio | sort: "weight" %}
+      {% assign sorted = site.folio | sort: 'weight' %}
       {% for page in sorted %}
-      {% if jekyll.environment == "production" %}
+      {% if jekyll.environment == 'production' %}
         {% case handle %}
           {% assign handle = page.slug %}
           {% when "0test" %}

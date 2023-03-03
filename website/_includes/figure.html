@@ -1,5 +1,5 @@
 {% assign details = site.data.static-files[include.type] %}
-{% if include.class == "gallery" %}<div class="gallery_element">{% else %}{% endif %}
+{% if include.class == 'gallery' %}<div class="gallery_element">{% else %}{% endif %}
 <figure class="figure figure_{{ details.name }}{% if include.class %} {{ include.class }}{% else %}{% endif %}">
 {% capture image-variable %}
 assets/{{ page.slug }}/{{ page.slug }}-{% assign order = order | plus: 1 %}{{ order }}.{{ details.extension }}
@@ -9,4 +9,4 @@ assets/{{ page.slug }}/{{ page.slug }}-{% assign order = order | plus: 1 %}{{ or
 {% else %}
 {% endif %}
 </figure>
-{% if include.class == "gallery" %}</div>{% else %}{% endif %}
+{% if include.class == 'gallery' %}</div>{% else %}{% endif %}
