@@ -15,27 +15,27 @@ weight: 1
   <span class="list_span">Earliest Release Date</span>
 </label>
 <section class="list_publication">
-{%- assign articlepub = true -%}
-{%- assign sorted = site.articles | sort: "publication" | reverse -%}
-{%- for article in sorted -%}
-  {%- include game.html -%}
-{%- endfor -%}
-{%- assign articlepub = false -%}
+{% assign articlepub = true %}
+{% assign sorted = site.articles | sort: "publication" | reverse %}
+{% for article in sorted %}
+  {% include game.html %}
+{% endfor %}
+{% assign articlepub = false %}
 </section>
 <section class="list_release">
-{%- assign gamerelease = true -%}
-{%- assign articles_grouped = site.articles | group_by: 'release-year' -%}
-{%- assign sorted = articles_grouped | sort: 'name' -%}
-{%- for group in sorted -%}
+{% assign gamerelease = true %}
+{% assign articles_grouped = site.articles | group_by: 'release-year' %}
+{% assign sorted = articles_grouped | sort: 'name' %}
+{% for group in sorted %}
   <div class="list_year" id="year{{ group.name | round }}">
   {{- group.name | round -}}
   </div>
-  {%- assign sorting = group.items | sort: 'release-month' -%}
-  {%- for article in sorting -%}
-    {%- include game.html -%}
-  {%- endfor -%}
-{%- endfor -%}
-{%- assign gamerelease = false -%}
+  {% assign sorting = group.items | sort: 'release-month' %}
+  {% for article in sorting %}
+    {% include game.html %}
+  {% endfor %}
+{% endfor %}
+{% assign gamerelease = false %}
 <script>
 var imgs = document.getElementsByClassName('dmg-apee');
 for (var i = 0; i < imgs.length; i++) {
