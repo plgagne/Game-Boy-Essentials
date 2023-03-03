@@ -41,7 +41,7 @@
       {% comment %} Stop if the year is larger than the position of the stepper {% endcomment %}
       {% if year_integer > year_stepper %}
         {% break %}
-      {% else %}
+        {% else %}
         
         {% comment %} Start parsing if the year is correct {% endcomment %}
         {% if year_stepper == year_integer %}
@@ -59,7 +59,7 @@
           {% comment %} Stop if month is larger than stepper position {% endcomment %}
           {% if month_integer > month_stepper %}
             {% break %}
-          {% else %}
+            {% else %}
           
             {% comment %} Start parsing if month is correct {% endcomment %}
             {% if month_stepper == month_integer %}
