@@ -55,7 +55,7 @@ defaults:
 ## SASS
 sass:
   sass_dir: _scss
-  sourcemap: local_serve
+  sourcemap: development
   style: compressed
 
 ## Markdown
