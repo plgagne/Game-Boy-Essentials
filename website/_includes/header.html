@@ -5,16 +5,19 @@
       <a class="header_link" href="">Home</a>
       {% assign sorted = site.folio | sort: 'weight' %}
       {% for page in sorted %}
-      {% if jekyll.environment == 'production' %}
-        {% case handle %}
-          {% assign handle = page.slug %}
-          {% when "0test" %}
+        {% if jekyll.environment == 'production' %}
+          {% case handle %}
+            {% assign handle = page.production %}
+            {% when false %}
+            {% else %}
+              <a class="header_link" href="{{ page.slug }}">{{ page.title }}</a>
+          {% endcase %}
           {% else %}
-            <a class="header_link" href="{% if page.slug != 'index' %}{{ page.slug }}{% endif %}">{{ page.title }}</a>
-        {% endcase %}
-        {% else %}
-          <a class="header_link" href="{% if page.slug != 'index' %}{{ page.slug }}{% endif %}">{{ page.title }}</a>
-      {% endif %}
+            <a class="header_link" href="{{ page.slug }}">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
+      {% if jekyll.environment != 'production' %}
+        <a class="header_link" href="/drafts">Drafts</a>
+      {% endif %}
     </nav>
   </header>
