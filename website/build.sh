@@ -2,6 +2,12 @@
 # Set red for echo output
 RED='\033[0;31m'
 
+# Trouver et enlever les fichiers avec de la corrélation pour empêcher les problèmes de incremental
+rm _site/index.html
+rm _site/rss.xml
+rm _site/feed.json
+echo "${RED}Homepage, RSS and JSON feed removed."
+
 # Make resized social media card images
 find "assets" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do
   filename="${line%.*}"
