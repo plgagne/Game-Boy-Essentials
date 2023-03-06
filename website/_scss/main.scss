@@ -1,7 +1,7 @@
 // General Classes
 html {
   height: 100%;
-  min-width: 100%; 
+  min-width: 100%;
   background: $light-beige;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Avenir Next", system-ui, Verdana, sans-serif;
   line-height: 1.5;
@@ -9,7 +9,7 @@ html {
 ::selection {
   background: $lime-green;
   color: white;
-  text-shadow: none; 
+  text-shadow: none;
 }
 
 // Header
@@ -271,7 +271,7 @@ object {
   float: none;
   margin: 0 auto;
   }
-  .figure_pixel, .figure_art, .figure_boxart {
+  .float.figure_pixel, .float.figure_art, .float.figure_boxart {
   max-width: 90%;
   }
 }
