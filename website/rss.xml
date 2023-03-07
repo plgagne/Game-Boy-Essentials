@@ -16,7 +16,7 @@
   {% for article in sorted limit:10 %}
   <item>
     <title>{{ article.title | xml_escape }}</title>
-    <description>{{ article.content | xml_escape }}
+    <description>{{ article.content | markdownify | xml_escape }}
     </description>
     <link>{{ site.url }}{{ article.url }}</link>
     <guid isPermaLink="false">{{ article.slug }}</guid>

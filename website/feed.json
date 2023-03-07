@@ -14,7 +14,7 @@
       "id": "{{ article.slug }}",
       "url": "{{ article.url | prepend: site.url }}",
       "title": {{ article.title | jsonify }},
-      "content_html": {{ article.content | jsonify  }}
+      "content_html": {{ article.content | markdownify | jsonify }}
       }{% unless forloop.last %},
       {% endunless %}
       {% endfor %}
