@@ -2,12 +2,6 @@
 # Set red for echo output
 RED='\033[0;31m'
 
-# Trouver et enlever les fichiers avec de la corrélation pour empêcher les problèmes de incremental
-rm _site/index.html
-rm _site/rss.xml
-rm _site/feed.json
-echo "${RED}Homepage, RSS and JSON feed pages removed from _site."
-
 # Make resized social media card images
 find "assets" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do
   filename="${line%.*}"
@@ -23,7 +17,7 @@ done
 echo "${RED}Card images checked."
 
 # Batir le site
-JEKYLL_ENV=production bundle exec jekyll build --incremental
+JEKYLL_ENV=production bundle exec jekyll build
 
 # Trouver et enlever les fichiers de macOS
 find "_site" -type f -name '.DS_store' -delete
