@@ -24,15 +24,15 @@ fi
 
 # Make resized images 
 if [ -r "${website_location}/assets/timeline/a" ]; then
-    echo "${RED}Resized images exist."
-else 
-    echo "${RED}Resized images do not exist. Making them now:"
-    find "temp" -type f -name '*.jpg' -print0 | while IFS= read -r -d '' line; do
-        echo $line
-        magick mogrify $line -resize 160 $line
-    done
-    echo "${RED}Moving resized images to assets folder ..."
-    mv "temp/a" "${website_location}/assets/timeline/"
+  echo "${RED}Resized images exist."
+else
+  echo "${RED}Resized images do not exist. Making them now:"
+  find "temp" -type f -name '*.jpg' -print0 | while IFS= read -r -d '' line; do
+    echo $line
+    magick mogrify $line -resize 160 $line
+  done
+  echo "${RED}Moving resized images to assets folder ..."
+  mv "temp/a" "${website_location}/assets/timeline/"
 fi
 
 # Prune data.html files
