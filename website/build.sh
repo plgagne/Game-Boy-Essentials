@@ -6,7 +6,7 @@ RED='\033[0;31m'
 rm _site/index.html
 rm _site/rss.xml
 rm _site/feed.json
-echo "${RED}Homepage, RSS and JSON feed removed."
+echo "${RED}Homepage, RSS and JSON feed pages removed from _site."
 
 # Make resized social media card images
 find "assets" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do
