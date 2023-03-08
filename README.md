@@ -3,7 +3,6 @@
 
 ## Tâches
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
-- Vérifier qu'un fil RSS sans liens complets est capable de trouver les images
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
   2. bouton fond transparent, texte bleu
