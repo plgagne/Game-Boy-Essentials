@@ -5,7 +5,7 @@
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
-  2. bouton fond transparent, texte bleu
+
   3. bouton fond bleu, texte noir
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
