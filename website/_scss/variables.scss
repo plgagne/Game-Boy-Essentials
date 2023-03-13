@@ -25,10 +25,10 @@ $rounded-corners: 0.25em;
 // Fond foncé pour les figures, les vidéos, audio et objet
 @mixin figure {
   display: grid;
+  border-radius: $rounded-corners;
   clear: both;
   background-color: $light-grey;
   text-align: center;
-  border-radius: $rounded-corners;
   margin: 0 auto;
   padding: 0.2em;
 }
@@ -42,49 +42,27 @@ $rounded-corners: 0.25em;
   vertical-align: top;
 }
 
-// Fond clair: bouton état de base (joindre radio, timeline-nav-button & navigation)
-@mixin radio {
+// Bouton clair
+@mixin light-button {
   display: flex;
   border-radius: $rounded-corners;
   border: 2px solid $dark-grey;
-  margin: 0.2em auto;
-  color: black;
-  padding: 0.5em;
-  list-style: none;
-}
-
-@mixin timeline-nav-button {
-  display: flex;
-  border-radius: $rounded-corners;
-  border: 2px solid $dark-grey;
-  margin: 0.2em auto;
   color: black;
   padding: 0.5em;
 }
-
-// Fond clair: bouton état de base
-@mixin navigation {
-  display: flex;
-  border-radius: $rounded-corners;
-  border: 2px solid $dark-grey;
-  color: black;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-  min-height: 2rem;
-  margin: 0.4em;
+@mixin light-button_focus {
+  cursor: pointer;
+  color: $sharp-blue;
+  text-decoration: none;
 }
 
-// Fond foncé: bouton état de base
-@mixin button {
+// Bouton foncé
+@mixin dark-button {
   border-radius: $rounded-corners;
   color: $lime-green;
   text-decoration: none;
 }
-
-// Fond-foncé: bouton en sélection
-@mixin button-focus {
+@mixin dark-button_focus {
   cursor: pointer;
   background: $sharp-blue;
   color: black;

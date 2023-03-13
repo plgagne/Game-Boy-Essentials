@@ -41,12 +41,12 @@ html {
     display: inline-block;
     font-size: 1.2rem;
     padding: 0.1em 0.6em;
-    @include button;
+    @include dark-button;
   }
   &:hover,
   &:focus,
   &:active {
-    @include button-focus;
+    @include dark-button_focus;
   }
 }
 
@@ -64,14 +64,15 @@ html {
 .list_labelrelease {
   &,
   &:visited {
-    @include radio;
+    @include light-button;
     width: 15rem;
+    margin: 0.2em auto;
+    list-style: none;
   }
   &:hover,
   &:focus,
   &:active {
-    cursor: pointer;
-    color: $sharp-blue;
+    @include light-button_focus;
   }
 }
 input#pub:checked ~ .list_labelpublication,
@@ -111,12 +112,12 @@ input#rel:checked ~ .list_release {
     @include dark-box;
     display: inline-block;
     max-width: 320px;
-    @include button;
+    @include dark-button;
   }
   &:hover,
   &:focus,
   &:active {
-    @include button-focus;
+    @include dark-button_focus;
   }
 }
 .game_img {
@@ -168,14 +169,19 @@ hr {
 .navigation_button {
   &,
   &:visited {
-    @include navigation;
+    @include light-button;
     width: 15rem;
+    margin: 0.2em;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 2rem;
   }
   &:hover,
   &:focus,
   &:active {
-    color: black;
-    background: $sharp-blue;
+    @include light-button_focus;
   }
 }
 
@@ -288,19 +294,20 @@ object {
 .timeline-nav_element {
   &,
   &:visited {
-    @include timeline-nav-button;
+    @include light-button;
     width: 10.5rem;
+    margin: 0.2em auto;
   }
   &:hover,
   &:focus,
   &:active {
-    cursor: pointer;
-    background: $sharp-blue;
-    color: $lime-green;
+    @include light-button_focus;
   }
 }
 .timeline-nav_selected {
-  @include timeline-nav-button;
+  @include light-button;
+  width: 10.5rem;
+  margin: 0.2em auto;
   background: $sharp-blue;
 }
 .timeline-nav_label {
@@ -417,12 +424,12 @@ object {
   &,
   &:visited {
     @include store;
-    @include button;
+    @include dark-button;
   }
   &:hover,
   &:focus,
   &:active {
-    @include button-focus;
+    @include dark-button_focus;
   }
 }
 
