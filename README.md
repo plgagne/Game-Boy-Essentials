@@ -38,8 +38,8 @@
 - Écrire des notes de bas de page
   - C'est une mauvaise manière d'écrire.
 - Convertir mon fichier de collection de Numbers à HTML
-  - Les tables Markdown sont impossibles à regarder
-  - Tu perds la capacité de facilement jouer avec les données
+  - Les tables Markdown sont impossibles à regarder.
+  - Tu perds la capacité de facilement jouer avec les données.
 - Avoir un logo SVG inlcuant Game Boy tel qu'utilisé par Nintendo
   - Le logo du Game Boy n'est pas fait pour un écran d'ordinateur.
 - Utiliser Github Pages pour le site web
