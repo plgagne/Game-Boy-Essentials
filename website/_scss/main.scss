@@ -62,9 +62,10 @@ html {
 }
 .list_labelpublication,
 .list_labelrelease {
-  & {
-    width: 15rem;
+  &,
+  &:visited {
     @include radio;
+    width: 15rem;
   }
   &:hover,
   &:focus,
@@ -168,6 +169,7 @@ hr {
   &,
   &:visited {
     @include navigation;
+    width: 15rem;
   }
   &:hover,
   &:focus,
@@ -284,8 +286,10 @@ object {
   margin-bottom: 3em;
 }
 .timeline-nav_element {
-  & {
+  &,
+  &:visited {
     @include timeline-nav-button;
+    width: 10.5rem;
   }
   &:hover,
   &:focus,

@@ -45,37 +45,35 @@ $rounded-corners: 0.25em;
 // Fond clair: bouton état de base (joindre radio, timeline-nav-button & navigation)
 @mixin radio {
   display: flex;
-  list-style: none;
-  border: 2px solid $dark-grey;
   border-radius: $rounded-corners;
+  border: 2px solid $dark-grey;
   margin: 0.2em auto;
+  color: black;
   padding: 0.5em;
+  list-style: none;
 }
 
 @mixin timeline-nav-button {
-  width: 10.5rem;
-  padding: 0.5em;
   display: flex;
-  margin: 0.2em auto;
-  border: 2px solid $dark-grey;
   border-radius: $rounded-corners;
+  border: 2px solid $dark-grey;
+  margin: 0.2em auto;
   color: black;
+  padding: 0.5em;
 }
 
 // Fond clair: bouton état de base
 @mixin navigation {
   display: flex;
+  border-radius: $rounded-corners;
+  border: 2px solid $dark-grey;
+  color: black;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   text-align: center;
-  color: black;
-  border: 2px solid $dark-grey;
-  border-radius: $rounded-corners;
-  width: 15rem;
   min-height: 2rem;
   margin: 0.4em;
-  text-decoration: none;
 }
 
 // Fond foncé: bouton état de base
@@ -122,32 +120,32 @@ $rounded-corners: 0.25em;
   font-style: normal;
 }
 
-#year1989, #year1990, #year1991, #year1992, #year1993, #year1994, #year1995, #year1996, #year1997 { 
+#year1989, #year1990, #year1991, #year1992, #year1993, #year1994, #year1995, #year1996, #year1997 {
   background: #8BB317;
   font-family: "gb";
 }
 
-#year1998 { 
+#year1998 {
   background: #3D3597;
   font-family: "gb";
 }
 
-#year1999 { 
+#year1999 {
   background: #A82332;
   font-family: "gb";
 }
 
-#year2000 { 
+#year2000 {
   background: #5DA61A;
   font-family: "gb";
 }
 
-#year2001 { 
+#year2001 {
   background: #D19E21;
   font-family: "gb";
 }
 
-#year2002 { 
+#year2002 {
   background: #338377;
   font-family: "gb";
 }
