@@ -2,6 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Faire une version 4 du premier livre avec un ISBN nouveau, ou envoyer un courriel à Lulu.
 - Utiliser le CSS optimizer et validator https://www.cssportal.com/css-optimize/
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton
