@@ -20,27 +20,30 @@ html {
 }
 .header_title {
   &,
-  &:hover,
-  &:active,
   &:visited {
     font: 3em 'Gill Sans', 'Gill Sans MT', 'Calibri', sans-serif;
     font-style: italic;
     font-weight: 600;
     color: $lime-green;
-    padding-bottom: 0.2em;
+    padding: 0.1em 0.4em;
     display: inline-block;
     text-decoration: none;
   }
+  &:hover,
+  &:focus,
+  &:active {
+    border-radius: $rounded-corners;
+    @include dark-button_focus;
+  }
 }
 .header_menu {
+  padding-top: 0.1em;
   padding-bottom: 0.4em;
 }
 .header_link {
   &,
   &:visited {
-    display: inline-block;
-    font-size: 1.2rem;
-    padding: 0.1em 0.6em;
+    @include header-element;
     @include dark-button;
   }
   &:hover,
@@ -48,6 +51,10 @@ html {
   &:active {
     @include dark-button_focus;
   }
+}
+.header_link-selected {
+  @include header-element;
+  background: $sharp-blue;
 }
 
 // Main Page Game List
@@ -72,7 +79,7 @@ html {
   &:hover,
   &:focus,
   &:active {
-    @include light-button_focus;
+    @include light-button-radio_focus;
   }
 }
 input#pub:checked ~ .list_labelpublication,
@@ -181,7 +188,7 @@ hr {
   &:hover,
   &:focus,
   &:active {
-    @include light-button_focus;
+    @include light-button-selector_focus;
   }
 }
 
@@ -301,7 +308,7 @@ object {
   &:hover,
   &:focus,
   &:active {
-    @include light-button_focus;
+    @include light-button-selector_focus;
   }
 }
 .timeline-nav_selected {

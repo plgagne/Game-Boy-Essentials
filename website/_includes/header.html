@@ -2,18 +2,25 @@
   <header class="header">
     <a class="header_title" href="">GAME BOY ESSENTIALS</a>
     <nav class="header_menu">
-      <a class="header_link" href="">Home</a>
       {% assign sorted = site.folio | sort: 'weight' %}
-      {% for page in sorted %}
+      {% for item in sorted %}
         {% if jekyll.environment == 'production' %}
           {% case handle %}
-            {% assign handle = page.production %}
+            {% assign handle = item.production %}
             {% when false %}
             {% else %}
-              <a class="header_link" href="{{ page.slug }}">{{ page.title }}</a>
+            {% if page.slug == item.slug %}
+              <div class="header_link-selected">{{ item.title }}</div>
+              {% else %}
+              <a class="header_link" href="{{ item.slug }}">{{ item.title }}</a>
+            {% endif %}
           {% endcase %}
           {% else %}
-            <a class="header_link" href="{{ page.slug }}">{{ page.title }}</a>
+            {% if page.slug == item.slug %}
+              <div class="header_link-selected">{{ item.title }}</div>
+              {% else %}
+              <a class="header_link" href="{{ item.slug }}">{{ item.title }}</a>
+            {% endif %}
         {% endif %}
       {% endfor %}
       {% if jekyll.environment != 'production' %}

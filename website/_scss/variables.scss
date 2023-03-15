@@ -22,6 +22,16 @@ $rounded-corners: 0.25em;
   text-decoration: none;
 }
 
+// Élément réutilisé
+@mixin header-element {
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.1em 0.6em;
+  border-radius: $rounded-corners;
+  text-decoration: none;
+}
+
+
 // Fond foncé pour les figures, les vidéos, audio et objet
 @mixin figure {
   display: grid;
@@ -50,9 +60,15 @@ $rounded-corners: 0.25em;
   color: black;
   padding: 0.5em;
 }
-@mixin light-button_focus {
+@mixin light-button-radio_focus {
   cursor: pointer;
   color: $sharp-blue;
+  text-decoration: none;
+}
+@mixin light-button-selector_focus {
+  cursor: pointer;
+  color: black;
+  background: $sharp-blue;
   text-decoration: none;
 }
 
