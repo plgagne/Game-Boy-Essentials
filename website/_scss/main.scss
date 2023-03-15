@@ -32,8 +32,8 @@ html {
   &:hover,
   &:focus,
   &:active {
-    border-radius: $rounded-corners;
-    @include dark-button_focus;
+    cursor: pointer;
+    color: $sharp-blue;
   }
 }
 .header_menu {
