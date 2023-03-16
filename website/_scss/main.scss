@@ -3,7 +3,7 @@ html {
   height: 100%;
   min-width: 100%;
   background: $light-beige;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Avenir Next", system-ui, Verdana, sans-serif;
+  font-family: system-ui, "Avenir Next", "Oxygen", "Fira Sans", "Droid Sans", Verdana, sans-serif;
   line-height: 1.5;
 }
 ::selection {
@@ -25,7 +25,10 @@ html {
     font-style: italic;
     font-weight: 600;
     color: $lime-green;
-    padding: 0.1em 0.4em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    padding-left: 0.4em;
+    padding-right: 0.4em;
     display: inline-block;
     text-decoration: none;
   }
@@ -73,7 +76,10 @@ html {
   &:visited {
     @include light-button;
     width: 15rem;
-    margin: 0.2em auto;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left: auto;
+    margin-right: auto;
     list-style: none;
   }
   &:hover,
@@ -88,7 +94,10 @@ input#rel:checked ~ .list_labelrelease {
   color: black;
 }
 .list_span {
-  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 input#pub:checked ~ .list_release,
 input#rel:checked ~ .list_publication {
@@ -103,7 +112,7 @@ input#rel:checked ~ .list_release {
   margin-top: 1em;
 }
 .list_year {
-  font-size: 2em;
+  font-size: $font_large;
   font-weight: 100;
   clear: both;
   width: 100%;
@@ -140,20 +149,23 @@ input#rel:checked ~ .list_release {
 }
 .game_developers {
   text-align: left;
-  font-size: 0.8em;
+  font-size: $font_small;
   margin-left: 0.2em;
 }
 .game_publication,
 .game_release {
   margin-top: 0.2em;
-  font-size: 0.8em;
+  font-size: $font_small;
   text-align: right;
 }
 
 // Articles & Pages Container
 .article,
 .page {
-  margin: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0 0.2rem 0;
   max-width: 72ch;
 }
@@ -163,7 +175,10 @@ hr {
   border: 0;
   height: 2px;
   background-color: black;
-  margin: 1.2em 0;
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 // Articles navigation
@@ -178,7 +193,10 @@ hr {
   &:visited {
     @include light-button;
     width: 15rem;
-    margin: 0.2em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -284,7 +302,10 @@ object {
 @media only screen and (max-width: 640px) {
   .left, .right {
   float: none;
-  margin: 0 auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
   }
   .float.figure_pixel, .float.figure_art, .float.figure_boxart {
   max-width: 90%;
@@ -322,6 +343,10 @@ object {
 }
 .timeline-nav_span {
   margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 // Timeline
@@ -329,7 +354,7 @@ object {
   position: sticky;
   top: 0;
   font-family: "GB";
-  font-size: 1.05rem;
+  font-size: $font_paragraph;
   margin-bottom: 1rem;
   background: $light-beige;
   width: 4.2rem;
@@ -360,11 +385,17 @@ object {
 .timeline_figure {
   display: inline-block;
   vertical-align: top;
-  margin: 0.2em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
   width: 10rem;
   background-color: $light-grey;
   border-radius: $rounded-corners;
-  padding: 0.2em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
 }
 .timeline_cover {
   max-width: 100%;
@@ -375,11 +406,16 @@ object {
 }
 .timeline_fact-list {
   margin-top: 1em;
-  padding: 0 0 0 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .timeline_reference {
-  padding: 0 .3rem;
-}
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;}
 
 // Book Items
 .books {
@@ -397,7 +433,7 @@ object {
   height: 100%;
 }
 .books_title {
-  font-size: 1.1em;
+  font-size: $font_medium;
   font-weight: bold;
 }
 .books_volume {
@@ -422,7 +458,6 @@ object {
   margin-left: 0.8em;
 }
 .books_storetitle {
-  font-size: 1.05em;
   color: $light-beige;
   border-color: $light-beige;
   border-bottom: .1rem solid;
@@ -443,7 +478,10 @@ object {
 // Footer
 .footer {
   margin-top: 5em;
-  padding: 2em 0;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 0;
+  padding-right: 0;
   background: $dark-grey;
   text-align: center;
 }
@@ -463,6 +501,7 @@ object {
   padding-bottom: 0.8em;
 }
 .footer_copyright {
-  font-size: 1.2rem;
+  font-size: $font_medium;
   padding: 0.1em 0.6em;
+
 }

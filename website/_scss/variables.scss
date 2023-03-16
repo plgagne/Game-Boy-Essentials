@@ -1,4 +1,4 @@
-// Colours
+// Couleurs
 $light-beige: #e9e9e9;
 $lime-green: #94ba65;
 $sharp-blue: #2790b0;
@@ -7,6 +7,14 @@ $light-grey: #c1c1c1;
 $na-white: #fff;
 $jpn-red: #bc002d;
 $eur-blue: #039;
+
+// Tailles de la typographie
+$font_largest: 3em;
+$font_very-large: 2.5em;
+$font_large: 2em;
+$font_medium: 1.2rem;
+$font_paragraph: 1.05rem;
+$font_small: 0.8em;
 
 // Structure
 $rounded-corners: 0.25em;
@@ -25,8 +33,11 @@ $rounded-corners: 0.25em;
 // Élément réutilisé
 @mixin header-element {
   display: inline-block;
-  font-size: 1.2rem;
-  padding: 0.1em 0.6em;
+  font-size: $font_medium;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
   border-radius: $rounded-corners;
   text-decoration: none;
 }
@@ -39,8 +50,14 @@ $rounded-corners: 0.25em;
   clear: both;
   background-color: $light-grey;
   text-align: center;
-  margin: 0 auto;
-  padding: 0.2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
 }
 @mixin figure-margins {
   margin-top: 3em;
@@ -58,7 +75,10 @@ $rounded-corners: 0.25em;
   border-radius: $rounded-corners;
   border: 2px solid $dark-grey;
   color: black;
-  padding: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 @mixin light-button-radio_focus {
   cursor: pointer;
@@ -91,8 +111,14 @@ $rounded-corners: 0.25em;
   background: $dark-grey;
   border-radius: $rounded-corners;
   color: $lime-green;
-  margin: 0.4em;
-  padding: 0.2em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  margin-left: 0.4em;
+  margin-right: 0.4em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
 }
 
 // Book items listed store
@@ -103,7 +129,10 @@ $rounded-corners: 0.25em;
   height: 100%;
   justify-content: center;
   text-align: center;
-  padding: 0.2em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
 }
 
 // Game Boy font
