@@ -22,6 +22,7 @@ $rounded-corners: 0.25em;
 // Espaces
 $spacing-website: 1rem;
 $spacing-paragraph: 1.5rem;
+$spacing-game-box: 0.2rem;
 
 // Blue link turning green
 @mixin link {
@@ -132,32 +133,22 @@ $spacing-paragraph: 1.5rem;
   font-style: normal;
 }
 
+// Main Page Year Colours
 #year1989, #year1990, #year1991, #year1992, #year1993, #year1994, #year1995, #year1996, #year1997 {
   background: #8BB317;
-  font-family: "gb";
 }
-
 #year1998 {
   background: #3D3597;
-  font-family: "gb";
 }
-
 #year1999 {
   background: #A82332;
-  font-family: "gb";
 }
-
 #year2000 {
   background: #5DA61A;
-  font-family: "gb";
 }
-
 #year2001 {
   background: #D19E21;
-  font-family: "gb";
 }
-
 #year2002 {
   background: #338377;
-  font-family: "gb";
 }

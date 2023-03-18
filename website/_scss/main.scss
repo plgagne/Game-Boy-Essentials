@@ -39,6 +39,9 @@ html {
   }
 }
 .header_menu {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   margin-bottom: 0.6rem;
 }
 .header_link {
@@ -101,6 +104,7 @@ input#rel:checked ~ .list_release {
   margin-top: $spacing-website;
 }
 .list_year {
+  font-family: "gb";
   font-size: $font_large;
   font-weight: 100;
   clear: both;
@@ -133,21 +137,22 @@ input#rel:checked ~ .list_release {
   height: 100%;
   image-rendering: pixelated;
   vertical-align: bottom;
+  margin-bottom: $spacing-game-box;
 }
 .game_title {
-  margin-top: 0.2em;
-  margin-bottom: 0.2em;
+  margin-bottom: $spacing-game-box;
 }
 .game_developers {
-  text-align: left;
   font-size: $font_small;
-  margin-left: 0.2em;
+  text-align: left;
+  margin-left: $spacing-game-box;
+  margin-bottom: $spacing-game-box;
 }
 .game_publication,
 .game_release {
-  margin-top: 0.2em;
   font-size: $font_small;
   text-align: right;
+  margin-right: $spacing-game-box;
 }
 
 // Articles & Pages Container
