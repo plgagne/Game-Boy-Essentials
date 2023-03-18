@@ -41,7 +41,7 @@ Well, maybe that mystery about the amount of Pokémon is a bit dated, considerin
 
 Let’s forget all about those newer creations and go back to a time when everybody was wondering if there would ever be another game and Pikablu had not yet captured our imaginations.
 
-## What secret game probably inspired Pokémon’s creator?
+## What Secret Game Probably Inspired Pokémon’s Creator?
 {% include figure.html type="art-png" class="float right" %}
 First let’s go back to 1989 to reveal the answer to our first mystery. Tajiri Satoshi, *Pokémon*’s creator, had a very fruitful first encounter with the Game Boy. While people were immediately drawn to the screen of the portable device Tajiri was inspired by a humbler element of the console; its Link Cable. He imagined little insects travelling along the wire, going from one Game Boy to the other. From this simple idea *Pokémon* was born. At least that’s the myth, told time and time again by Satoshi to explain the genesis of his concept.
 
