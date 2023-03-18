@@ -34,36 +34,14 @@ $spacing-paragraph: 1.5rem;
   text-decoration: none;
 }
 
-// Élément réutilisé
-@mixin header-element {
-  display: inline-block;
+// Boutons de la navigation du haut de page
+@mixin header_menu-element {
   font-size: $font_medium;
+  white-space: nowrap;
   padding-top: 0.1em;
   padding-bottom: 0.1em;
   padding-left: 0.6em;
   padding-right: 0.6em;
-  border-radius: $rounded-corners;
-  text-decoration: none;
-}
-
-// Fond foncé pour les figures, les vidéos, audio et objet
-@mixin figure {
-  display: grid;
-  border-radius: $rounded-corners;
-  clear: both;
-  background-color: $light-grey;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  padding-left: 0.2em;
-  padding-right: 0.2em;
-}
-@mixin width-height {
-  width: 100%;
-  height: 100%;
-  vertical-align: top;
 }
 
 // Bouton clair
@@ -110,20 +88,26 @@ $spacing-paragraph: 1.5rem;
   color: black;
 }
 
+// Boite arrondi
+@mixin rounded-box {
+  border-radius: $rounded-corners;
+  padding: 0.2em;
+}
+@mixin width-height {
+  width: 100%;
+  height: 100%;
+  vertical-align: top;
+}
+
 // Rounded dark grey box
-@mixin dark-box {
+@mixin dark-grey-box {
   vertical-align: top;
   background: $dark-grey;
-  border-radius: $rounded-corners;
   color: $lime-green;
   margin-top: 0.4em;
   margin-bottom: 0.4em;
   margin-left: 0.4em;
   margin-right: 0.4em;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  padding-left: 0.2em;
-  padding-right: 0.2em;
 }
 
 // Book items listed store

@@ -14,6 +14,8 @@ html {
 
 // Header
 .header {
+  display: flex;
+  flex-direction: column;
   background: $dark-grey;
   text-align: center;
   margin-bottom: $spacing-website;
@@ -25,11 +27,8 @@ html {
     font-style: italic;
     font-weight: 600;
     color: $lime-green;
-    padding-top: 0.1em;
-    padding-bottom: 0.1em;
-    padding-left: 0.4em;
-    padding-right: 0.4em;
-    display: inline-block;
+    padding-top: 0.4rem;
+    margin-bottom: 0.2em;
     text-decoration: none;
   }
   &:hover,
@@ -40,13 +39,12 @@ html {
   }
 }
 .header_menu {
-  padding-top: 0.1em;
-  padding-bottom: 0.4em;
+  margin-bottom: 0.6rem;
 }
 .header_link {
   &,
   &:visited {
-    @include header-element;
+    @include header_menu-element;
     @include dark-button;
   }
   &:hover,
@@ -56,7 +54,7 @@ html {
   }
 }
 .header_link-selected {
-  @include header-element;
+  @include header_menu-element;
   background: $sharp-blue;
   cursor: default;
 }
@@ -116,10 +114,12 @@ input#rel:checked ~ .list_release {
 .game {
   &,
   &:visited {
-    @include dark-box;
+    @include rounded-box;
+    @include dark-grey-box;
+    @include dark-button;
     display: inline-block;
     max-width: 320px;
-    @include dark-button;
+
   }
   &:hover,
   &:focus,
@@ -191,7 +191,13 @@ hr {
 video,
 audio,
 object {
-  @include figure;
+  @include rounded-box;
+  display: grid;
+  clear: both;
+  background-color: $light-grey;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: $spacing-paragraph;
 }
 video {
@@ -265,11 +271,11 @@ object {
 }
 .left {
   float: left;
-  margin-right: 0.4em;
+  margin-right: 0.5em;
 }
 .right {
   float: right;
-  margin-left: 0.4em;
+  margin-left: 0.5em;
 }
 
 // Media Queries
@@ -371,6 +377,8 @@ object {
   display: block;
 }
 .timeline_figure {
+  @include rounded-box;
+  background-color: $light-grey;
   display: inline-block;
   vertical-align: top;
   margin-top: 0.2em;
@@ -378,12 +386,6 @@ object {
   margin-left: 0.2em;
   margin-right: 0.2em;
   width: 10rem;
-  background-color: $light-grey;
-  border-radius: $rounded-corners;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  padding-left: 0.2em;
-  padding-right: 0.2em;
 }
 .timeline_cover {
   max-width: 100%;
@@ -414,7 +416,8 @@ object {
   justify-content: center;
 }
 .books_item {
-  @include dark-box;
+  @include rounded-box;
+  @include dark-grey-box;
   justify-content: center;
   flex-direction: column;
   width: 16rem;
@@ -483,8 +486,8 @@ object {
   }
 }
 .footer_search {
-  margin-top: 0.8em;
-  padding-bottom: 0.8em;
+  margin-top: $spacing-website;
+  margin-bottom: $spacing-website;
 }
 .footer_copyright {
   font-size: $font_medium;
