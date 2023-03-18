@@ -1,7 +1,7 @@
 h1, h2 {
   font-weight: 100;
   clear: both;
-  padding-top: 0.3em;
+  margin-bottom: $spacing-paragraph;
 }
 h1 {
   font-size: $font_largest;
@@ -33,7 +33,7 @@ p,
 blockquote,
 ul,
 ol {
-  margin-bottom: 1em;
+  margin-bottom: $spacing-paragraph;
   font-size: $font_paragraph;
 }
 a {
@@ -55,9 +55,9 @@ em {
 }
 blockquote {
   padding-left: 0.5em;
-  margin-bottom: 1em;
-  margin-left: 1em;
-  margin-right: 1em;
+  margin-bottom: $spacing-paragraph;
+  margin-left: 1rem;
+  margin-right: 1rem;
   border-left: 2px solid black;
   quotes: none;
 }
@@ -75,8 +75,7 @@ code {
 table {
   table-layout: fixed;
   width: 100%;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: $spacing-paragraph;
   border-spacing: 0;
   border: 1px solid black;
 }

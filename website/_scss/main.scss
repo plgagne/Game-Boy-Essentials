@@ -16,7 +16,7 @@ html {
 .header {
   background: $dark-grey;
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: $spacing-website;
 }
 .header_title {
   &,
@@ -58,14 +58,13 @@ html {
 .header_link-selected {
   @include header-element;
   background: $sharp-blue;
+  cursor: default;
 }
 
 // Main Page Game List
 .list {
-  text-align: center;
-  display: flex;
+  @include button-container;
   flex-direction: column;
-  align-items: center;
 }
 .list_input {
   display: none;
@@ -76,10 +75,6 @@ html {
   &:visited {
     @include light-button;
     width: 15rem;
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-    margin-left: auto;
-    margin-right: auto;
     list-style: none;
   }
   &:hover,
@@ -92,13 +87,9 @@ input#pub:checked ~ .list_labelpublication,
 input#rel:checked ~ .list_labelrelease {
   background: $sharp-blue;
   color: black;
+  cursor: default;
 }
-.list_span {
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 input#pub:checked ~ .list_release,
 input#rel:checked ~ .list_publication {
   display: none;
@@ -109,7 +100,7 @@ input#rel:checked ~ .list_release {
 }
 .list_publication,
 .list_release {
-  margin-top: 1em;
+  margin-top: $spacing-website;
 }
 .list_year {
   font-size: $font_large;
@@ -162,11 +153,10 @@ input#rel:checked ~ .list_release {
 // Articles & Pages Container
 .article,
 .page {
-  margin-top: 0;
-  margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
-  padding: 0 0.2rem 0;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
   max-width: 72ch;
 }
 
@@ -175,31 +165,19 @@ hr {
   border: 0;
   height: 2px;
   background-color: black;
-  margin-top: 1.2em;
-  margin-bottom: 1.2em;
+  margin-bottom: $spacing-paragraph;
 }
 
 // Articles navigation
 .navigation {
-  margin-bottom: 1em;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  @include button-container;
+  flex-direction: row;
 }
 .navigation_button {
   &,
   &:visited {
     @include light-button;
     width: 15rem;
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-    margin-left: 0.2em;
-    margin-right: 0.2em;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
-    min-height: 2rem;
   }
   &:hover,
   &:focus,
@@ -214,7 +192,7 @@ video,
 audio,
 object {
   @include figure;
-  @include figure-margins;
+  margin-bottom: $spacing-paragraph;
 }
 video {
   width: 160px;
@@ -258,7 +236,7 @@ object {
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
-  @include figure-margins;
+  margin-bottom: $spacing-paragraph;
 }
 .gallery_element {
   margin-left: 0.15rem;
@@ -297,31 +275,44 @@ object {
 // Media Queries
 @media only screen and (max-width: 640px) {
   .left, .right {
-  float: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .float.figure_pixel, .float.figure_art, .float.figure_boxart {
-  max-width: 90%;
+  .gallery_element,
+  .float.figure_pixel,
+  .figure_pixel,
+  .float.figure_art,
+  .figure_art,
+  .float.figure_boxart,
+  .figure_boxart,
+  .float.figure_gb,
+  .figure_gb {
+    max-width: 90%;
+    width: 90%;
+  }
+  .figure_gb img {
+    width: 100%;
   }
 }
 
 // Timeline Navigation
 .timeline-nav {
-  display: flex;
-  justify-content: flex-end;
-  flex-wrap: wrap;
-  margin-bottom: 3em;
+  @include button-container;
 }
-.timeline-nav_element {
+.timeline-nav_element,
+.timeline-nav_selected {
   &,
   &:visited {
     @include light-button;
     width: 10.5rem;
-    margin: 0.2em auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
   }
+}
+.timeline-nav_element {
   &:hover,
   &:focus,
   &:active {
@@ -329,22 +320,24 @@ object {
   }
 }
 .timeline-nav_selected {
-  @include light-button;
-  width: 10.5rem;
-  margin: 0.2em auto;
-  background: $sharp-blue;
+  & {
+    background: $sharp-blue;
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    cursor: default;
+  }
 }
 .timeline-nav_label {
   max-width: 3rem;
-}
-.timeline-nav_span {
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
+  margin-right: 0.4em;
 }
 
 // Timeline
+.timeline {
+  margin-top: $spacing-website;
+}
 .timeline_year {
   position: sticky;
   top: 0;
@@ -472,7 +465,7 @@ object {
 
 // Footer
 .footer {
-  margin-top: 5em;
+  margin-top: $spacing-website;
   padding-top: 2em;
   padding-bottom: 2em;
   background: $dark-grey;
