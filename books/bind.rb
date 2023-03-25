@@ -51,89 +51,89 @@ contents = contents.gsub(/<\/table>/, '\hline \normalsize\end{tabulary} \end{cen
 # Gallery
 # First Gallery Element with Figcaption
 contents = contents.gsub(/<div class="gallery">
-<div><figure(.*?)class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure><\/div>/, '\begin{center}
-\vspace{8pt}\adjustbox{valign=t}{\sbox0{\includegraphics[width=.45\linewidth]{assets\\3}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\7\end{minipage}}')
+<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure><\/div>/, '\begin{center}
+\vspace{8pt}\adjustbox{valign=t}{\sbox0{\includegraphics[width=.45\linewidth]{assets\\1}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\2\end{minipage}}')
 
-# First Gallery Element without
+# First Gallery Element without Figcaption
 contents = contents.gsub(/<div class="gallery">
-<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\begin{center}
-\vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\2}}')
+<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure><\/div>/, '\begin{center}
+\vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\1}}')
 
 # Other Elements with Figcaption
-contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{ \sbox0{\includegraphics[width=.45\linewidth]{assets\\2}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\7\end{minipage}}')
+contents = contents.gsub(/<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{ \sbox0{\includegraphics[width=.45\linewidth]{assets\\1}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\2\end{minipage}}')
 
 # Other Elements without
-contents = contents.gsub(/<div><figure class="(.*?)gallery"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)"(.*?)<\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\2}}')
+contents = contents.gsub(/<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\1}}')
 
 # Gallery bottom
 contents = contents.gsub(/<div class="gallery">/, '\begin{center}')
 contents = contents.gsub(/<\/div>/, '\end{center}')
 
 # The godforsaken figures
-# GB Float Right
-contents = contents.gsub(/<figure class="gb float right"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
+# GB Float Right scss
+contents = contents.gsub(/<figure class="figure figure_gb float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
 
-# GB Float Left
-contents = contents.gsub(/<figure class="gb float left"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
+# GB Float Left scss
+contents = contents.gsub(/<figure class="figure figure_gb float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
 
-# Art Float Left
-contents = contents.gsub(/<figure class="art float left"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
+# Art Float Left scss
+contents = contents.gsub(/<figure class="figure figure_art float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
 
-# Art Float Right
-contents = contents.gsub(/<figure class="art float right"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
+# Art Float Right scss
+contents = contents.gsub(/<figure class="figure figure_art float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
 
-# Pixel Float Left
-contents = contents.gsub(/<figure class="pixel float left"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.5\linewidth]{assets\\1}\end{wrapfigure}')
+# Pixel Float Left scss
+contents = contents.gsub(/<figure class="figure figure_art float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
 
-# Pixel Float Right
-contents = contents.gsub(/<figure class="pixel float right"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.5\linewidth]{assets\\1}\end{wrapfigure}')
+# Pixel Float Right scss
+contents = contents.gsub(/<figure class="figure figure_pixel float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
 
-# GB
-contents = contents.gsub(/<figure class="gb"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{figure}[hbt]
+# GB scss
+contents = contents.gsub(/<figure class="figure figure_gb"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
 \centering \includegraphics[width=4.85cm]{assets\\1}
 \vskip 6pt
 \end{figure}')
 
-# Art
-contents = contents.gsub(/<figure class="art"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{figure}[hbt]
+# Art scss
+contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
 \centering \includegraphics[width=.5\linewidth]{assets\\1}
 \vskip 6pt
 \end{figure}')
 
-# Pixel
-contents = contents.gsub(/<figure class="pixel"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><\/figure>/, '\begin{figure}[hbt]
+# Pixel scss
+contents = contents.gsub(/<figure class="figure figure_pixel"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
 \centering \includegraphics[width=.6\linewidth]{assets\\1}
 \vskip 6pt
 \end{figure}')
 
-# GB with Figcaption
-contents = contents.gsub(/<figure class="gb"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
+# GB with Figcaption scss
+contents = contents.gsub(/<figure class="figure figure_gb"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
-\centering \includegraphics[width=4.85cm]{assets\\1}\par\pagetwodescription \\5
+\centering \includegraphics[width=4.85cm]{assets\\1}\par\pagetwodescription \\2
 \vskip 6pt
 \end{figure}')
 
-# Pixel with Figcaption
-contents = contents.gsub(/<figure class="pixel"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
+# Pixel with Figcaption scss
+contents = contents.gsub(/<figure class="figure figure_pixel"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
-\centering \includegraphics[width=.6\linewidth]{assets\\1}\par\pagetwodescription \\5
+\centering \includegraphics[width=.6\linewidth]{assets\\1}\par\pagetwodescription \\2
 \vskip 6pt
 \end{figure}')
 
-# Art with Figcaption
-contents = contents.gsub(/<figure class="art"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
+# Art with Figcaption scss
+contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
 \vskip 10pt
-\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\5
+\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\2
 \vskip 6pt
 \end{figure}')
 
-# Boxart
-contents = contents.gsub(/<figure class="boxart"><img src="(.*?)" width="(.*?)" height="(.*?)" alt="(.*?)" \/><figcaption>(.*?)<\/figcaption><\/figure>/, '\begin{wrapfigure}{H}{\linewidth}
+# Boxart scss
+contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{wrapfigure}{H}{\linewidth}
 \vskip 4pt
-\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\5\end{wrapfigure}
+\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\2\end{wrapfigure}
 \clearpage')
 
 # Quick and easy replacements
