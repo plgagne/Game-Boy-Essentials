@@ -7,7 +7,7 @@
   {% endif %}
 {% endfor %}
 {{ number_of_articles }}
-<main id="article">
+<main class="article">
 {% assign sorted = site.articles | sort: "publication" %}
 {% for article in sorted %}
   {% if article.tags contains page.name or page.name == post.tags %}
