@@ -85,7 +85,9 @@ Originally released as a grey cart in Japan on September 27, 1997. Was then brou
 
 ## Metal Gear: Ghost Babel
 
-Somehow, I've spent my whole formative year watching the dissapointing sequels before the originals. I've seen *Ghostbusters 2* before the first one. *Alien 3* was my first alien movie. *Robocop 2* was my introduction to the best cop in Detroit. My first *Superman* was *Superman IV*.I saw *Terminator 2: Judgement Day* first, but I think that's the case for a lot of people. *City Slickers II: The Legend of Curly's Gold* was my first Billy Crystal movie. *Bill and Ted 2* was the only movie featuring  William S. Preston Esq. and Ted "Theodore" Logan as far as I was concerned until I saw the first one in 2020. Finally,I saw Spaceballs before I saw any *Star Wars* movie. I have to say the transformation of *Spaceball One* into *Mega Maid* was more impressive than most of *Star Wars*.
+Somehow, I've spent my whole formative year watching the dissapointing sequels before the originals. I've seen *Ghostbusters 2* before the first one. *Alien 3* was my first alien movie. *Robocop 2* was my introduction to the best cop in Detroit. My first *Superman* was *Superman IV*. I saw *Terminator 2: Judgement Day* first, but I think that's the case for a lot of people. *City Slickers II: The Legend of Curly's Gold* was my first Billy Crystal movie. When I was 15, my parents dropped me off at the cinema to see *Hannibal*, without having previously seen *Silence of the Lambs*. *Bill and Ted 2* was the only movie featuring  William S. Preston Esq. and Ted "Theodore" Logan as far as I was concerned until I saw the first one in 2020.
+
+Finally, lime most of my friends, I saw *Spaceballs* before I saw any *Star Wars* movie. I have to say the transformation of *Spaceball One* into *Mega Maid* was more impressive than most of what's in the first *Star Wars*.
 
 *Metal Gear: Ghost Babel*. I did not have a Playstation, and I wanted to play *Metal Gear Solid*.
 
