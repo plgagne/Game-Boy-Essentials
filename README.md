@@ -2,7 +2,6 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-- Vérifier la réponse de Lulu à mon courriel
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton
   1. bouton noir, contour noir, texte noir
