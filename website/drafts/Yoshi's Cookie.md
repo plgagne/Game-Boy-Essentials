@@ -22,3 +22,7 @@ developers: "TOSE"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
+
+On the heels of *Tetris*, many people were selling puzzle games on Game Boy. It was assuredly a profitable venture, but the trend died down as I think the only people who were still buying Game Boy games were kids uninterested in puzzles.
+
+https://www.chrismcovell.com/GameBoyDecline.html

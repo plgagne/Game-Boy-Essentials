@@ -52,7 +52,7 @@ In terms of mistakes and missed opportunities I think the game suffers the most 
 ## Realtime Associates, Inc.
 
 {% include figure.html type="gb" %}
-Ultimately, *Matchbox Caterpillar Construction Zone* is terribly unimportant. The company’s [own website lists the game under the wrong name](http://www.rtassoc.com/projects.html), for chrissake. Realtime Associates’ history is interesting though: they were created out of a bunch of Intellivision developers and made the NES port of *Maniac Mansion* and *Bug!* for the Sega Saturn, along with a dizzying number of licensed games. Go read more about their history on their A[bout Page](http://www.rtassoc.com/index.html). To me, they’ll always be the developer of *Out of Gas* for Game Boy, which I’ll get to in due time.
+Ultimately, *Matchbox Caterpillar Construction Zone* is terribly unimportant. The company’s [own website lists the game under the wrong name](http://www.rtassoc.com/projects.html), for chrissake. Realtime Associates’ history is interesting though: they were created out of a bunch of Intellivision developers and made the NES port of *Maniac Mansion* and *Bug!* for the Sega Saturn, along with a dizzying number of licensed games. Go read more about their history on their [About Page](http://www.rtassoc.com/index.html). To me, they’ll always be the developer of *Out of Gas* for Game Boy, which I’ll get to in due time.
 
 ## Conclusion
 
