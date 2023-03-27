@@ -3,7 +3,7 @@ id: "notes"
 title: "Notes"
 ---
 ## A Quick History of the DX and Deluxe Naming Scheme
-When the NES came out, two versions were initially available: the Control Deck which came with two controllers and *Super Mario Bros.*. There was also the Deluxe Set which included a cornuccopia of accessories. You got R.O.B., *Gyromite*, a grey Zapper gun, *Duck Hunt*, and two controllers. This was Nintendo of America's first use of the word deluxe. Here, it denoted the *most expensive* version of their console. Note that it did not include *Super Mario Bros.*, which quickly made it unattractive to prospective buyers.
+When the NES came out nationwide after its test release, two versions were available. First there was the Control Deck which came with two controllers and *Super Mario Bros.*. Second was the Deluxe Set which included a cornuccopia of accessories. You got R.O.B., *Gyromite*, a grey Zapper gun, *Duck Hunt*, and two controllers. This was Nintendo of America's first use of the word deluxe. Here, it denoted the *most expensive* version of their console. Note that it did not include *Super Mario Bros.*, which quickly made it unattractive to prospective buyers and was fairly quickly retired.
 
 The word stayed dormant with Nintendo until the 1998 release of *Tetris DX*. Here, the word is reduced to two letters and gains a new meaning. It now denotes an enhanced version. Other games soon followed, *The Legend of Zelda: Link's Awakening DX* and *R-Type DX*, always implying an improved colour version of a classic Game Boy title. The full unshortened word returns with *Super Mario Bros. Deluxe*, a new version of the original NES *Super Mario Bros.* chock-full of features. Perhaps there was an attempt at a differentiation between DX and Deluxe, with DX reserved for Game Boy games and Deluxe for TV console titles. We can't know for sure, since we have only one example.
 
@@ -85,11 +85,11 @@ Originally released as a grey cart in Japan on September 27, 1997. Was then brou
 
 ## Metal Gear: Ghost Babel
 
-Somehow, I've spent my whole formative year watching the dissapointing sequels before the originals. I've seen *Ghostbusters 2* before the first one. *Alien 3* was my first alien movie. *Robocop 2* was my introduction to the best cop in Detroit. My first *Superman* was *Superman IV*.I saw *Terminator 2: Judgement Day* first, but I think that's the case for a lot of people. *City Slickers II: The Legend of Curly's Gold* was my first Billy Crystal movie. *Bill and Ted 2* was the only movie featuring  William S. Preston Esq. and Ted "Theodore" Logan as far as I was concerned until I saw the first one in 2020. Finally,I saw Spaceballs before I saw any *Star Wars* movie. I have to say the transformation of *Spaceball One* into *Mega Maid* was more impressive than most of *Star Wars*.
+I've spent my whole formative years watching the dissapointing sequels to classic movies. I've seen *Ghostbusters 2* before the first one. *Alien 3* was my first alien movie. *Robocop 2* was my introduction to the best cop in Detroit. My first *Superman* was *Superman IV*. *City Slickers II: The Legend of Curly's Gold* was my first Billy Crystal movie. When I was 15, my parents dropped me off at the cinema to see *Hannibal*, without having previously seen *Silence of the Lambs*. I saw *Terminator 2: Judgement Day* first, but I think that's the case for a lot of people and that movie is not disappointing. *Bill and Ted 2* was the only movie featuring William S. Preston Esq. and Ted "Theodore" Logan as far as I was concerned until I saw the first one in 2020. Once again, that sequel is far from disappointing, I actually prefer it. Finally, like most of my friends I saw *Spaceballs* before I saw any *Star Wars* movie. I have to say the transformation of *Spaceball One* into *Mega Maid* is more impressive than any special effects in *Star Wars*.
 
-*Metal Gear: Ghost Babel*. I did not have a Playstation, and I wanted to play *Metal Gear Solid*.
+Which brings us to *Metal Gear: Ghost Babel*. Back in the late 90s I did not have a Playstation and I wanted to play *Metal Gear Solid*. When Konami announced a *Metal Gear* game for Game Boy Color, I was immediately interested. 
 
-The game wars secretly développés n'y Tose.
+The game was secretly developed by Tose.
 
 They really did a chameleon thing of becoming a great developer. Jeremy Parsih talked about their work in an episode of GBworld
 
@@ -315,20 +315,6 @@ I'm not saying Yamauchi is singularly responsible of the Z80 choice, but it exem
 ## Nintendo Power (the rewritable cartridges)
 
 L’histoire de Nintendo volume 4 page 148 mentions the project was a way to get more cartridges in the small combinis (the Japanese dépanneur).
-
-## Yoshi's Cookie
-- Pajitnov is credited on the box of the SNES version with the puzzle design. I think he was a sub-contractor, and honestly I'm a bit shocked he wasn't on the marketing for the game.
-- Keep in mind, dear reader, that he made puzzles for the SNES and SNES version only.
-- The SNES game was developed by BPS, and I'm inclined to think Pajitnov worked on the game before the Yoshi branding arrived, and the NES and GB versions were commissionned to TOSE.
-- I get that putting his name on the box might have been confusing.
-- People might think he made the whole game.
-- Video game development was far less understood by the playing public back then.
-- But they totally could have had the puzzles section called *Pajitnov's Challenges* or something.
-- You put a little chibi version of Pajitnov in the game. Just like the Will Wright in *Sim City* and you have him say something like: *I invented Tetris you know! Can you solve my cookie puzzles? They're devious!*
-
-## Alexei Pajitnov's role on Yoshi's Cookie
-
-He is credited with creating puzzles for the SNES version, which came out in Japan after the Famicom and Game Boy versions. Henk Rogers is also credited for the SNES version. He is not credited on Game Boy. Source: https://www.mobygames.com/game/snes/yoshis-cookie/credits
 
 ## A Crash Course in Tetrisology
 

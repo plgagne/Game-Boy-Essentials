@@ -4,7 +4,7 @@
 volume=1
 
 # This variable is the last volume to be bound
-last_volume=3
+last_volume=1
 
 # Jekyll location
 website_location=../website
@@ -15,7 +15,7 @@ RED='\033[0;31m'
 # Navigate to correct folder
 cd books
 
-# Make temp 
+# Make temp
 mkdir "temp"
 if [ -r "temp/assets" ]; then
   echo "${RED}Book-sized images folder exists in books/temp/assets. Delete to recreate."
