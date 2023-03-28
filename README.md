@@ -2,11 +2,9 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Convertir la typographie GB de WOFF à WOFF2
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
-- batir mes variables de bouton
-  1. bouton noir, contour noir, texte noir
-
-  3. bouton fond bleu, texte noir
+- batir mes variables de bouton de façon additive
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Vérifier la disponibilité du Volume 1
   - https://www.amazon.com/s?k=game+boy+essentials+book
