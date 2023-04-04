@@ -2,6 +2,8 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- régler l'absence de faits dans la timeline passé 2003
+- finir de batir des variables css qui sajoutent lune a lautre
 - Convertir la typographie GB de WOFF à WOFF2
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton de façon additive
