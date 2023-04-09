@@ -1,0 +1,14 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/zsh\n# Set red for echo output\nRED='\\033[0;31m'\n\ncd website\n\n# Make resized social media card images\nfind \"assets\" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do\n  filename=\"${line%.*}\"\n  finalname=\"${filename}-social-share-card.png\"\n  if [ ! -f \"${finalname}\" ]; then\n\techo \"${RED}Card image for \"${line}\" does not exist.\"\n\tcp \"${line}\" \"${finalname}\"\n\tmagick mogrify -interpolate nearest -filter point -resize 437.5% \"$finalname\"\n\tmagick mogrify -bordercolor black -border 250x0 \"$finalname\"\n\techo \"${RED}Card image \"${finalname}\" done.\"\n  fi\ndone\necho \"${RED}Card images checked.\"\n\n# Batir le site\nJEKYLL_ENV=production bundle exec jekyll build\n\n# Trouver et enlever les fichiers de macOS\nfind \"_site\" -type f -name '.DS_store' -delete\necho \"${RED}.DS_store in _site removed.\""
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/zsh\naws s3 sync --no-paginate \"website\/_site\" \"s3:\/\/gameboyessentials.com\/\" --delete --size-only\naws cloudfront create-invalidation \\\n  --distribution-id E24640NN71YEJH \\\n  --paths \"\/*\""
+    }
+  },
+  "buildBeforeRunning" : true,
+  "openLogOnRun" : "start"
+}

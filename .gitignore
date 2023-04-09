@@ -36,9 +36,8 @@
 ehthumbs.db
 Thumbs.db
 
-# Nova & VS Code #
+# VS Code #
 ######################
-.nova/
 .vscode/
 
 # Gemfile #

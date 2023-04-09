@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "clean" : {
+      "enabled" : true,
+      "script" : "cd website\njekyll clean"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "cd website\nJEKYLL_ENV=local_serve bundle exec jekyll serve --incremental --livereload --force_polling --config _config.yml,_local.yml"
+    }
+  },
+  "openLogOnRun" : "start"
+}

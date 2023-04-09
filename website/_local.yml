@@ -1,4 +1,4 @@
 # Site Settings Override When Using Serve
 host: portable-pl.local
 destination: "_site-local"
-exclude: [/_site-local, /projects, build.sh]
+exclude: [/_site-local, /projects]
