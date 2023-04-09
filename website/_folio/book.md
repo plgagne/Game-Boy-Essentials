@@ -1,6 +1,8 @@
 ---
 title: "Get the Books"
 slug: "book"
+redirect_from:
+  - /book.html
 layout: "books"
 weight: 5
 ---
