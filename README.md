@@ -21,7 +21,6 @@
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
-- Terminer l'intégration de backstopJS dans un postbuild.sh
 
 ## Liste de vérification pour publication d'un article
 - [ ] Vérifier que toutes les dates sont bien incluses (incluant l'europe)
