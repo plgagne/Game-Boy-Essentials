@@ -2,7 +2,7 @@
 id: "notes"
 title: "Notes"
 ---
-## A Quick History of the DX and Deluxe Naming Scheme
+# A Quick History of the DX and Deluxe Naming Scheme
 When the NES came out nationwide after its test release, two versions were available. First there was the Control Deck which came with two controllers and *Super Mario Bros.*. Second was the Deluxe Set which included a cornuccopia of accessories. You got R.O.B., *Gyromite*, a grey Zapper gun, *Duck Hunt*, and two controllers. This was Nintendo of America's first use of the word deluxe. Here, it denoted the *most expensive* version of their console. Note that it did not include *Super Mario Bros.*, which quickly made it unattractive to prospective buyers and was fairly quickly retired.
 
 The word stayed dormant with Nintendo until the 1998 release of *Tetris DX*. Here, the word is reduced to two letters and gains a new meaning. It now denotes an enhanced version. Other games soon followed, *The Legend of Zelda: Link's Awakening DX* and *R-Type DX*, always implying an improved colour version of a classic Game Boy title. The full unshortened word returns with *Super Mario Bros. Deluxe*, a new version of the original NES *Super Mario Bros.* chock-full of features. Perhaps there was an attempt at a differentiation between DX and Deluxe, with DX reserved for Game Boy games and Deluxe for TV console titles. We can't know for sure, since we have only one example.
@@ -15,33 +15,33 @@ On the software front, *Kirby Triple Deluxe* once again used the word Deluxe to 
 
 Digging through history, I think this nomenclature was defined all the way back with *Space Invaders Deluxe* in 1979, which released in Japan as *Space Invaders Part II*. Coupled with *Asteroids Deluxe* releasing a couple of years later, those two tiltes cemented the marketing idea of an improved version of a game called a deluxe version. Even though those two games can be seen as sequels, they both add features to the original gameplay and really embody this idea of a deluxe version of a game featuring new twists on an older game.
 
-## Pokemon Yellow
+# Pokemon Yellow
 the game is the lynchpin of the whole situation with the Gane Boy in the late 90s. Nintendo had abandoned Project Atlantis, it was too expensive and power-hungry, and had moved on to the Game Boy Color. In part, they skated where the puck was: their succesful competitors were not making overtly powerful consoles, they were making cheap little things.
 
 Pokémon Yellow was the expression of Game Freak's constant difficulties improving their processes. It was yet another version of the original game years after its first release. Everybody was excited about Yellow, and I remember not realizing how much of a rehash it was, but with hindsight you can see how underwhelming the game is.
 
 It was also the perfect game for the era. Pokémon had done solething never done before or since: it reversed a console's sales trend. The Game Boy was slowly living its last days in 1996 before Pocket Monsters changed everything. All of a sudden, once Pokemon had picked up steam theough word of mouth, not only were the game sales going up and up, the console itself was going up and up. This meant people were buying a Game Boy just for Pokemon by the millions. the absurdly low price of a Game Boy + Pokemon was certainly the reason for this massive reversal.
 
-## True Lies
+# True Lies
 Why are old licensed games based on movies terrible? Those games have to hit a release, no matter what, so it certainly doesn't help. They were also, by virtue of being based on something new, expensive to license. A license like The Terminator must have been expensive to obtain. Those are some of the things that hinder a project even before its begun. But then we come to Game Boy, and *True Lies*. It's a competent game. Nothing extraordinary, but it's actually ok. How come?
 
-## Internationalisations
+# Internationalisations
 
 https://genesistemple.com/it/come-vendere-super-mario-agli-italiani-storia-e-marketing-di-nintendo-italia-1987-2002
 
-## Work Boy
+# Work Boy
 
 https://youtu.be/SZcrPM-jDqY
 
-## Sales Numbers
+# Sales Numbers
 https://www.neogaf.com/threads/retro-sales-age-thread.981407/
 In 1992, the Slovenian distributor reported 2 SNES sold per day, and 4 Game Boys. Source: https://www.youtube.com/watch?v=0-DisAPdKF8
 
-## Pokémon Mini
+# Pokémon Mini
 
 I have to cover it at some point.
 
-## Virtual Boy
+# Virtual Boy
 
 I should probably talk of the Virtual Boy on the first Wario game after *Virtual Boy Wario Land*. A better point would be with *Kirby’s Dream Land 2*: it came out two months before the Virtual Boy, maybe meant as a last big release before moving on. Maybe Nintendo never intended to abondon the Game Boy wholesale, but similarly to the Disk System, they intended to switch their resources to the Virtual Boy to forge a path forward. I would have to check the calendar of releases to see if that checks out. The Game Boy was running out of steam for sure though.
 The Virtual Boy uses the V810, an obscure chip from NEC. NEC was in many arcade boards in the 80s with the predecessors to the V8100. It was a 32-bit RISC, so might have inspired them to go to ARM?
@@ -64,7 +64,7 @@ Nintendo R&D1 fumbled to the finish line, and basically lost four years of work 
 
 The story goes that Yokoi, having bet a lot of time and effort on this failure felt ashamed and tried to redeem himself in the eyes of his boss Yamauchi by overseeing the design of the Game Boy Pocket. He then promptly left Nintendo in 1996 after its release to found his own design company, as he had originally planned to do around 1991.
 
-## Game & Watch Gallery 2
+# Game & Watch Gallery 2
 
 What to cover:
 
@@ -83,7 +83,7 @@ CAREFUL WITH ITS RELEASE DATA. Was never released as a grey cart in the US.
 https://tcrf.net/Game_%26_Watch_Gallery_2
 Originally released as a grey cart in Japan on September 27, 1997. Was then brought over to the US and EU in November 1998 as a black cart with Game Boy Color support.
 
-## Metal Gear: Ghost Babel
+# Metal Gear: Ghost Babel
 - the AI
 - the anti-piracy elevator? Or was it a bug? It got me to buy the game!
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
@@ -103,38 +103,38 @@ It's exciting to play and in my humble opinion more accomplished in terms of gam
 
 Fuck the boxes factory.
 
-## Game Boy color
+# Game Boy color
 
 https://www.youtube.com/watch?v=U6AZhmy16-o
 Video of a kiosk showing the demo cartridge for the color.
 
-## Alice in Wonderland
+# Alice in Wonderland
 
 The developer made Little Nicky on Game Boy Color, which is fucking shweet.
 
 https://www.youtube.com/watch?v=v5ngelbCxRw
 
-## Amazing Penguin
+# Amazing Penguin
 
 Talk about the trend of everybody making character-based puzzle games after the runaway success of Tetris and how they're very middle of the road. Amazing penguin is the good one that stands above the rest and that you'll have some fun playing while being able to understand what is probably the biggest trend in Game Boy software.
 
-## Batman: The Video Game - June 1990
+# Batman: The Video Game - June 1990
 
 Sunsoft
 A rare brethren of Super Mario Land, it uses truly minuscule sprites to recreate the viewing field of a console game. *Like Super Mario Land, it squanders that opportunity and includes level design that is not more complicated than other Game Boy games with larger sprites.*
 
-## Bionic Commando: Elite Forces
+# Bionic Commando: Elite Forces
 
 Artist Adi Granov (who designed Iron Man's amor for the movies) worked on the game!
 
 The glitch !!!
 
-## Blaster Master: Enemy Below
+# Blaster Master: Enemy Below
 
 The American version is a black cartridge.
 The Japanese version is a clear cartridge, but can still be played on a Game Boy with a Game Genie code. WHY!?
 
-## Crystalis
+# Crystalis
 
 It made me buy a Game Boy Color over the summer of 2000. My mom paid for it so I could buy Crystalis for myself. I guess I had seen the writing on the wall; if I wanted to keep buying Game Boy games, I had to upgrade.
 
@@ -142,7 +142,7 @@ Buying Game Boy games I did with my own money. Very few Nintendo 64 games were p
 
 Paper Mario, Super Smash Bros., Conker,
 
-## Déjà Vu I & II: The Casebook of Ace Harding
+# Déjà Vu I & II: The Casebook of Ace Harding
 
 As for me, my introduction to adventure games was ... complicated.
 The barn, Police Quest II, Manhunter II
@@ -153,7 +153,7 @@ they had the best graphics and they had stories!
 
 talk about Police Quest 2 being my first adventure game so im still sore. coeared Machinarium,
 
-## DuckTales
+# DuckTales
 Sometimes, language fails us. There are countless situations that are difficult to explain because the language to accurately describe them *isn’t there*. *DuckTales* for Game Boy falls in that category: people tend to call it a port, but it’s not a port. It’s something else that doesn’t have an authoritative word. I would call it a version of the game, but it’s a word with a large meaning that can still imply that it’s a port. The closest I can get to is reimagining.
 
 Those discussions about what *DuckTales* is makes it essential.
@@ -189,7 +189,7 @@ I don't want to talk too much about how the game is; I want to talk about the wo
 
 To a lot of people who are dismissive of Game Boy as a serious gaming system worthy of scrutiny, it seems that is all the Game Boy was: *ports* of NES games.
 
-## Donkey Kong
+# Donkey Kong
 
 Developed by Pax Softonica, not Nintendo EAD !
 http://gdri.smspower.org/wiki/index.php/Pax_Softnica
@@ -200,13 +200,13 @@ I would argue that historically, Donkey Kong '94 is the most important Mario gam
 
 The enemies in this game act like the ones in Super Mario 64. They're hindrances instead of being the main attraction.
 
-## Final Fantasy Legend II
+# Final Fantasy Legend II
 
 I'm kind of pissed. I should have bought that one instead of the first one when I was a kid.
 
 If you, like me, initially hoped that *Final Fantasy Legend 2* would answer the question of where
 
-## Great Greed
+# Great Greed
 
 *Great Greed* is not a particularly interesting game. It's an unremarkable RPG in every sense. Knowing this, I can state for a fact that my wife is the person that has enjoyed *Great Greed* the most. No one has gotten more pleasure out of *Great Greed* than her, and she has never played it. This makes this game essential.
 
@@ -222,7 +222,7 @@ There is no *canonical big Japanese RPG* on Game Boy. On SNES you have Final Fan
 
 Big games with meaty stories, long playtime and relatively tame design systems. All RPGs on Game Boy have something incredibly weird about them. Great Greed fits right into this grand tradition.
 
-## Link's Awakening DX
+# Link's Awakening DX
 
 My cousin was asking me to open up the game for him. Why ? Because it's convoluted.
 
@@ -234,7 +234,7 @@ Thinking about my last article got me thinking way more about how difficult it t
 
 The game was lent to me and then I played it on a DMG. Then I bought a Color after giving the game back. Then I waited more than a decade before buying DX and finally, finally going to the secret colour dungeon. Let me tell you: it is hella underwhelming.
 
-## Mega Man IV
+# Mega Man IV
 
 MINAKUCHI ENGINEERING DEVELOPED MEGA MAN X3!!!!!!!!!!!!
 
@@ -252,7 +252,7 @@ The last segment of the game, after all 8 robot masters, is as is tradition, lac
 
 Note on price. Do not pay those atrocious US prices.
 
-## Megaman Xtreme
+# Megaman Xtreme
 
 Compare sliding versus dashing
 How X is more about movement and firepower than Mega Man; he's not putt-putting along.
@@ -260,7 +260,7 @@ Smaller sprite for X on GB
 What are the portals all over levels doing?
 It kind of doesn't stick the landing, it's not all that great.
 
-## Pokémon Crystal Version
+# Pokémon Crystal Version
 
 Pokémon is like the Game Boy itself; it is backward compatible with the previous generation.
 
@@ -268,7 +268,7 @@ You have this story of chose président heroically coming in to make a compressi
 
 I truly believe the game is awesome but there are so many different ways to approach a sequel; no backward compat with a new engine maybe could have been great.
 
-## Resident Evil Gaiden
+# Resident Evil Gaiden
 
 Resident Evil Gaiden came out of the *let's do something that shouldn't be done* trend that happened at the end of the Game Boy Color's life. It's the trend that brought us such flawed games as *Heroes of Might & Magic I & II*, *Warlocked*, *Alone in the Dark* & *Toy Story Racer*. However, Resident Evil Gaiden itself is not a part of the trend; instead, it is the game that replaced the game that was a part of this movement. You see, a developer by the name of XXX convinced Capcom that it was a good idea to bring their original Playstation game Resident Evil to Game Boy Color. Yeah, right.
 
@@ -280,11 +280,11 @@ Jeremy Parish once said the Game Boy Color had weird washed out pastel colors as
 
 But Revelations the Demon slayer has one ugly color palette.
 
-## Shantae
+# Shantae
 
 http://www.gamasutra.com/view/feature/2164/wayforward_to_the_handheld_future_.php#
 
-## Super Mario Bros. Deluxe
+# Super Mario Bros. Deluxe
 
 ## Crisp gameplay since 1985
 
@@ -306,11 +306,11 @@ They added a bunch of little sounds to help you figure out what's happening arou
 
 An excellent example of the game's design as a portable Super Mario for people who had played it before are the Hammer Bros. They are arguably the hardest thing in the game because you have to work hard to manage your position in relation to theirs and wait for an opening but because the screen is so small you can't adequately do it. They are most difficult when accompanied by their twin platforms and when the screen is in its normal position, you cannot see if any Hammer Bros. is on the topmost platform. How are you supposed to manage how to make your way through their dual barrage of hammers to hit one of them on the head or hit him from under a platform if you can't see both at the same time? I'll tell you how: practice. If you've played this game obsessively when you had an NES you instinctively know where they are exactly just by looking at where their hammers are. Otherwise you won't be able to develop a strategy for dealing with them efficiently with this game.
 
-## Tetris DX
+# Tetris DX
 
 Natsume / Jaleco Entertainment had done Tetris Plus the year before. Puzzle mode, etc. was made to improve the original Nintendo game. But Tetris DX is different. It was Nintendo going back and changing the rules of Tetris. This basis is still the basis for Tetris to this day, with the rules being turned into the way a game HAS to be built. The Tetris Company will not allow a licensee to change those rules.
 
-## Yamauchi Hiroshi, supervilain and proud of it
+# Yamauchi Hiroshi, supervilain and proud of it
 
 I feel like I need to talk more about my favourite Nintendo president, Yamauchi Hiroshi. President and chairman of Nintendo Co. Ltd. from **1949** to 2002, the man is a force of nature. Coming into the presidency when Nintendo was still a family business making playing cards and assorted sundry, Yamauchi turned the company into the most influential toymaker in the world. So why do I make jokes at his expense, calling him ruthless and a supervilain? You can't achieve something as monumental as *creating Nintendo as we know it* without being ruthless, and Yamauchi was ruthlessness *defined*. He was proud of having never played a video game: he only played Go. He signed extraordinary deals for his company like nobody's business. He built separate sections inside his company, then pitted all of them against each other, zigzagging around them to push them to best one another. He knew to skate where the puck was going; he turned Nintendo from a toy company to a technology pionneer because he knew video games were the future of toys.
 
@@ -318,11 +318,11 @@ For example, the fact the Game Boy has a Z80 derivative CPU is a total Yamauchi 
 
 I'm not saying Yamauchi is singularly responsible of the Z80 choice, but it exemplifies the company he managed; a company unafraid to silo projects to hedge their bets and come out ahead no matter what.
 
-## Nintendo Power (the rewritable cartridges)
+# Nintendo Power (the rewritable cartridges)
 
 L’histoire de Nintendo volume 4 page 148 mentions the project was a way to get more cartridges in the small combinis (the Japanese dépanneur).
 
-## A Crash Course in Tetrisology
+# A Crash Course in Tetrisology
 
 ... Pajitnov had left.
 
