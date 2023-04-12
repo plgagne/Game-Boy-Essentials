@@ -2,8 +2,9 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Produire une automatisation pour faire un ebook
+  - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 - régler l'absence de faits dans la timeline passé 2003
-- finir de batir des variables css qui sajoutent lune a lautre
 - Convertir la typographie GB de WOFF à WOFF2
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton de façon additive
@@ -17,7 +18,6 @@
 - Simplifier la structure des images de timeline
   - ensuite, ajouter des images non-disponible
 - Jouer à https://taylormccue.itch.io/trauma
-- Produire une automatisation pour faire un ebook
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
