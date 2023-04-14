@@ -2,6 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Explorer font-size: clamp(1em, 1.3vw, 1.3em); comme taille responsive de la typographie (https://www.phind.com/search?cache=bd161914-4d18-4758-b540-246f42d79a4a)
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 - régler l'absence de faits dans la timeline passé 2003
