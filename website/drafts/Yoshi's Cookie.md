@@ -25,6 +25,8 @@ developers: "TOSE"
 
 ## Short explanation and light review
 
+I hate the vs mode against the CPU cause you can't see their tactics and learn from them so I don't learn how to play and keep on sucking.
+
 *Yoshi's Cookie* is fine. It's just as good as other contemporary puzzle games. It's not going to enlighten your life or break anybody's brain with its inventive concept. You'll pull it out, play it because it is not another falling block puzzle game. Its blocks fall from both the top and right side you see. It's fine.
 
 these days, a puzzle game with this few amount of features would be derided. Back in 1992 it was good enough to warrant your attention.
@@ -39,7 +41,7 @@ We end up back with Henk and his company Bullet-Proof Software. Ever the dealmak
 
 He afterwards commissions the employees at his company to work on their own version seemingly called *Inaro*. We're not sure on the how and when but Henk Rogers managed to convince Nintendo to join the project. They provided their greatest asset; the game was rebranded with their hottest new character, Yoshi. TOSE was then commissioned with the production of the NES and Game Boy version of what was now called *Yoshi's Cookie* and Bullet-Proof Software made and released the SNES version eight months later. [Super Mario Wiki covers the development history very well](https://www.mariowiki.com/Yoshi's_Cookie#Development) and has links to fascinating details regarding *Inaro*.
 
-The mystery of *Yoshi's Cookie* strange release still lingers in my mind. You have two version made by TOSE, the GB and NES versions. Those versions are for all intent and purposes the same (I NEED TO CHECK THAT) and you have a very different SNES version that came out eight months later made by BPS. What's even weirder is that the NES and Game Boy versions reference *Hermetica* in their debug menu.
+The mystery of *Yoshi's Cookie* strange release still lingers in my mind. You have two version made by TOSE, the GB and NES versions. Those versions are for all intent and purposes the same and you have a very different SNES version that came out eight months later made by BPS. What's even weirder is that the NES and Game Boy versions reference *Hermetica* in their debug menu.
 
 If I had to hazard a guess, I'd say BPS was working on their own version, under the codename *Hermetica*. When Nintendo came along and joined the project, they let BPS take charge of the Super Nintendo / Super Famicom version and they took care of the Game Boy and NES / Famicom games. Nintendo then used TOSE as a sub-contractor as they often did back then for lesser projects. A brand new puzzle game they didn't fully own was a perfect use of TOSE, the shadow company who refuses to be credited for their work. TOSE quickly pumped out their two versions while BPS took more time, being a much smaller company. They also implemented more features. During this expedited development, the codename was probably kept until *Yoshi's Cookie* became the game's conceit. Yoshi was a hot new character and they had already released a puzzle game bearing the name the year before. This could be seen as a kind of sequel. In terms of what's different between the TOSE games and the BPS made one, we have to talk about the good Russian, Alexei Pajitnov.
 
