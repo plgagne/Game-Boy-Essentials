@@ -3,7 +3,6 @@ title: "Mega Man II"
 description: "Another Failed Attempt?"
 slug: "dmg-w2"
 redirect_from:
-  - /articles/dmg-w2.html
   - /1991/dmg-w2.html
 release-date: "1991-11-01"
 release-year: "1991"
@@ -58,7 +57,7 @@ To me, all those little details add up. The *Mega Man* games on NES are extremel
 
 ## Clocks?
 
-Here’s another example of how the people at Biox missed the appeal of *Mega Man*. The Clash Man level on NES is very fun as an environment. You ascend a tower of tubes until you reach the top of the atmosphere to a dark sky devoid of stars. Then you reach the boss high up in space and fight him. Boom, that’s pure unadulterated *Mega Man*. The Game Boy Clash Man level has you ascend at first until you reach a background of mountains. Then you start going down and the walls of the level are suddenly a different tileset. The concept of the NES level is completely abandoned. I feel like different people designed different sections of levels and they connected them together haphazardly. They didn’t think of creating an experience they just went ahead and made levels, making sure it wasn’t too hard. They didn’t make sure it was challenging or cohesive or fun or anything, the modus operandi was **not too hard**. This game was made quickly, and it shows! You end up with a disjointed experience that feels more influenced by a short development time than by the Mega Man series on NES. Time seems to be the theme of the game here, and there’s this whole back story with time travel. To hammer the point home, the last level of the game features clocks in the background, more specifically the clocks from Dali’s *Persistence of Memory*. What?  
+Here’s another example of how the people at Biox missed the appeal of *Mega Man*. The Clash Man level on NES is very fun as an environment. You ascend a tower of tubes until you reach the top of the atmosphere to a dark sky devoid of stars. Then you reach the boss high up in space and fight him. Boom, that’s pure unadulterated *Mega Man*. The Game Boy Clash Man level has you ascend at first until you reach a background of mountains. Then you start going down and the walls of the level are suddenly a different tileset. The concept of the NES level is completely abandoned. I feel like different people designed different sections of levels and they connected them together haphazardly. They didn’t think of creating an experience they just went ahead and made levels, making sure it wasn’t too hard. They didn’t make sure it was challenging or cohesive or fun or anything, the modus operandi was **not too hard**. This game was made quickly, and it shows! You end up with a disjointed experience that feels more influenced by a short development time than by the Mega Man series on NES. Time seems to be the theme of the game here, and there’s this whole back story with time travel. To hammer the point home, the last level of the game features clocks in the background, more specifically the clocks from Dali’s *Persistence of Memory*. What?
 
 {% include figure.html type="gb" figcaption="You’d usually find *Mega Man* inspirations in anime, not modern art!" %}
 

@@ -3,7 +3,6 @@ title: "Matchbox Caterpillar Construction Zone"
 description: "Honk! Honk!"
 slug: "dmg-ar4e"
 redirect_from:
-  - /articles/dmg-ar4e.html
   - /2000/dmg-ar4e.html
 release-date: "2000-01-01"
 release-year: "2000"
