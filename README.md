@@ -2,6 +2,12 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- apple-touch-icon-precomposed semble être demandé
+  - https://stackoverflow.com/questions/12480497/why-am-i-getting-error-for-apple-touch-icon-precomposed-png
+  - https://mathiasbynens.be/notes/touch-icons
+- le trailing slash de tous mes urls ?
+  -
+- le redirect de book.html sur github pages interfère
 - Explorer font-size: clamp(1em, 1.3vw, 1.3em); comme taille responsive de la typographie (https://www.phind.com/search?cache=bd161914-4d18-4758-b540-246f42d79a4a)
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
