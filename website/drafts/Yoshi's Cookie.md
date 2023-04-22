@@ -22,14 +22,17 @@ developers: "TOSE"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
+*Yoshi's Cookie* is fine. It's just as good as other contemporary puzzle games. It's not going to enlighten your life or break anybody's brain with its inventive concept. You'll pull it out, play it because it is not another falling block puzzle game. Its blocks fall from both the top and right side you see. It's fine. These days, a puzzle game with this small amount of features would be derided. Back in 1992 it was good enough to warrant your attention. That's why it's essential.
 
 ## Short explanation and light review
 
-I hate the vs mode against the CPU cause you can't see their tactics and learn from them so I don't learn how to play and keep on sucking.
+I have nothing against the game, but it falls into the category of puzzle games I lovingly call *I can't get good at this shit*. I am incapable of making high level plays that allow you to get better at the game. You can arrange cookies in rows and columns to make them disappear. The real high-level play, the real talent you need to develop to succeed, is to arrange the board so multiple rowas and columns get completed at the exact same moment. To achieve this, you have to arrange the board with the maximum amount of pieces that can be next to one another without creating a match. You need to do that for multiple rowas and/or columns and you need to figure out a way to start those matches with a single move. It's very similar in logic to learning how to solve a Rubik's cube. 
 
-*Yoshi's Cookie* is fine. It's just as good as other contemporary puzzle games. It's not going to enlighten your life or break anybody's brain with its inventive concept. You'll pull it out, play it because it is not another falling block puzzle game. Its blocks fall from both the top and right side you see. It's fine.
+Multiple puzzle games have this prepared combo as their core premise. For example *Puyo Puyo*, *Columns*, and to a lesser extent *Dr. Mario* all expect you to prepare combos. The problem is I'm horrible at preparing combos. I can kind-of get reasonable at it, but it's hard for me, so a game really has to ease me into the combo-making steps. If you can show me how to make combos, with predefined puzzles that force you into the steps necessary to achieve it, I might be able to learn it before I get bored and give up with the game.
 
-these days, a puzzle game with this few amount of features would be derided. Back in 1992 it was good enough to warrant your attention.
+Another way for me to learn combos is by having the AI perform them. That way I can see high-level play used against me and learn from it. This game being on Game Boy, the VS mode does not show you your adversary's moves. You can't see their tactics and learn from them.
+
+*Yoshi's Cookie* was unable to hold my attention long enough to force me to learn its combo logic.
 
 ## Moving on to the more varied and impressive SNES version
 
