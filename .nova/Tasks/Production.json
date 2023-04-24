@@ -6,7 +6,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\naws s3 sync --no-paginate \"website\/_site\" \"s3:\/\/gameboyessentials.com\/\" --delete --size-only\naws cloudfront create-invalidation \\\n  --distribution-id E24640NN71YEJH \\\n  --paths \"\/*\""
+      "script" : "#!\/bin\/zsh\naws s3 sync --no-paginate \"website\/_site\" \"s3:\/\/gameboyessentials.com\/\" --delete --size-only\naws cloudfront create-invalidation \\\n  --distribution-id E34E7DCR9UARSK \\\n  --paths \"\/*\""
     }
   },
   "buildBeforeRunning" : true,
