@@ -25,9 +25,7 @@ developers: "TOSE"
 
 ## Short explanation and light review
 
-*Yoshi's Cookie* is fine. It's just as good as other contemporary puzzle games. It's not going to enlighten your life or break anybody's brain with its inventive concept. You'll pull it out, play it because it is not another falling block puzzle game. Its blocks fall from both the top and right side you see. It's fine.
-
-these days, a puzzle game with this few amount of features would be derided. Back in 1992 it was good enough to warrant your attention.
+*Yoshi's Cookie* is a unimpressive game with a beautiful premise. These days, a puzzle game with this few amount of features would be derided. Back in 1992 it was good enough to warrant a small portion of your essential attention because of its marketing.
 
 ## Moving on to the more varied and impressive SNES version
 
