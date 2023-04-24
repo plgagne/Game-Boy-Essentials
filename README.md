@@ -13,9 +13,6 @@
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - batir mes variables de bouton de façon additive
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
-- Vérifier la disponibilité du Volume 1
-  - https://www.amazon.com/s?k=game+boy+essentials+book
-  - https://www.barnesandnoble.com/s/game%20boy%20essentials
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 
 ## Long terme
