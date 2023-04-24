@@ -3,7 +3,6 @@ title: "Solar Striker"
 description: "Ludo-Political Positioning"
 slug: "dmg-ss"
 redirect_from:
-  - /articles/dmg-ss.html
   - /1990/dmg-ss.html
 release-date: "1990-01-01"
 release-year: "1990"

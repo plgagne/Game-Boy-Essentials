@@ -3,7 +3,6 @@ title: "Final Fantasy Adventure"
 description: "Mana without the Mania"
 slug: "dmg-ff"
 redirect_from:
-  - /articles/dmg-ff.html
   - /1991/dmg-ff.html
 release-date: "1991-06-01"
 release-year: "1991"

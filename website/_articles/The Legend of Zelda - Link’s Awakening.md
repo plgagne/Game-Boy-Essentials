@@ -3,7 +3,6 @@ title: "The Legend of Zelda: Link’s Awakening"
 description: "The Secret Best Zelda Game"
 slug: "dmg-zl"
 redirect_from:
-  - /articles/dmg-zl.html
   - /1993/dmg-zl.html
 release-date: "1993-06-01"
 release-year: "1993"

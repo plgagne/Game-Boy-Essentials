@@ -23,7 +23,7 @@
             {% endif %}
         {% endif %}
       {% endfor %}
-      {% if jekyll.environment != 'production' %}
+      {% if jekyll.environment == 'local_serve' %}
         <a class="header_link" href="/drafts">Drafts</a>
       {% endif %}
     </nav>

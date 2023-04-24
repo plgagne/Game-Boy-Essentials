@@ -3,7 +3,6 @@ title: "Game Boy Gallery"
 description: "There Was an Attempt"
 slug: "dmg-agga"
 redirect_from:
-  - /articles/dmg-agga.html
   - /1995/dmg-agga.html
 release-date: "1995-04-01"
 release-year: "1995"

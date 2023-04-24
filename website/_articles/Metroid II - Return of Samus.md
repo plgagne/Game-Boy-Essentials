@@ -3,7 +3,6 @@ title: "Metroid II: Return of Samus"
 description: "SR-388 Travelogue"
 slug: "dmg-me"
 redirect_from:
-  - /articles/dmg-me.html
   - /1991/dmg-me.html
 release-date: "1991-11-01"
 release-year: "1991"
@@ -146,7 +145,7 @@ I restart my attempt to farm for life, and I am reminded of my hate for the flyi
 
 As I run around, finally managing to get my health back up, I feel it is a good time to talk about the particularities of the jump mechanics. Samus has two ways of jumping: spinning or crouched. When you jump directly up, she’ll jump crouched. Her sprite is bigger but she can shoot. When you jump at an angle, she’s spinning, and her sprite is smaller. If you shoot when spinning, she will revert to crouched. Because her sprite is bigger when she is crouched, it’s harder to clear obstacles or projectiles. So you want to jump at an angle as much as possible. But because so many of the platforms in the game are very small with limited space to start an angled jump, you’ll be stuck in a crouched position more than you want. Finding the High-Jump Boots in this area clearly amplifies these jump mechanics, since you can now jump more than two screens high. You then end up jumping straight into hazards, ceilings or enemies because you’re not spinning.
 
-In this area you have the Wave Beam, the High-Jump Boots, the Jump Ball and the Varia Suit. These upgrades are hidden behind fake walls in Chozo sections and are all optional. It’s a very *ancient* way to hide secrets, since you barely have any environmental clue to tell you where to look. You’re supposed to bang your head against every ceiling, to bomb every surface trying to find something, anything.  
+In this area you have the Wave Beam, the High-Jump Boots, the Jump Ball and the Varia Suit. These upgrades are hidden behind fake walls in Chozo sections and are all optional. It’s a very *ancient* way to hide secrets, since you barely have any environmental clue to tell you where to look. You’re supposed to bang your head against every ceiling, to bomb every surface trying to find something, anything.
 
 I finish finding all the upgrades, get myself a second Health Tank, go beat the Gamma Metroid hiding in sand that had eluded me before, thus finishing the section and allowing me to head to Area 3.
 

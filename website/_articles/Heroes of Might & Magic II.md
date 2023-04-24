@@ -3,7 +3,6 @@ title: "Heroes of Might & Magic II"
 description: "Not Much Better"
 slug: "cgb-buhe"
 redirect_from:
-  - /articles/cgb-buhe.html
   - /2000/cgb-buhe.html
 release-date: "2000-12-01"
 release-year: "2000"

@@ -3,7 +3,6 @@ title: "Super Mario Land"
 description: "2-Bit Mario"
 slug: "dmg-ml"
 redirect_from:
-  - /articles/dmg-ml.html
   - /1989/dmg-ml.html
 release-date: "1989-04-01"
 release-year: "1989"

@@ -14,16 +14,16 @@ incremental: false
 collections:
   articles:
     output: true
-    permalink: /articles/:title/
+    permalink: /articles/:title
   timeline:
     output: true
-    permalink: timeline/:slug/
+    permalink: timeline/:slug
   folio:
     output: true
-    permalink: /:slug/
+    permalink: /:slug
   tags:
     output: true
-    permalink: tag/:title/
+    permalink: tag/:title
 
 defaults:
   -
