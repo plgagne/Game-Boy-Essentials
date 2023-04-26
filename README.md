@@ -1,6 +1,10 @@
 # Game Boy Essentials
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
+## URLs
+[Github Pages](https://plgagne.github.io/Game-Boy-Essentials/)
+[S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
+
 ## Tâches
 - Enlever les barres obliques à la fin des liens (trailing slashes) de tout le site web
   - https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:951661612909:applications~LambdaEdgeRemoveTrailingSlash
