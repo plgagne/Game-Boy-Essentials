@@ -6,9 +6,6 @@
 - [S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
 
 ## Tâches
-- Enlever les barres obliques à la fin des liens (trailing slashes) de tout le site web
-  - https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:951661612909:applications~LambdaEdgeRemoveTrailingSlash
-  - https://www.vividbytes.io/fixing-redirect-codes-on-static-s3-websites/)
 - Explorer font-size: clamp(1em, 1.3vw, 1.3em); comme taille responsive de la typographie (https://www.phind.com/search?cache=bd161914-4d18-4758-b540-246f42d79a4a)
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
