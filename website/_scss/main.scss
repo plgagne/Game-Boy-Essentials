@@ -21,7 +21,8 @@ html {
 .header_title {
   &,
   &:visited {
-    font: 3em 'Gill Sans', 'Gill Sans MT', 'Calibri', sans-serif;
+    font: 'Gill Sans', 'Gill Sans MT', 'Calibri', sans-serif;
+    font-size: 3em;
     font-style: italic;
     font-weight: 600;
     color: $lime-green;
@@ -226,9 +227,7 @@ object {
 .figure_art {
   max-width: 70%;
 }
-.figure_art img {
-  @include width-height;
-}
+.figure_art img,
 .figure_boxart img {
   @include width-height;
 }
