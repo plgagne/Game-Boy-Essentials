@@ -1,18 +1,17 @@
 h1, h2 {
   font-weight: 100;
   clear: both;
-  padding-top: 0.3em;
 }
 h1 {
-  font-size: 3em;
+  font-size: $font_largest;
 }
 h2 {
-  font-size: 2.5em;
+  font-size: $font_very-large;
 }
 /* Lists */
 ul,
-ol { 
-  padding: 0 0 0 2.5em;
+ol {
+  padding-left: 2.5em;
   overflow: hidden;
 }
 ul {
@@ -26,15 +25,15 @@ li {
 }
 h3,
 caption {
-  font-size: 1.1em;
+  font-size: $font_large;
   font-weight: bold;
 }
 p,
 blockquote,
 ul,
 ol {
-  margin-bottom: 1em;
-  font-size: 1.05rem;
+  margin-bottom: $spacing-paragraph;
+  font-size: $font_paragraph;
 }
 a {
   &,
@@ -54,15 +53,17 @@ em {
   font-style: italic;
 }
 blockquote {
-  padding-left: 0.5em; 
-  margin: 0 1em 1em 1em; 
+  padding-left: 0.5em;
+  margin-bottom: $spacing-paragraph;
+  margin-left: 1rem;
+  margin-right: 1rem;
   border-left: 2px solid black;
   quotes: none;
 }
 blockquote:before,
 blockquote:after {
   content: '';
-  content: none; 
+  content: none;
 }
 code {
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
@@ -73,7 +74,7 @@ code {
 table {
   table-layout: fixed;
   width: 100%;
-  margin: 0.5em 0;
+  margin-bottom: $spacing-paragraph;
   border-spacing: 0;
   border: 1px solid black;
 }
@@ -83,7 +84,10 @@ th {
 }
 th,
 td {
-  padding: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   text-align: center;
   vertical-align: middle;
   border: 1px solid black;

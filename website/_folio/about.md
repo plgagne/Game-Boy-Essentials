@@ -17,8 +17,6 @@ If you don’t want to miss an article, you can keep track of this website using
 
 Please email me for any questions. I’m reachable at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-
-
 ## About This Project
 
 In the summer of 1990, I turned four. The last gift I opened on my birthday, the pièce de résistance if you will, was my Game Boy. From that moment on, I was hooked. I have never stopped playing Game Boy, through its many revisions and its countless games. As I turn 30 and now have the expendable income to collect and play the Game Boy even more than before, I have turned my appreciation into the peak of obsession: cataloguing the essential games released for the system to understand its appeal. I call this project Game Boy Essentials. It is an attempt to discuss the games we should play to fully understand the Game Boy. Good or bad.

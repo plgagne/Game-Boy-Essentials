@@ -3,7 +3,6 @@ title: "Mario Golf"
 description: "Baby Mario Golf"
 slug: "cgb-awxe"
 redirect_from:
-  - /articles/cgb-awxe.html
   - /1999/cgb-awxe.html
 release-date: "1999-08-01"
 release-year: "1999"

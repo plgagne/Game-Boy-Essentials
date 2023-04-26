@@ -2,36 +2,35 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-- Vérifier la réponse de Lulu à mon courriel
+- Enlever les barres obliques à la fin des liens (trailing slashes) de tout le site web
+  - https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:951661612909:applications~LambdaEdgeRemoveTrailingSlash
+  - https://www.vividbytes.io/fixing-redirect-codes-on-static-s3-websites/)
+- Explorer font-size: clamp(1em, 1.3vw, 1.3em); comme taille responsive de la typographie (https://www.phind.com/search?cache=bd161914-4d18-4758-b540-246f42d79a4a)
+- Produire une automatisation pour faire un ebook
+  - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
+- régler l'absence de faits dans la timeline passé 2003
+- Convertir la typographie GB de WOFF à WOFF2
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
-- batir mes variables de bouton
-  1. bouton noir, contour noir, texte noir
-
-  3. bouton fond bleu, texte noir
+- batir mes variables de bouton de façon additive
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
-- Vérifier la disponibilité du Volume 1
-  - https://www.amazon.com/s?k=game+boy+essentials+book
-  - https://www.barnesandnoble.com/s/game%20boy%20essentials
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 
 ## Long terme
 - Simplifier la structure des images de timeline
   - ensuite, ajouter des images non-disponible
 - Jouer à https://taylormccue.itch.io/trauma
-- Produire une automatisation pour faire un ebook
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
-- Terminer l'intégration de backstopJS dans un postbuild.sh
 
 ## Liste de vérification pour publication d'un article
-- [ ] Vérifier que toutes les dates sont bien incluses (incluant l'europe)
+- [ ] Vérifier que toutes les dates sont bien incluses
 - [ ] Corriger l'article final avec Antidote
 - [ ] Appliquer les majuscules approprié avec Title Case Service
 - [ ] Déplacer l'article dans le dossier website/articles
 - [ ] Rapetisser les nouvelles images avec ImageOptim.app
 - [ ] Bâtir et synchronizer sur S3 avec la tâche Nova
-- [ ] Vérifier que tout fonctionne en ligne sur https://gameboyessentials.com
+- [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
 
 ## Liste de mauvaises idées

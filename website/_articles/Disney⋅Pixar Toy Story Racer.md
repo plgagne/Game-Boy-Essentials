@@ -3,7 +3,6 @@ title: "Disney⋅Pixar Toy Story Racer"
 description: "You Are a Child’s Plaything!"
 slug: "cgb-bt5e"
 redirect_from:
-  - /articles/cgb-bt5e.html
   - /2001/cgb-bt5e.html
 release-date: "2001-02-01"
 release-year: "2001"

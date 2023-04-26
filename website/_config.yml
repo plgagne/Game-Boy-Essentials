@@ -7,23 +7,23 @@ github_pages_url: "https://plgagne.github.io/Game-Boy-Essentials/"
 localhost_url: "http://portable-pl.local:4000/"
 email: "pl@gameboyessentials.com"
 description: "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success."
-exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test, build.sh]
+exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test]
 incremental: false
 
 ## Use of Collections for underscored folders
 collections:
   articles:
     output: true
-    permalink: /articles/:title/
-  timeline:
+    permalink: /articles/:title
+  timelines:
     output: true
-    permalink: timeline/:slug/
+    permalink: timelines/:slug
   folio:
     output: true
-    permalink: /:slug/
+    permalink: /:slug
   tags:
     output: true
-    permalink: tag/:title/
+    permalink: tag/:title
 
 defaults:
   -
@@ -33,12 +33,6 @@ defaults:
     values:
       layout: article
       article: true
-  -
-    scope:
-      path: ""
-      type: timeline
-    values:
-      layout: timeline
   -
     scope:
       path: ""
