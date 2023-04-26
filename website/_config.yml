@@ -15,9 +15,9 @@ collections:
   articles:
     output: true
     permalink: /articles/:title
-  timeline:
+  timelines:
     output: true
-    permalink: timeline/:slug
+    permalink: timelines/:slug
   folio:
     output: true
     permalink: /:slug
@@ -33,12 +33,6 @@ defaults:
     values:
       layout: article
       article: true
-  -
-    scope:
-      path: ""
-      type: timeline
-    values:
-      layout: timeline
   -
     scope:
       path: ""
