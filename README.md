@@ -6,15 +6,29 @@
 - [S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
 
 ## Tâches
-- Explorer font-size: clamp(1em, 1.3vw, 1.3em); comme taille responsive de la typographie (https://www.phind.com/search?cache=bd161914-4d18-4758-b540-246f42d79a4a)
+- AJouter au script qui élimine .html pour retirer les redirections à Jekyll et utiliser la fonctionnalité de S3
+  - Contient une liste de toutes les redirections hors normes dont j'ai besoin:
+    - /1989/slug
+    - /1989/slug/
+    - /timeline/na
+    - /timeline/na/
+    - /about/
+    - /book.html
+    - main.html
+    - etc.
+  - Passe à travers tous les articles, extraits le slug, et crée les redirections de ces articles:
+    - /articles/slug/
+    - /articles/slug/index.html
+  - Batis la liste de toutes les redirections en XML je crois
+  - Pousse la liste de redirection sur le bucket S3
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
-- régler l'absence de faits dans la timeline passé 2003
-- Convertir la typographie GB de WOFF à WOFF2
-- Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
-- batir mes variables de bouton de façon additive
-- Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
+
+## Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
+- régler l'absence de faits dans la timeline passé 2003
+- Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
+- Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 
 ## Long terme
 - Simplifier la structure des images de timeline
@@ -25,11 +39,11 @@
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 
 ## Liste de vérification pour publication d'un article
-- [x] Vérifier que toutes les dates sont bien incluses
-- [x] Corriger l'article final avec Antidote
-- [x] Appliquer les majuscules approprié avec Title Case Service
-- [x] Déplacer l'article dans le dossier website/articles
-- [x] Rapetisser les nouvelles images avec ImageOptim.app
+- [ ] Vérifier que toutes les dates sont bien incluses
+- [ ] Corriger l'article final avec Antidote
+- [ ] Appliquer les majuscules approprié avec Title Case Service
+- [ ] Déplacer l'article dans le dossier website/articles
+- [ ] Rapetisser les nouvelles images avec ImageOptim.app
 - [ ] Bâtir et synchronizer sur S3 avec la tâche Production
 - [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
