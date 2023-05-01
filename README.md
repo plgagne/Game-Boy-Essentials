@@ -22,6 +22,7 @@
     - /articles/slug/index.html
   - Batis la liste de toutes les redirections en XML je crois
   - Pousse la liste de redirection sur le bucket S3
+    - https://stuff-things.net/2017/05/03/creating-an-s3-website-redirect-from-the-cli/
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
