@@ -8,15 +8,16 @@
 ## Tâches
 - AJouter au script qui élimine .html pour retirer les redirections à Jekyll et utiliser la fonctionnalité de S3
   - Contient une liste de toutes les redirections hors normes dont j'ai besoin:
-    - /1989/slug
-    - /1989/slug/
-    - /timeline/na
-    - /timeline/na/
-    - /about/
-    - /book.html
-    - main.html
+    - [ ] /1989/slug
+    - [ ] /1989/slug/
+    - [x] /timeline/na
+    - [x] /timeline/na/
+    - [x] /timelines/na/
+    - [x] /about/
+    - [x] /book.html
+    - [x] main.html
     - etc.
-  - Passe à travers tous les articles, extraits le slug, et crée les redirections de ces articles:
+  - Passe à travers tous les articles, prendre le titre du fichier, et crée les redirections de ces articles:
     - /articles/slug/
     - /articles/slug/index.html
   - Batis la liste de toutes les redirections en XML je crois
