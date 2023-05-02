@@ -8,8 +8,6 @@
 ## Tâches
 - AJouter au script qui élimine .html pour retirer les redirections à Jekyll et utiliser la fonctionnalité de S3
   - Contient une liste de toutes les redirections hors normes dont j'ai besoin:
-    - [ ] /1989/slug
-    - [ ] /1989/slug/
     - [x] /timeline/na
     - [x] /timeline/na/
     - [x] /timelines/na/
