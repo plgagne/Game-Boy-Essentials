@@ -6,21 +6,8 @@
 - [S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
 
 ## Tâches
-- AJouter au script qui élimine .html pour retirer les redirections à Jekyll et utiliser la fonctionnalité de S3
-  - Contient une liste de toutes les redirections hors normes dont j'ai besoin:
-    - [x] /timeline/na
-    - [x] /timeline/na/
-    - [x] /timelines/na/
-    - [x] /about/
-    - [x] /book.html
-    - [x] main.html
-    - etc.
-  - Passe à travers tous les articles, prendre le titre du fichier, et crée les redirections de ces articles:
-    - /articles/slug/
-    - /articles/slug/index.html
-  - Batis la liste de toutes les redirections en XML je crois
-  - Pousse la liste de redirection sur le bucket S3
-    - https://stuff-things.net/2017/05/03/creating-an-s3-website-redirect-from-the-cli/
+- Ajouter programmatiquement des objets de redirection pour chaque article
+  - https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
