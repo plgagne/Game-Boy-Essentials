@@ -6,8 +6,26 @@
 - [S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
 
 ## Tâches
-- Ajouter programmatiquement des objets de redirection pour chaque article
+- Plan A: Utiliser https://github.com/ivoanjo/s3_website_revived
+- Plan B: Ajouter programmatiquement des objets de redirection pour chaque article
+  - [ ] copier les redirections historiques (/1989/slug.html) en format JSON dans le bucket
+  - [ ] Faire un find qui trouve tous les fichiers .html
+  - [ ] exclure /index.html
+  - [ ] retirer le .html de chaque fichier
+  - [ ] synchroniser sur S3 tous les fichiers sans extensions comme text/html
+  - [ ] synchroniser sur S3 tous les fichiers avec extensions excluant .html
+  - [ ] Faire un autre find qui trouve tous les fichiers sans extensions
+  - [ ] Créer un fichier .html vide pour chaque fichier vide (je pense que Jekyll va cruncher ces fichiers à chaque build)
+  - [ ] Vérifier si le fichier existe sur S3
+    - [ ] Copier le fichier s'il n'existe pas
+  - [ ] Vérifier si un /slug/index.html existe
+    - [ ] créer un dossier avec le nom du fichier
+    - [ ] créer un fichier index.html dans chaque nouveau dossier
+  - [ ] Vérifier si le fichier existe sur S3
+    - [ ] Copier le fichier s'il n'existe pas
   - https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html
+  - https://stackoverflow.com/questions/32393026/exclude-multiple-folders-using-aws-s3-sync
+  - https://stackoverflow.com/questions/41871948/aws-s3-how-to-check-if-a-file-exists-in-a-bucket-using-bash
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
