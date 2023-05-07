@@ -1,0 +1,161 @@
+site: ../website/_site
+max_age:
+  "assets/*": 36000
+  "*.xml": no-cache
+  "*.json": no-cache
+  "*": 3600
+content_type:
+  "*": text/html
+gzip: true
+gzip:
+  - .html
+  - .css
+  - *
+s3_reduced_redundancy: true
+cloudfront_distribution_id: your-dist-id
+cloudfront_wildcard_invalidation: true
+cloudfront_invalidate_root: true
+
+redirects:
+  /main.html: /index.html
+  /about/index.html: /about
+  /about.html: /about
+
+
+
+  {
+    "Condition": {
+      "KeyPrefixEquals": "book/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "book"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "book.html"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "book"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "guide/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "guide"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "guide.html"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "guide"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timeline/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timeline"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timeline.html"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timeline"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timelines/na/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines/na"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timelines/eu/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines/eu"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timelines/jp/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines/jp"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/timeline/na"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "/timelines"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/timeline/jp"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "/timelines"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "/timeline/eu"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "/timelines"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timeline/na/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timeline/jp/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines"
+    }
+  },
+  {
+    "Condition": {
+      "KeyPrefixEquals": "timeline/eu/"
+    },
+    "Redirect": {
+      "HostName": "gameboyessentials.com",
+      "ReplaceKeyWith": "timelines"
+    }
+  }
+]
