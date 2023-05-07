@@ -26,6 +26,8 @@
   - https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html
   - https://stackoverflow.com/questions/32393026/exclude-multiple-folders-using-aws-s3-sync
   - https://stackoverflow.com/questions/41871948/aws-s3-how-to-check-if-a-file-exists-in-a-bucket-using-bash
+- Plan C: Utiliser un serveur EC2 t4g.nano pour avoir Apache
+  - Mettre en place une automatisation des mises à jour (https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html)
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
