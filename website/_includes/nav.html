@@ -17,11 +17,11 @@
   {% if prev_slug or next_slug %}
   <nav class="navigation">
   {% if next_slug %}
-    <a class="navigation_button" href="articles/{{ next_slug }}">&lsaquo;&#xfe0e; {{ next_title }}</a>
+    <a class="navigation_button" href="/articles/{{ next_slug }}">&lsaquo;&#xfe0e; {{ next_title }}</a>
   {% endif %}
-  <a class="navigation_button" href="">Back to Main Page</a>
+  <a class="navigation_button" href="/">Back to Main Page</a>
   {% if prev_slug %}
-    <a class="navigation_button" href="articles/{{ prev_slug }}">{{ prev_title }} &rsaquo;&#xfe0e;</a>
+    <a class="navigation_button" href="/articles/{{ prev_slug }}">{{ prev_title }} &rsaquo;&#xfe0e;</a>
   {% endif %}
   {% endif %}
   </nav>

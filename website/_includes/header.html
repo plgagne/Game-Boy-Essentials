@@ -12,14 +12,14 @@
             {% if page.slug == item.slug %}
               <div class="header_link-selected">{{ item.title }}</div>
               {% else %}
-              <a class="header_link" href="{{ item.slug }}">{{ item.title }}</a>
+              <a class="header_link" href="/{{ item.slug }}">{{ item.title }}</a>
             {% endif %}
           {% endcase %}
           {% else %}
             {% if page.slug == item.slug %}
               <div class="header_link-selected">{{ item.title }}</div>
               {% else %}
-              <a class="header_link" href="{{ item.slug }}">{{ item.title }}</a>
+              <a class="header_link" href="/{{ item.slug }}">{{ item.title }}</a>
             {% endif %}
         {% endif %}
       {% endfor %}
