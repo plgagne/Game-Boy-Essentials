@@ -3,7 +3,15 @@
 
 ## URLs
 - [Github Pages](https://plgagne.github.io/Game-Boy-Essentials/)
-- [S3](http://gameboyessentials.com.s3-website-us-east-1.amazonaws.com/)
+- [Server iPv4](54.204.100.238)
+- [Server DNS](ec2-54-204-100-238.compute-1.amazonaws.com)
+- [CloudFront](d22xncr9jc5j2j.cloudfront.net)
+
+sudo nano /root/.ssh/authorized_keys
+  - Delete the lines at the begining of the file until you get to the words ssh-rsa.
+sudo nano /etc/ssh/sshd_config
+  - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
+sudo /etc/init.d/ssh restart
 
 ## Tâches
 - Plan A: Utiliser https://github.com/ivoanjo/s3_website_revived
