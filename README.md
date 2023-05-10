@@ -14,28 +14,15 @@ sudo nano /etc/ssh/sshd_config
 sudo /etc/init.d/ssh restart
 
 ## Tâches
-- Plan A: Utiliser https://github.com/ivoanjo/s3_website_revived
-- Plan B: Ajouter programmatiquement des objets de redirection pour chaque article
-  - [ ] copier les redirections historiques (/1989/slug.html) en format JSON dans le bucket
-  - [ ] Faire un find qui trouve tous les fichiers .html
-  - [ ] exclure /index.html
-  - [ ] retirer le .html de chaque fichier
-  - [ ] synchroniser sur S3 tous les fichiers sans extensions comme text/html
-  - [ ] synchroniser sur S3 tous les fichiers avec extensions excluant .html
-  - [ ] Faire un autre find qui trouve tous les fichiers sans extensions
-  - [ ] Créer un fichier .html vide pour chaque fichier vide (je pense que Jekyll va cruncher ces fichiers à chaque build)
-  - [ ] Vérifier si le fichier existe sur S3
-    - [ ] Copier le fichier s'il n'existe pas
-  - [ ] Vérifier si un /slug/index.html existe
-    - [ ] créer un dossier avec le nom du fichier
-    - [ ] créer un fichier index.html dans chaque nouveau dossier
-  - [ ] Vérifier si le fichier existe sur S3
-    - [ ] Copier le fichier s'il n'existe pas
-  - https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html
-  - https://stackoverflow.com/questions/32393026/exclude-multiple-folders-using-aws-s3-sync
-  - https://stackoverflow.com/questions/41871948/aws-s3-how-to-check-if-a-file-exists-in-a-bucket-using-bash
-- Plan C: Utiliser un serveur EC2 t4g.nano pour avoir Apache
+- Finaliser les détails du serveur
   - Mettre en place une automatisation des mises à jour (https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html)
+  - Finir les redirections qui manquent
+    - Apache doit utiliser les .html quand je demande base pour que j'élimine le retrait des extensions
+    - Les années présentement controlé par l'extension
+    - les / qui doivent retourner à base
+  - Trouver une façon de ne plus devoir envoyer tout le site quand je synchronise
+    - Si toutes les redirections fonctionnent sous Apache je vais probablement pouvoir utiliser --incremental
+  - Bien sélectionner les cache-control de chaque type de fichier dans publish sur Nova
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
