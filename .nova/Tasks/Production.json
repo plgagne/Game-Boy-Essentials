@@ -6,9 +6,8 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Syncing files with extensions.\"\naws s3 sync --no-paginate \"website\/_site\" \"s3:\/\/gameboyessentials.com\/\" --size-only --exclude \"*\" --include \"*.*\" --delete\necho \"${RED}Syncing files without extensions.\"\naws s3 sync --no-paginate \"website\/_site\" \"s3:\/\/gameboyessentials.com\/\" --size-only --content-type text\/html --exclude \"*.*\" --delete\naws cloudfront create-invalidation \\\n  --distribution-id E34E7DCR9UARSK \\\n  --paths \"\/*\""
+      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id E2D1OXPUZ47PTX \\\n  --paths \"\/*\""
     }
   },
-  "buildBeforeRunning" : true,
   "openLogOnRun" : "start"
 }
