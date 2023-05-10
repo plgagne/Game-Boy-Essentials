@@ -7,14 +7,9 @@
 - [Server DNS](ec2-54-204-100-238.compute-1.amazonaws.com)
 - [CloudFront](d22xncr9jc5j2j.cloudfront.net)
 
-sudo nano /root/.ssh/authorized_keys
-  - Delete the lines at the begining of the file until you get to the words ssh-rsa.
-sudo nano /etc/ssh/sshd_config
-  - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
-sudo /etc/init.d/ssh restart
-
 ## Tâches
 - Finaliser les détails du serveur
+  - Les images de timeline ne load plus
   - Mettre en place une automatisation des mises à jour (https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html)
   - Finir les redirections qui manquent
     - Apache doit utiliser les .html quand je demande base pour que j'élimine le retrait des extensions
@@ -50,6 +45,12 @@ sudo /etc/init.d/ssh restart
 - [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
 
+sudo nano /root/.ssh/authorized_keys
+  - Delete the lines at the begining of the file until you get to the words ssh-rsa.
+sudo nano /etc/ssh/sshd_config
+  - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
+sudo /etc/init.d/ssh restart
+
 ## Liste de mauvaises idées
 - Avoir une infolettre
 - Écrire des notes de bas de page
@@ -75,3 +76,4 @@ sudo /etc/init.d/ssh restart
 - Utiliser Grid et Flex pour le CSS
 - Me servir de Github
 - Passer à SCSS
+- Avoir un serveur
