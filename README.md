@@ -9,15 +9,17 @@
 
 ## Tâches
 - Finaliser les détails du serveur
-  - Les images de timeline ne load plus
   - Mettre en place une automatisation des mises à jour (https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html)
   - Finir les redirections qui manquent
+    - Les codes d'erreurs doivent tous être couverts (https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#4xx_Client_Error)
     - Apache doit utiliser les .html quand je demande base pour que j'élimine le retrait des extensions
     - Les années présentement controlé par l'extension
     - les / qui doivent retourner à base
   - Trouver une façon de ne plus devoir envoyer tout le site quand je synchronise
     - Si toutes les redirections fonctionnent sous Apache je vais probablement pouvoir utiliser --incremental
   - Bien sélectionner les cache-control de chaque type de fichier dans publish sur Nova
+    - J'ai déjà fait des choix dans le projet avorté de S3_website.yml
+- Developpement ne marche plus
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
