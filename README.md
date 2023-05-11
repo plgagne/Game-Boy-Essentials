@@ -9,12 +9,6 @@
 
 ## Tâches
 - Finaliser les détails du serveur
-  - Mettre en place une automatisation des mises à jour (https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html)
-  - Finir les redirections qui manquent
-    - Les codes d'erreurs doivent tous être couverts (https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#4xx_Client_Error)
-    - Apache doit utiliser les .html quand je demande base pour que j'élimine le retrait des extensions
-    - Les années présentement controlé par l'extension
-    - les / qui doivent retourner à base
   - Trouver une façon de ne plus devoir envoyer tout le site quand je synchronise
     - Si toutes les redirections fonctionnent sous Apache je vais probablement pouvoir utiliser --incremental
   - Bien sélectionner les cache-control de chaque type de fichier dans publish sur Nova
@@ -47,11 +41,18 @@
 - [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
 
+To enable root on EC2 instance:
 sudo nano /root/.ssh/authorized_keys
   - Delete the lines at the begining of the file until you get to the words ssh-rsa.
 sudo nano /etc/ssh/sshd_config
   - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
 sudo /etc/init.d/ssh restart
+
+https://wiki.debian.org/UnattendedUpgrades
+
+To enable mod_rewrite :
+a2enmod rewrite
+systemctl apache2 restart
 
 ## Liste de mauvaises idées
 - Avoir une infolettre
