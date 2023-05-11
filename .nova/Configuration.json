@@ -2,6 +2,7 @@
   "workspace.art_style" : 1,
   "workspace.color" : 3,
   "workspace.name" : "Game Boy Essentials",
+  "workspace.preview_root" : "website\/_site-local",
   "workspace.preview_server_allow_external" : true,
   "workspace.preview_server_port" : 4000
 }
