@@ -2,8 +2,6 @@
 title: "Heroes of Might & Magic"
 description: "Buy, Move, Attack, Rinse, Repeat"
 slug: "cgb-auhe"
-redirect_from:
-  - /2000/cgb-auhe.html
 release-date: "2000-04-01"
 release-year: "2000"
 release-month: "04"

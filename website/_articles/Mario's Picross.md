@@ -2,8 +2,6 @@
 title: "Mario’s Picross"
 description: "Nono"
 slug: "dmg-apce"
-redirect_from:
-  - /1995/dmg-apce.html
 release-date: "1995-03-01"
 release-year: "1995"
 release-month: "03"

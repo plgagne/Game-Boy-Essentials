@@ -2,8 +2,6 @@
 title: "Tetris"
 description: "Ecstasy of Order"
 slug: "dmg-tr"
-redirect_from:
-  - /1989/dmg-tr.html
 release-date: "1989-06-01"
 release-year: "1989"
 release-month: "06"

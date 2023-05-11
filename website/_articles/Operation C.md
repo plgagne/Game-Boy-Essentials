@@ -2,8 +2,6 @@
 title: "Operation C"
 description: "Baby Contra"
 slug: "dmg-cn"
-redirect_from:
-  - /1991/dmg-cn.html
 release-date: "1991-01-01"
 release-year: "1991"
 release-month: "01"

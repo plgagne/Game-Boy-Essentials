@@ -2,8 +2,6 @@
 title: "The Bugs Bunny Crazy Castle"
 description: "Crazy Stupid Love"
 slug: "dmg-bb"
-redirect_from:
-  - /1989/dmg-bb.html
 release-date: "1989-09-01"
 release-year: "1989"
 release-month: "09"

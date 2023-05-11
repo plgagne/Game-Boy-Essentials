@@ -2,8 +2,6 @@
 title: "Yars’ Revenge"
 description: "A One-man Show From a Different Age"
 slug: "dmg-ayve"
-redirect_from:
-  - /1999/dmg-ayve.html
 release-date: "1999-09-01"
 release-year: "1999"
 release-month: "09"

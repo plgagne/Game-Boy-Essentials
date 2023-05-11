@@ -2,8 +2,6 @@
 title: "The Final Fantasy Legend"
 description: "A Tale of Two Printings"
 slug: "dmg-sa"
-redirect_from:
-  - /1989/dmg-sa.html
 release-date: "1989-09-01"
 release-year: "1989"
 release-month: "09"

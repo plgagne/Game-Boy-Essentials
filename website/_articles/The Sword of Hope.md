@@ -2,8 +2,6 @@
 title: "The Sword of Hope"
 description: "IAKESOCMEK"
 slug: "dmg-se"
-redirect_from:
-  - /1989/dmg-se.html
 release-date: "1989-12-01"
 release-year: "1989"
 release-month: "12"

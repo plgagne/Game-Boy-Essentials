@@ -2,8 +2,6 @@
 title: "Metroid II: Return of Samus"
 description: "SR-388 Travelogue"
 slug: "dmg-me"
-redirect_from:
-  - /1991/dmg-me.html
 release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"

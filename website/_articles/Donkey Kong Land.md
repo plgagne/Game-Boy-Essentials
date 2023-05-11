@@ -2,8 +2,6 @@
 title: "Donkey Kong Land"
 description: "Monkeying Around"
 slug: "dmg-yt"
-redirect_from:
-  - /1995/dmg-yt.html
 release-date: "1995-06-01"
 release-year: "1995"
 release-month: "06"

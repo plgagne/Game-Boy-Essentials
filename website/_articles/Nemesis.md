@@ -2,8 +2,6 @@
 title: "Nemesis"
 description: "Mastery at an Early Age"
 slug: "dmg-nm"
-redirect_from:
-  - /1990/dmg-nm.html
 release-date: "1990-02-01"
 release-year: "1990"
 release-month: "02"

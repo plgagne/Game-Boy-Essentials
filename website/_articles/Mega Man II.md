@@ -2,8 +2,6 @@
 title: "Mega Man II"
 description: "Another Failed Attempt?"
 slug: "dmg-w2"
-redirect_from:
-  - /1991/dmg-w2.html
 release-date: "1991-11-01"
 release-year: "1991"
 release-month: "11"

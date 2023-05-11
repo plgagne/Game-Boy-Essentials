@@ -2,8 +2,6 @@
 title: "James Bond 007"
 description: "Boy, Game Boy"
 slug: "dmg-aw7e"
-redirect_from:
-  - /1998/dmg-aw7e.html
 release-date: "1998-01-01"
 release-year: "1998"
 release-month: "01"

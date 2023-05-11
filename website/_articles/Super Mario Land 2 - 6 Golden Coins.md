@@ -2,8 +2,6 @@
 title: "Super Mario Land 2: 6 Golden Coins"
 description: "Weird"
 slug: "dmg-mq"
-redirect_from:
-  - /1992/dmg-mq.html
 release-date: "1992-10-01"
 release-year: "1992"
 release-month: "10"

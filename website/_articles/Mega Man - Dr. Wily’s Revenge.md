@@ -2,8 +2,6 @@
 title: "Mega Man: Dr. Wily’s Revenge"
 description: "A First Attempt at the Blue Bomber"
 slug: "dmg-rw"
-redirect_from:
-  - /1991/dmg-rw.html
 release-date: "1991-07-01"
 release-year: "1991"
 release-month: "07"
