@@ -60,8 +60,3 @@ kramdown:
 plugins:
   - jekyll-image-size
   - jekyll-minifier
-  - jekyll-redirect-from
-
-## Redirect-From
-redirect_from:
-  json: false
