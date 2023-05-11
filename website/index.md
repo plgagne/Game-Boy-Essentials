@@ -1,8 +1,6 @@
 ---
 title: "Home"
 slug: "index"
-redirect_from:
-  - /main.html
 layout: "main"
 weight: 1
 ---
