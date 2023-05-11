@@ -1,4 +1,22 @@
-RedirectMatch 301 www.(.*) $1
+# Permettre de ne pas avoir .html ou de finir un URL par /
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [L]
 
+# Vieux liens avant que j'utilise /articles
+RedirectMatch 301 (.*)/1989/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1990/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1991/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1992/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1993/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1995/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1998/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1999/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/2000/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/2001/(.*).html $1/articles/$2
+
+# J'ai changé le nom du fichier timeline pour timelines
 RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
-RedirectMatch 301 (.*)/articles/(.*).html $1/articles/$2
+
+# Fichier de la page d'accueil
+Redirect 301 /main.html /
