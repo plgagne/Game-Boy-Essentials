@@ -8,12 +8,6 @@
 - [CloudFront](d22xncr9jc5j2j.cloudfront.net)
 
 ## Tâches
-- Finaliser les détails du serveur
-  - Trouver une façon de ne plus devoir envoyer tout le site quand je synchronise
-    - Si toutes les redirections fonctionnent sous Apache je vais probablement pouvoir utiliser --incremental
-  - Bien sélectionner les cache-control de chaque type de fichier dans publish sur Nova
-    - J'ai déjà fait des choix dans le projet avorté de S3_website.yml
-- Developpement ne marche plus
 - Produire une automatisation pour faire un ebook
   - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
 
