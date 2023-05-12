@@ -54,8 +54,3 @@ _site-local/
 # Book Binding & Timeline #
 ######################
 temp/
-
-# BackstopJS #
-######################
-html_report/
-bitmaps_test/
