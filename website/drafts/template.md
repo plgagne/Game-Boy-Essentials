@@ -4,7 +4,6 @@ description: "Article Title"
 slug: "template"
 release-year: "year of earliest release"
 release-month: "month of earliest release"
-publication-order:
 publication: "date of website publication"
 tags: [book#]
 developers: "Developers"
