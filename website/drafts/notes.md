@@ -2,19 +2,6 @@
 id: "notes"
 title: "Notes"
 ---
-# A Quick History of the DX and Deluxe Naming Scheme
-When the NES came out nationwide after its test release, two versions were available. First there was the Control Deck which came with two controllers and *Super Mario Bros.*. Second was the Deluxe Set which included a cornuccopia of accessories. You got R.O.B., *Gyromite*, a grey Zapper gun, *Duck Hunt*, and two controllers. This was Nintendo of America's first use of the word deluxe. Here, it denoted the *most expensive* version of their console. Note that it did not include *Super Mario Bros.*, which quickly made it unattractive to prospective buyers and was fairly quickly retired.
-
-The word stayed dormant with Nintendo until the 1998 release of *Tetris DX*. Here, the word is reduced to two letters and gains a new meaning. It now denotes an enhanced version. Other games soon followed, *The Legend of Zelda: Link's Awakening DX* and *R-Type DX*, always implying an improved colour version of a classic Game Boy title. The full unshortened word returns with *Super Mario Bros. Deluxe*, a new version of the original NES *Super Mario Bros.* chock-full of features. Perhaps there was an attempt at a differentiation between DX and Deluxe, with DX reserved for Game Boy games and Deluxe for TV console titles. We can't know for sure, since we have only one example.
-
-Nevertheless, both words stayed unused once again until more than a decade later, with the 2012 release of *Freakyforms Deluxe: Your Creations, Alive!* for 3DS. Using a similar golden sheen for the word Deluxe, the game is not a sequel of the original per se, since it includes everything from the first title. The word was used to denote an improved version of the original *Freakyforms*.
-
-The Wii U had two versions avaiable upon release: the Basic Set and the Deluxe Set, this being the last use of the word Deluxe by Nintendo to indicate the *most expensive* version of a console. The Deluxe Set's console was black and had a larger 32GB internal SSD, came with *Nintendo Land*, a gamepad charging stand, a console stand, and a 10% return on digital purchases for a year. Later sets including different packed-in games featured the Deluxe word, with the unfortunate *Mario Kart 8* Deluxe Set clashing with the later release of the seminal karting title. The Switch would later see the word Deluxe used for the *Monster Hunter Rise* Deluxe set, but I believe the set used this name due to the Deluxe Kit DLC for *Monster Hunter Rise* being included with the system's purchase. This closes the book on Nintendo using Deluxe for consoles.
-
-On the software front, *Kirby Triple Deluxe* once again used the word Deluxe to denote an improved version of an original title upon its release in 2014. We have a new era of Deluxe titles starting in 2017, with *Team Kirby Clash Deluxe*, *Mario Kart 8 Deluxe* and *Pokken Tournament DX*. The Pokémon Company seems to be enamored with the DX letters, using it with the aforementioned Pokken and *Pokémon Mystery Dungeon: Rescue Team DX* in 2020. We saw further Deluxe titles with *New Super Mario Bros. U Deluxe* and *Layton's Mystery Journey Deluxe Edition* in 2019, *Pikmin 3 Deluxe* in 2020 and *Kirby's Return to Dream Land Deluxe* in 2023. Of note, *Donkey Kong Contry: Tropical Freeze* in 2018 did not feature the Deluxe wording, even though it's a port of a Wii U title with added features, like all the other Switch Deluxe games.
-
-Digging through history, I think this nomenclature was defined all the way back with *Space Invaders Deluxe* in 1979, which released in Japan as *Space Invaders Part II*. Coupled with *Asteroids Deluxe* releasing a couple of years later, those two tiltes cemented the marketing idea of an improved version of a game called a deluxe version. Even though those two games can be seen as sequels, they both add features to the original gameplay and really embody this idea of a deluxe version of a game featuring new twists on an older game.
-
 # Pokemon Yellow
 the game is the lynchpin of the whole situation with the Gane Boy in the late 90s. Nintendo had abandoned Project Atlantis, it was too expensive and power-hungry, and had moved on to the Game Boy Color. In part, they skated where the puck was: their succesful competitors were not making overtly powerful consoles, they were making cheap little things.
 
@@ -221,18 +208,6 @@ You feel like It breaks the barrier of reality. It’s hard to understand what i
 There is no *canonical big Japanese RPG* on Game Boy. On SNES you have Final Fantasy IV, on NES you have Final Fantasy or Dragon Warrior, on Sega systems you had Phatasy Star.
 
 Big games with meaty stories, long playtime and relatively tame design systems. All RPGs on Game Boy have something incredibly weird about them. Great Greed fits right into this grand tradition.
-
-# Link's Awakening DX
-
-My cousin was asking me to open up the game for him. Why ? Because it's convoluted.
-
-Straw millionaire quest being mandatory
-The powder used for talon
-Etc.
-
-Thinking about my last article got me thinking way more about how difficult it truly is.
-
-The game was lent to me and then I played it on a DMG. Then I bought a Color after giving the game back. Then I waited more than a decade before buying DX and finally, finally going to the secret colour dungeon. Let me tell you: it is hella underwhelming.
 
 # Mega Man IV
 
