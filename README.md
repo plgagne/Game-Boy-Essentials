@@ -3,9 +3,9 @@
 
 ## URLs
 - [Github Pages](https://plgagne.github.io/Game-Boy-Essentials/)
-- [Server iPv4](54.204.100.238)
-- [Server DNS](ec2-54-204-100-238.compute-1.amazonaws.com)
-- [CloudFront](d22xncr9jc5j2j.cloudfront.net)
+- [Serveur IPv4](http://54.204.100.238)
+- [Serveur URL](http://ec2-54-204-100-238.compute-1.amazonaws.com)
+- [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
 
 ## Tâches
 - Produire une automatisation pour faire un ebook

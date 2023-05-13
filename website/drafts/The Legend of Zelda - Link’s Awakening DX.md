@@ -21,7 +21,7 @@ developers: "Nintendo EAD"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-I already wrote a long article about *Link's Awakening*.
+I already wrote a long article about *Link's Awakening*. Why the hell am I writing about the game once again? 
 
 This is an article more about a moment than a game.
 
@@ -50,3 +50,4 @@ Thinking about my last article got me thinking way more about how difficult it t
 The game was lent to me and then I played it on a DMG. Then I bought a Color after giving the game back Then I waited more than a decade before buying DX for myself and finally going to the secret colour dungeon. Let me tell you: it is hella underwhelming.
 
 ## A Switch remake with a terrible framerate
+*Link's Awakening*, obtuse puzzles with inscrutable solutions notwithstanding, has a great reputation. Its atmosphere, level of detail, 
