@@ -4,12 +4,14 @@
 ## URLs
 - [Github Pages](https://plgagne.github.io/Game-Boy-Essentials/)
 - [Serveur IPv4](http://54.204.100.238)
+- [Serveur IPv6](http://2600:1f10:4ec1:a200:833c:772f:ed3b:9a67)
 - [Serveur URL](http://ec2-54-204-100-238.compute-1.amazonaws.com)
 - [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
 
 ## Tâches
-- Produire une automatisation pour faire un ebook
-  - Créer une façon d'avoir mes articles en html de la bonne structure pour Pandoc
+- Spécifier les cache-control au niveau d'Apache
+- Implanter une façon d'avoir une adresse pour le site ET une distribution Cloudfront (investiguer le multidomaine de Apache?) parce que la en ce moment toute frappe direct sur le serveur
+
 
 ## Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
@@ -48,6 +50,8 @@ To enable mod_rewrite :
 a2enmod rewrite
 systemctl apache2 restart
 
+https://certbot.eff.org/instructions?ws=apache&os=debianbuster
+
 ## Liste de mauvaises idées
 - Avoir une infolettre
 - Écrire des notes de bas de page
@@ -65,6 +69,10 @@ systemctl apache2 restart
   - Leurs données sont moins complètes que GameFAQs.
 - Conserver des données avec YAML
   - JSON diminue en deux le temps de construction.
+- Créer un eBook
+  - Le livre aurait besoin de presque autant de CSS que le site web
+  - Les images nécessitent un CSS unique puisque leur résolution est trop petite.
+  - Tu n'as aucune idée des attentes du lecteur puisque tu n'as pas de liseuse.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
