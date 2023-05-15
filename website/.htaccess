@@ -1,14 +1,14 @@
 # Vieux liens avant que j'utilise /articles
-RedirectMatch 301 (.*)/1989/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1990/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1991/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1992/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1993/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1995/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1998/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1999/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/2000/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/2001/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1989/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1990/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1991/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1992/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1993/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1995/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1998/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1999/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/2000/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/2001/(.*) $1/articles/$2
 
 # J'ai changé le nom du fichier timeline pour timelines
 RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
