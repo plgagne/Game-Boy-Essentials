@@ -9,8 +9,10 @@
 - [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
 
 ## Tâches
-- Spécifier les cache-control au niveau d'Apache
-- Implanter une façon d'avoir une adresse pour le site ET une distribution Cloudfront (investiguer le multidomaine de Apache?) parce que la en ce moment toute frappe direct sur le serveur
+- Spécifier les cache-control au niveau d'Apache et non sur Nova parce que ça pas l'air de marcher
+- Implanter une façon d'avoir une adresse pour le site ET une distribution Cloudfront parce que la en ce moment toute frappe direct sur le serveur
+  - investiguer le multidomaine de Apache?
+  - http://ec2-54-204-100-238.compute-1.amazonaws.com roule encore. Si Apache sert gameboyessentials.com mais Cloudfront fetch de amazonaws.com est-ce que c'est une option?
 
 ## Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
