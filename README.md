@@ -12,7 +12,6 @@
 - Spécifier les cache-control au niveau d'Apache
 - Implanter une façon d'avoir une adresse pour le site ET une distribution Cloudfront (investiguer le multidomaine de Apache?) parce que la en ce moment toute frappe direct sur le serveur
 
-
 ## Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
