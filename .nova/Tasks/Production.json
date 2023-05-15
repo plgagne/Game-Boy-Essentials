@@ -6,7 +6,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id E2D1OXPUZ47PTX \\\n  --paths \"\/*\""
+      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id E35024I0VYNSE2 \\\n  --paths \"\/*\""
     }
   },
   "openLogOnRun" : "start"
