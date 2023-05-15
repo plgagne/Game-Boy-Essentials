@@ -1,22 +1,29 @@
-# Permettre de ne pas avoir .html ou de finir un URL par /
 RewriteEngine on
+RewriteBase /
+RewriteRule ^(.+)/$  /$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [L]
 
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
 # Vieux liens avant que j'utilise /articles
-RedirectMatch 301 (.*)/1989/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1990/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1991/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1992/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1993/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1995/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1998/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/1999/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/2000/(.*).html $1/articles/$2
-RedirectMatch 301 (.*)/2001/(.*).html $1/articles/$2
+RedirectMatch 301 (.*)/1989/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1990/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1991/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1992/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1993/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1995/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1998/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/1999/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/2000/(.*) $1/articles/$2
+RedirectMatch 301 (.*)/2001/(.*) $1/articles/$2
 
 # J'ai changé le nom du fichier timeline pour timelines
 RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
 
 # Fichier de la page d'accueil
-Redirect 301 /main.html /
+Redirect 301 /main /
