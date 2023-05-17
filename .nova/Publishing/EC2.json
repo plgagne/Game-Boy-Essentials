@@ -2,6 +2,7 @@
   "identifier" : "30EB6702-1DF8-4AC3-8B08-C62CB88BFFE2",
   "localPath" : "website\/_site",
   "remotePath" : "\/var\/www\/gameboyessentials",
+  "remoteURL" : "http:\/\/ec2-54-204-100-238.compute-1.amazonaws.com",
   "server" : "EC2",
   "usesPublishing" : true
 }
