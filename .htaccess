@@ -16,6 +16,7 @@ RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
 # Fichier de la page d'accueil
 Redirect 301 /main.html /
 
+# Permettre de visionner sans / et sans .html
 RewriteEngine on
 RewriteBase /
 RewriteRule ^(.+)/$  /$1 [R=301,L]
