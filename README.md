@@ -1,22 +1,14 @@
 # Game Boy Essentials
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
-## URLs
-- [Github Pages](https://plgagne.github.io/Game-Boy-Essentials/)
-- [Serveur IPv4](http://54.204.100.238)
-- [Serveur IPv6](http://2600:1f10:4ec1:a200:833c:772f:ed3b:9a67)
-- [Serveur URL](http://ec2-54-204-100-238.compute-1.amazonaws.com)
-- [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
-
 ## Tâches
-
-## Ligne du temps
+### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
 - Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 
-## Long terme
+### Long terme
 - Simplifier la structure des images de timeline
   - ensuite, ajouter des images non-disponible
 - Jouer à https://taylormccue.itch.io/trauma
@@ -33,21 +25,6 @@
 - [ ] Bâtir et synchronizer sur S3 avec la tâche Production
 - [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
-
-To enable root on EC2 instance:
-sudo nano /root/.ssh/authorized_keys
-  - Delete the lines at the begining of the file until you get to the words ssh-rsa.
-sudo nano /etc/ssh/sshd_config
-  - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
-sudo /etc/init.d/ssh restart
-
-https://wiki.debian.org/UnattendedUpgrades
-
-To enable mod_rewrite :
-a2enmod rewrite
-systemctl apache2 restart
-
-https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 
 ## Liste de mauvaises idées
 - Avoir une infolettre
