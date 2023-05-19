@@ -36,6 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+# Keys #
+######################
+*.pem
+
 # VS Code #
 ######################
 .vscode/
