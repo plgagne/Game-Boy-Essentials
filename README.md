@@ -44,7 +44,7 @@
 - Conserver des données avec YAML
   - JSON diminue en deux le temps de construction.
 - Créer un eBook
-  - Le livre aurait besoin de presque autant de CSS que le site web
+  - Le livre aurait besoin de presque autant de CSS que le site web.
   - Les images nécessitent un CSS unique puisque leur résolution est trop petite.
   - Tu n'as aucune idée des attentes du lecteur puisque tu n'as pas de liseuse.
 

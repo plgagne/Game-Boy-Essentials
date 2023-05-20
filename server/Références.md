@@ -19,7 +19,7 @@ To set up auto-upgrade:
 https://wiki.debian.org/UnattendedUpgrades
 
 To set-up auto-reboot:
-TO DO
+TO DO AFTER I CONFIRM EMAILING WORKS
 
 To send external mail using external mail service:
 https://community.spiceworks.com/how_to/180401-send-mail-by-using-an-external-smtp-server-in-debian-10-buster-and-11-bullseye
@@ -30,3 +30,6 @@ systemctl apache2 restart
 
 To install https on Apache:
 https://certbot.eff.org/instructions?ws=apache&os=debianbuster
+
+To change hostname:
+https://linuxhandbook.com/debian-change-hostname/
