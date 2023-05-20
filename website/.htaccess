@@ -13,9 +13,6 @@ RedirectMatch 301 (.*)/2001/(.*) $1/articles/$2
 # J'ai changé le nom du fichier timeline pour timelines
 RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
 
-# Fichier de la page d'accueil
-Redirect 301 /main.html /
-
 # Permettre de visionner sans / et sans .html
 RewriteEngine on
 RewriteBase /
@@ -33,7 +30,7 @@ RewriteRule ^ %{REQUEST_URI}.html [NC,L]
     <FilesMatch ".(ico|pdf|jpg|jpeg|png|gif|mp4|mp3|svg)$">
       Header set Cache-Control "max-age=36000, public"
     </FilesMatch>
-    <FilesMatch ".(css|webmanifest)$">
+    <FilesMatch ".(css|webmanifest|html)$">
       Header set Cache-Control "max-age=3600, public"
     </FilesMatch>
 </ifModule>
