@@ -10,5 +10,7 @@
   "workspace.name" : "Game Boy Essentials",
   "workspace.preview_root" : "website\/_site-local",
   "workspace.preview_server_allow_external" : true,
-  "workspace.preview_server_port" : 4000
+  "workspace.preview_server_port" : 4000,
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/ec2-54-204-100-238.compute-1.amazonaws.com"
 }
