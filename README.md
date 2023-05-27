@@ -4,6 +4,7 @@
 ## Tâches
 
 - Les rewrite envoient au url de ec2. Je dois trouver un moyen de forcer le bon site.
+  - https://htaccess.madewithlove.com/
 
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
