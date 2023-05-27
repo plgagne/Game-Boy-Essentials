@@ -2,8 +2,6 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-Aller voir si jai du courrier sur pe serveur. 
-
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
