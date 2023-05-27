@@ -15,14 +15,14 @@ cd timeline
 # Copy Backup
 if [ -r "temp" ]; then
   echo "${RED}Temporary timeline folder is present at timeline/temp. Delete to recreate."
-else 
+else
   echo "${RED}Copying temporary timeline data ..."
   mkdir "temp"
   cp -R  "$backup_location"/* "temp"
   echo "${RED}Done copying."
 fi
 
-# Make resized images 
+# Make resized images
 if [ -r "${website_location}/assets/timeline/a" ]; then
   echo "${RED}Resized images exist."
 else
@@ -96,4 +96,4 @@ cat "results/timeline-releases-only.yml" | yj | jsonlint -s | cat > "results/tim
 
 # Move releases-only to _data folder
 echo "${RED}Moving releases only file to _data folder ..."
-cp "results/timeline-releases-only.json" "${website_location}/_data/timeline-releases-only.json"
+cp "results/timeline-releases-only.json" "${website_location}/_data/timeline-releases-only-new.json"
