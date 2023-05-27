@@ -52,5 +52,7 @@ The game was lent to me and then I played it on a DMG. Then I bought a Color aft
 the camera thing was using the printer for an attempt at something good.
 the idea you need the tool hidden in the dungeon to complete the dungeon came from this game. Link to the Past does not require its hidden tool for every dungeon, only some.
 
+kirby is in the game, yoshi.
+
 ## A Switch remake with a terrible framerate
 *Link's Awakening*, obtuse puzzles with inscrutable solutions notwithstanding, has a great reputation. Its atmosphere, level of detail,
