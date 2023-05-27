@@ -2,6 +2,9 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+
+- Les rewrite envoient au url de ec2. Je dois trouver un moyen de forcer le bon site.
+
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
