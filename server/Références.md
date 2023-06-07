@@ -35,9 +35,3 @@ https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 To change hostname:
 https://linuxhandbook.com/debian-change-hostname/
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html
-
-Moving to nginx (si ça marche):
-- changer de façon permanente le hostname
-- enlever apache
-- enlever certbot
-- redémarrer le serveur
