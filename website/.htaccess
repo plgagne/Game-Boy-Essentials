@@ -13,22 +13,9 @@ RedirectMatch 301 (.*)/2001/(.*) $1/articles/$2
 # J'ai changé le nom du fichier timeline pour timelines
 RedirectMatch 301 (.*)/timeline/(.*) $1/timelines/$2
 
-<<<<<<< HEAD
 RewriteEngine On
 # redirige un URL qui se termine par / vers un URL qui ne le contient pas
 RewriteRule ^(.+)/$  /$1 [R=301,L,NE]
-=======
-# Permettre de visionner sans / et sans .html
-RewriteEngine on
-RewriteBase /
-
-# Idée potentiel
-# RewriteBase https://gameboyessentials.com/
-
-RewriteRule ^(.+)/$  /$1 [R=301,L]
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [L]
->>>>>>> main
 
 # Redirige .html vers aucune extension
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+(.+?)\.html[\s?] [NC]
