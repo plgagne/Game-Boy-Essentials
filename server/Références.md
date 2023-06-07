@@ -30,7 +30,7 @@ To send external mail using external mail service:
 https://community.spiceworks.com/how_to/180401-send-mail-by-using-an-external-smtp-server-in-debian-10-buster-and-11-bullseye
 
 To install https:
-https://certbot.eff.org/instructions?ws=apache&os=debianbuster
+https://certbot.eff.org/
 
 To change hostname:
 https://linuxhandbook.com/debian-change-hostname/
