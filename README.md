@@ -2,6 +2,7 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+<<<<<<< HEAD
 - Implanter des redirect qui marche
   - starter un serveur test cloné du serveur actuel FAIT
   - tester et régler le problème sur le serveur test ÉCHEC
@@ -15,6 +16,11 @@
   - Faire le redirect de www vers non-www dans Cloudfront
     - https://medium.com/@chrispointon/redirecting-non-www-to-www-website-in-aws-cloudfront-658d97764b42
 
+=======
+
+- Les rewrite envoient au url de ec2. Je dois trouver un moyen de forcer le bon site.
+  - https://htaccess.madewithlove.com/
+>>>>>>> main
 
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
