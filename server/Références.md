@@ -7,12 +7,17 @@
 - [Serveur URL](http://ec2-54-204-100-238.compute-1.amazonaws.com)
 - [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
 
+## URLs du serveur test temporaire
+
+
 ## Tâches faites
 To enable root on EC2 instance:
-sudo nano /root/.ssh/authorized_keys
-  - Delete the lines at the begining of the file until you get to the words ssh-rsa.
+sudo vi /root/.ssh/authorized_keys
+  - enter edit with q
+  - Delete the text at the begining of the file until you get to the words ssh-rsa.
+  - esc then :x to save & exit
 sudo nano /etc/ssh/sshd_config
-  - Set the variable PermitRootLogin to PermitRootLogin prohibit-password (without quotes)
+  - Make sure PermitRootLogin is set to prohibit-password
 sudo /etc/init.d/ssh restart
 
 To set up auto-upgrade:
@@ -24,12 +29,15 @@ TO DO AFTER I CONFIRM EMAILING WORKS
 To send external mail using external mail service:
 https://community.spiceworks.com/how_to/180401-send-mail-by-using-an-external-smtp-server-in-debian-10-buster-and-11-bullseye
 
-To enable mod_rewrite:
-a2enmod headers
-systemctl apache2 restart
-
-To install https on Apache:
+To install https:
 https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 
 To change hostname:
 https://linuxhandbook.com/debian-change-hostname/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html
+
+Moving to nginx (si ça marche):
+- changer de façon permanente le hostname
+- enlever apache
+- enlever certbot
+- redémarrer le serveur

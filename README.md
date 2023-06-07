@@ -2,6 +2,20 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
+- Implanter des redirect qui marche
+  - starter un serveur test cloné du serveur actuel FAIT
+  - tester et régler le problème sur le serveur test ÉCHEC
+  - essayer avec NGINX au lieu d'Apache
+    - enlever Apache FAIT
+    - Installer nginx FAIT
+    - configurer et démarrer nginx FAIT
+    - Trouver comment rediriger about/ vers about FAIT
+    - Tester sur Cloudfront pour voir que les redirections fonctionnent là aussi
+  - installer certbot pour avoir https sur le serveur pour Cloudfront
+  - Faire le redirect de www vers non-www dans Cloudfront
+    - https://medium.com/@chrispointon/redirecting-non-www-to-www-website-in-aws-cloudfront-658d97764b42
+
+
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
