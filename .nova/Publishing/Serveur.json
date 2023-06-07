@@ -3,6 +3,6 @@
   "localPath" : "website\/_site",
   "remotePath" : "\/var\/www\/gameboyessentials",
   "remoteURL" : "http:\/\/ec2-54-204-100-238.compute-1.amazonaws.com",
-  "server" : "EC2",
+  "server" : "GBE Production",
   "usesPublishing" : true
 }
