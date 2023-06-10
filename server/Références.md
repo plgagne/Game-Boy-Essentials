@@ -30,11 +30,7 @@ To setup NGINX:
 https://docs.nginx.com/nginx/admin-guide/web-server/web-server/
 
 To install https:
-<<<<<<< HEAD
-https://certbot.eff.org/instructions
-=======
 https://certbot.eff.org/
->>>>>>> main
 
 To change hostname:
 https://linuxhandbook.com/debian-change-hostname/
