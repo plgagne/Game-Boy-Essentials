@@ -7,9 +7,6 @@
 - [Serveur URL](http://ec2-54-204-100-238.compute-1.amazonaws.com)
 - [CloudFront](https://d22xncr9jc5j2j.cloudfront.net)
 
-## URLs du serveur test temporaire
-
-
 ## Tâches faites
 To enable root on EC2 instance:
 sudo vi /root/.ssh/authorized_keys
@@ -29,9 +26,15 @@ TO DO AFTER I CONFIRM EMAILING WORKS
 To send external mail using external mail service:
 https://community.spiceworks.com/how_to/180401-send-mail-by-using-an-external-smtp-server-in-debian-10-buster-and-11-bullseye
 
+To setup NGINX:
+https://docs.nginx.com/nginx/admin-guide/web-server/web-server/
+
 To install https:
-https://certbot.eff.org/instructions?ws=apache&os=debianbuster
+https://certbot.eff.org/instructions
 
 To change hostname:
 https://linuxhandbook.com/debian-change-hostname/
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-hostname.html
+
+To redirect www to base on CloudFront:
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/functions-tutorial.html
