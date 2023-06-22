@@ -9,10 +9,7 @@
 
 ## Tâches faites
 To enable root on EC2 instance:
-sudo vi /root/.ssh/authorized_keys
-  - enter edit with q
-  - Delete the text at the begining of the file until you get to the words ssh-rsa.
-  - esc then :x to save & exit
+sudo nano /root/.ssh/authorized_keys
 sudo nano /etc/ssh/sshd_config
   - Make sure PermitRootLogin is set to prohibit-password
 sudo /etc/init.d/ssh restart
