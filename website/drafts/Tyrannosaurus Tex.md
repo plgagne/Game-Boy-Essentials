@@ -12,3 +12,5 @@ As we have previously discussed time and time again, by 2001, there was this sma
 - *Dragon's Lair* is a reasonable attempt to bring the animated game to Game Boy Color. Ultimately it's very impressive if flawed.
 
 Those games, even the unreleased ones, are magical
+
+The company making it has an insane history.
