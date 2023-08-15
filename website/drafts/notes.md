@@ -53,6 +53,10 @@ The story goes that Yokoi, having bet a lot of time and effort on this failure f
 
 # Game & Watch Gallery 2
 
+I adore *Game & Watch Gallery 2*. I've played it exclusively during the summer, for when I was a kid because my cousins had it and they would lend it to me during our summers in our respective camping trailers. Since I didn't own it, I didn't have the manual to **try** and make sense of what I was playing.
+
+
+
 What to cover:
 
 - The very faint outline of the other sprites, who are way too dark on GBA and DS.
