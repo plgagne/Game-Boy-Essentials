@@ -53,7 +53,12 @@ The story goes that Yokoi, having bet a lot of time and effort on this failure f
 
 # Game & Watch Gallery 2
 
-I adore *Game & Watch Gallery 2*. I've played it exclusively during the summer, for when I was a kid because my cousins had it and they would lend it to me during our summers in our respective camping trailers. Since I didn't own it, I didn't have the manual to **try** and make sense of what I was playing.
+I adore *Game & Watch Gallery 2*. I've played it exclusively during the summer of 1999 and 2000, for when I was a kid because my cousins had it and they would lend it to me during those long summers in our respective camping trailers. I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and especially from a far too remote region to have ever seen one. So in my mind, *Game & Watch Gallery 2* was a minigame collection. I never managed to figure out why each game had a classic mode that used extremely simple graphics. I could not firgure out why the movement was so choppy in the classic mode.
+
+Only after getting better at English and reading the messages from the hints section did I figure out that Game & Watch were older games.
+
+
+Since I didn't own it, I didn't have the manual to **try** and make sense of what I was playing.
 
 
 
