@@ -43,13 +43,13 @@ Back in the early ’90s, Elorg, the original owner of *Tetris*’ copyright, is
 You might wonder why Henk Rogers has the exclusive console licence to *Tetris* in Japan, and Japan only? His genius dealmaking is responsible and if you have the time I would recommend watching the hour-long documentary *Tetris: From Russia With Love* from the BBC (it’s free on YouTube, don’t tell anyone!). You will learn the convoluted story that led us there. Let me try to give the short version:
 
 - Robert Stein, a British software publisher, got a loose Tetris licence in 1988 that he sub-licensed to hell and back.
-- Henk Rogers got the console rights for Japan from him, and when Yamauchi Hiroshi, Nintendo’s genius CEO, asked Rogers to get them the worldwide portable console rights, Henk Rogers got fed up with Stein’s stalling and flew to Moscow.
+- Henk Rogers got the console rights for Japan from him, and when Hiroshi Yamauchi, Nintendo’s genius CEO, asked Rogers to get them the worldwide portable console rights, Henk Rogers got fed up with Stein’s stalling and flew to Moscow.
 - He finagled his way to a meeting with Nikoli Belikov, the Elorg employee assigned to the *Tetris* licence. He showed him that Stein had sub-licensed *Tetris* for consoles, while Belikov believed Stein’s licence only covered computers.
 - Belikov then had Stein sign a tighter deal clearly limiting his licence to computers with screens and keyboards. Because Stein was also in Moscow, by happenstance, at the same time.
 - Belikov afterwards hitched his wagon to Henk Rogers. Belikov maintained Rogers’ exclusive Japanese console rights, and gave Bullet-Proof Software portable rights, which was then sub-licensed to Nintendo.
 - Rogers also got Nintendo of America the console rights in North America for good measure.
 
-{% include figure.html type="art" class="float left" figcaption="Alexei Pajitnov, Henk Rogers, and Yamauchi Hiroshi. Credit Henk Rogers." %}
+{% include figure.html type="art" class="float left" figcaption="Alexei Pajitnov, Henk Rogers, and Hiroshi Yamauchi. Credit Henk Rogers." %}
 Henk Rogers made friends with everybody important. He was a personal friend of Hiroshi Yamauchi, probably the only westerner to ever befriend the genius Nintendo CEO renown for his stern personality. Henk Rogers made friends with Tetris creator Alexei Pajitnov and later went into business with him. Without a doubt though, his greatest accomplishment in friendship-making is with Nikoli Belikov. He was the taciturn Soviet technocrat Elorg tasked with reviewing the licensing agreement they had with Robert Stein. They were never chummy, but they were seeing eye-to-eye and trusted one another.
 
 {% include figure.html type="art" class="float right" figcaption="*Faces… Tris III*" %}
