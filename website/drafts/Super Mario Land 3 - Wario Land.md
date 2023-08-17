@@ -28,6 +28,10 @@ In his first video game appearance in *Super Mario Land 2*, Wario had taken over
 
 In that game, Wario's role is very much an analogue of Bluto from the classic Popeye cartoons; Kiyotake has said so himself. He's an evil version of Mario jealous of his success so he stole his private island. Everybody enjoyed Wario's farcical take on Mario so he could fit as the protagonist for the sequel. Changing their protagonist could give them new exciting gameplay opportunities. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could even make fun of them now.
 
+## Playing the Game
+
+*Wario Land: Super Mario Land 3* is so much fun. 
+
 ## Further Reading
 
 An article about [the morals of Super Mario Land 3 on Kill Screen](http://killscreendaily.com/articles/ruthless-capitalism-wario-land-super-mario-3/).
