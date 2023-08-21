@@ -18,9 +18,13 @@ developers: "Nintendo R&D1"
 - Developed by Nintendo R&D1
 
 {% include figure.html type="boxart" figcaption="" %}
+
+## {{ page.description }}
+
+{% include figure.html type="gb" class="float left" %}
 One of the most perplexing thing happened. We had two Mario games in a row and now suddenly Mario is no longer the star of his own games. The villain from his last Game Boy adventure has taken over. He's fat, he's slow, he doesn't jump very high. Yet he's front and centre in this new adventure. How could such a slovenely idiot take over for the world's mos famous plumber? What happened?
 
-It's a big case of *we're not using it cause it's not made here.* We might have this reflex to think that Nintendo is this monolith that does everything together, but the truth is far from that. Very far from that. In the early 90s, Nintendo was divided into different divisions dependent on their own managers. Those divisions had specific responsibilities, but they also did a bit of everything. Wario's relationship within Nintendo is dependent on two divisions: R&D1 managed by Gunpei Yokoi, and EAD managed by Shigeru Miyamoto. R&D1 made the Mario Land games, but Mario was Miyamoto's creation. So there was a kind of internal lending of Mario. This might sound strange, so let me explain. Nintendo's developers have made sure to always ask permission from a creator before using their characters. Let's take Mario's appearance as the referee in *Mike Tyson's Punch-Out*. Genyo Takeda had to ask Miyamoto's permission to use Mario in his game. Nothing formal, no money was exchanged hands; it was just a gentleman's agreement to always ask. 
+It's a big case of *we're not using it cause it's not made here.* We might have this reflex to think that Nintendo is this monolith that does everything together, but the truth is far from that. Very far from that. In the early 90s, Nintendo was divided into different divisions dependent on their own managers. Those divisions had specific responsibilities, but they also did a bit of everything. Wario's relationship within Nintendo is dependent on two divisions: R&D1 managed by Gunpei Yokoi, and EAD managed by Shigeru Miyamoto. R&D1 made the Mario Land games, but Mario was Miyamoto's creation. So there was a kind of internal lending of Mario. This might sound strange, so let me explain. Nintendo's developers have made sure to always ask permission from a creator before using their characters. Let's take Mario's appearance as the referee in *Mike Tyson's Punch-Out*. Genyo Takeda had to ask Miyamoto's permission to use Mario in his game. Nothing formal, no money was exchanged hands; it was just a gentleman's agreement to always ask.
 
 R&D1 thus asked Miyamoto to use Mario in their games. Those developers later explained they felt constrained because they had to make games that felt like a Mario game. Meaning that Miyamoto probably asked them to make a game that felt like a Mario platformer.By the time they were developping the third game, they chose to forego Mario as the protagonist and used their own creation instead, Wario.
 
@@ -28,9 +32,15 @@ In his first video game appearance in *Super Mario Land 2*, Wario had taken over
 
 In that game, Wario's role is very much an analogue of Bluto from the classic Popeye cartoons; Kiyotake has said so himself. He's an evil version of Mario jealous of his success so he stole his private island. Everybody enjoyed Wario's farcical take on Mario so he could fit as the protagonist for the sequel. Changing their protagonist could give them new exciting gameplay opportunities. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could even make fun of them now.
 
+## Controls and sprites
+
+Wario is a big boy
+
 ## Playing the Game
 
-*Wario Land: Super Mario Land 3* is so much fun. 
+*Wario Land: Super Mario Land 3* is much more fun than *Super Mario Land 2*. It's a much longer game, with
+
+can carry items across screens. level memory is kept after one screen.
 
 ## Further Reading
 

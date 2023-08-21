@@ -1,3 +1,5 @@
+# Tyrannosaurus Tex
+
 I promised myself I wouldn't do unreleased games nor unlicensed titles. But for this one game, I must make an exception.
 
 *Tyrannosaurus Tex* is my white whale. Like Moby Dick hunting his nemesis to the ends of the earth, I was sailing on the internet seas forever waiting for the perfect catch. From the moment I first heard of *Tyrannosaurus Tex*, I had to own this game. Because it's a first-person shooter!

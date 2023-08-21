@@ -1,0 +1,2 @@
+# True Lies
+Why are old licensed games based on movies terrible? Those games have to hit a release, no matter what, so it certainly doesn't help. They were also, by virtue of being based on something new, expensive to license. A license like The Terminator must have been expensive to obtain. Those are some of the things that hinder a project even before its begun. But then we come to Game Boy, and *True Lies*. It's a competent game. Nothing extraordinary, but it's actually ok. How come?
