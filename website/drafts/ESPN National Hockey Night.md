@@ -43,13 +43,15 @@ The most involved game of hockey I ever played was *Ice Hockey* for NES and I wa
 
 ## World Ice Hockey
 
-The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to Japan, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*. It's a side-to-side hockey game.
+The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to Japan, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*. It's a top-down hockey game.
+
+It's incredibly barebones and simple. It's making me think of my beloved *Ice Hockey* but not in a good way. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are way too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national ice hockey team can't even play competitively against teams from the Quebec semi-pro league.
 
 ## Blades of Steel
 
-The second game is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any good? Who knows! I sure don't. I played both one after the other to figure out the differences and I
+The second game is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? Who knows! I sure don't. I played both one after the other to figure out the differences and I can't really see anything different. I'm sure there differences but I couldn't find any.
 
-I got into a fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey! *Blades of Steel* is also a side-to-side game.
+In both games I got into a fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey! *Blades of Steel* is a side-to-side game, and it has a strong action-oriented feel.
 
 ## Hit the Ice
 
@@ -64,3 +66,7 @@ Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of
 ## NHL 2000
 ## NHL Blades of Steel 2000
 ## ESPN National Hockey Night
+
+## Conclusion
+
+I want to say thank you to my wife for tolerating me, once again. When I started saying my next article was about hockey, she said *it was cute when it was Mario or Yoshi, but I don't even want to hear you talk about hockey*. Ouf.
