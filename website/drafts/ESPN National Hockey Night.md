@@ -32,7 +32,7 @@ I have no idea what I'm doing. I'm québécois. I'm a bleuet from Lac Saint-Jean
 | *NHL 96* | July 1996 | NA and Europe, by Probe Entertainment | Game Boy |
 | *NHL Blades of Steel* | May 1999 | NA only, by Climax | Game Boy Color only |
 | *NHL 2000* | December 1999 | NA only, by Tiertex Design | Game Boy & Game Boy Color |
-| *NHL Blades of Steel 2000* | January 2000 | NA only, by Konami | Game Boy Color only |
+| *NHL Blades of Steel 2000* | January 2000 | NA only, by CLimax | Game Boy Color only |
 | *ESPN National Hockey Night* | March 2001 | NA only, by Konami | Game Boy Color only |
 
 The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning. It was successful, but developers did not know exactly what to do with the console.
@@ -43,13 +43,13 @@ The most involved game of hockey I ever played was *Ice Hockey* for NES and I wa
 
 ## World Ice Hockey
 
-The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to Japan, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*. It's a top-down hockey game.
+The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to their local market, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*, and could have been successful in North America, the home land of ice hockey.
 
-It's incredibly barebones and simple. It's making me think of my beloved *Ice Hockey* but not in a good way. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are way too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national ice hockey team can't even play competitively against teams from the Quebec semi-pro league.
+The game is an incredibly barebones top-down game. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national team can't even play competitively against teams from the Quebec semi-pro league.
 
 ## Blades of Steel
 
-The second game is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? Who knows! I sure don't. I played both one after the other to figure out the differences and I can't really see anything different. I'm sure there differences but I couldn't find any.
+The second game that came out is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? Who knows! I sure don't. I played both one after the other to figure out the differences and I can't really see anything different. I'm sure there differences but I couldn't find any.
 
 In both games I got into a fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey! *Blades of Steel* is a side-to-side game, and it has a strong action-oriented feel.
 
