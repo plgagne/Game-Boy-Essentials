@@ -35,7 +35,7 @@ I have no idea what I'm doing. I'm québécois. I'm a bleuet from Lac Saint-Jean
 | *NHL Blades of Steel 2000* | January 2000 | NA only, by CLimax | Game Boy Color only |
 | *ESPN National Hockey Night* | March 2001 | NA only, by Konami | Game Boy Color only |
 
-The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning. It was successful, but developers did not know exactly what to do with the console.
+The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning in 1991 and 1992. It was successful, but developers did not know exactly what to do with the console. So they ported, with caveats, their arcade titles.
 
 Then games get more complicated, as the same time as they become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
 
@@ -46,6 +46,8 @@ The most involved game of hockey I ever played was *Ice Hockey* for NES and I wa
 The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to their local market, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*, and could have been successful in North America, the home land of ice hockey.
 
 The game is an incredibly barebones top-down game. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national team can't even play competitively against teams from the Quebec semi-pro league.
+
+It's not a very good start. Japenese players who bought this game must have been disappointed.
 
 ## Blades of Steel
 
@@ -69,4 +71,4 @@ Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of
 
 ## Conclusion
 
-I want to say thank you to my wife for tolerating me, once again. When I started saying my next article was about hockey, she said *it was cute when it was Mario or Yoshi, but I don't even want to hear you talk about hockey*. Ouf.
+I want to say thank you to my wife for tolerating me, once again. When I started saying my next article was about hockey, she said *it was cute when it was Mario or Yoshi, but I don't even want to hear you talk about hockey*. Then she told her friends I was writing about these games, and everybody started lightly making fun of me. This article was brought to you after much social hardship. I suffer for my art playing those dumb hockey games, and then people make fun of me for playing them. Jeez.
