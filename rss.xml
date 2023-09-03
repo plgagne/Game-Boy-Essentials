@@ -3,19 +3,19 @@
 <channel>
   <title>Game Boy Essentials</title>
   <description>A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success.</description>
-  <link>gameboyessentials.com</link>
+  <link>https://gameboyessentials.com</link>
   <image>
-    <url>gameboyessentials.com/apple-touch-icon.png</url>
+    <url>https://gameboyessentials.com/apple-touch-icon.png</url>
     <title>Game Boy Essentials</title>
-    <link>gameboyessentials.com</link>
+    <link>https://gameboyessentials.com</link>
   </image>
-  <atom:link href="gameboyessentials.com/rss.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://gameboyessentials.com/rss.xml" rel="self" type="application/rss+xml" />
   
   
   <item>
     <title>Yoshi’s Cookie</title>
     <pubDate>Sat, 29 Apr 2023 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-ci</link>
+    <link>https://gameboyessentials.com/articles/dmg-ci</link>
     <guid isPermaLink="false">dmg-ci</guid>
     <description>&lt;h1 id=&quot;yoshis-cookie&quot;&gt;Yoshi’s Cookie&lt;/h1&gt;
 
@@ -90,7 +90,7 @@
   <item>
     <title>Tetris Blast</title>
     <pubDate>Sun, 05 Mar 2023 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-ht</link>
+    <link>https://gameboyessentials.com/articles/dmg-ht</link>
     <guid isPermaLink="false">dmg-ht</guid>
     <description>&lt;h1 id=&quot;tetris-blast&quot;&gt;Tetris Blast&lt;/h1&gt;
 
@@ -194,7 +194,7 @@
   <item>
     <title>Game Boy Camera</title>
     <pubDate>Thu, 22 Dec 2022 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/mgb-006</link>
+    <link>https://gameboyessentials.com/articles/mgb-006</link>
     <guid isPermaLink="false">mgb-006</guid>
     <description>&lt;h1 id=&quot;game-boy-camera&quot;&gt;Game Boy Camera&lt;/h1&gt;
 
@@ -352,7 +352,7 @@
   <item>
     <title>Kirby’s Dream Land</title>
     <pubDate>Mon, 28 Nov 2022 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-ky</link>
+    <link>https://gameboyessentials.com/articles/dmg-ky</link>
     <guid isPermaLink="false">dmg-ky</guid>
     <description>&lt;h1 id=&quot;kirbys-dream-land&quot;&gt;Kirby’s Dream Land&lt;/h1&gt;
 
@@ -453,7 +453,7 @@
   <item>
     <title>Mole Mania</title>
     <pubDate>Thu, 11 Aug 2022 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-amoe</link>
+    <link>https://gameboyessentials.com/articles/dmg-amoe</link>
     <guid isPermaLink="false">dmg-amoe</guid>
     <description>&lt;h1 id=&quot;mole-mania&quot;&gt;Mole Mania&lt;/h1&gt;
 
@@ -498,7 +498,7 @@
   <item>
     <title>Pokémon: Red, Green, &amp; Blue</title>
     <pubDate>Mon, 28 Mar 2022 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-apee</link>
+    <link>https://gameboyessentials.com/articles/dmg-apee</link>
     <guid isPermaLink="false">dmg-apee</guid>
     <description>&lt;h1 id=&quot;pokémon-red-green--blue&quot;&gt;Pokémon: Red, Green, &amp;amp; Blue&lt;/h1&gt;
 
@@ -720,7 +720,7 @@
   <item>
     <title>Dragon Warrior III</title>
     <pubDate>Mon, 05 Jul 2021 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/cgb-bd3e</link>
+    <link>https://gameboyessentials.com/articles/cgb-bd3e</link>
     <guid isPermaLink="false">cgb-bd3e</guid>
     <description>&lt;h1 id=&quot;dragon-warrioriii&quot;&gt;Dragon Warrior III&lt;/h1&gt;
 
@@ -803,7 +803,7 @@
   <item>
     <title>Wave Race</title>
     <pubDate>Sat, 16 Jan 2021 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-wa</link>
+    <link>https://gameboyessentials.com/articles/dmg-wa</link>
     <guid isPermaLink="false">dmg-wa</guid>
     <description>&lt;h1 id=&quot;wave-race&quot;&gt;Wave Race&lt;/h1&gt;
 
@@ -862,7 +862,7 @@
   <item>
     <title>Kid Icarus: Of Myth and Monsters</title>
     <pubDate>Thu, 03 Sep 2020 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/dmg-ka</link>
+    <link>https://gameboyessentials.com/articles/dmg-ka</link>
     <guid isPermaLink="false">dmg-ka</guid>
     <description>&lt;h1 id=&quot;kid-icarus-of-myth-and-monsters&quot;&gt;Kid Icarus: Of Myth and Monsters&lt;/h1&gt;
 
@@ -942,7 +942,7 @@
   <item>
     <title>Warlocked</title>
     <pubDate>Sun, 09 Aug 2020 00:00 UTC</pubDate>
-    <link>gameboyessentials.com/articles/cgb-bwle</link>
+    <link>https://gameboyessentials.com/articles/cgb-bwle</link>
     <guid isPermaLink="false">cgb-bwle</guid>
     <description>&lt;h1 id=&quot;warlocked&quot;&gt;Warlocked&lt;/h1&gt;
 

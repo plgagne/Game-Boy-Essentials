@@ -2,17 +2,17 @@
   "version":"https://jsonfeed.org/version/1.1",
   "title": "Game Boy Essentials",
   "description": "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success.",
-  "home_page_url": "gameboyessentials.com",
-  "feed_url": "gameboyessentials.com/feed.json",
-  "icon": "gameboyessentials.com/apple-touch-icon.png",
-  "favicon": "gameboyessentials.com/apple-touch-icon.png",
+  "home_page_url": "https://gameboyessentials.com",
+  "feed_url": "https://gameboyessentials.com/feed.json",
+  "icon": "https://gameboyessentials.com/apple-touch-icon.png",
+  "favicon": "https://gameboyessentials.com/apple-touch-icon.png",
   "items":[
     
     
     {
       "id": "dmg-ci",
       "date_published": "2023-04-29T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-ci",
+      "url": "https://gameboyessentials.com/articles/dmg-ci",
       "title": "Yoshi’s Cookie",
       "image": "/assets/dmg-ci/dmg-ci-start.png",
       "banner-image": "/assets/dmg-ci/dmg-ci-start-social-share-card.png",
@@ -23,7 +23,7 @@
     {
       "id": "dmg-ht",
       "date_published": "2023-03-05T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-ht",
+      "url": "https://gameboyessentials.com/articles/dmg-ht",
       "title": "Tetris Blast",
       "image": "/assets/dmg-ht/dmg-ht-start.png",
       "banner-image": "/assets/dmg-ht/dmg-ht-start-social-share-card.png",
@@ -34,7 +34,7 @@
     {
       "id": "mgb-006",
       "date_published": "2022-12-22T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/mgb-006",
+      "url": "https://gameboyessentials.com/articles/mgb-006",
       "title": "Game Boy Camera",
       "image": "/assets/mgb-006/mgb-006-start.png",
       "banner-image": "/assets/mgb-006/mgb-006-start-social-share-card.png",
@@ -45,7 +45,7 @@
     {
       "id": "dmg-ky",
       "date_published": "2022-11-28T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-ky",
+      "url": "https://gameboyessentials.com/articles/dmg-ky",
       "title": "Kirby’s Dream Land",
       "image": "/assets/dmg-ky/dmg-ky-start.png",
       "banner-image": "/assets/dmg-ky/dmg-ky-start-social-share-card.png",
@@ -56,7 +56,7 @@
     {
       "id": "dmg-amoe",
       "date_published": "2022-08-11T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-amoe",
+      "url": "https://gameboyessentials.com/articles/dmg-amoe",
       "title": "Mole Mania",
       "image": "/assets/dmg-amoe/dmg-amoe-start.png",
       "banner-image": "/assets/dmg-amoe/dmg-amoe-start-social-share-card.png",
@@ -67,7 +67,7 @@
     {
       "id": "dmg-apee",
       "date_published": "2022-03-28T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-apee",
+      "url": "https://gameboyessentials.com/articles/dmg-apee",
       "title": "Pokémon: Red, Green, & Blue",
       "image": "/assets/dmg-apee/dmg-apee-start.png",
       "banner-image": "/assets/dmg-apee/dmg-apee-start-social-share-card.png",
@@ -78,7 +78,7 @@
     {
       "id": "cgb-bd3e",
       "date_published": "2021-07-05T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/cgb-bd3e",
+      "url": "https://gameboyessentials.com/articles/cgb-bd3e",
       "title": "Dragon Warrior III",
       "image": "/assets/cgb-bd3e/cgb-bd3e-start.png",
       "banner-image": "/assets/cgb-bd3e/cgb-bd3e-start-social-share-card.png",
@@ -89,7 +89,7 @@
     {
       "id": "dmg-wa",
       "date_published": "2021-01-16T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-wa",
+      "url": "https://gameboyessentials.com/articles/dmg-wa",
       "title": "Wave Race",
       "image": "/assets/dmg-wa/dmg-wa-start.png",
       "banner-image": "/assets/dmg-wa/dmg-wa-start-social-share-card.png",
@@ -100,7 +100,7 @@
     {
       "id": "dmg-ka",
       "date_published": "2020-09-03T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/dmg-ka",
+      "url": "https://gameboyessentials.com/articles/dmg-ka",
       "title": "Kid Icarus: Of Myth and Monsters",
       "image": "/assets/dmg-ka/dmg-ka-start.png",
       "banner-image": "/assets/dmg-ka/dmg-ka-start-social-share-card.png",
@@ -111,7 +111,7 @@
     {
       "id": "cgb-bwle",
       "date_published": "2020-08-09T00:00:00-05:00",
-      "url": "gameboyessentials.com/articles/cgb-bwle",
+      "url": "https://gameboyessentials.com/articles/cgb-bwle",
       "title": "Warlocked",
       "image": "/assets/cgb-bwle/cgb-bwle-start.png",
       "banner-image": "/assets/cgb-bwle/cgb-bwle-start-social-share-card.png",
