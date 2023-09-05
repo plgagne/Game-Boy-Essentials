@@ -2,8 +2,6 @@
 [![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
 
 ## Tâches
-- créer un sitemap avec https://github.com/jekyll/jekyll-sitemap
-- le donner à Google Search Console et Bing Search Console
 - régler le robots.txt sur github pour exclure tout engin de recherche
 
 ### Ligne du temps
