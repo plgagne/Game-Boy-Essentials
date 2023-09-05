@@ -14,7 +14,7 @@
   {% endif %}
   {% if jekyll.environment == 'local_serve' %}
   {% endif %}
-  <link rel="canonical" href="https://{% if page.slug == 'index' %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}">
+  <link rel="canonical" href="{% if page.slug == 'index' %}{{ site.url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS feed for {{ site.title }}">
   <link rel="alternate" type="application/json" href="/feed.json" title="JSON Feed for {{ site.title }}">
   <link rel="stylesheet" href="/style.css">
