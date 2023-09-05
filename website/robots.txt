@@ -2,5 +2,6 @@
 ---
 User-agent: GPTBot
 Disallow: /
-{% if jekyll.environment == "development" %}User-agent: *
-Disallow: /{% endif %}
+{% if jekyll.environment == "development" %}User-agent: *{% endif %}
+
+{% if jekyll.environment == "development" %}Disallow: /{% endif %}
