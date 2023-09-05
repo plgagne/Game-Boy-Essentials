@@ -32,15 +32,24 @@ I have no idea why I'm doing this. I'm québécois. I'm a bleuet from Lac Saint-
 | *NHL 96* | July 1996 | NA and Europe, by Probe Entertainment | Game Boy |
 | *NHL Blades of Steel* | May 1999 | NA only, by Climax | Game Boy Color only |
 | *NHL 2000* | December 1999 | NA only, by Tiertex Design | Game Boy & Game Boy Color |
-| *NHL Blades of Steel 2000* | January 2000 | NA only, by Konami | Game Boy Color only |
+| *NHL Blades of Steel 2000* | January 2000 | NA only, by CLimax | Game Boy Color only |
 | *ESPN National Hockey Night* | March 2001 | NA only, by Konami | Game Boy Color only |
 
+<<<<<<< HEAD
 So let's jump in.
+=======
+The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning in 1991 and 1992. It was successful, but developers did not know exactly what to do with the console. So they ported, with caveats, their arcade titles.
+
+Then games get more complicated, as the same time as they become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
+
+The most involved game of hockey I ever played was *Ice Hockey* for NES and I wasn't even good.
+>>>>>>> main
 
 ## World Ice Hockey
 
-The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to Japan, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*. It's a top-down hockey game.
+The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game is made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to their local market, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*, and could have been successful in North America, the home land of ice hockey.
 
+<<<<<<< HEAD
 It's incredibly barebones and simple. It's making me think of my beloved *Ice Hockey* but not in a good way. It's got small chubby sprites similair to *Ice Hockey*, but the ice rink is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are way too small, skate super slowly, and the AI is not very competent. Perhaps the AI is ok; I was playing Canada against Japan and that might have had something to do with it. You see, except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national ice hockey team can't even play competitively against low-ranking teams from the Quebec semi-pro league. So the japanese team's stats in *World Ice Hockey* are laughably low.
 
 Anyway, on to the next game.
@@ -50,6 +59,15 @@ Anyway, on to the next game.
 The second game is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. *Blades of Steel* is a side-to-side game, and it has a strong action-oriented feel. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? I played both one after the other to figure out the differences and I can't really see anything different in terms of features. The shots you take at the net are done with a moving arrow, that goes up and down until you take your shot. This is the core idea of both games, and is present in both games. What is different between them is the fluidity. The Game Boy version is much slower, choppier. Unfortunately, this ruins the experience and makes this version of the game terrible. Maybe the developers simply didn't have enough time to replicate its snappy response. Or, as is often the case on Game Boy, the speed of the link cable severely limited their ambitions. Syncing the exact position of 10 characters plus a puck 60 times a second is a tall order for a [one kilobyte a second transfer rate](https://gbdev.gg8.se/wiki/articles/Serial_Data_Transfer_(Link_Cable)).
 
 In both games I got into a proper fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey!
+=======
+The game is an incredibly barebones top-down game. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national team can't even play competitively against teams from the Quebec semi-pro league.
+
+It's not a very good start. Japenese players who bought this game must have been disappointed.
+
+## Blades of Steel
+
+The second game that came out is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? Who knows! I sure don't. I played both one after the other to figure out the differences and I can't really see anything different. I'm sure there differences but I couldn't find any.
+>>>>>>> main
 
 Let's move on to our next title, that's even more focused on fisticuffs.
 
@@ -71,8 +89,12 @@ Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of
 
 ## Conclusion
 
+<<<<<<< HEAD
 The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning. It was successful, and developers did not know exactly what to do with the console so they tried a bunch of stuff.
 
 Then games become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
 
 I want to say thank you to my wife for tolerating me, once again. When I started saying my next article was about hockey, she said *it was cute when it was Mario or Yoshi, but I don't even want to hear you talk about hockey*. Ouf.
+=======
+I want to say thank you to my wife for tolerating me, once again. When I started saying my next article was about hockey, she said *it was cute when it was Mario or Yoshi, but I don't even want to hear you talk about hockey*. Then she told her friends I was writing about these games, and everybody started lightly making fun of me. This article was brought to you after much social hardship. I suffer for my art playing those dumb hockey games, and then people make fun of me for playing them. Jeez.
+>>>>>>> main
