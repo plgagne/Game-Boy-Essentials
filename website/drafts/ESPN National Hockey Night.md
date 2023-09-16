@@ -38,7 +38,7 @@ This article is ostensibly about the last hockey release on the console: 2001's 
 | *ESPN National Hockey Night* | March 2001 | NA only, by Konami | Game Boy Color only |
 
 So let's jump in.
-=======
+
 The history of hockey games on Game Boy is the North American history of the little portable console itself. You have some rinkydink early games, when the console was still burgeoning in 1991 and 1992. It was successful, but developers did not know exactly what to do with the console. So they ported, with caveats, their arcade titles.
 
 Then games get more complicated, as the same time as they become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
@@ -61,25 +61,17 @@ The second game is the Game Boy version of the famous *Blades of Steel*. Release
 
 In both games I got into a proper fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey!
 
-The game is an incredibly barebones top-down game. The ice is ginormous. You're supposed to be playing international hockey, which has a bigger rink but this is way too big. The characters are too small, skate super slowly, and the AI is not very competent. Perhaps me playing Canada against Japan had something to do with it. Except for the fact that japanese developers made these games, Japan has no reason to be in a ice hockey video game. The japanese national team can't even play competitively against teams from the Quebec semi-pro league.
-
-It's not a very good start. Japenese players who bought this game must have been disappointed.
-
-## Blades of Steel
-
-The second game that came out is *Blades of Steel*. Released in late 1991, it came out as *Konamic Ice Hockey* in Japan. The NES version has a reputation as a solid hockey game. Is the Game Boy version any different? Who knows! I sure don't. I played both one after the other to figure out the differences and I can't really see anything different. I'm sure there differences but I couldn't find any.
-
-Let's move on to our next title, that's even more focused on fisticuffs.
-
 ## Hit the Ice
 
-I played the arcade game for a couple of seconds and found an interesting game! It's a two-on-two hockey game more focused on antics than legitimate hockey plays. Basically, it's doing the same thing that NBA Jam ended up doing but it came out three years before the basketball classic. It's even more irreverent than NBA Jam, with fictional players that look like they're rejects from *Toxic Crusaders* and a big focus on punching your opponents. I do not like the art style they went with at all but I can see the amount of time it took to achieve the desired effect and respect it. It made me think of *Clayfighter* a little bit. Not in style or gameplay, but in attitude. Both games are not taking themselves seriously at all, both are very unfocused.
+I played the arcade game for a couple of seconds and found an interesting game! It's a two-on-two hockey game more focused on antics than legitimate hockey plays. Basically, it's doing the same thing as NBA Jam. The crazy thing is *Hit the Ice* came out three years before the classic basketball game. It's even more irreverent than NBA Jam, with fictional players that look like they're rejects from *Toxic Crusaders* and a big focus on punching your opponents. It made me think of *Clayfighter* a little bit. Not in style or gameplay, but in attitude. Both games are not taking themselves seriously at all, both are very unfocused.  I do not like the art style nor the gameplay they went with at all but I can see the amount of time it took to achieve the desired effect and respect it.
 
-The Game Boy version? It's dreadful. *Hit the Ice* for arcades is far from a good game and here you're playing a very poor translation of an already poor game. It's like [Plato's allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). You're stuck playing Game Boy, seeing a poor projection of games that exist as real games outside of Game Boy.
+As for the Game Boy version? It's dreadful. *Hit the Ice* for arcades is far from a good game and here you're playing a very poor translation of an already poor game. It's like [Plato's allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). You're stuck seeing a poor projection of games that exist as lifelike experiences outside of Game Boy.
 
 ## NHL 95
 
-Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. That's when the NHL series, managed by EA Sports.
+Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. I guess that's when the NHL series, managed by EA Sports, hit its highest peaks. It seems even people with no interest in the sport of hockey played the series. So why not try a Game Boy version?
+
+It's
 
 ## NHL 96
 ## NHL Blades of Steel
