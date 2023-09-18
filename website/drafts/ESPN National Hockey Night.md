@@ -1,4 +1,4 @@
-    ---
+---
 title: "ESPN National Hockey Night"
 description: "Best of the Worst"
 slug: "cgb-bt4e"
