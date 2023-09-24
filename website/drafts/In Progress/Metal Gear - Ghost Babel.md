@@ -1,3 +1,8 @@
+Code to enable stage select
+https://gamehacking.org/game/11210
+
+008-BAB-E6E
+798-65A-D57
 ---
 title: "Metal Gear Solid"
 description: ""
@@ -31,15 +36,21 @@ Upon its release outside Japan, the Game Boy Color title discussed here was call
 - i was mesmerized by the game upon its release. i loved everything it did.
 - the music. it's great.
 - it got me interested in stealth games, and got me to buy the game that truly charmed me; *Thief 2: The Metal Age*.
-- The game was developed by Tose.
+- The game was developed by Tose. But all its developers seem to be fully credited on Mobygames (are they credited in the game) compared to a game like [Dragon Warrior III](https://www.mobygames.com/game/138514/dragon-warrior-iii/credits/gameboy-color/)
+- The game was directed by [Shinta Nojiri](https://www.mobygames.com/person/57923/shinta-nojiri/) who went on to also direct the first Metal Gear Acid.
 - They really did a chameleon thing of becoming a great developer. Jeremy Parsih talked about their work in an episode of GBworld
-- It's exciting to play and in my humble opinion more accomplished in terms of gameplay and situations than the Playstation game.
+- It's exciting to play and in my humble opinion more accomplished in terms of gameplay and situations than the Playstation game. It has the benefit of being made after it.
 - Fuck the boxes factory.
+- There is a hidden wreckage of the first Metal Gear robot-thingie [hidden in the last level](https://archive.org/details/metal-gear-solid-ghost-babel-perfect-guide/page/n79/mode/2up).
 
 I've spent my whole formative years watching the dissapointing sequels to classic movies. I've seen *Ghostbusters 2* before the first one. *Alien 3* was my first alien movie. Same thing for *Indiana Jones and the Last Crusade*. *Robocop 2* was my introduction to the best cop in Detroit. My first *Superman* was *Superman IV*. *City Slickers II: The Legend of Curly's Gold* was my first Billy Crystal movie. When I was 15, my parents dropped me off at the cinema to see *Hannibal*, even though I had never seen *Silence of the Lambs*. *Bill and Ted 2* was my only time with William S. Preston Esq. and Ted "Theodore" Logan until I saw the first one in 2020. That sequel is far from disappointing, I actually prefer it. I loved the craziness of *Gremlins 2* before I ever saw the original. On a slightly related note, like most of my friends I saw *Spaceballs* before I saw any *Star Wars* movie. I have to say the transformation of *Spaceball One* into *Mega Maid* was more surprising than any special effects in the first three *Star Wars*.
 
-Which brings us to *Metal Gear: Ghost Babel*. Back in the late 90s I did not have a Playstation and I wanted to play *Metal Gear Solid*. I was supremely interested; there was this video game that was as good as a movie!
+Which brings us to *Metal Gear: Ghost Babel*. Back in the late 90s I did not have a Playstation but still wanted to play *Metal Gear Solid*. I was supremely interested; there was this video game that was supposedly as good as a movie! When Konami announced an upcoming *Metal Gear* game for Game Boy Color, I was immediately interested. Initial images were very promising.
 
-When Konami announced a *Metal Gear* game for Game Boy Color, I was immediately interested. I bought it, and thus my first experience with Solid Snake was the Game Boy game. I later played *Metal Gear Solid* when I bought a copy of its PC port.
+{% include figure.html type="gb" figcaption="An example of some early images" %}
+
+The people at Konami were not proposing strange gameplay mechanics that had very little to do with *Metal Gear Solid* (that would come [later](https://en.wikipedia.org/wiki/Metal_Gear_Acid)) they were making a legitimate, portable *Metal Gear* title. It even had a story told through cutscenes and CODEC conversations and everything! Of course with hindsight I know that the team was making a game based on their older MSX2 titles, particularly *Metal Gear 2: Solid Snake*. Similarly to how they brought the gameplay of *Metal Gear 2* to 3D with the Playstation game, they would now bring the gameplay of *Metal Gear 2* to the Game Boy Color.
+
+I bought it, and thus my first experience with Solid Snake was the Game Boy game. I later played *Metal Gear Solid* when I bought a copy of its PC port.
 
 My opinions on *Metal Gear Solid* are very simple; it's great, but greatly flawed. For example, its story is simple yet full of ridiculously awesome twists and turns. When Miller removes his glasses, the animation is so well done and really punctuates the enormity of the reveal. Compared to that, when a cutscene uses the 3D graphics of the gameplay the only thing the character can do are bob their heads up and down. That's a great flaw of the game; not only do the characters feature no facial animation, their heads are nearly featureless. The texture stretched across their polygonal faces use faint colours for mouths and eyes, which blends them within the void of their faces. So the game will have these long solliloquies where you're looking at Liquid Snake's blank face bobbing up and down. Many earlier Playstation or N64 titles had rudimentary facial animations; *Metal Gear Solid* was backwards in that regard. Under the column of great but greatly flawed, you can also count the gameplay. It's enemy AI is stupid sure, but it is properly defined. The soldiers will react stupidly but will not do frustrating things. However, the game has no persistence.
