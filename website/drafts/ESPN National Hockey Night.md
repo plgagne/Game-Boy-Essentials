@@ -67,13 +67,22 @@ I played the arcade game for a couple of seconds and found an interesting game! 
 
 As for the Game Boy version? It's dreadful. *Hit the Ice* for arcades is far from a good game and here you're playing a very poor translation of an already poor game. It's like [Plato's allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). You're stuck seeing a poor projection of games that exist as lifelike experiences outside of Game Boy.
 
-## NHL 95
+## NHL Hockey '95 & '96
+
+IT DOESN'T LOOK LIKE THEY HAVE MULTIPLAYER.
 
 Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. I guess that's when the NHL series, managed by EA Sports, hit its highest peaks. It seems even people with no interest in the sport of hockey played the series. So why not try a Game Boy version?
 
-It's
+Let's talk about one thing; start times. A Game Boy is a peculiar thing; it's a portable console you often play for very short play sessions. Perhaps you have only five minutes to explore the current cavern you're lost inside in *Pokémon*. For that reason it is vital that a game starts quickly. However, a ton of *Game Boy* titles didn't respect your time and take forever to get to the point. *NHL Hockey '95* is the worst example of this problem. Look at all the screens the game forces you to go through before you can start the process of playing some goddamn hockey:
 
-## NHL 96
+{% include figure.html type="" class="" %}
+
+They even force you to go through the credits every time you start the game. Ev ery single one of those screens have a mandatory time they need to appear on screen but they also don't leave without you pushing the Start button. This is the worst. I had to time the minimum amount of time you have to waste if you mash the Start button trying to get through them as fast as possible. You have to mash the Start button for 30 seconds. In the world of Game Boy, that's an eternity. I hate it.
+
+The game is so slow I assumed my emulation was busted.
+
+Both games are so similar. Same credits at the start, same busted frame rate.
+
 ## NHL Blades of Steel
 ## NHL 2000
 ## NHL Blades of Steel 2000
