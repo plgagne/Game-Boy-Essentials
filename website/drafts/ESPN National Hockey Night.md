@@ -71,7 +71,9 @@ As for the Game Boy version? It's dreadful. *Hit the Ice* for arcades is far fro
 
 IT DOESN'T LOOK LIKE THEY HAVE MULTIPLAYER.
 
-Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. I guess that's when the NHL series, managed by EA Sports, hit its highest peaks. It seems even people with no interest in the sport of hockey played the series. So why not try a Game Boy version?
+Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. I guess that's when the NHL series, managed by EA Sports, hit its highest peaks in terms of quality. It seems even people with no interest in the sport of hockey enjoyed the series in the mid 90s. It also coincided with Wayne Gretzky, without a doubt the most famous hockey player of all time, playing for the New York Rangers, without a doubt the most valuable hockey club in the world.
+
+So why not try a Game Boy version?
 
 Let's talk about one thing; start times. A Game Boy is a peculiar thing; it's a portable console you often play for very short play sessions. Perhaps you have only five minutes to explore the current cavern you're lost inside in *Pokémon*. For that reason it is vital that a game starts quickly. However, a ton of *Game Boy* titles didn't respect your time and take forever to get to the point. *NHL Hockey '95* is the worst example of this problem. Look at all the screens the game forces you to go through before you can start the process of playing some goddamn hockey:
 
