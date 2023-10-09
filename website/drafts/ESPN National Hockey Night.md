@@ -16,7 +16,7 @@ developers: "Konami"
 - Published by Konami
 - Developed by {{ page.developers }}
 
-{% include figure.html type="boxart" figcaption="" %}
+{% include figure.html type="boxart" figcaption="Scott Gomez! Twice!" %}
 
 ## {{ page.description }}
 
