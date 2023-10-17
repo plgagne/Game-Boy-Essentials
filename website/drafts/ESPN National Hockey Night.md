@@ -43,11 +43,11 @@ The history of hockey games on Game Boy is the North American history of the lit
 
 Then games get more complicated, as the same time as they become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
 
+And amongst all these games, the same exact multiplayer problem: if you want to play a Game Boy hockey game with a friend, you need two copies of the same game. This means that outside of *Tetris*, which came bundled for a long time with the console and was thus ubiquitous, it was very difficult to arrange a multiplayer session with another player. So the most 
+
 The most involved game of hockey I ever played was *Ice Hockey* for NES and I wasn't even good.
 
 ## World Ice Hockey
-
-TEST THE MULTIPLAYER OF EVERY GAME
 
 The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game was made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to their local market, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*, and could have been successful in North America, the home land of ice hockey. It's fascinating. Did they lack the money to start an American branch? That's a boring answer, and its probably the truth precisely because it is boring.
 
@@ -82,11 +82,18 @@ Since neither of the Eletronic Arts games have multiplayer, they really only hav
 It's the same game as the Game Boy one from so long ago. It has the same goal screen and everything. They seem to have improved the movement of the players though. It feels smoother. Perhaps the faster Game Link speeds of the GBC solved their issues?
 
 ## NHL 2000
+
+You'd think it would be exactly the same as the 95 and 96 games but no. It's top-down and made by a better team; the developers at Tiertex, which we have already covered once; they would make *Toy Story Racer* just two years later.
+
 ## NHL Blades of Steel 2000
 
-Is it the same game a third time ?
+Is it the same *Blades of Steel* game a third time? Yes.
 
 ## ESPN National Hockey Night
+
+It looks like shit, with the sprites of the hockey players being very weird pixelated messes. Its gameplay is far less disorganized than Blades of Steel. When you play it, you feel like you need to construct a play, like you need to pass the puck to achieve anything. In *Blades of Steel*, passing feels like a useless thing. Why pass when you can just skate around everyone trying to stop you?
+
+Let's talk about licensing. Why does this game have the ESPN name? Konami clearly tried to compete on the hockey game front in the late 90s, initially using the *Blades of Steel* name. They released games on TV consoles for a couple of years, with the previous two GBC *Blades of Steel* games. They then tried moving to the ESPN name, for what would end up their last year of Konami hockey titles. The next year, another ESPN hockey game came out, but this time made by Sega. Konami had clearly given up. Sega used the ESPN name and had some more success with it, turning the ESPN license into their sports title name. They eventually stopped making yearly sports titles in 2004. By that point, the market had devolved into a small group of publishers each controlling an exclusivity agreement for a specific sport, and Sega abandoned all but one continuing sports franchise: Football Manager.
 
 ## Conclusion
 
