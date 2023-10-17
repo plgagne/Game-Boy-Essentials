@@ -2,7 +2,7 @@
 title: "Game Boy Essentials"
 domain: "gameboyessentials.com"
 baseurl: ""
-url: "gameboyessentials.com"
+url: "https://gameboyessentials.com"
 github_pages_url: "plgagne.github.io/Game-Boy-Essentials/"
 email: "pl@gameboyessentials.com"
 description: "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success."
@@ -60,3 +60,4 @@ kramdown:
 plugins:
   - jekyll-image-size
   - jekyll-minifier
+  - jekyll-sitemap
