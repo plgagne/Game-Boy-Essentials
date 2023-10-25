@@ -16,12 +16,12 @@ developers: "Konami"
 - Published by Konami
 - Developed by {{ page.developers }}
 
-{% include figure.html type="boxart" figcaption="" %}
+{% include figure.html type="boxart" figcaption="Scott Gomez! Twice!" %}
 
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-I'm Québécois. I'm a *Bleuet* from Lac Saint-Jean. I have been surrounded by hockey during all my formative years. For all intent and purposes, I should be a hockey afficianado. Yet I have never played hockey, I have never attended a game from start to finish, I barely know the rules of the game, I do not know how to skate, and I do not like hockey video games. Still, for some reason, I have decided to look at the complete history of hockey games on Game Boy. I have no idea why I'm doing this.
+I'm Québécois. I'm a *Bleuet* from Lac Saint-Jean. I have been surrounded by hockey during all my formative years. For all intent and purposes, I should be a hockey afficianado. Yet I have never played hockey, I have never attended a game from start to finish, I barely know the rules of the game, I do not know how to skate, and I do not like hockey video games. While all my friends and lovers were thinking about hockey, I was playing Game Boy. To finally remediate this issue, I have decided to look at the complete history of hockey games on Game Boy. I have no idea why I'm doing this.
 
 This article is ostensibly about the last hockey release on the console: 2001's *ESPN National Hockey Night* by the fine folks at Konami. But really,we'll look at every hockey game on Game Boy in release order and we'll all collectively learn why the last release is worth it. Or not. Again, I have no idea why I'm doing this.
 
@@ -43,11 +43,11 @@ The history of hockey games on Game Boy is the North American history of the lit
 
 Then games get more complicated, as the same time as they become mere versions of more succesful console releases, with *NHL 95* and *NHL 96*. Those releases dry up, without any 1997 or 1998 release, as the console is slowly losing any sort of momentum. People barely buy any new Game Boy games. Then, a large amount of games come out between 1999 and 2001, due to the massive renewed success of the platform coming from the Pokémon craze. Everybody is crazy for Game Boy Color.
 
+And amongst all these games, the same exact multiplayer problem: if you want to play a Game Boy hockey game with a friend, you need two copies of the same game. This means that outside of *Tetris*, which came bundled for a long time with the console and was thus ubiquitous, it was very difficult to arrange a multiplayer session with another player. So the most 
+
 The most involved game of hockey I ever played was *Ice Hockey* for NES and I wasn't even good.
 
 ## World Ice Hockey
-
-TEST THE MULTIPLAYER OF EVERY GAME
 
 The first hockey game is *World Ice Hockey*. Released in early 1991, **but only in Japan**, the game was made by Athena, a small japanese developer who overwhelmingly released games that only came out in Japan. Back in the early 90s, a large contingent of japanese companies only catered to their local market, with barely any of their games released outside the island nation. Even games that needed no translation, like *World Ice Hockey*, and could have been successful in North America, the home land of ice hockey. It's fascinating. Did they lack the money to start an American branch? That's a boring answer, and its probably the truth precisely because it is boring.
 
@@ -57,27 +57,43 @@ Anyway, on to the next game.
 
 ## Blades of Steel
 
-The second game is the Game Boy version of the famous *Blades of Steel*. Released in late 1991, this Game Boy version came out as *Konamic Ice Hockey* in Japan. *Blades of Steel* is a side-to-side game, and it has a strong action-oriented feel. Originally released in arcades, the NES version of *Blades of Steel* has a reputation as a solid hockey game. I've always heard it compared with the perennial classic *Tecmo Bowl*. Is the Game Boy version just as good? I played both the NES and Game Boy versions one after the other to figure out the differences and I can't really see any missing features. The shots you take at the net are done with a moving arrow, that goes up and down until you take your shot. This is the core idea of the game, and is present in both versions. What is different between them is the fluidity. The Game Boy version is slower, choppier. Unfortunately, this ruins the experience and ruins this version of the game. Maybe the developers simply didn't have enough time and money to replicate the snappy response you see in arcades and NES. Or, as is often the case on Game Boy, the speed of the link cable severely limited their ambitions. Since *Blades of Steel* is a multiplayer title, the game has to be playable with two Game Boy consoles connected with a Link Cable.Syncing the exact position of 10 characters plus a puck 60 times a second is a tall order for a [one kilobyte a second transfer rate](https://gbdev.gg8.se/wiki/articles/Serial_Data_Transfer_(Link_Cable)). If you do the math, one kilobyte a second allows you to send 16 bytes every sixtieth of a second. That's not even two bytes per hockey player. I'm pretty sure the game cannot update 60 times a second with that low transfer rate. They probably set the game's speed to be as fast as the link cable would allow. Which is totally fair.
-
-In both games I got into a proper fight, won, and my losing opponent was brought to the penalty box. Even I know this is not how referees resolve fights in hockey!
+The second game is the Game Boy version of the famous *Blades of Steel*. Released in late 1991, this Game Boy version came out as *Konamic Ice Hockey* in Japan. *Blades of Steel* is a side-to-side game, and it has a strong action-oriented feel. Originally released in arcades, the NES version of *Blades of Steel* has a reputation as a solid hockey game. I've always heard it placed at the same level as perennial classic *Tecmo Bowl*. Is the Game Boy version just as good? I played both the NES and Game Boy versions one after the other to figure out the differences and I can't really see any missing features. The shots you take at the net are done with a moving arrow, that goes up and down until you take your shot. This is the core idea of the game, and is present in both versions. What is different between them is the fluidity. The Game Boy version is slower, choppier. Unfortunately, this lessens the experience. Maybe the developers simply didn't have enough time and money to replicate the snappy response you see in arcades and NES. Or, as is often the case on Game Boy, the speed of the link cable severely limited their ambitions. Since *Blades of Steel* is a multiplayer title, the game has to be playable with two Game Boy consoles connected with a Link Cable. Syncing the exact position of 10 characters plus a puck 60 times a second is a tall order for a transfer rate of [one kilobyte a second](https://gbdev.gg8.se/wiki/articles/Serial_Data_Transfer_(Link_Cable)). If you do the math, one kilobyte a second allows you to send 16 bytes every sixtieth of a second. That's not even two bytes per hockey player. I'm pretty sure the game cannot update 60 times a second with that low transfer rate. They probably set the game's speed to be as fast as the link cable would allow. Which is fair but gives you a choppy experience on Game Boy.
 
 ## Hit the Ice
 
-I played the arcade game for a couple of seconds and found an interesting game! It's a two-on-two hockey game more focused on antics than legitimate hockey plays. Basically, it's doing the same thing as NBA Jam. The crazy thing is *Hit the Ice* came out three years before the classic basketball game. It's even more irreverent than NBA Jam, with fictional players that look like they're rejects from *Toxic Crusaders* and a big focus on punching your opponents. It made me think of *Clayfighter* a little bit. Not in style or gameplay, but in attitude. Both games are not taking themselves seriously at all, both are very unfocused.  I do not like the art style nor the gameplay they went with at all but I can see the amount of time it took to achieve the desired effect and respect it.
+Up next is *Hit the Ice*. I first played the arcade game for a couple of seconds and found an interesting game! It's a two-on-two hockey game more focused on antics than legitimate hockey plays. Basically, it's doing the same thing as *NBA Jam*. The crazy thing is the arcade *Hit the Ice* came out three years before the basketball classic. It's even more irreverent than *NBA Jam*, with fictional players that look like they're rejects from *Toxic Crusaders* and a big focus on punching your opponents. It made me think of *Clayfighter* a little bit. Not in style or gameplay, but in attitude. Both games are not taking themselves seriously at all, both are very unfocused. I do not personally like the art style nor the gameplay they went with but I can see the amount of time it took to achieve the desired effect and respect it.
 
 As for the Game Boy version? It's dreadful. *Hit the Ice* for arcades is far from a good game and here you're playing a very poor translation of an already poor game. It's like [Plato's allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). You're stuck seeing a poor projection of games that exist as lifelike experiences outside of Game Boy.
 
-## NHL 95
+## NHL Hockey '95 &  NHL 96
 
-Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a mystery. I guess that's when the NHL series, managed by EA Sports, hit its highest peaks. It seems even people with no interest in the sport of hockey played the series. So why not try a Game Boy version?
+Then we have NHL 95 and NHL 96. The fact that they're on Game Boy is somehwat of a surprise. I guess that's when the NHL series by EA Sports hit its highest peaks of popularity. It seems even people with no interest in the sport of hockey enjoyed the series in the mid 90s. It also coincided with the most famous hockey player of all time, Wayne Gretzky, playing for the most valuable hockey club in the world, the New York Rangers. So you have this great confluence of events that helps to propel Electronic Arts' hockey games. They're on every important platform, so why not try Game Boy and Game Gear versions? They subcontracted small developers to make the games, not even keeping the same development team twice. Then they clearly abandonned the idea after the first year on Game Gear and after two years of miserable releases on Game Boy. If I had to bet, I'd say they didn't make any money on those three games.
 
-It's
+Let's talk about one thing that massively irks me about both the '95 and '96 titles: start times. A Game Boy is a peculiar thing; it's a portable console you often play for very short play sessions. Perhaps you have only five minutes to explore the current cavern you're lost inside in *Pokémon*. For that reason it is vital that a game starts quickly. However, a ton of *Game Boy* titles didn't respect your time and take forever to get to the point. *NHL Hockey '95* is the worst example of this problem. Look at all the screens the game forces you to go through before you can start the process of playing some goddamn hockey:
 
-## NHL 96
+{% include figure.html type="" class="" %}
+
+They even force you to go through the credits every time you start the game! Every single one of those screens has a mandatory amount of time they need to appear on screen but they don't move on without pushing the Start button. This is the worst. I clocked the minimum amount of time you have to waste trying to get through them as fast as possible. You have to mash the Start button for 30 seconds. In the world of Game Boy, that's an eternity. Then you get to the game proper and it's somehow even worse. The game is running so slowly I assumed my emulation was busted. It's even worse than *Blades of Steel*, and it doesn't even have multiplayer to explain its slow tick rate. I assumed the second title, *NHL 96*, would solve all the issues of the first game. No! It's got the same exact slow tick rate issues. The interface is also terrible: I could not figure out how to have a goalie in your net. I'm not an idiot, and the goalie selection screen was completely inscrutable for me. With *NHL 96*, the goalie screen is the same but you start with a goalie, so I couldn't find out how to change your goalie. Supremely dumb stuff.
+
+Since neither of the Eletronic Arts games have multiplayer, they really only have one interesting feature: playing a full season with playoffs. However, the games don't have a save battery. So you have to enter a loooooong password every time you want to pick up where you left off. 30 seconds to start the game, easily two minutes to punch in the 18-character password. Then you start the game and it's a low framerate mess with bad gameplay. Those two games are despicable.
+
 ## NHL Blades of Steel
+
+It's the same game as the Game Boy one from so long ago. It has the same goal screen and everything. They seem to have improved the movement of the players though. It feels smoother. Perhaps the faster Game Link speeds of the GBC solved their issues?
+
 ## NHL 2000
+
+You'd think it would be exactly the same as the 95 and 96 games but no. It's top-down and made by a better team; the developers at Tiertex, which we have already covered once; they would make *Toy Story Racer* just two years later.
+
 ## NHL Blades of Steel 2000
+
+Is it the same *Blades of Steel* game a third time? Yes.
+
 ## ESPN National Hockey Night
+
+It looks like shit, with the sprites of the hockey players being very weird pixelated messes. Its gameplay is far less disorganized than Blades of Steel. When you play it, you feel like you need to construct a play, like you need to pass the puck to achieve anything. In *Blades of Steel*, passing feels like a useless thing. Why pass when you can just skate around everyone trying to stop you?
+
+Let's talk about licensing. Why does this game have the ESPN name? Konami clearly tried to compete on the hockey game front in the late 90s, initially using the *Blades of Steel* name. They released games on TV consoles for a couple of years, with the previous two GBC *Blades of Steel* games. They then tried moving to the ESPN name, for what would end up their last year of Konami hockey titles. The next year, another ESPN hockey game came out, but this time made by Sega. Konami had clearly given up. Sega used the ESPN name and had some more success with it, turning the ESPN license into their sports title name. They eventually stopped making yearly sports titles in 2004. By that point, the market had devolved into a small group of publishers each controlling an exclusivity agreement for a specific sport, and Sega abandoned all but one continuing sports franchise: Football Manager.
 
 ## Conclusion
 
