@@ -19,12 +19,13 @@
 - Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 
 ## Liste de vérification pour publication d'un article
-- [ ] Vérifier que toutes les dates sont bien incluses
-- [ ] Corriger l'article final avec Antidote
-- [ ] Appliquer les majuscules approprié avec Title Case Service
-- [ ] Déplacer l'article dans le dossier website/articles
-- [ ] Rapetisser les nouvelles images avec ImageOptim.app
-- [ ] Bâtir et synchronizer sur S3 avec la tâche Production
+- [x] Vérifier que toutes les dates sont bien incluses
+- [x] Corriger l'article final avec Antidote
+- [x] Appliquer les majuscules approprié avec Title Case Service
+- [x] Déplacer l'article dans le dossier website/articles
+- [x] Inscrire la date de la publication de l'article
+- [x] Rapetisser les nouvelles images avec ImageOptim.app
+- [x] Bâtir et synchronizer avec la tâche Production
 - [ ] Vérifier que tout fonctionne en ligne
 - [ ] Publier le lien de l'article sur Mastodon
 
