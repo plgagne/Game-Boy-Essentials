@@ -31,15 +31,19 @@ Back in the late 90s I did not have a Playstation but still wanted to play *Meta
 
 {% include figure.html type="pixel" figcaption="A Hind D?" %}
 
-When Konami announced they were making a *Metal Gear* game for Game Boy Color, I was immediately interested. Initial images were very promising.
+When Konami announced they were making a *Metal Gear* game for Game Boy Color, I was immediately interested. Initial images were very promising:
 
-{% include figure.html type="gb" figcaption="An example of some early images" %}
+<div class="gallery">
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+</div>
 
 The people at Konami were not proposing strange gameplay mechanics that had very little to do with *Metal Gear Solid*. Many franchises coming to Game Boy would severely change their gameplay to fit the confines of the small console. *Ultima*, *Turok*, *Resident Evil*, *Perfect Dark*. Those are all franchises that drastically changed the gameplay for which they were known when they came to Game Boy. But here they were making a legitimate *Metal Gear* title. It even had a story told through cutscenes and CODEC conversations and everything! Of course in hindsight I now know that the team at Konami, like a bad magician, were just repackaging the same old trick they had already done once before.
 
 The magic trick was very simple: bring the gameplay of their 1990 MSX2 game *Metal Gear 2: Solid Snake* to another platform. That's what they already did with the Playstation game *Metal Gear Solid*. They brought the gameplay of the MSX2 to a 3D game on Playstation and now they would once again bring the gameplay of the MSX2 but this time to the Game Boy Color. To help explain what I mean and make sure you understand the convoluted early history of Metal Gear, I made a chart!
 
-{% include figure.html type="" class="" figcaption="" %}
+{% include figure.html type="art" %}
 
 I have to remind you I pirated the game initially. In 2000, GBC emulators had enough functionnality to allow you to play all the new releases the second someone dumped the ROM online. There were some games that did not work properly back then, which I talked about in my [*Toy Story Racer* article](/articles/cgb-bt5e). I even already told the story of my exprience with *Metal Gear: Ghost Babel*. Let me tell it again. The first elevator of the game, encountered on the fourth mission, failed to move me to the next section of the facility. The second I pressed the elevator's button, I was stuck in there forever. I do not know if it was a bug or a voluntary anti-piracy measure. It would [appear that the game indeed has code to lock up emulators on the title screen](https://new.tcrf.net/Metal_Gear_Solid_(Game_Boy_Color)) and I wouldn't put it past the developpers at Konami to include piracy counter-measures later in the game. It's a great way to hide their emulator checking code.
 
