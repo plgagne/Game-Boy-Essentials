@@ -22,7 +22,7 @@ developers: "Konami"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-I’m Québécois, so I have been surrounded by hockey during all my formative years. For all intent and purposes, I should be a hockey aficionado. Yet I have never played hockey, I have attended a game from start to finish only once, I barely know the rules of the game, I do not know how to skate, and I do not like hockey video games. While everyone around me was thinking about hockey, I was playing Game Boy. To finally remediate this issue, I have decided to merge both field of interest: I’ll look at the complete history of hockey games on Game Boy.
+I’m Québécois, so I have been surrounded by hockey during all my formative years. For all intent and purposes, I should be a hockey aficionado. Yet I have never played hockey, I have attended a game from start to finish only once, I barely know the rules of the game, I do not know how to skate, and I do not like hockey video games. While everyone around me was thinking about hockey, I was playing Game Boy. To finally remediate this issue, I have decided to merge both fields of interest: I’ll look at the complete history of hockey games on Game Boy.
 
 This article is ostensibly about the last hockey release on the console: 2001’s *ESPN National Hockey Night* by the people working at Konami. But really, we’ll look at every hockey game on Game Boy in release order and we’ll all collectively learn why the last release is the only one somewhat worth playing.
 
