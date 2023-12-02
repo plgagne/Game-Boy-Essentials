@@ -1,6 +1,19 @@
 [
   {
     "fact": true,
+    "date": "1987-06-10",
+    "tags": [
+      "jp"
+    ],
+    "cat": [
+      "hardware",
+      "gb"
+    ],
+    "source": "https://www.youtube.com/watch?v=NSSrd1gr0LE",
+    "note": "The Game Boy project is started within R&D1."
+  },
+  {
+    "fact": true,
     "date": "2001-06-01",
     "tags": [
       "eu"
