@@ -4,7 +4,7 @@ description: "Portable Espionage Action"
 slug: "cgb-bmge"
 release-year: "2000"
 release-month: "04"
-publication: "2023-00-00"
+publication: "2024-00-00"
 tags: [book4]
 developers: "TOSE"
 ---
@@ -53,7 +53,7 @@ It was very frustrating to hit an anti-piracy measure, especially since I rememb
 
 I had intended to write this intense deep dive into the game, but a five-minute online search led me to find this wonderful [2022 retrospective on the game from Renan Fontes on Goomba Stomp](https://goombastomp.com/metal-gear-ghost-babel-game-boy-color-retrospective/). Renan said everything in his article I wanted to say about the game! I'd definetely recommend reading his overview of the game, with Renan having extensive comparisons with the two MSX games, which I have played only cursorily.
 
-In his article, he gives a lot of credence to the improvements of Metal Gear SOlid ad how they're represented in this game. I mean yeah it's informed a lot by the PlayStation game, but it's a lot more like the older MSX2 game in spirit. The graphics are informed by *Metal Gear Solid*, 
+In his article, he gives a lot of credence to the improvements Metal Gear Solid brought to the franchise and how they're represented in this game. I mean yeah it's informed a lot by the PlayStation game, but it's a lot more like the older MSX2 game in spirit. The sprite work is echoing the style of *Metal Gear Solid*, but to my opinion the game is built on the trappings of the 1990 game, not the 1998 one.
 
 It's a great game. 
 
