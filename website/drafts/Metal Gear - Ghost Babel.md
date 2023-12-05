@@ -45,7 +45,17 @@ The people at Konami were not proposing strange gameplay mechanics that had very
 
 I have to admit I pirated the game initially. I don't hear any police sirens so I'll keep writing. In 2000, GBC emulators had enough functionnality to allow you to play all the new releases the second someone dumped the ROM online. More importantly for me, they were able to run on crappy PCs of the time. There were some games that did not work properly back then, which I talked about in my [*Toy Story Racer* article](/articles/cgb-bt5e). I even already told the story of my exprience with *Metal Gear: Ghost Babel* in that article. Let me tell it again. The first elevator of the game, encountered on the fourth mission, failed to move me to the next section of the facility. The second I pressed the elevator's button, I was stuck in there forever. I do not know if it was a bug or a voluntary anti-piracy measure. It would [appear that the game indeed has code to lock up emulators on the title screen](https://new.tcrf.net/Metal_Gear_Solid_(Game_Boy_Color)) and I wouldn't put it past the developpers at Konami to include piracy counter-measures later in the game. It's a common way to hide anti-piracy code.
 
-It was very frustrating to hit an anti-piracy measure, especially since I remember playing through the game three times to verify I was really stuck: twice on the same emulator and a third time with a second one. Even though I was getting tired of repeating the early parts of the story, I caved and just bought the game. I had to, I was hooked. Its as if I had played a demo of the game, and was now convinced to buy it. When Amazon finally delivered it to my door on 
+It was very frustrating to hit an anti-piracy measure, especially since I remember playing through the game three times to verify I was really stuck: twice on the same emulator and a third time with a second one. Even though I was getting tired of repeating the early parts of the story, I caved and just bought the game. I had to, I was hooked. Its as if I had played a demo of the game, and was now convinced to buy it.
+
+## The Flaws
+
+## The Qualities
+
+I had intended to write this intense deep dive into the game, but a five-minute online search led me to find this wonderful [2022 retrospective on the game from Renan Fontes on Goomba Stomp](https://goombastomp.com/metal-gear-ghost-babel-game-boy-color-retrospective/). Renan said everything in his article I wanted to say about the game! I'd definetely recommend reading his overview of the game, with Renan having extensive comparisons with the two MSX games, which I have played only cursorily.
+
+In his article, he gives a lot of credence to the improvements of Metal Gear SOlid ad how they're represented in this game. I mean yeah it's informed a lot by the PlayStation game, but it's a lot more like the older MSX2 game in spirit. The graphics are informed by *Metal Gear Solid*, 
+
+It's a great game. 
 
 - the AI
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
@@ -76,3 +86,5 @@ https://gamehacking.org/game/11210
 
 008-BAB-E6E
 798-65A-D57
+
+- Extraordinary article. Mine should take the Game Boy angle, otherwise I won't be as good. 
