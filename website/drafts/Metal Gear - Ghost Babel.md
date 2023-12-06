@@ -39,24 +39,13 @@ When Konami announced they were making a *Metal Gear* game for Game Boy Color, I
 {% include figure.html type="gb" class="gallery" %}
 </div>
 
-<<<<<<< HEAD
-The people at Konami were not proposing strange gameplay mechanics that had very little to do with *Metal Gear Solid*. Many franchises coming to Game Boy would severely change their gameplay to fit the confines of the small console. *Ultima*, *Turok*, *Resident Evil*, *Perfect Dark*. Those are all franchises that drastically changed the gameplay for which they were known when they came to Game Boy. But here they were making a legitimate *Metal Gear* title. It even had a story told through cutscenes and CODEC conversations and everything! Of course in hindsight I now know that the team at Konami, like a bad magician, were just repackaging the same old trick they had already done once before.
-
-The magic trick was very simple: bring the gameplay of their 1990 MSX2 game *Metal Gear 2: Solid Snake* to another platform. That's what they had done with the Playstation game *Metal Gear Solid*. Now they would once again bring the gameplay of the MSX2 but this time to Game Boy Color. To help explain what I mean and make sure you understand the convoluted early history of Metal Gear, I made a chart!
-=======
 The people at Konami were not proposing strange gameplay mechanics that had very little to do with *Metal Gear Solid*. Many franchises coming to Game Boy would severely change their gameplay to fit the confines of the small console. *Ultima*, *Turok*, *Resident Evil*, *Perfect Dark*. Those are all franchises that drastically changed the gameplay for which they were known when they came to Game Boy. But here they were making a legitimate *Metal Gear* title. It even had a story told through cutscenes and CODEC conversations and everything. That story is complicated, so to help you understand the convoluted early history of the Metal Gear games, I made a chart that covers both the games' story and their development.
->>>>>>> main
 
 {% include figure.html type="boxart-png" %}
 
-<<<<<<< HEAD
 I have to remind you I pirated the game initially. In 2000, GBC emulators were good enough to play the new releases as soon as someone dumped the ROM online. There were some games that did not work properly back then, which I talked about in my [*Toy Story Racer* article](/articles/cgb-bt5e). I even already told the story of my exprience with *Metal Gear: Ghost Babel*. Let me tell it again. The first elevator of the game, encountered on the fourth mission, failed to move me to the next section of the facility. The second I pressed the elevator's button, I was stuck in there forever. I do not know if it was a bug or a voluntary anti-piracy measure. It would [appear that the game indeed has code to lock up emulators on the title screen](https://new.tcrf.net/Metal_Gear_Solid_(Game_Boy_Color)) and I wouldn't put it past the developpers at Konami to include piracy counter-measures later in the game. I'm not competent enough to test my theory, but keep in mind dear reader that modern emulators are now indistinguishable to real hardware. No anti-piracy code gets triggered anymore.
 
 It was very frustrating to hit a wall like that, especially since I played through the game three times to verify I was really stuck: twice on the same emulator and a third time with a second one that also softlocked. Even though I was getting tired of repeating the early parts of the story, I still bought the game. I had to, I was hooked. Its as if I had played a demo of the game, and was now convinced to buy it. Seriously, where have demos gone? I know they're a serious pain to make for developers, but it's a great loss so few of them exist.
-=======
-I have to admit I pirated the game initially. I don't hear any police sirens so I'll keep writing. In 2000, GBC emulators had enough functionnality to allow you to play all the new releases the second someone dumped the ROM online. More importantly for me, they were able to run on crappy PCs of the time. There were some games that did not work properly back then, which I talked about in my [*Toy Story Racer* article](/articles/cgb-bt5e). I even already told the story of my exprience with *Metal Gear: Ghost Babel* in that article. Let me tell it again. The first elevator of the game, encountered on the fourth mission, failed to move me to the next section of the facility. The second I pressed the elevator's button, I was stuck in there forever. I do not know if it was a bug or a voluntary anti-piracy measure. It would [appear that the game indeed has code to lock up emulators on the title screen](https://new.tcrf.net/Metal_Gear_Solid_(Game_Boy_Color)) and I wouldn't put it past the developpers at Konami to include piracy counter-measures later in the game. It's a common way to hide anti-piracy code.
-
-It was very frustrating to hit an anti-piracy measure, especially since I remember playing through the game three times to verify I was really stuck: twice on the same emulator and a third time with a second one. Even though I was getting tired of repeating the early parts of the story, I caved and just bought the game. I had to, I was hooked. Its as if I had played a demo of the game, and was now convinced to buy it.
 
 ## The Flaws
 
@@ -66,8 +55,7 @@ I had intended to write this intense deep dive into the game, but a five-minute 
 
 In his article, he gives a lot of credence to the improvements Metal Gear Solid brought to the franchise and how they're represented in this game. I mean yeah it's informed a lot by the PlayStation game, but it's a lot more like the older MSX2 game in spirit. The sprite work is echoing the style of *Metal Gear Solid*, but to my opinion the game is built on the trappings of the 1990 game, not the 1998 one.
 
-It's a great game. 
->>>>>>> main
+It's a great game.
 
 - the AI
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
@@ -99,4 +87,4 @@ https://gamehacking.org/game/11210
 008-BAB-E6E
 798-65A-D57
 
-- Extraordinary article. Mine should take the Game Boy angle, otherwise I won't be as good. 
+- Extraordinary article. Mine should take the Game Boy angle, otherwise I won't be as good.
