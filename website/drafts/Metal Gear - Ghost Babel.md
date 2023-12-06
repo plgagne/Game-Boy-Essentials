@@ -61,6 +61,10 @@ It's a great game.
 - three enemies on the board at once max.
 - tons of little challenges. Water in the sewers, cameras that go up and down, invisible lasers, dogs. Fucking dogs.
 - there's a certain sloppiness to the overarching structure of the environnments. They make **no** sense.
+- there are often complete dead-ends. That's commendable, but a lot of rooms are repeated wholesale.
+- some of the links between areas are visually confusing. In the second level, there's this side outcropping that you have to find. It looks nothing like there's a door there.
+- Some puddles look awesome. Others, not so much. This one looks like a black void.
+- The game hits the colour limits of the system. Sometimes, you can't make sense of the areas you're looking at. I think they knew about the problem, and they always introduce a new area without enemies or challenge so you can figure out what it is you're looking at.
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the story was a big element upon release. it had a full character arc for Snake. He starts the game willingly isolated, and strives to act upon the end of the game. (I need to check that?)
 - it works by chapters. probably helped a lot with development to split it like that.
