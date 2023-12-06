@@ -58,6 +58,9 @@ In his article, he gives a lot of credence to the improvements Metal Gear Solid 
 It's a great game.
 
 - the AI
+- three enemies on the board at once max.
+- tons of little challenges. Water in the sewers, cameras that go up and down, invisible lasers, dogs. Fucking dogs.
+- there's a certain sloppiness to the overarching structure of the environnments. They make **no** sense.
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the story was a big element upon release. it had a full character arc for Snake. He starts the game willingly isolated, and strives to act upon the end of the game. (I need to check that?)
 - it works by chapters. probably helped a lot with development to split it like that.
