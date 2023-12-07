@@ -66,7 +66,7 @@ It's a great game.
 - Some puddles look awesome. Others, not so much. This one looks like a black void.
 - The game hits the colour limits of the system. Sometimes, you can't make sense of the areas you're looking at. I think they knew about the problem, and they always introduce a new area without enemies or challenge so you can figure out what it is you're looking at.
 
-After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but doing it four times in a row makes it stupid. 
+After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but by the fourth time it happens it loses all its impact.
 
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the story was a big element upon release. it had a full character arc for Snake. He starts the game willingly isolated, and strives to act upon the end of the game. (I need to check that?)
