@@ -2,6 +2,7 @@
 title: "Metal Gear: Ghost Babel"
 description: "Portable Espionage Action"
 slug: "cgb-bmge"
+release-date: "2000-04-00"
 release-year: "2000"
 release-month: "04"
 publication: "2024-00-00"
@@ -69,6 +70,7 @@ It's a great game.
 After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but by the fourth time it happens it loses all its impact.
 
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
+- the box factory doesn't work because the conveyor belt exits have no strict link with where they lead. It's all a jumbled mess that doesn't make logical sense.
 - the story was a big element upon release. it had a full character arc for Snake. He starts the game willingly isolated, and strives to act upon the end of the game. (I need to check that?)
 - it works by chapters. probably helped a lot with development to split it like that.
 - it also saves by chapter. Its very frustrating.
