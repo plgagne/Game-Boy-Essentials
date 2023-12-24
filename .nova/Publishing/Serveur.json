@@ -1,5 +1,8 @@
 {
   "identifier" : "30EB6702-1DF8-4AC3-8B08-C62CB88BFFE2",
+  "ignoredFilePatterns" : [
+    "website\/_site\/assets"
+  ],
   "localPath" : "website\/_site",
   "remotePath" : "\/var\/www\/gameboyessentials",
   "remoteURL" : "gameboyessentials.plgagne.com",
