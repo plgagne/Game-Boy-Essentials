@@ -71,6 +71,7 @@ After every boss battle, you're treated to the exact same thing. The defeated bo
 
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the box factory doesn't work because the conveyor belt exits have no strict link with where they lead. It's all a jumbled mess that doesn't make logical sense.
+- you have to go through the door puzzle twice!
 - the story was a big element upon release. it had a full character arc for Snake. He starts the game willingly isolated, and strives to act upon the end of the game. (I need to check that?)
 - it works by chapters. probably helped a lot with development to split it like that.
 - it also saves by chapter. Its very frustrating.
