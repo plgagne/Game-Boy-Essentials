@@ -2,6 +2,9 @@
 id: "notes"
 title: "Notes"
 ---
+
+https://classic.copetti.org/writings/consoles/game-boy/#bibref:1
+
 # Internationalisations
 
 https://genesistemple.com/it/come-vendere-super-mario-agli-italiani-storia-e-marketing-di-nintendo-italia-1987-2002
