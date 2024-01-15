@@ -60,15 +60,26 @@ Shinta Nojiri was fairly new within Konami, having only worked on the PlayStatio
 
 Finally, the game was developed with the help of TOSE. Just to jog your memory, they are a shadowy japanese company that is sub-contracted to make a game. They're a large company, responsible for the development of many games and it is customary for the company's employees to go uncredited.
 
-[Shinta Nojiri moved to Kyotot and was embedded within the company](https://hg101.kontek.net/metalgear/shintanojiri.htm) It's the first time I hear of a developper moving to work with TOSE.
+[Shinta Nojiri moved to Kyoto and was embedded within the company](https://hg101.kontek.net/metalgear/shintanojiri.htm) It's the first time I hear of a developper moving to work with TOSE.
 
 ## Level Design Makes a Classic
 
-The level design in MG:GB is messy. Compared with MGS the buildings you explore are confusing and unrealistic. MGS has the benefit of a hard limit; it's a fully 3d game on PlayStation, which meant the developpers had hard limits on what they could make that didn't exceed the Playstation's capability. It needed to be simple, so they couldn't spare complex level design, but MG:GB's worse problem isn't even the complexity of each room. It's how each and every room connects with one another. The dreaded box factory could be made more fun if the relationships between the conveyor belt exits and the lower floors made more sense. Instead, you're dealing with a building that makes no sense. That makes your experience far more frustrating than what it should be.
+The level design in MG:GB is messy and I think its explained by its development. Compared with MGS the buildings you explore are confusing and unrealistic. MGS has the benefit of a hard limit; it's a fully 3d game on PlayStation, which meant the developpers had hard limits on what they could make that didn't exceed the Playstation's capability. It needed to be simple, so they couldn't spare complex level design, but MG:GB's worse problem isn't even the complexity of each room. It's how each and every room connects with one another. The dreaded box factory could be made more fun if the relationships between the conveyor belt exits and the lower floors made more sense. Instead, you're dealing with a building that makes no sense. That makes the experience far more frustrating.
 
-MGS also has the benefit of being a straight line from start to finish. You're always heading north. Being constructed with self-contained levels, MG:GB has a lot more flexibility. Near the end of the game, you have to find four pillars inside a power plant to blow it up. It's an inventive objective, made frustrating by the nonsensical floor plan of the power plant. Since the space you're in makes no sense, finding the pillars turns into exploring every room from corner to corner to make sure you haven't missed anything.
+MGS also has the benefit of being a straight line from start to finish. You're always heading north. Being constructed with self-contained levels, MG:GB has a lot more flexibility with its overarching structure. As a great example, you have to find four pillars inside a power plant to blow it up  near the end of the game. It's an inventive objective, made frustrating by the nonsensical floor plan of the power plant. Since the space you're in makes no sense, finding the pillars turns into exploring every room from corner to corner to make sure you haven't missed one.
 
-I think that's where the design team at Konami let TOSE design the levels themselves. It looks like something that was made qwuickly with the tiles they had, without a lot of care for the players' sense of space. If you want to find beautiful level design that showcases the capabilities of the game, you have to play the VR Training.
+I think the problems with the level design are due to Shinta Nojiri letting the staff of TOSE designing the levels themselves. It looks like something that was made quickly with the tiles they had, without a lot of attention paid to the players' sense of space. If you want to find beautiful level design that showcases the capabilities of the game, you have to play the VR Training.
+
+
+
+
+
+
+
+
+
+
+
 
 - the AI
 - three enemies on the board at once max.
@@ -80,7 +91,7 @@ I think that's where the design team at Konami let TOSE design the levels themse
 - The game hits the colour limits of the system. Sometimes, you can't make sense of the areas you're looking at. I think they knew about the problem, and they always introduce a new area without enemies or challenge so you can figure out what it is you're looking at.
 - On the other hand, the game features night vision goggles that work during the whole game. It's a testament to their attention to detail.
 
-After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but by the fourth time it happens it loses all its impact.
+After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but by the fourth time it happens you start to laugh at the pattern.
 
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the box factory doesn't work because the conveyor belt exits have no strict link with where they lead. It's all a jumbled mess that doesn't make logical sense.
