@@ -92,7 +92,8 @@ td {
   vertical-align: middle;
   border: 1px solid black;
   width: 20%;
-  word-break: normal;
+  word-break: break-word;
+  hyphens: auto;
 }
 tr:nth-child(even) {
   background-color: $light-grey;
