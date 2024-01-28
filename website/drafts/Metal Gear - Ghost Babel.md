@@ -79,7 +79,8 @@ I think the problems with the level design are due to Shinta Nojiri letting the 
 
 
 
-
+- the last level triues to force you to use all the pieces of the buffalo but because you have a machine gun that minces enemies, you can often go guns blazing If there's a hiding spot where you can let the timer count down, you can just ignore the whole stealth.
+- you never see metal gear standing up outside of cutscenes. you only see its legs, and only a little part of them.
 
 - the AI
 - three enemies on the board at once max.
@@ -92,6 +93,7 @@ I think the problems with the level design are due to Shinta Nojiri letting the 
 - On the other hand, the game features night vision goggles that work during the whole game. It's a testament to their attention to detail.
 
 After every boss battle, you're treated to the exact same thing. The defeated boss lies on the ground explaining their whole terrible life to Solid Snake. Think about how ridiculous that is for a second. On top of that, they all have horrible circumstances imposed on them, making them into perfect victims not deserving of death. The same thing happened in *Metal Gear Solid* with the same lesson: in war, everyone is a victim. It's commendable but by the fourth time it happens you start to laugh at the pattern.
+
 
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the box factory doesn't work because the conveyor belt exits have no strict link with where they lead. It's all a jumbled mess that doesn't make logical sense.
@@ -113,7 +115,7 @@ After every boss battle, you're treated to the exact same thing. The defeated bo
 - I played the Playstation game after ... on PC.
 - Fuck the boxes factory.
 - There is a hidden wreckage of the first Metal Gear robot-thingie [hidden in the last level](https://archive.org/details/metal-gear-solid-ghost-babel-perfect-guide/page/n79/mode/2up).
-- Jenner dies. Don't act surprised. This is 0% surprising.
+- Jenner dies. Don't act surprised. This is 0% surprising. ACTUALLY SHE DOESN'T.
 
 Code to enable stage select
 https://gamehacking.org/game/11210
