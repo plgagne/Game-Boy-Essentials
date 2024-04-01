@@ -12,7 +12,6 @@ h2 {
 ul,
 ol {
   padding-left: 2.5em;
-  overflow: hidden;
 }
 ul {
   list-style: disc;
@@ -22,6 +21,7 @@ ol {
 }
 li {
   margin-left: 1.2em;
+  list-style-position: inside;
 }
 h3,
 caption {
