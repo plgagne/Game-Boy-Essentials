@@ -112,11 +112,25 @@ I guess I have to talk about the canon status of the game. There are discussions
 
 If we need to talk about one label, its that it was designed from the get-go as a gaiden title. Japanese gaidens (literally side story) are stories that stand to the side of the main narrative thrust. They tend to focus less on respecting the exact details of a timeline, and to instead provide further stories surrounding the characters. Those stories are not meant to propel the narrative forward, but to be a way to spend more time with the characters of an already existing narrative. In our specific case, *Metal Gear: Ghost Babel* seems to disregard the events of *Metal Gear 2*, and seems to happen instead of *Metal Gear Solid*. Maybe I don't pay enough attention to tiny details, but to me this makes no sense. *Ghost Babel* could totally happen between the second MSX game and *Metal Gear Solid*. Again, I don't care a lot about those things. I care enough to make a chart for this article, but I made that chart to highlight the ridiculous situation.
 
-## A passable AI
+## A Working AI
 
-I've talked time and time again that the Game Boy can't do convincing artificial intelligence with enemy characters. Its processor is simply not fast enough to reserve large chunks of compute time to calculate complex decision trees. Instead, enemies resort to simple clauses. *If the player character is close to you, run towards him*. That sort of thing. But you know what isn't fast enough for convincing AI as well? The MSX.
+I've talked time and time again that the Game Boy can't do convincing artificial intelligence with enemy characters. Its processor is simply not fast enough to reserve large chunks of compute time to calculate complex decision trees. Instead, enemies resort to simple clauses. *If the player character is close to you, run towards him*. That sort of thing. Then how can the Game Boy Color manage to have stealth gameplay with somewhat realistic enemy soldiers? The answer lies with another question: do you know what isn't fast enough for convincing AI as well as the Game Boy? The MSX.
 
-The old Metal Gear titles ran on the same family of processor as the Game Boy Color, and they managed to have somewhat convincing enemies with only  half the processor speed. They managed it by designing around the problem.
+The old Metal Gear titles ran on the same family of processor as the Game Boy Color, and they managed to have somewhat convincing soldiers with only half the processor speed. They managed it by designing around the problem.
+
+The division of the stealth gameplay into three phases immensely helps simplify gameplay. When playing the game, you are either undetected, actively hunted while under an alarm, or restoring from one in the yellow caution phase.
+
+<div class="gallery">
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+</div>
+
+With those three states, you simplify a vital element of stealth gameplay: who knows where you are? With those three states, all the soldiers all know the same thing at the same time. If we compare to something like *Thief II*, which features no centralized alarm system, guards become personally  aware of your presence and make noise to warn other guards within earshot. It's incredibly complicated to implement.
+
+Each state also allows soldiers to act differently. When you are undetected, soldiers have a predefined path that they follow. Maybe there's a chance they fall asleep, maybe they randomly turn around but they're on a predetermined set of simple coded clauses.
+
+When you become detected and move to alarm, soldiers remember the last position where you were detected and head there.
 
 - three enemies on the board at once max.
 - simple clauses, well implemented (if Snake is at a certain distance, shoot him, if alert finishes, leave as fast as possible)
