@@ -69,12 +69,19 @@ We cannot talk about *Metal Gear* without talking about Hideo Kojima at some poi
 
 Shinta Nojiri was fairly new within Konami, having only worked on the PlayStation port of *Policenauts*. After that game, there's a very conspicuous gap in his resume before he worked on *Metal Gear: Ghost Babel*. I think he might have worked uncredited on *Metal Gear Solid* as a sort of fixer. Someone who comes in to help complete a project, usually accompanied with ungodly amounts of crunch. It's conjecture on my part, but it would help explain why this very young inexperienced developper was then chosen to direct *Ghost Babel*. Finally, the game was developed with the help of TOSE. Just to jog your memory, they are a shadowy japanese company that works as a secret contractor, often even as a sub-contractor. They're a large company, responsible for the development of many games and neither the company nor their employees receive credit for their work. The stories we hear about their development structure is that you send them as much design elements as possible and they finish the game on time and on budget, without a iota of effort above that. They are not a studio that goes above and beyond.
 
-With the development of *Metal Gear: Ghost Babel*, a different approach was taken. [Shinta Nojiri actually moved from Tokyo to Kyoto and was physically embedded within the offices of TOSE](https://hg101.kontek.net/metalgear/shintanojiri.htm) It's the first time I hear of a developper physically moving to work with TOSE. It obviously helped to bring the game to fruition, but Nojiri was the only Konami developper working directly with TOSE. I think the game's flaws exist because he was the only person from Konami supervising the work directly. There was only so much he could do to bring the tender love and care a game of this scope needs. Case in point, the level design.
+With the development of *Metal Gear: Ghost Babel*, a different approach was taken. [Shinta Nojiri actually moved from Tokyo to Kyoto and was physically embedded within the offices of TOSE](https://hg101.kontek.net/metalgear/shintanojiri.htm) It's the first time I hear of a developper physically moving to work with TOSE. It obviously helped to bring the game to fruition, but Nojiri was the only Konami developper working directly with TOSE. I think the game's flaws exist because he was the only person from Konami supervising the work directly. There was only so much he could do to bring the tender love and care a game of this scope needs.
+
+- it works by chapters. probably helped a lot with development to split it like that.
+- it also saves by chapter. Its very frustrating.
+
+
+
+Case in point, the level design.
 
 ## Level Design Makes or Breaks a Classic
 
 {% include figure.html type="gb" class="left" %}
-The level design in *MG:GB* is messy. Every room, taken in isolation, is okay. Some rooms only exist to enhance gameplay, but I can forgive those rooms. It's how each and every room connects with one another that makes no sense. If you enter a building and explore different floors of that structure, the size is different from floor to floor. Elevators are placed where it makes gameplay sense, not architectural sense. Security rooms, full of traps and hazards, are placed between two corridors, protecting the entrance of nothing of value. You might think this has no impact on gameplay, but with a game focused on exploring bases to stealthily accomplish nebulous objectives, it's important to understand the layout of your environment. It's the game's greatest flaw, and I think the level design problems are due to Shinta Nojiri letting the staff of TOSE designing the levels themselves. It looks like something that was made quickly with the tiles they had, without a lot of attention paid to the players' sense of space. Here's a great example: the power plant mission.
+I used to hold *Metal Gear: Ghost Babel* in very high regard. I had played it young, and loved it immensely, as my first stealth action experience. Replaying it for this article, I have to tamper my reverence due to its level design, which left me cold upon this replay. The level design in *MG:GB* is messy. Every room, taken in isolation, is okay. Some rooms only exist to enhance gameplay, but I can forgive those rooms. It's how each and every room connects with one another that makes no sense. If you enter a building and explore different floors of that structure, the size is different from floor to floor. Elevators are placed where it makes gameplay sense, not architectural sense. Security rooms, full of traps and hazards, are placed between two corridors, protecting the entrance of nothing of value. You might think this has no impact on gameplay, but with a game focused on exploring bases to stealthily accomplish nebulous objectives, it's important to understand the layout of your environment. It's the game's greatest flaw, and I think the level design problems are due to Shinta Nojiri letting the staff of TOSE designing the levels themselves. It looks like something that was made quickly with the tiles they had, without a lot of attention paid to the players' sense of space. Here's a great example: the power plant mission.
 
 You have to find four structural pillars inside a power plant, and put C4 on them. You do that because you intend to collapse the whole building to  cut the power to Metal Gear. It's an inventive objective, made frustrating by the nonsensical floor plan of the power plant. Since the space you're in makes no sense, finding the pillars turns into exploring every room from corner to corner to make sure you haven't missed one. You cannot simply go to the four corners of the map to logically find the pillars. The dreaded box factory is another potent example. It could be made more fun if the relationships between the conveyor belt exits and the lower floors made more sense. Instead, you're dealing with a building without logic. That makes the game's worst level even more frustrating.
 
@@ -86,7 +93,11 @@ I think there are issues with readability because of the colour limits of the Ga
 
 {% include figure.html type="gb" figcaption="This puddle looks like a hole in the ground you should fall through." %}
 
-Often, you can't make sense of the areas you're looking at. I think they knew about the problem, since they always introduce a new area without enemies or challenge so you can figure out your environment without stress. On the other hand, the game features night vision goggles that work during the whole game. It's a testament to their attention to detail where it matters. If you want to find beautiful level design that showcases the capabilities of the game, you have to play the VR Training.
+Often, you can't make sense of the areas you're looking at. I think they knew about the problem, since they always introduce a new area without enemies or challenge so you can figure out your environment without stress. On the other hand, the game features thermal goggles that work during the whole game. For a 3D game with an engine that allows post-processing, it's trivial to implement. But we're talking about sprites and tiles here. This meant that every single tile in the game had to be drawn twice, just so you can use the goggles anywhere you want.
+
+{% include figure.html type="gb" figcaption="Every single section of the game can be played this way." %}
+
+It's a testament to their attention to detail where it matters. If you want to find beautiful level design that showcases the capabilities of the game, you have to play the VR Training.
 
 ## VR
 
@@ -102,6 +113,7 @@ The VR challenges made me appreciate stealth gameplay, and I ended up wanting mo
 
 ## The Goddamn Story
 
+{% include figure.html type="gb" class="float right" %}
 By the end of *Metal Gear Solid*, Solid Snake has rescued the girl (or the boy?), killed his clone brother, resolved his painful relationship with the robot ninja, and solved the mystery of people mysteriously dying around him during his mission. I guess he also saved the world. It's a convoluted ending, but it fits together nicely. Then the second game happens, and I feel like the whole story fell off the tracks. There's supposedly an AI colonel, incest, I think actually two cases of incest, ten Metal Gear vehicles who look like noodles, there's a vampire in there somewhere, another AI who runs the world, and the main villain of our story is the arm of Liquid Snake attached to Revolver Ocelot thus controlling him. Oh and you don't play as Solid Snake, you play as a new character that's really hard to love. It's the worst of Japanese excess.
 
 I do not like the story after the Playstation title. It goes up its own butt, comes out the mouth, and goes back up its own butt a second time for good measure.
@@ -110,15 +122,14 @@ Here, I'm happy to report that the story is simple, like the early MSX 2 titles 
 
 I guess I have to talk about the canon status of the game. There are discussions that the game is the final VR training of Raiden or that the game isn't canon. It leaves an aura of uselessness around the game, putting the game in a state of limbo, telling prospective players that it does not matter. That's a thing I do not like. Too often these days, canon status equates to existence. If a piece of art isn't canon, it no longer exists. Regarding these matters, I instead take an author-centric approach. The game was made with limited input from Hideo Kojima, the main driving force behind the story of the franchise. Kojima never revisited its events, so that's where it stands. No need to attach a strict label when the game's production history easily describes its position. Is it canon? It doesn't really matter.
 
+{% include figure.html type="gb" class="float left" %}
 If we need to talk about one label, its that it was designed from the get-go as a gaiden title. Japanese gaidens (literally side story) are stories that stand to the side of the main narrative thrust. They tend to focus less on respecting the exact details of a timeline, and to instead provide further stories surrounding the characters. Those stories are not meant to propel the narrative forward, but to be a way to spend more time with the characters of an already existing narrative. In our specific case, *Metal Gear: Ghost Babel* seems to disregard the events of *Metal Gear 2*, and seems to happen instead of *Metal Gear Solid*. Maybe I don't pay enough attention to tiny details, but to me this makes no sense. *Ghost Babel* could totally happen between the second MSX game and *Metal Gear Solid*. Again, I don't care a lot about those things. I care enough to make a chart for this article, but I made that chart to highlight the ridiculous situation.
 
 ## A Working AI
 
-I've talked time and time again that the Game Boy can't do convincing artificial intelligence with enemy characters. Its processor is simply not fast enough to reserve large chunks of compute time to calculate complex decision trees. Instead, enemies resort to simple clauses. *If the player character is close to you, run towards him*. That sort of thing. Then how can the Game Boy Color manage to have stealth gameplay with somewhat realistic enemy soldiers? The answer lies with another question: do you know what isn't fast enough for convincing AI as well as the Game Boy? The MSX.
+I've talked time and time again that the Game Boy can't do convincing artificial intelligence with enemy characters. Its processor is simply not fast enough to reserve large chunks of compute time to calculate complex decision trees with enemy states. Instead, enemies resort to simple clauses. *If the player character is close to you, run towards him*. That sort of thing. Then how can the Game Boy Color manage to have stealth gameplay with somewhat realistic enemy soldiers? The answer lies with another question: do you know what isn't fast enough for convincing AI as well as the Game Boy? The MSX.
 
-The old Metal Gear titles ran on the same family of processor as the Game Boy Color, and they managed to have somewhat convincing soldiers with only half the processor speed. They managed it by designing around the problem.
-
-The division of the stealth gameplay into three phases immensely helps simplify gameplay. When playing the game, you are either undetected, actively hunted while under an alarm, or restoring from one in the yellow caution phase.
+The old Metal Gear titles ran on the same family of processor as the Game Boy Color, and they managed to have somewhat convincing soldiers with only half the processor speed. They managed it by designing around the problem. A clever example is the simple enemy detection phases. When playing the game, you are either undetected in the green phase, actively hunted while under a red alarm, or restoring from an alarm in the yellow caution phase.
 
 <div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
@@ -126,37 +137,47 @@ The division of the stealth gameplay into three phases immensely helps simplify 
 {% include figure.html type="gb" class="gallery" %}
 </div>
 
-With those three states, you simplify a vital element of stealth gameplay: who knows where you are? With those three states, all the soldiers all know the same thing at the same time. If we compare to something like *Thief II*, which features no centralized alarm system, guards become personally  aware of your presence and make noise to warn other guards within earshot. It's incredibly complicated to implement.
+With those three states, you simplify a vital element of stealth gameplay: who knows where you are? All the soldiers all know the same thing at the same time. Punching enemies in the back or killing them with your silenced pistol changes nothing. Soldiers have no sense of the absence of other soldiers. They are bothered by Snake standing in front of them or making noise close to them. That's it. There's an exception for soldiers silently dying in front of them, but that's about it.
 
-Each state also allows soldiers to act differently. When you are undetected, soldiers have a predefined path that they follow. Maybe there's a chance they fall asleep, maybe they randomly turn around but they're on a predetermined set of simple coded clauses.
+These simple states also include all the other enemy types. Cameras? Soldiers on rails. Dogs? Melee range supercharged soldiers. No enemy in the game deviates from the core principles.
 
-When you become detected and move to alarm, soldiers remember the last position where you were detected and head there.
+If we compare to something like *Thief II: The Metal Age*, which features no centralized alarm system, guards become personally aware of your presence and make noise to warn other guards within earshot. It's incredibly complicated to implement with each soldier having independent awareness of the player. Mechanical enemies have their own set of rules, separate from human enemies. *Thief II* is a complicated game.
 
-- three enemies on the board at once max.
-- simple clauses, well implemented (if Snake is at a certain distance, shoot him, if alert finishes, leave as fast as possible)
-- the enemies in Metal Gear aren't really more complex than the ghosts in Pac-Man.
+Let's look at how the simple system of *Metal Gear: Ghost Babel* is implemented.
 
-- tons of little challenges. Water in the sewers, cameras that go up and down, invisible lasers, dogs. Fucking dogs.
+### Green
+
+Each state allows soldiers to act differently. When you are undetected in the green infiltration phase, soldiers have a predefined path that they follow. Maybe there's a chance they fall asleep, maybe they randomly turn around but they're on a predetermined set of simple coded clauses. In other words, that's the phase where the developers have hard coded all the interesting events.
+
+This is also a phase where making noise can attract the enemy soldiers. You can run in water or specific flooring to make noise that attracts nearby soldiers. Knocking on walls also attract enemies to the spot where you made the noise. They don't see you, so they don't trigger an alert but noise will pop a question mark above their head and send soldiers toward the noise.
+
+### Red
+
+You become visually detected by standing in front of soldiers. They have somewhat of a vision cone on Game Boy, but it's pretty much a straight line up to a certain distance. When that happens, you move to the alert phase. Here, soldiers are relentless, but their coded actions are fairly minimal. Enemies remember the last position where you were spotted and head there. Enemies have no knowledge of where Snake is during an alarm, only the last position where he was spotted. Of course, if there are enemies constantly looking at you then they always know where you are since you're always under a vision cone. If they get close enough to you when they spot you, they shoot you or hit you. Killing enemies during this phase immediately respawns another enemy that enters the screen from one of its doors. That's how you can discover that the game can only manage three soldiers per scren. Kill as many as you want, you will only ever see three enemies at the same time. Under this phase your job is to make sure none of the three enemies see you until the timer drops to zero. You then move on to evasion.
+
+### Yellow
+
+Under the yellow phase, enemies no longer roam around your last known position. They randomly search in the screen you're in. Noises attract them with a question mark once again, and once the timer for this phase hits zero, you're back in the green infiltration phase. Enemies quickly go back to the screen's border to disappear, or return to their designated route once you finish the phase.
+
+## What AI means
+
+After all that detailed analysis of enemy patterns, if you have one thing to remember is that those early *Metal Gear* games aren't much more complex than *Pac-Man*. There are more things that can change the state of the game, but nothing exceeds the complexity of a game of *Pac-Man*, down to the limited enemies on screen at the same time. Reading about how the four ghosts act in *Pac-Man*, it's schocking how similar it is to *Metal Gear*. Of course *Pac-Man* is much simpler, but the underlying logic is in the same realm of complexity, just expanded and used to achieve more complicated gameplay. Which explains why you can have such complex enemy interactions on Game Boy: it's not as complicated as you think, it's the way everything is arranged in phases that makes it *appear* complicated.
+
+When you take a step back and look at the whole game, they also break up the game into smaller events to vary the gameplay, so you never get bored. There is water in the sewers, sections filled with security cameras, rooms of invisible lasers, two nonsensical door puzzles, darkness that requires , poisonous gas, and very dangerous dogs. Since they break up the gameplay so often, you don't really have time to stop and consider the shallowness of the AI. It's a well made game in terms of pacing, except for the boxes level.
 
 ## Damn Boxes
+
 - the game is of its era. it has a ton of difficult puzzles that did not age well. the door one, the boxes factory.
 - the box factory doesn't work because the conveyor belt exits have no strict link with where they lead. It's all a jumbled mess that doesn't make logical sense.
-- you have to go through the door puzzle twice!
-- I took so long at the second puzzle a guy just came out and unlocked all the doors for me.
 
+## Music
 
-- it works by chapters. probably helped a lot with development to split it like that.
-- it also saves by chapter. Its very frustrating.
-- i was mesmerized by the game upon its release. i loved everything it did.
 - the music. it's great.
-- the story isn't too long, with a lot of what it does repetititve.
-
--
 
 - There is a hidden wreckage of the first Metal Gear robot-thingie [hidden in the last level](https://archive.org/details/metal-gear-solid-ghost-babel-perfect-guide/page/n79/mode/2up).
 
 ## Conclusion
 
-Once **I** was done with *Metal Gear:Ghost Babel**, I did the only sensible thing a kid with a Nintendo 64 could do: I bought the PC version of *Metal Gear Solid*. This version of the game is still playable today, [courtesy of GOG.com](https://www.gog.com/game/metal_gear_solid). It's a solid port. I don't remember having any issues with the game back then. They've adapted the Psycho Mantis fight, and you lose some graphical effects, but the game runs better and at a **much much** higher resolution.
+Once **I** was done with *Metal Gear:Ghost Babel** back in the early 2000s, I did the only sensible thing a kid without a Playstation could do: I bought the PC version of *Metal Gear Solid*. This version of the game is still playable today, [courtesy of GOG.com](https://www.gog.com/game/metal_gear_solid). It's a solid port. I don't remember having any issues with the game back then. They've adapted the Psycho Mantis fight, and you lose some graphical effects, but the game runs better and at a **much much** higher resolution.
 
-I liked it a lot back then, but it never felt right to play that game on a PC. I afterwards tried to play *Metal Gear Solid 3* two times. Once on PS2 and a second time on 3DS of all places. I could not care enough to play it. I recently gave a shot to *Metal Gear Solid V: The Phantom Pain*, and while I was utterly impressed by the depth of its gameplay systems, the game felt too repetitive for me. I guess the whole Metal Gear concept never really impressed me outside of the revival on Playstation and the Game Boy Color experiment. I've greatly appreciated the replay I did for this article, and recommend it. It's weird that it exists, and it's a whole lot of fun.
+I liked it a lot back then, but it never felt right to play that game on a PC. I afterwards tried to play *Metal Gear Solid 3* two times. Once on PS2 and a second time on 3DS of all places. I could not care enough to play it. I recently gave a shot to *Metal Gear Solid V: The Phantom Pain*, and while I was utterly impressed by the depth of its gameplay systems, the game felt too repetitive for me. I guess the whole Metal Gear concept never really impressed me outside of the revival on Playstation and the Game Boy Color experiment. I've greatly appreciated the replay I did for this article, and recommend it, even though its not perfect. It's wonderful that it exists, and it's a sort of fun no one expected to see on Game Boy Color.
