@@ -25,7 +25,8 @@
 - [] Déplacer l'article dans le dossier website/articles
 - [] Inscrire la date de la publication de l'article
 - [] Rapetisser les nouvelles images avec ImageOptim.app
-- [] Bâtir et synchronizer avec la tâche Production
+- [] Bâtir avec la tâche Production
+- [] Synchroniser avec le serveur
 - [] Vérifier que tout fonctionne en ligne
 - [] Publier le lien de l'article sur Mastodon
 
