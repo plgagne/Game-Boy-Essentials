@@ -6,7 +6,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id EWWFXP6QB0X3Y \\\n  --paths \"\/*\""
+      "script" : "#!\/bin\/zsh\nRED='\\033[0;31m'\necho \"${RED}Syncing _site to server.\"\nrsync -crzP --delete website\/_site\/ root@plgagne.com:\/var\/www\/gameboyessentials\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id EWWFXP6QB0X3Y \\\n  --paths \"\/*\""
     }
   },
   "openLogOnRun" : "start"
