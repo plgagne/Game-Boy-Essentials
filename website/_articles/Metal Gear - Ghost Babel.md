@@ -11,8 +11,8 @@ developers: "TOSE"
 ---
 # {{ page.title }}
 
-- North American release in April 2000
 - Japanese release in April 2000
+- North American release in April 2000
 - European release in May 2000
 - Published by Konami
 - Developed by {{ page.developers }}
