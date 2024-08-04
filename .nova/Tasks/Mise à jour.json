@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "cd website\ngem uninstall bundler\ngem update"
+    }
+  },
+  "openLogOnRun" : "start"
+}
