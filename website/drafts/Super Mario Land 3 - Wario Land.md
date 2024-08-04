@@ -65,6 +65,11 @@ I fully believe Miyamoto gave impossible constraints to the R&D1 staff to use Ma
 
 In his first video game appearance in *Super Mario Land 2*, Wario had taken over Mario’s private island. This private abode for the world's most succesful video game character has a giant statue of him, a private hippopotamus launchpad to the moon, his very own haunted house, and a gigantic palatial castle all for the glory of the famous plumber. The young developpers of R&D1, including Wario's creator Hiroji Kiyotake, were egging on Mario's success. Mario is so sucessful he's got a castle and an enormous statue dedicated to himself. In a sense, they were egging on Miyamoto himself. I mean, Miyamoto had a whole division within Nintendo, with a ton of budget and staff, all dedicated to supporting him. I read the exaggerated reverence to Mario in *Mario Land 2* as a playful jab at Miyamoto the superstar.
 
-In that game, Wario's role is very much an analogue of Bluto from the classic Popeye cartoons; Kiyotake has said so himself. He's an evil version of Mario jealous of his success so he stole his private island. Everybody enjoyed Wario's farcical take on Mario so he could fit as the protagonist for the sequel.
+In that previous game, Wario's role is like Bluto from the classic Popeye cartoons; Kiyotake, the creator of Wario, has said so himself. He's an evil version of Mario jealous of his success so he stole his private island. Since everybody enjoyed Wario's farcical take on Mario, it became clear they could elevate him to protagonist. Changing their protagonist could give them new exciting gameplay opportunities. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could even make fun of them now. That's why Wario loves garlic. Mario eats mushrooms, so Wario eats another vegetable-adjacent thing.
 
-Changing their protagonist could give them new exciting gameplay opportunities. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could even make fun of them now. That's why Wario loves garlic. Mario eats mushrooms, Wario eats garlic.
+They also chose to adorn Wario with a varied collection of hard hats in this game. The whole upgrade system is based on collecting three different hats with different abilities. They decided to give us an explanation for why Wario is wearing hard hats in this game instead of his usual cap.
+
+Wario runs through the wall of the save screen.
+He hits the corner of the pipe and loses his cap.
+He sees a hard hat on a hanger.
+He picks it up, gives a thumbs up, and the game can begin.
