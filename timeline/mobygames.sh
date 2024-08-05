@@ -6,7 +6,7 @@
 # MobyGames API Key
 key=
 
-# Offset 
+# Offset
 offset=0
 
 # Game Boy Platform ID
@@ -15,9 +15,6 @@ game_boy_color=11
 
 # MobyGames API Limit
 hourly_rate_limit=360
-
-# Set red for echo output
-RED='\033[0;31m'
 
 platform_list_fetch() {
   file="temp/platforms.json"
@@ -34,15 +31,15 @@ gb_gbc_ids_fetch() {
   file="temp/game_boy_ids.json"
   rm $file
   game_ids_fetch
-  
+
   # GBC
   platform=$game_boy_color
   file="temp/game_boy_color_ids.json"
   rm $file
   game_ids_fetch
 }
-  
-game_ids_fetch() {   
+
+game_ids_fetch() {
   echo "${RED}Doing platform number:$platform"
   echo "${RED}Offset:$offset"
   for i in {0..8}
@@ -53,8 +50,8 @@ game_ids_fetch() {
       sleep 2
     done
   offset=0
-  
-  # Make valid JSON 
+
+  # Make valid JSON
   jq -s 'map(.[][])' $file > INPUT.tmp && mv INPUT.tmp $file
   jsonlint -q $file
 }
@@ -84,29 +81,29 @@ detailed_games_fetch() {
 
 games_fetch() {
   jq -r '.[]' $list | while read id; do
-  
+
       echo "${RED}Game id:$id"
-      
+
       # Get detailed release
       fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games?api_key=$key&format=normal&id=$id")
       echo $fetched >> $file
       sleep 2
-      
+
       # Get specific platform release
       sed -i '' '$s/...$/},/' $file
       fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform?api_key=$key")
       echo $fetched >> $file
       sleep 2
-      
+
       # Get specific platform cover art
       echo ',' >> $file
       fetched=$(curl -k --location --request GET "https://api.mobygames.com/v1/games/$id/platforms/$platform/covers?api_key=$key")
       echo $fetched >> $file
       sleep 2
-      
+
       # End the current game
       echo ']},' >> $file
-  
+
   done
   tr -d "\n" < $file > "temp/tmp.json"
   sed -i '' '$s/.$/]/' "temp/tmp.json"

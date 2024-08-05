@@ -6,9 +6,6 @@ volume=1
 # This variable is the last volume to be bound
 last_volume=1
 
-# Set red for echo output
-RED='\033[0;31m'
-
 # Navigate to correct folder
 cd books
 
