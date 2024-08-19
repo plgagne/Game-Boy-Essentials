@@ -1,3 +1,15 @@
+---
+title: "Wario Land: Super Mario Land 3"
+description: "Garlic Lover"
+slug: "dmg-wj"
+release-date: "1994-01-21"
+release-year: "1994"
+release-month: "01"
+publication: "2023-01-xx"
+tags: [book4]
+developers: "Nintendo R&D1"
+---
+
 ## Controls and sprites
 
 Wario is a big boy
@@ -20,24 +32,14 @@ Nintendo usually releases one new title per franchise per console. They've been 
 
 SO the two pseudo sequels here are kind of some sense of a transition perhaps?
 
----
-title: "Wario Land: Super Mario Land 3"
-description: "Garlic Lover"
-slug: "dmg-wj"
-release-date: "1994-01-21"
-release-year: "1994"
-release-month: "01"
-publication: "2023-01-xx"
-tags: [book4]
-developers: "Nintendo R&D1"
----
+
 # {{ page.title }}
 
 - Japanese release in January 1994
 - North American release in March 1994
 - European release in May 1994
 - Published by Nintendo
-- Developed by Nintendo R&D1
+- Developed by {{ page. developers }}
 
 {% include figure.html type="boxart" figcaption="" %}
 
@@ -67,9 +69,24 @@ In his first video game appearance in *Super Mario Land 2*, Wario had taken over
 
 In that previous game, Wario's role is like Bluto from the classic Popeye cartoons; Kiyotake, the creator of Wario, has said so himself. He's an evil version of Mario jealous of his success so he stole his private island. Since everybody enjoyed Wario's farcical take on Mario, it became clear they could elevate him to protagonist. Changing their protagonist could give them new exciting gameplay opportunities. They were now making a Wario game, so they could make their own choices; they no longer had to respect the Mario gameplay traditions. They could even make fun of them now. That's why Wario loves garlic. Mario eats mushrooms, so Wario eats another vegetable-adjacent thing.
 
-They also chose to adorn Wario with a varied collection of hard hats in this game. The whole upgrade system is based on collecting three different hats with different abilities. They decided to give us an explanation for why Wario is wearing hard hats in this game instead of his usual cap.
+They also chose to adorn Wario with a varied collection of hard hats in this game. The whole upgrade system is based on collecting three different hats with different abilities, and the game starts with an explanation for why Wario is wearing hard hats in this game instead of his cap.
 
-Wario runs through the wall of the save screen.
-He hits the corner of the pipe and loses his cap.
-He sees a hard hat on a hanger.
-He picks it up, gives a thumbs up, and the game can begin.
+<div class="gallery">
+{% include figure.html type="gb" class="gallery" figcaption="Wario runs through the wall of the save screen." %}
+{% include figure.html type="gb" class="gallery" figcaption="He hits the corner of the pipe and loses his cap." %}
+{% include figure.html type="gb" class="gallery" figcaption="He sees a hard hat on a hanger." %}
+{% include figure.html type="gb" class="gallery" figcaption="He picks it up, gives a thumbs up, and the game can begin." %}
+</div>
+
+The story couldn't be simpler. Here it is straight from the manual:
+
+> Remember *Super Mario Land 2: Six Golden Coins*? Wario tried to take over Mario’s castle, but didn’t have much luck. Wario, being the persistent guy he is, has not given up. Now, he wants a castle more than ever before.
+>
+> One day, Wario was practising being mean when he thought to himself, “Rumour has it that the pirates of Kitchen Island have stolen the giant golden statue of Princess Toadstool. Mario is looking for it but, if I find it first, I could cash it in for a princess’ ransom. With that cash and the pirates’ other treasures and coins, I could buy a palace that is way bigger than Mario’s pathetic excuse for a castle. Ga, ha, ha, ha...! What am I waiting for!?”
+>
+> Full of confidence, Wario took off. He didn’t even stop to think of how tough the Brown Sugar Pirates were. Their leader, Captain Syrup was known the world over for being a really rotten and ruthless guy.
+>
+> Can Wario find the coins and treasures hidden on Kitchen Island? What will his new palace look like? Will he keep being so mean and ugly?
+Let’s find out!
+
+## The Vibes are Good
