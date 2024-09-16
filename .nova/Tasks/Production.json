@@ -6,7 +6,7 @@
     },
     "clean" : {
       "enabled" : true,
-      "script" : "cd website\njekyll clean"
+      "script" : "cd website\ngem update --system\ngem install bundler\nbundle clean --force\nbundle update\njekyll clean"
     },
     "run" : {
       "enabled" : true,
