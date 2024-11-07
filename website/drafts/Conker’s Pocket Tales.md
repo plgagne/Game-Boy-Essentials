@@ -55,3 +55,14 @@ The game starts you in a completely different room? What's happening? There are 
 
 
 ## A Completely Incompatible Save System
+
+Uses the Donkey Kong Land sound effects.
+
+## The GB version
+- The game has no continue. You die, you go back to your last save.
+- Combat? What combat?
+- Nothing redeemable. It's horrible.
+- The big walnut says that you now have to beat their game. And then you're thrown to a game of aiming at targets. There are no connections to anything, it just happens. In that moment, I never felt more like the developers directly talking to me. Now play this minigame!
+- Which door can you walk through? Guess!
+{% include figure.html type="gb" class="" figcaption="" filename="doors" %}
+- You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. So much so that the characters just straight up tell you what to do.

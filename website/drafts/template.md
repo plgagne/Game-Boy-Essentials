@@ -27,7 +27,7 @@ Always start the article with an evocative screenshot on float left.
 
 Every image is to be used inside a figure. !fig will autocomplete into what you need. Note that it will increment the name of the object by one for each one on the page with the following naming convention:
 
-(slug)-(number).(filename)
+(slug)-(number).(filetype)
 
 Here’s an explanation of what all the types and classes do and when to use them.
 
@@ -74,6 +74,10 @@ You can also build a gallery by putting your declarations inside a div. Gallerie
 {% include figure.html type="gb" class="gallery" figcaption="" %}
 </div>
 ~~~
+
+## Filename
+
+If you provide a filename, the system will use that instead of the incrementing system for that one particular image.
 
 ## Links
 

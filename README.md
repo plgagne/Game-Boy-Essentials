@@ -3,7 +3,6 @@
 
 ## Tâches
 
-
 ### Ligne du temps
 - Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
@@ -13,10 +12,8 @@
 ### Long terme
 - Simplifier la structure des images de timeline
   - ensuite, ajouter des images non-disponible
-- Jouer à https://taylormccue.itch.io/trauma
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
-- Faire une infolettre pour être averti de mes nouvelles publications avec Amazon SES comme système d'envoi et mon courriel comme gestionnaire des abonnements
 
 ## Liste de vérification pour publication d'un article
 - [] Vérifier que toutes les dates sont bien incluses
