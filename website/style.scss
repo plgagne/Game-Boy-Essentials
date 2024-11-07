@@ -1,6 +1,5 @@
 ---
 ---
-@import "variables";
-@import "reset";
-@import "main";
-@import "markdown";
+@use "_scss/reset.scss";
+@use "_scss/main.scss";
+@use "_scss/markdown.scss";
