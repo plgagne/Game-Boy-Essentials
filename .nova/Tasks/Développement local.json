@@ -1,8 +1,7 @@
 {
   "actions" : {
     "clean" : {
-      "enabled" : true,
-      "script" : "cd website\njekyll clean"
+      "enabled" : true
     },
     "run" : {
       "enabled" : true,
