@@ -65,4 +65,4 @@ Uses the Donkey Kong Land sound effects.
 - The big walnut says that you now have to beat their game. And then you're thrown to a game of aiming at targets. There are no connections to anything, it just happens. In that moment, I never felt more like the developers directly talking to me. Now play this minigame!
 - Which door can you walk through? Guess!
 {% include figure.html type="gb" class="" figcaption="" filename="doors" %}
-- You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. So much so that the characters just straight up tell you what to do.
+- You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. The characters just straight up tell you what to do, which is common enough
