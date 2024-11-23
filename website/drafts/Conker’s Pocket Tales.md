@@ -54,7 +54,7 @@ The game starts you in a completely different room? What's happening? There are 
 
 
 
-## A Completely Incompatible Save System
+
 
 Uses the Donkey Kong Land sound effects.
 
@@ -64,5 +64,11 @@ Uses the Donkey Kong Land sound effects.
 - Nothing redeemable. It's horrible.
 - The big walnut says that you now have to beat their game. And then you're thrown to a game of aiming at targets. There are no connections to anything, it just happens. In that moment, I never felt more like the developers directly talking to me. Now play this minigame!
 - Which door can you walk through? Guess!
-{% include figure.html type="gb" class="" figcaption="" filename="doors" %}
-- You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. The characters just straight up tell you what to do, which is common enough
+{% include figure.html type="gb" filename="doors" %}
+- You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. The characters just straight up tell you what to do.
+- I can't justify playing any more of this boring game; let's switch to the Game Boy Color version.
+
+## A Completely Incompatible Save System
+
+If you upgrade from a Game Boy to a Game Boy Color you are presented with this screen:
+{% include figure.html filename="save" type="gb" %}

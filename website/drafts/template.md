@@ -77,7 +77,9 @@ You can also build a gallery by putting your declarations inside a div. Gallerie
 
 ## Filename
 
-If you provide a filename, the system will use that instead of the incrementing system for that one particular image.
+If you provide a filename without the extension, the system will use that instead of the incrementing system for that one particular image.
+
+{% include figure.html filename="template_image" type="" class="" figcaption="" %}
 
 ## Links
 
