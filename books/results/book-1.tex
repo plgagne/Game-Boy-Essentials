@@ -22,7 +22,7 @@
 % Createspace: createspace.com/Products/Book/InteriorPDF.jsp
 % Geometry: texdoc.net/texmf-dist/doc/latex/geometry/geometry.pdf
 \usepackage[
-paperwidth=5.5in, 
+paperwidth=5.5in,
 paperheight=8.5in,
 top=1.5cm,
 headheight=3.5mm,
@@ -180,7 +180,7 @@ marginparwidth=0cm
 \endgroup
 \thispagestyle{empty}
 \fontspec{Adobe Caslon Pro}[WordSpace = 1.1]
-%\fontspec{Adobe Caslon Pro} 
+%\fontspec{Adobe Caslon Pro}
 %\addfontfeature{LetterSpace=1.0}
 \setstretch{1.2}
 \fontsize{12pt}{12pt}\selectfont\begingroup \chapter*{Introduction}\markboth{Introduction}{}\addcontentsline{toc}{chapter}{Introduction} \endgroup
@@ -229,7 +229,7 @@ It might seem quaint in hindsight, but \emph{Tetris} in 1989 was revolutionary. 
 \begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets/assets/dmg-tr/dmg-tr-4.jpg}\end{wrapfigure}
 \emph{Tetris} is the game that built the Game Boy. Without it, the release of the system does not have a game of truly universal appeal. When the Game Boy was originally released, the presence of \emph{Tetris} on the system meant that business people, parents, children, basically anyone could enjoy the pea soup screen of the chunky Game Boy with an unparallelled experience. The main appeal of the revolutionary puzzle game, playing it in your palms, could not be achieved on any competitors’ machine since \emph{Tetris} was exclusive to portable consoles made by Nintendo. To the layman, \emph{Tetris} could even appear to have been invented by Nintendo. Except for the whole Russian theme the game has. While the match made in heaven was packed together in the same box in North America, Japan is a different story. \emph{Tetris} did not come out at the same time as the system in Japan. The Game Boy came out in April with \emph{Super Mario Land}, \emph{Alleyway}, \emph{Baseball} and \emph{Yakuman}, a mahjong title. \emph{Tetris} joined them two months later in June. I do not know exactly why that is, whether the game was simply not ready or something else more complicated. I tend to think it simply wasn’t finished in time because of the licensing history I’ll touch on later. \emph{Tetris} was thus not bundled with the Game Boy but keep in mind that the Japanese market very rarely bundles games with systems. It’s a matter of marketing tradition and consumer expectations. I don’t think it would have been bundled even if it came out at the same time as the Game Boy.
 
-I absolutely need to clarify that \emph{Tetris} was not \emph{created} for the Game Boy, merely adapted. The long and sordid story of \emph{Tetris} leaving Motherland Russia and taking the rest of the world by storm is convoluted. Keeping it simple, Alexei Pajitnov created it in 1984 and it seeped to Europe and the rest of the West through unauthorized, and thus illegal, home computer versions. When he first saw the game, Hiroshi Yamauchi, Nintendo’s ruthless president, understood the match made in heaven between the upcoming Game Boy and \emph{Tetris}. He had Henk Rogers sent on Nintendo’s behalf to negotiate with the Soviet government. Henk Rogers, founder of Bullet-Proof Software, was a rare westerner working successfully in the Japanese game market (he famously introduced the Japanese to RPGs with \emph{The Black Onyx}) and he had come in contact with \emph{Tetris}, had fallen in love and started paying for a Japanese licence from the supposed British sub-licensee of Pajitnov, the game’s creator. He traveled to Moscow to make sure the game could be published on Game Boy and discovered that Elektronorgtechnica (ELORG), the Soviet organization that owned \emph{Tetris} because Pajitnov created the game at his job, had not licensed the game for console to anybody. Imagine that: Rogers was selling an illegal Famicom version according to the Soviets, and he learned it while trying to negotiate with them. Just as Henk had been able to get Yamauchi to trust him, he managed to convince the Soviets to trust him and he managed to secure a legitimate licence in 1989 from ELORG. He pissed off Atari in the process to the point where the fight between them and Nintendo over \emph{Tetris} eventually had to go to court, and through that whole process Rogers became a lifelong friend and business partner of Pajitnov to this day.
+I absolutely need to clarify that \emph{Tetris} was not \emph{created} for the Game Boy, merely adapted. The long and sordid story of \emph{Tetris} leaving Motherland Russia and taking the rest of the world by storm is convoluted. Keeping it simple, Alexei Pajitnov created it in 1984 and it seeped to Europe and the rest of the West through home computer versions licensed and sub-licensed from the Soviet state. The British licensees got careless with their license, straight up acting like they owned the game, and licensed beyond what they had negotiated with the Soviets. Henk Rogers ended up with a Japanese video game console license that way. When he first saw the game, Hiroshi Yamauchi, Nintendo’s ruthless president, understood the match made in heaven between the upcoming Game Boy and \emph{Tetris}. He then had Henk Rogers sent on Nintendo’s behalf to negotiate for portable consoles terms. Henk Rogers, founder of Bullet-Proof Software, was a rare westerner working successfully in the Japanese game market (he famously introduced the Japanese to RPGs with \emph{The Black Onyx}) and he had come in contact with \emph{Tetris}, had fallen in love and started paying for a Japanese licence from the supposed British sub-licensee of Pajitnov, the game’s creator. He traveled to Moscow to make sure the game could be published on Game Boy and discovered that Elektronorgtechnica (ELORG), the Soviet organization that owned \emph{Tetris} because Pajitnov created the game at his job, had not licensed the game for console to anybody. Imagine that: Rogers was selling an illegal Famicom version according to the Soviets, and he learned it while trying to negotiate with them. Just as Henk had been able to get Yamauchi to trust him, he managed to convince the Soviets to trust him and he managed to secure a legitimate licence in 1989 from ELORG. He pissed off Atari in the process to the point where the fight between them and Nintendo over \emph{Tetris} eventually had to go to court, and through that whole process Rogers became a lifelong friend and business partner of Pajitnov to this day.
 
 \FloatBarrier\needspace{5pt}\section*{My Personal Affair With Tetris}\nopagebreak[4]
 
@@ -389,7 +389,7 @@ You have some breaths of fresh air in there but most of the game’s art style i
 
 There is another thing we need to talk about that induces ghosting: the camera. In a 2D side-scrolling game, you need to build a movement system for the camera. You cannot just directly map camera movement to character movement. Play \emph{Super Mario Bros.} and look at how the camera establishes boxes for Mario to decide whether the screen will move or not. I could go into detail about how the boxes in \emph{Donkey Kong Land} work but suffice it to say they’re all screwed up! I can talk of one telling example.
 
-
+<video src="/assets/dmg-yt/dmg-yt-18.mp4" loading="lazy" type="video/mp4" controls="" loop=""></video>
 
 There is an unnecessary camera move upward when jumping while standing still. It is one of the many ways the camera causes undue ghosting. Other games will prefer large, generous camera boxes that will allow you to reach nearly to the top of the screen before scrolling. It’s a choice with consequences (you can see less of what’s above you) but Rare chose the wrong priority here.
 
@@ -879,7 +879,7 @@ My friends played \emph{Zelda} games, but \emph{Link’s Awakening} was \textbf{
 
 When you first turn it on, you’re immediately thrown into a storm, without any logos beforehand. Except for the mandatory descending Nintendo logo the console itself boots with. Fun fact, that logo is actually a copyright mechanism intended to prevent unlicensed games from playing on the console. After that small slice of software obscurantism hiding as a copyright claim, you’re immediately thrown into music that could not be clearer about the danger our hero is in. Link is riding on this frankly minuscule boat. Through a limited amount of scrolling elements, an alternating rain effect and only two screens, you get a clear picture of the severity of the storm and what is happening. Link is in trouble. The boat gets hit by lightning. Fade to white. The sound of waves hitting a beach. A girl looking like Zelda walks on the beach and finds Link washed ashore, clearly unconscious. Pan up to one of the craziest things you could ever imagine: an enormous egg sitting on top of a mountain. Cue logo and Zelda’s theme.
 
-
+<video src="/assets/dmg-zl/dmg-zl-4.mp4" loading="lazy" type="video/mp4" controls="" loop=""></video>
 
 In exactly one minute, you are given a wonderful introduction to a story that will unfold in front of your eyes through hours of play. This is a masterclass in portable storytelling. No words, no undue length, full of emotion and mystery. Yoshiaki Koizumi, who was responsible for making the introductory sequence, knew exactly what he was doing.
 
@@ -1214,7 +1214,7 @@ One thing that’s peculiar about \emph{Nemesis} is the lack of persistent progr
 
 So far everything is not perfect but still the game is very good. However, on the column of crimes against humanity committed by \emph{Nemesis}, there’s the sound the laser upgrade makes.
 
-
+<audio src="/assets/dmg-nm/dmg-nm-9.mp3" loading="lazy" type="audio/mpeg" controls=""></audio>
 
 This horrible shrieking noise is constantly heard if you choose to get the most powerful weapon in the game. As a sound effect that you would hear when you die, or blow up a boss I guess it would be okay. \textbf{Not hearing it every goddamn second!} There were honestly times I chose the spread shot because I was tired of hearing the laser’s whine.
 
@@ -1280,7 +1280,7 @@ In early 1998, Sunsoft picked up the rights to the forgotten \emph{Final Fantasy
 
 I read the manual cover to cover multiple times in that long car ride back home. Remember that I am not an anglophone and had very limited abilities in English at that time. I could somewhat understand what was written but I didn’t get everything. It didn’t stop me from trying though. It emboldened me! That long car ride back home reading the manual is a big reason why I cannot divorce \emph{The Final Fantasy Legend} from its manual. Other Game Boy games where I pored over the manual (for example, \emph{Dragon Warrior III} or \emph{Pokémon}) have not left me with such a deep impression. The manuals are not bringing you a different outlook on the game and you can reasonably expect someone who never reads the manual to get the same thing out of the game. They’re not essential. \emph{The Final Fantasy Legend} has a manual so divorced from the rest of the game, so Americanized with its obvious \emph{Dungeon \& Dragons} influences, that it portrays a completely different tableau than the chibi-inspired squat little Japanese characters that inhabit the game. The game tries to tell a simple, straightforward and \textbf{passionately weird} story while the manual tries to sell you on this operatic, Wagnerian opera that \emph{The Final Fantasy Legend} is \textbf{not}. This clash awoken a feeling of despair as I finally started playing; I felt like the characters of this game were delusional about the world they were actually living in. I imagined these valorous medieval stereotypes stuck in a sanitarium.
 
-
+<object data="/assets/dmg-sa/dmg-sa-3.pdf" loading="lazy" type="application/pdf"></object>
 
 Now is as good a time as any to mention that the game is not \emph{really} a \emph{Final Fantasy} title. It has been strongly influenced by the series since it was produced by Akitoshi Kawazu, who worked on \emph{Final Fantasy I} and \emph{II} but it’s only a \emph{Final Fantasy} title outside of Japan. It used the title \emph{SaGa} in Japan. Most of what I know of how Kawazu created the first game of the \emph{SaGa} series comes from the Retronauts podcast. Kawazu was one of the creators of the original \emph{Final Fantasy} along with Hironobu Sakaguchi and Nasir Gebelli (the Iranian-American Apple ][ star programmer!). They all made the first \emph{Final Fantasy} game a success and they teamed up again on the second one, using Kawazu’s new idea for activity-based progression. What is that? Basically, you use a sword, your character gets better at using a sword. You get hit, your defence points increase. It’s straightforward but it led to overtly specialized characters who could not do more than one thing reliably in \emph{Final Fantasy II}. According to Kawazu himself (who talked about this with Jeremy Parish in an interview), nobody else but him understood his progression system at SquareSoft so he was the only one championing it. He moved on to \emph{SaGa} on Game Boy and brought his activity-based ideas with him while \emph{Final Fantasy} went back to the first game’s level-based progression for its third game on NES. So you end up with him and Koichi Ishii, who was mostly responsible for the scenario, being the two important figures of \emph{The Final Fantasy Legend}. Koichi Ishii would later be the main producer of \emph{Final Fantasy Adventure} and is thus the \emph{Mana} series creator.
 
@@ -1358,6 +1358,12 @@ Finally, I think that the game was essential to the community of Game Boy develo
 \centering \includegraphics[width=4.85cm]{assets/assets/dmg-sa/dmg-sa-9.png}\par\pagetwodescription You bastard.
 \vskip 6pt
 \end{figure}
+
+
+
+
+
+
 
 
 

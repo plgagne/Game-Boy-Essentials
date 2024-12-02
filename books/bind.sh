@@ -4,13 +4,14 @@
 volume=1
 
 # This variable is the last volume to be bound
-last_volume=1
+last_volume=3
 
-# Navigate to correct folder
-cd books
+# Clean
+rm -r "temp/tag"
+rm -r "results"
+mkdir "results"
 
 # Make temp
-mkdir "temp"
 if [ -r "temp/assets" ]; then
   echo "${RED}Book-sized images folder exists in books/temp/assets. Delete to recreate."
 else
@@ -28,13 +29,12 @@ echo "${RED}Copying all articles from tags structure ..."
 cp -r "../website/_site-local/tag" "temp"
 
 # Run binding on each volume
-mkdir "results"
 until [[ "$volume" -gt "$last_volume" ]]; do
   echo "${RED}Building book:" $volume
   echo "${RED}Making HTML version of introduction ..."
   kramdown volume-$volume-intro.md >temp/volume-$volume-intro.html
   echo "${RED}Merging introduction with articles ..."
-  cat temp/volume-$volume-intro.html temp/tag/book$volume/index.html > temp/intermediate-current.html
+  cat temp/volume-$volume-intro.html temp/tag/book$volume.html > temp/intermediate-current.html
   rm temp/volume-$volume-intro.html
   echo "${RED}Running Ruby file for book binding ..."
   ruby "bind.rb"
