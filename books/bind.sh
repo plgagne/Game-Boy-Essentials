@@ -16,7 +16,7 @@ if [ -r "temp/assets" ]; then
 else
   echo "${RED}Book-sized images do not exist. Making them now:"
   mkdir "temp/assets"
-  cp -r "${website_location}/assets/" "temp/assets/assets/"
+  cp -r "../website/assets/" "temp/assets/assets/"
   find "temp/assets" -type f -name '*.png' -print0 | while IFS= read -r -d '' line; do
     echo $line
     magick mogrify -interpolate nearest -filter point -resize 800% $line
@@ -25,7 +25,7 @@ fi
 
 # Copy _site-local into temp
 echo "${RED}Copying all articles from tags structure ..."
-cp -r "${website_location}/_site-local/tag" "temp"
+cp -r "../website/_site-local/tag" "temp"
 
 # Run binding on each volume
 mkdir "results"
