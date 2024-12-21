@@ -50,6 +50,7 @@
   - Tu n'as aucune idée des attentes du lecteur puisque tu n'as pas de liseuse.
 - Un transformateur de style de code comme Prettier
   - Liquid n'est pas assez bien supporté pour être beau à mes yeux.
+  - Le code pour transposer le HTML en TeX est très dépendant de lignes bien délimités
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
