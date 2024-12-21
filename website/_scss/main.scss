@@ -434,12 +434,12 @@ object {
 }
 .books_volume {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   margin-top: 0.5rem;
 }
 .books_cover {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 .books_img {
   vertical-align: top;
@@ -451,7 +451,6 @@ object {
   flex-direction: column;
   justify-content: space-between;
   height: fit-content;
-  margin-left: 0.8em;
 }
 .books_storetitle {
   color: $light-beige;
