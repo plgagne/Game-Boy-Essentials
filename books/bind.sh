@@ -6,11 +6,6 @@ volume=1
 # This variable is the last volume to be bound
 last_volume=3
 
-# Clean
-rm -r "temp/tag"
-rm -r "results"
-mkdir "results"
-
 # Make temp
 if [ -r "temp/assets" ]; then
   echo "${RED}Book-sized images folder exists in books/temp/assets. Delete to recreate."
@@ -26,6 +21,7 @@ fi
 
 # Copy _site-local into temp
 echo "${RED}Copying all articles from tags structure ..."
+rm -r "temp/tag"
 cp -r "../website/_site-local/tag" "temp"
 
 # Run binding on each volume
