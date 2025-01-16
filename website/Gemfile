@@ -3,6 +3,10 @@ source "https://rubygems.org"
 
 gem "jekyll"
 
+# The gems removed from standard lib of Ruby 3.4.0 that Jekyll can't fucking seem to bother to fix
+gem "csv"
+gem "base64"
+
 group :jekyll_plugins do
   gem 'jekyll-image-size'
   gem 'jekyll-minifier'
