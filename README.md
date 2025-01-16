@@ -1,6 +1,4 @@
 # Game Boy Essentials
-[![site-build](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml/badge.svg)](https://github.com/plgagne/Game-Boy-Essentials/actions/workflows/site-build.yml)
-
 ## Tâches
 
 ### Ligne du temps
