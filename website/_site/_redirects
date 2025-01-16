@@ -1,0 +1,37 @@
+    # J'ai changé le nom du dossier timeline pour timelines
+    # rewrite ^.*/timeline/(.*)$ https://gameboyessentials.com/timelines/$1;
+    /timeline/:lereste /timelines/:lereste
+    /timeline /timelines
+
+    # Vieux liens avant que j'utilise /articles
+    # rewrite ^.*/[1-2][0-9][0-9][0-9]/(.*)$ https://gameboyessentials.com/articles/$1;
+    /1989/:article /articles/:article
+    /1990/:article /articles/:article
+    /1991/:article /articles/:article
+    /1992/:article /articles/:article
+    /1993/:article /articles/:article
+    /1994/:article /articles/:article
+    /1995/:article /articles/:article
+    /1996/:article /articles/:article
+    /1997/:article /articles/:article
+    /1998/:article /articles/:article
+    /1999/:article /articles/:article
+    /2000/:article /articles/:article
+    /2001/:article /articles/:article
+    /2002/:article /articles/:article
+
+    # Cloudflare Pages semble faire tout le reste automatiquement
+    # Retirer les / de fin d'URL
+    # rewrite ^/(.*)/$ https://gameboyessentials.com/$1;
+
+    # Retirer .html des URL de premier niveau (folio)
+    #rewrite ^/about.html$ https://gameboyessentials.com/about;
+    #rewrite ^/book.html$ https://gameboyessentials.com/book;
+    #rewrite ^/guide.html$ https://gameboyessentials.com/guide;
+    #rewrite ^/timeline.html$ https://gameboyessentials.com/timeline;
+
+    # Retirer .html des URL de second niveau (les articles)
+    #rewrite ^/(.*)/(.*).html$ https://gameboyessentials.com/$1/$2;
+
+    # Charger un .html sans l'extension
+    #try_files $uri.html $uri $uri/ =404;
