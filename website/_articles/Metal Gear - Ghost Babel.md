@@ -30,7 +30,7 @@ I’ve spent my whole formative years watching the disappointing sequels to ’8
 - My first *Superman* was *Superman IV*.
 - *City Slickers II: The Legend of Curly’s Gold* was my first Billy Crystal movie.
 - I only ever saw *Coccoon: The Return*, never the original.
-- I managed to see Disney’s nightmarish *Return to Oz* before I saw the classic Judy Garland classic.
+- I managed to see Disney’s nightmarish *Return to Oz* before I saw the classic Judy Garland movie.
 - *Bill and Ted 2* was the only one of the two I’d seen until I saw the first one much later.
 - I loved the craziness and meta references of *Gremlins 2* without the need to see the original.
 - Finally, like most of my friends I saw *Spaceballs* before I saw any *Star Wars* movie. I have to admit that the transformation of *Spaceball One* into *Mega Maid* was more impressive to me than any special effects in the first three *Star Wars*.
