@@ -1,6 +1,6 @@
 ---
-title: "Timeline"
-slug: "timeline"
+title: "Timelines"
+slug: "timelines"
 layout: "timeline"
 weight: 4
 ---
