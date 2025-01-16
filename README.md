@@ -58,3 +58,4 @@
 - Me servir de Github
 - Passer à SCSS
 - Avoir un serveur
+- Ne plus avoir un serveur
