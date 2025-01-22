@@ -20,7 +20,7 @@
     /2001/:article /articles/:article
     /2002/:article /articles/:article
 
-    # Cloudflare Pages semble faire tout le reste automatiquement
+    # Cloudflare Pages fait tout le reste automatiquement
     # Retirer les / de fin d'URL
     # rewrite ^/(.*)/$ https://gameboyessentials.com/$1;
 
