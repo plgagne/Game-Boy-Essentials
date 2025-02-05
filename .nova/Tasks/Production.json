@@ -6,7 +6,7 @@
     },
     "clean" : {
       "enabled" : true,
-      "script" : "rbenv install $(rbenv install -l | grep -v - | tail -1) --force\nrbenv global $(rbenv install -l | grep -v - | tail -1) --force\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
+      "script" : "git gc\nrbenv install $(rbenv install -l | grep -v - | tail -1) --force\nrbenv global $(rbenv install -l | grep -v - | tail -1) --force\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
     },
     "run" : {
       "script" : "#!\/bin\/zsh\necho \"${RED}Syncing _site to server.\"\nrsync -crzP --delete website\/_site\/ root@plgagne.com:\/var\/www\/gameboyessentials\necho \"${RED}Invalidating CloudFront distribution.\"\naws cloudfront create-invalidation \\\n  --distribution-id EWWFXP6QB0X3Y \\\n  --paths \"\/*\""
