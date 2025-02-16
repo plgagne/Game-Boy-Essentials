@@ -27,7 +27,7 @@ I’m happy I experienced *The Sword of Hope*, even if I could not find the ener
 
 ## Adventure Games Primer
 
-Back when *The Sword of Hope* was released in Japan in 1989, adventure games had evolved into a very specific genre of video games but they were still at the core the evolution of text adventure games. Games like 1980's *Zork I* allowed you to wander and interact with a large world through text alone, and as computers became more powerful developers had the brilliant idea of replacing the descriptive text with images. A new genre, called adventure games, was born that used graphics but still allowed the frustrating experience of text input for any interaction:
+Back when *The Sword of Hope* was released in Japan in 1989, adventure games had evolved into a very specific genre of video games but they were still at the core the evolution of text adventure games. Games like 1980’s *Zork I* allowed you to wander and interact with a large world through text alone, and as computers became more powerful developers had the brilliant idea of replacing the descriptive text with images. A new genre, called adventure games, was born that used graphics but still allowed the frustrating experience of text input for any interaction:
 
 <code>> pick up sword<br>I DO NOT KNOW WHAT "up" IS<br>> pick sword<br>CANNOT "pick"<br>> take sword<br>YOU PICK UP THE SWORD. WHAT DO YOU DO NEXT?<br>> go to hell !!!<br>I DO NOT KNOW WHAT "to" IS<br>> </code>
 

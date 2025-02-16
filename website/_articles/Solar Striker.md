@@ -34,7 +34,7 @@ Anyway, you put in the game and you’re treated to an oddity. You get a title s
 
 ## Managing Three Bullets
 
-{% include figure.html type="gb" class="float left" %}
+{% include figure.html type="gb" %}
 *Solar Striker* can be resumed in three words: manage three bullets. That’s all you do. You can have three bullets on the screen at a time, no more. You then have to decide: do you want to shoot one bullet per enemy, conserving shots for other hazards that might pop up, do you want to hold the button to fire willy-nilly, or do you want to press the button rapidly to fire your three bullets even faster than holding the button would? That’s the crux of everything you do. Of course you also need to move your little ship but I would argue it’s less important than bullet management. You move to be able to deliver bullets to enemy ships in this game. You barely dodge. Unless your upgrades have all been decimated and you’re down to the pea-shooter you get when you start. Then you need to dodge like hell because your firepower is gone and you can’t expect to destroy your enemies before they can attack you. Your upgrades increase the damage you inflict and as early as the third level of the game, you pretty much need at least a couple of upgrades if you hope to be able to destroy enemies reliably. If you’re out of upgrades, you’re mostly dodging enemies that are too tough to destroy. It quickly sours your enjoyment of the game.
 
 ## A Brutal Upgrade System
