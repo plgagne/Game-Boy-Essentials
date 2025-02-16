@@ -14,13 +14,12 @@ contents = contents.gsub(/\t/, '')
 
 # Titles
 contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\begingroup \chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2} \endgroup')
-contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{5pt}\section*{')
+contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{10mm}\section*{')
 contents = contents.gsub(/<h3 id="(.*?)">/, '\subsection*{')
 contents = contents.gsub(/<a href="(.*?)">/, '')
 contents = contents.gsub(/<audio src="(.*?)">
 <\/audio>/, '')
-contents = contents.gsub(/<video src="(.*?)">
-<\/video>/, '')
+contents = contents.gsub(/<video src="(.*?)"><\/video>/, '')
 contents = contents.gsub(/<object data="(.*?)">
 <\/object>/, '')
 
