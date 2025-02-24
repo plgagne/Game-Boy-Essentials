@@ -75,18 +75,32 @@ I have talked again and again about the challenges developers had in making game
 
 He's huge! When you play the game you might not realize it but he's also very slow. Even when dashing, Wario does not move particularly fast compared to other titles on the portable console. A big sprite that doesn't move fast is much easier to see on the poor Game Boy screen. I'm sure the big success and enduring legacy of this game is in large part due to its visual affordances. People loved this game because you could understand what was happening. Unlike somethig like *Donkey Kong Land*.
 
-Wario moves in a world populated with interesting levels with themes. You start on a beach
-
 ## Playing the Game
 
-*Wario Land: Super Mario Land 3* is much more fun than *Super Mario Land 2*. It's a much longer game, with
+Wario moves in a world populated with themed levels. It's got all the levels that would be later codified in platforming games, and *Wario Land* is one of the earliest example of these very typical levels. You start on a beach, head to a cavernous teapot mountain, can make a detour to a glacier, fall down inside a volcanic valley, attack a pirate ship, explore a spooky forest, and finally ascend the final castle. Those themed worlds are now extremely cliche, but it was fresh and exciting in 1994. *Super Mario World* had shown the value of having themed levels, and *Sonic The Hedgehog* had pushed it further by only having themed levels. Sonic never had a haunted house level in the middle of the final Bowser world. *Wario Land* continued this burgeoning tradition of theming all your levels according to the current world.
 
-can carry items across screens. level memory is kept after one screen.
+
 
 Making money appear in your hand is a complete mistake. Why is it needed when contextual level elements could be used instead?
 
-## Further Reading
 
-An article about [the morals of Super Mario Land 3 on Kill Screen](http://killscreendaily.com/articles/ruthless-capitalism-wario-land-super-mario-3/).
+
+can carry items across screens. level memory is kept after one screen.
+
+## Modern Collectibles
+
+{% include figure.html filename="treasure-chest" type="gb" class="float left" %}
+
+*Super Mario Land 3: Wario Land* features a surprising modern gameplay element: a list of impactful collectibles. Most games in 1994 still featured inconsequential hidden things. Previous Mario games had hidden 1-ups or coins, but nothing special. *Super Mario World* had the colored blocks, but it was embryonic and basic. *Wario Land* features 15 properly hidden treasures, which make Wario richer for the final tally at the end of the game. Those treasures are hidden in treasures chests, which means you have to find keys inside those levels to open them and get the treasure inside. But those chests and keys are sometimes very well hidden, forcing you to find segments in levels where you can go up without realizing it for example. Some treasures are even in hidden levels themselves, and there's a whole optional world hidden as well. To help you manage all those secrets the game has many interesting conveniences.
+
+I'm very much a collect-a-holic. If a game I like has a list of things you can collect, I'll do it. You really have to go overboard to make me abandon it. The prime example of numerically opressive collectibles are the riddler challenges of every single *Batman: Arkham* game. There are 440 things to find in *Arkham City*. They must have spent a quarter of the game's development making all the puzzles for the Riddler trophies, and maybe 1% of players collected them all. Who thought that many was the correct amount? Did they stop at some point, or were they putting in trophies until the last minute of development? To top it off, you don't get to see where those fuckers are on the map until you interrogate specific goons, which is a complicated task itself. There are side fetch quests to help you plan your main fetch quest! But I digress, *Wario Land* makes it a wonderful breeze to search for its hidden treasures unlike the Arkham games, in large part because it guides you in the right direction. Every level with at least one secret will have a little pip inside it on the map.
+
+{% include figure.html filename="map" type="gb" figcaption="The two levels with a circle inside the circle have at least one hidden thing." %}
+
+You also have a convenient ordered list of all the treasures you have found, helping you figure out where you might have missed something. If you find treasure D and have yet to find treasures B and C, you know they're hidden earlier in the game so that significantly narrows your search. The only missing convenience is a different level indicator when you have found everything in that particular level. It's nevertheless a very good quality-of-life system for a Game Boy game from 1994 and I was able to find all the treasures as a kid in the 90s with only the help of those systems. I completed *Wario Land* without ever needing a guide and to me that's the mark of a well-made collect-a-thon.
+
+{% include figure.html filename="treasure-list" type="gb" %}
 
 ## Conclusion
+
+*Wario Land: Super Mario Land 3* is much more fun than *Super Mario Land 2*. It's a much longer game, with way more stuff to do.
