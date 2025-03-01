@@ -2,14 +2,11 @@
 ## Tâches
 
 ### Ligne du temps
-- Implanter une façon de changer les données de la ligne du temps de façon répétable
 - régler l'absence de faits dans la timeline passé 2003
-- Ajouter le mois d'avril comme sortie de Yoshi's Cookie en NA sur la timeline
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 
 ### Long terme
-- Simplifier la structure des images de timeline
-  - ensuite, ajouter des images non-disponible
+- Ajouter des images dans la ligne du temps
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
 - Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 
@@ -49,6 +46,8 @@
 - Un transformateur de style de code comme Prettier
   - Liquid n'est pas assez bien supporté pour être beau à mes yeux.
   - Le code pour transposer le HTML en TeX est très dépendant de lignes bien délimités
+- Changer le dossier des images de la ligne du temps
+  - Il y a tellement d'exceptions que de construire une nouvelle structure ne vaut pas la peine
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
