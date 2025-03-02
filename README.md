@@ -8,17 +8,16 @@
 ### Long terme
 - Ajouter des images dans la ligne du temps
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
-- Ajouter un Git Hook qui rapetisse les images ajoutés au repo (https://www.redhat.com/sysadmin/git-hooks)
 
 ## Liste de vérification pour publication d'un article
-- [] Vérifier que toutes les dates sont bien incluses
-- [] Corriger l'article final avec Antidote
-- [] Appliquer les majuscules approprié avec Title Case Service
-- [] Déplacer l'article dans le dossier website/articles
-- [] Inscrire la date de la publication de l'article
-- [] Rapetisser les nouvelles images avec ImageOptim.app
-- [] Bâtir avec la tâche Production
-- [] Synchroniser avec le serveur
+- [x] Vérifier que toutes les dates sont bien incluses
+- [x] Corriger l'article final avec Antidote
+- [x] Appliquer les majuscules approprié avec Title Case Service
+- [x] Déplacer l'article dans le dossier website/articles
+- [x] Inscrire la date de la publication de l'article
+- [x] Rapetisser les nouvelles images avec ImageOptim.app
+- [x] Bâtir avec la tâche Production
+- [x] Git Push le dossier _site
 - [] Vérifier que tout fonctionne en ligne
 - [] Publier le lien de l'article sur Mastodon
 
