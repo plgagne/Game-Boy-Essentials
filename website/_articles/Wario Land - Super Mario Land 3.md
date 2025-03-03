@@ -17,7 +17,7 @@ developers: "Nintendo R&D1"
 - Published by Nintendo
 - Developed by {{ page. developers }}
 
-{% include figure.html type="boxart" figcaption="" %}
+{% include figure.html type="boxart" figcaption="An asburdly good cover that tells you everything you need to know about this game." %}
 
 ## {{ page.description }}
 
