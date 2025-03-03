@@ -59,7 +59,7 @@ blockquote {
   margin-bottom: $spacing-paragraph;
   margin-left: 1rem;
   margin-right: 1rem;
-  border-left: 2px solid black;
+  border-left: 2px solid light-dark($black, $white);
   quotes: none;
 }
 blockquote:before,
@@ -78,11 +78,10 @@ table {
   width: 100%;
   margin-bottom: $spacing-paragraph;
   border-spacing: 0;
-  border: 1px solid black;
+  border: 1px solid light-dark($black, $white);
 }
 th {
-  background-color: $dark-grey;
-  color: $light-beige;
+  background-color: light-dark($light-action-box, $dark-action-box);
 }
 th,
 td {
@@ -92,11 +91,11 @@ td {
   padding-right: 0.5em;
   text-align: center;
   vertical-align: middle;
-  border: 1px solid black;
+  border: 1px solid light-dark($black, $white);
   width: 20%;
   word-break: break-word;
   hyphens: auto;
 }
 tr:nth-child(even) {
-  background-color: $light-grey;
+  background-color: light-dark($light-info-box, $dark-info-box);
 }
