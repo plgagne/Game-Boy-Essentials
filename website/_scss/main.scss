@@ -1,16 +1,20 @@
 @use "variables.scss" as *;
 
 // General Classes
+:root {
+  color-scheme: light dark;
+}
 html {
   height: 100%;
   min-width: 100%;
-  background: $light-beige;
+  background: light-dark($light-background, $dark-background);
   font-family: system-ui, "Avenir Next", "Oxygen", "Fira Sans", "Droid Sans", Verdana, sans-serif;
   line-height: 1.5;
+  color: light-dark($black, $white);
 }
 ::selection {
-  background: $lime-green;
-  color: white;
+  background: light-dark($light-box-highlight, $dark-box-highlight);
+  color: light-dark($white, $black);
   text-shadow: none;
 }
 
@@ -18,7 +22,7 @@ html {
 .header {
   display: flex;
   flex-direction: column;
-  background: $dark-grey;
+  background: light-dark($light-action-box, $dark-action-box);
   text-align: center;
   margin-bottom: $spacing-website;
 }
@@ -29,7 +33,7 @@ html {
     font-size: 3em;
     font-style: italic;
     font-weight: 600;
-    color: $lime-green;
+    color: light-dark($light-box-highlight, $dark-box-highlight);
     padding-top: 0.4rem;
     margin-bottom: 0.2em;
     text-decoration: none;
@@ -38,7 +42,7 @@ html {
   &:focus,
   &:active {
     cursor: pointer;
-    color: $sharp-blue;
+    color: light-dark($light-selector, $dark-selector);
   }
 }
 .header_menu {
@@ -64,7 +68,7 @@ html {
 .header_link-selected {
   @include header_menu-element;
   border-radius: $rounded-corners;
-  background: $sharp-blue;
+  background: light-dark($light-selector, $dark-selector);
   cursor: default;
   margin-left: 0.2rem;
   margin-right: 0.2rem;
@@ -94,8 +98,8 @@ html {
 }
 input#pub:checked ~ .list_labelpublication,
 input#rel:checked ~ .list_labelrelease {
-  background: $sharp-blue;
-  color: black;
+  background: light-dark($light-selector, $dark-selector);
+  color: light-dark($black, $white);
   cursor: default;
 }
 input#pub:checked ~ .list_release,
@@ -119,6 +123,7 @@ input#rel:checked ~ .list_release {
   height: 2.6em;
   line-height: 2.7em;
   margin-bottom: 0.2em;
+  color: light-dark(black, black);
 }
 
 // Main Page Game Items
@@ -176,7 +181,7 @@ input#rel:checked ~ .list_release {
 hr {
   border: 0;
   height: 2px;
-  background-color: black;
+  background-color: light-dark($black, $white);
   margin-bottom: $spacing-paragraph;
 }
 
@@ -206,7 +211,7 @@ object {
   @include rounded-box;
   display: grid;
   clear: both;
-  background-color: $light-grey;
+  background-color: light-dark($light-info-box, $dark-info-box);
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -337,7 +342,7 @@ object {
 }
 .timeline-nav_selected {
   & {
-    background: $sharp-blue;
+    background: $light-selector;
   }
   &:hover,
   &:focus,
@@ -360,7 +365,7 @@ object {
   font-family: "GB";
   font-size: $font_paragraph;
   margin-bottom: 1rem;
-  background: $light-beige;
+  background: light-dark($light-background, $dark-background);
   width: 4.2rem;
   display: flex;
   justify-content: flex-end;
@@ -388,7 +393,7 @@ object {
 }
 .timeline_figure {
   @include rounded-box;
-  background-color: $light-grey;
+  background-color: light-dark($light-info-box, $dark-info-box);
   display: inline-block;
   vertical-align: top;
   margin-top: 0.2em;
@@ -453,8 +458,8 @@ object {
   height: fit-content;
 }
 .books_storetitle {
-  color: $light-beige;
-  border-color: $light-beige;
+  color: light-dark($light-background, $dark-background);
+  border-color: light-dark($light-background, $dark-background);
   border-bottom: .1rem solid;
 }
 .books_link {
@@ -475,7 +480,7 @@ object {
   margin-top: $spacing-website;
   padding-top: 2em;
   padding-bottom: 2em;
-  background: $dark-grey;
+  background: light-dark($light-action-box, $dark-action-box);
   text-align: center;
 }
 .footer_link {
