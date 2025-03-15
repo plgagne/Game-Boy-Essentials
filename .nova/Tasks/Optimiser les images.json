@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "echo \"${RED}Optimizing all images in website\/assets\"\nopen -a ImageOptim website\/assets"
+      "script" : "#!\/bin\/zsh\necho \"${RED}Optimizing all images in website\/assets\"\nopen -a ImageOptim website\/assets"
     }
   },
   "openLogOnRun" : "start"
