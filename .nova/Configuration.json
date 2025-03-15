@@ -5,6 +5,8 @@
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/plgagne\/Game Boy Essentials\/README.md"
   ],
+  "org.flyx.tex.context.enable" : false,
+  "org.flyx.tex.latex.enable" : false,
   "workspace.art_style" : 1,
   "workspace.color" : 3,
   "workspace.name" : "Game Boy Essentials",

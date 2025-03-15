@@ -6,13 +6,12 @@
     },
     "clean" : {
       "enabled" : true,
-      "script" : "git gc\nrbenv install $(rbenv install -l | grep -v - | tail -1) --force\nrbenv global $(rbenv install -l | grep -v - | tail -1) --force\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
+      "script" : "#!\/bin\/zsh\ngit gc\nrbenv install $(rbenv install -l | grep -v - | tail -1) --force\nrbenv global $(rbenv install -l | grep -v - | tail -1) --force\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
     },
     "run" : {
       "enabled" : true,
       "script" : "cd website\nJEKYLL_ENV=local_serve bundle exec jekyll serve --incremental --livereload --force_polling --config _config.yml,_local.yml"
     }
   },
-  "buildBeforeRunning" : true,
   "openLogOnRun" : "start"
 }
