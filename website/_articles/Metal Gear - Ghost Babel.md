@@ -111,7 +111,7 @@ So look up the solution online. Do not hesitate. The box factory does not deserv
 
 ## VR
 
-The VR challenges redeem the level design for me. Yeah, the story levels aren’t as good as they should, but those VR missions are so much fun. The portable nature of Game Boy even allows you to knock out a couple of them anytime you want, without having to suffer the slow loading speed of a PlayStation’s CD. Truly a great part of the game that I wished was even longer.
+The VR challenges redeem the level design for me. Yeah, the story levels aren’t as good as they should, but those VR missions are so much fun. The portable nature of Game Boy even allows you to knock out a couple of them anytime you want, without having to suffer the slow loading speed of a PlayStation’s CD drive. Truly a great part of the game that I wished was even longer.
 
 <div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
