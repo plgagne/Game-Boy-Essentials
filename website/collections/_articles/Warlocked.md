@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Bits Studios"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in July 2000
 - Never released in Japan
 - Never released in Europe
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="Unfortunately, I don’t find the cover does this great game justice." %}
 
 ## {{ page.description }}
 

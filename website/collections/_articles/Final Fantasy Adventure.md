@@ -10,14 +10,12 @@ tags: [book1]
 developers: "SquareSoft"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in June 1991
 - North American release in November 1991
 - North American reprint by Sunsoft in April 1998
 - Published by SquareSoft (reprint published by Sunsoft)
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="1998 Sunsoft reprint." %}
 
 ## {{ page.description }}
 

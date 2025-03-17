@@ -10,14 +10,12 @@ tags: [book4]
 developers: "TOSE & Bullet-Proof Software"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in November 1992
 - North American release in April 1993
 - European release in 1993
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Ah, a bilingual box. Are there any collectors out there specifically of Canadian releases?" %}
 
 ## {{ page.description }}
 

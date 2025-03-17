@@ -10,14 +10,12 @@ tags: [book1]
 developers: "KnowWonder"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in April 2000
 - European release in October 2000
 - Never released in Japan
 - Published by 3D0
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Ugly box art." %}
 
 ## {{ page.description }}
 

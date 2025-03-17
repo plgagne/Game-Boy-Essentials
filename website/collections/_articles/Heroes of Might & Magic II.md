@@ -10,14 +10,12 @@ tags: [book1]
 developers: "KnowWonder"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in December 2000
 - European release in March 2001
 - Never released in Japan
 - Published by 3D0
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="As vaguely medieval as possible." %}
 
 ## {{ page.description }}
 

@@ -10,7 +10,7 @@ tags: [book2]
 developers: "Realtime Associates"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in January 2000
 - European release in 2000
 - Never released in Japan

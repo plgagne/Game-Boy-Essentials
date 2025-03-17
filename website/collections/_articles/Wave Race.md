@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Pax Softnica & Nintendo EAD"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Released in North America in July 1992
 - Released in Europe in June 1997
 - Never released in Japan
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="The neon colours and faux 3D screams early 90s. Radical, dude!" %}
 
 ## {{ page.description }}
 

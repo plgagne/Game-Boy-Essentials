@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Capcom and Minakuchi Engineering"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in July 1991
 - North American release in December 1991
 - Published by Capcom
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Seriously? Silver?" %}
 
 ## {{ page.description }}
 

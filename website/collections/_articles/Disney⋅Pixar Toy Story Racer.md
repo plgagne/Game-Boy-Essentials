@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Tiertex Design Studios"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in February 2001
 - European release in March 2001
 - Never released in Japan
 - Published by Activision
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="A Technical Curio in Cheap Clothing. Sorry about the price and ad on the box art. With this obscure a game, that’s the best I could find." %}
 
 ## {{ page.description }}
 

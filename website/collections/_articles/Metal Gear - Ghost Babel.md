@@ -10,14 +10,12 @@ tags: [book4]
 developers: "TOSE"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in April 2000
 - North American release in April 2000
 - European release in May 2000
 - Published by Konami
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="It’s such a clash to have the intricate artwork of a mature stealth title sitting next to the Technicolor smorgasbord logo of the Game Boy Color. It feels like Konami was getting away with murder. Like this game shouldn’t be on Game Boy Color." %}
 
 ## {{ page.description }}
 

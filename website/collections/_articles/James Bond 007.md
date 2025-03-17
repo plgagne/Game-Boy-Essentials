@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Saffire"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - European release in January 1998
 - North American release in February 1998
 - Never released in Japan
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="They clearly did not have Pierce Brosnan’s likeness rights; the face is a black smudge to hide that they didn’t pay Pierce." %}
 
 ## {{ page.description }}
 

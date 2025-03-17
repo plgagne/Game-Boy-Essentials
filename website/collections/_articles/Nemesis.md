@@ -10,7 +10,7 @@ tags: [book1]
 developers: "Konami"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in February 1990
 - North American release in April 1990
 - Published by Ultra Games (Konami)

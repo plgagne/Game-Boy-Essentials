@@ -10,14 +10,12 @@ tags: [book4]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in January 1994
 - North American release in March 1994
 - European release in May 1994
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="An asburdly good cover that tells you everything you need to know about this game." %}
 
 ## {{ page.description }}
 

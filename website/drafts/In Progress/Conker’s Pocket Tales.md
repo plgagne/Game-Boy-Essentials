@@ -10,15 +10,13 @@ tags: [book4]
 developers: "Rare"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in January 1994
 - North American release in March 1994
 - European release in May 1994
 - Never released in Japan
 - Published by Rare
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="" %}
 
 ## {{ page.description }}
 

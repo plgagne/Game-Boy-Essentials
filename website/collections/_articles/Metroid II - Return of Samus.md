@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in November 1991
 - Japanese release in January 1992
 - European release in May 1992
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Kneeling Robot." %}
 
 ## {{ page.description }}
 

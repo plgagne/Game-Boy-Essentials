@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Game Freak"
 ---
 # {{ page.title }}
-
-- Japanese release in February 1996 of Red & Green and October 1996 of Blue (exclusive to CoroCoro Comic)
+{% include figure.html type="boxart" %}
+- Japanese release of Red & Green in February 1996 and of Blue in October 1996 (exclusive to CoroCoro Comic)
 - North American release in September 1998 based on Japanese Blue
 - European release in October 1999
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="Green Version?" %}
 
 ## {{ page.description }}
 

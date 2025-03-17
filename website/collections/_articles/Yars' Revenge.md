@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Telegames"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in September 1999
 - Never released in Japan
 - Published by Telegames
 - Developed by Telegames
-
-{% include figure.html type="boxart" figcaption="The cover does not help make the game essential." %}
 
 ## {{ page.description }}
 

@@ -9,14 +9,12 @@ tags: [book4]
 developers: "Nintendo EAD"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in December 1998
 - North American release in December 1998
 - European release in January 1999
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Write a witty comment to accompany the boxart." %}
 
 ## {{ page.description }}
 

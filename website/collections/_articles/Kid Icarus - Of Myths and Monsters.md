@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Nintendo & TOSE"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in November 1991
 - European release in May 1992
 - Never released in Japan
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="They don’t make them like they used to." %}
 
 ## {{ page.description }}
 

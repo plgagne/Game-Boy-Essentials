@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Beam Software"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in November 1994
 - European release in 1994
 - Never Released in Japan
 - Published by Acclaim
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="Wow! Free balloons for everyone who enters." %}
 
 ## {{ page.description }}
 

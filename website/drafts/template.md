@@ -9,14 +9,12 @@ tags: [book#]
 developers: "Developers"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - European release in month year
 - North American release in
 - Japanese release in
 - Published by Publisher
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Write a witty comment to accompany the boxart." %}
 
 ## {{ page.description }}
 

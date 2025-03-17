@@ -10,13 +10,11 @@ tags: [book2]
 developers: "Kemco"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in December 1989
 - North American release in June 1991
 - Published by Kemco Seika
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Is that an alligator wall?" %}
 
 ## {{ page.description }}
 

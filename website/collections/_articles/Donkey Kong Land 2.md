@@ -10,19 +10,16 @@ tags: [book3]
 developers: "Rare"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in September 1996
 - Japanese release in November 1996
 - European release in November 1996
 - Published by Nintendo
 - Developed by {{ page. developers }}
 
-{% include figure.html type="boxart" figcaption="An exciting cover for an unfortunate sequel." %}
-
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-
 My article on [*Donkey Kong Land*](/articles/dmg-yt) is by far my most popular. It’s the one that has received the most feedback; from book reviews on Amazon, from Reddit’s [/r/gameboy](https://old.reddit.com/r/gameboy), from talking to my friends. With that in mind, I should feel a certain responsibility discussing *Donkey Kong Land 2*. Since they barely changed anything, I don’t. it’s just talking about the same core mistakes all over again.
 
 With the first game, I had decades of experience to share; I owned the game has a kid. This time, I bought the game as an adult, specifically for this project. Since I have never played the game before, it means my opinions are fresh. The game features only minuscule improvements on the issues I had with the first game, so I am disappointed to say I do not like this sequel. It stings particularly because this game tries to reproduce *Donkey Kong Country 2: Diddy’s Kong Quest* for the Game Boy, and I simply adore *Donkey Kong Country 2*. I have fond memories of playing the game with my best friend from primary school, slowly inching our way, level by level, through this difficult Super Nintendo classic. *Donkey Kong Land 2* attempts to ape this seminal game and fails miserably. At least the first *Land* game had original levels. Essentially, we’re faced here with the harsh fact that a bad adaptation of a great game is worse than a bad but original work.
@@ -47,7 +44,7 @@ You need the clean lines of hand-drawn pixel art to give you a game you’ll be 
 ## Pocket Reinvention
 
 {% include figure.html type="gb" class="float right"%}
-Just like *Donkey Kong Land* was released to coincide with the arrival of the Super Game Boy on store shelves, *Donkey Kong Land 2* was released on the same day as the Game Boy Pocket. If we are supposed to understand that this game was made with the Game Boy Pocket in mind, I guess it solves its more egregious graphical issues, but we still must acknowledge all the poor players who did not own a Game Boy Pocket to play this bad game. I had to contend with my trusty grey brick until I bought a Game Boy Color in 2000, and I was not alone. For seven years the Game Boy had been sold to most everyone who wanted a Game Boy when the Game Boy Pocket was introduced in 1996. The Pocket did not sell particularly well nor change the Game Boy market significantly. It also raised the sale price of the Game Boy by $10 USD upon release. How come Nintendo improved their initial design only by 1996? Because during four of those seven years, Gunpei Yokoi and R&D1 were busy working on the Virtual Boy. Once they finally abandoned it on the market in 1995, Yokoi finally tasked his team with building a better Game Boy. 
+Just like *Donkey Kong Land* was released to coincide with the arrival of the Super Game Boy on store shelves, *Donkey Kong Land 2* was released on the same day as the Game Boy Pocket. If we are supposed to understand that this game was made with the Game Boy Pocket in mind, I guess it solves its more egregious graphical issues, but we still must acknowledge all the poor players who did not own a Game Boy Pocket to play this bad game. I had to contend with my trusty grey brick until I bought a Game Boy Color in 2000, and I was not alone. For seven years the Game Boy had been sold to most everyone who wanted a Game Boy when the Game Boy Pocket was introduced in 1996. The Pocket did not sell particularly well nor change the Game Boy market significantly. It also raised the sale price of the Game Boy by $10 USD upon release. How come Nintendo improved their initial design only by 1996? Because during four of those seven years, Gunpei Yokoi and R&D1 were busy working on the Virtual Boy. Once they finally abandoned it on the market in 1995, Yokoi finally tasked his team with building a better Game Boy.
 
 {% include figure.html type="art" %}
 That the Game Boy Pocket came as the amends for the sins of Virtual Boy makes sense. Since their previous creation was too much of an overreach, they went in the opposite direction and the Game Boy Pocket is the safest redesign possible. Its marquee feature is the improved display, finally breaking from the shackles of the iconic green screen. The Game Boy Pocket still uses a [super-twisted nematic LCD](https://en.wikipedia.org/wiki/Super-twisted_nematic_display) with all its faults, but it is much improved, with far less ghosting and true shades of grey. They also made the screen slightly bigger in physical size while keeping the same resolution. The screen has no light source, but that was still par for the course for a device sold for $70 USD in 1996. The overall device size is smaller, with a fresh, timeless design.
@@ -57,7 +54,7 @@ They were also able to only require two batteries, since between the release of 
 
 ## Bad as a Portable Donkey Kong Country 2
 
-You might be tempted to say: “Pierre-Luc, the first game was just a bizarre adaptation with original levels and areas. This time, they just ported *Donkey Kong Country 2*, so it must be good?” Before I tell you that you’re unfortunately wrong, I wish to define one word in your sentence, the word **port**. What is a port? Let’s define it by peeling the onion of *DKL2*. 
+You might be tempted to say: “Pierre-Luc, the first game was just a bizarre adaptation with original levels and areas. This time, they just ported *Donkey Kong Country 2*, so it must be good?” Before I tell you that you’re unfortunately wrong, I wish to define one word in your sentence, the word **port**. What is a port? Let’s define it by peeling the onion of *DKL2*.
 
 The first layer, the marketing of the game, is indeed different from the Super Nintendo game. It has a different name, uses different images to promote itself. But it is irrelevant, since a port is not defined by its appearance outside the software that makes the game. We already established previously that [*Heroes of Might & Magic*](articles/cgb-buhe) on Game Boy Color was not a port simply because it reused the same name.
 
@@ -76,7 +73,7 @@ The most exciting section of *Donkey Kong Country 2* is Kremland, a deadly amus
 
 ## Once Again Saddled With a Terrible Camera
 
-My limited time with the game allowed me to confirm that the camera is still problematic. The game features the same twitchy camera that I hated so much with the first game. My camera experimentation also allowed me to discover another issue I have with this game. The second level of *DKC2*, Mainbrace Mayhem, is actually a personal favourite. It’s set on the pirate ship’s sails and I love it because you never get confused about where to go next in this vertical level that you navigate in a seesaw pattern. It does this by locking the camera’s vertical scrolling; you can’t make it scroll any higher by jumping when there is another section of the level above you. You can sometimes break that mechanism by jumping much higher than you normally would, but it is surprisingly effective at guiding you towards your destination without confusing you. It’s not perfect, but it works surprisingly well. 
+My limited time with the game allowed me to confirm that the camera is still problematic. The game features the same twitchy camera that I hated so much with the first game. My camera experimentation also allowed me to discover another issue I have with this game. The second level of *DKC2*, Mainbrace Mayhem, is actually a personal favourite. It’s set on the pirate ship’s sails and I love it because you never get confused about where to go next in this vertical level that you navigate in a seesaw pattern. It does this by locking the camera’s vertical scrolling; you can’t make it scroll any higher by jumping when there is another section of the level above you. You can sometimes break that mechanism by jumping much higher than you normally would, but it is surprisingly effective at guiding you towards your destination without confusing you. It’s not perfect, but it works surprisingly well.
 
 *DKL2* works the same way, but the level structure is more cramped, so you often jump and see level elements to the sides. You start wondering where you are supposed to go, and can easily skip whole sections of the level simply because you saw a space much later in the level you could reach. It’s great if you want to quickly get through a level, but terrible in a design sense. This is a common occurrence with this game: it tries to ape the SNES game but does it in a bad way which causes confusion.
 

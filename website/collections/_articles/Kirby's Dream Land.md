@@ -10,7 +10,7 @@ tags: [book3]
 developers: "HAL Laboratory"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in April 1992
 - North American release in August 1992
 - European release in 1992

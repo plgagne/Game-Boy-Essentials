@@ -10,14 +10,12 @@ tags: [book1]
 developers: "Rare"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in June 1995
 - Japanese release in July 1995
 - European release in August 1995
 - Published by Nintendo
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="The original box art before it became a Player’s Choice. This horror sold millions!" %}
 
 ## {{ page.description }}
 

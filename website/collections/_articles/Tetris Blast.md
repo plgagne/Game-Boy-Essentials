@@ -10,15 +10,13 @@ tags: [book4]
 developers: "Bullet Proof Software"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in March 1995 as *Super BomBliss*
 - North American release in January 1996
 - Released in Europe in June 1996
 - Published by Bullet-Proof Software in Japan
 - Published by Nintendo everywhere else
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Tetris in name only?" %}
 
 ## {{ page.description }}
 

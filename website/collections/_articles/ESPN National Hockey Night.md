@@ -10,14 +10,12 @@ tags: [book4]
 developers: "Konami"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - North American release in March 2001
 - Never released in Japan
 - Never released in Europe
 - Published by Konami
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Scott Gomez! Twice! No wait there’s a faint picture of him holding the cup, so that’s three! Wow! That’s terrible." %}
 
 ## {{ page.description }}
 

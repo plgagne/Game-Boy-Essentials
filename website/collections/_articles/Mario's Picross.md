@@ -10,13 +10,11 @@ tags: [book2]
 developers: "Jupiter"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese & North American release in March 1995
 - European release in July 1995
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Plumber, referee, golfer, Picross player?" %}
 
 ## {{ page.description }}
 

@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Konami"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in September 1989
 - North American release in January 1990
 - European release in 1990
 - Published by Ultra
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="A small package for a small game." %}
 
 ## {{ page.description }}
 

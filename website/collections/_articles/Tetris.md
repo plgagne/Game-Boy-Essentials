@@ -10,13 +10,12 @@ tags: [book1]
 developers: "Nintendo R&D1 & Bullet-Proof Software"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in June 1989
 - North American release in July 1989
 - Published by Nintendo
 - Developed by {{ page.developers }}
 
-{% include figure.html type="boxart" figcaption="Tetris, the α and the Ω of Game Boy." %}
 
 <blockquote><em>Tetris</em> made Game Boy and Game Boy made <em>Tetris</em>.<p><cite> — Henk Rogers</cite></p></blockquote>
 

@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Nintendo EAD & Pax Softnica"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in July 1996
 - North American release in February 1997
 - European release in 1997
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="It’s a mole with glasses!" %}
 
 ## {{ page.description }}
 {% include figure.html type="gb" class="float left" %}

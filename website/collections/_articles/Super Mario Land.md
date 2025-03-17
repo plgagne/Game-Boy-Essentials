@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in April 1989
 - North American release in August 1989
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Nintendo first used original Japanese art for a *Mario* game box art with *Super Mario Land*." %}
 
 ## {{ page.description }}
 

@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Konami"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in January 1991
 - North American release in February 1991
 - European release in 1992
 - Published by Ultra Games
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Don’t sue, that’s totally not Arnold Schwarzenegger!" %}
 
 ## {{ page.description }}
 

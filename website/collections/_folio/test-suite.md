@@ -10,14 +10,12 @@ production: false
 weight: 6
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - European release in July 1986
 - North American release in July 1986
 - Japanese release in July 1986
 - Published by Publisher
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Write a witty comment to accompany the boxart." %}
 
 ## {{ page.description }}
 

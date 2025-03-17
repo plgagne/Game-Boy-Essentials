@@ -10,13 +10,11 @@ tags: [book2]
 developers: "Kemco"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in September 1989
 - North American release in March 1990
 - Published by Kemco Seika
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="He’s literally jumping over his enemies on the cover of a game where the main conceit is you can’t jump!" %}
 
 ## {{ page.description }}
 

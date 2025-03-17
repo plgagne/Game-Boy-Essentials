@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Nintendo EAD"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in June 1993
 - North American release in August 1993
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Clean. Simple. Beautiful." %}
 
 ## {{ page.description }}
 

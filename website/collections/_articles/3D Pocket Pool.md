@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Aardvark Software"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - European release in March 2001
 - Never released in North America
 - Never released in Japan
 - Published by Virgin Interactive
 - Developed by {{ page. developers }}
-
-{% include figure.html type="boxart" figcaption="The game features a photograph for the cover but uses very stylized art in the game." %}
 
 ## {{ page.description }}
 
@@ -26,9 +24,9 @@ This game feels like it’s coming from another planet! *3D Pocket Pool* is this
 
 ## Obscure Release
 
-*3D Pocket Pool* was released only in Europe in 2001, during the twilight of the Game Boy Color when everybody was waiting for the Game Boy Advance. The GBA would be unleashed upon the world merely two months later. 
+*3D Pocket Pool* was released only in Europe in 2001, during the twilight of the Game Boy Color when everybody was waiting for the Game Boy Advance. The GBA would be unleashed upon the world merely two months later.
 
-During this era I was still playing my Game Boy Color and I missed a bunch of games because I was waiting for the GBA. So anytime I see a game from around March 2001, when Nintendo unveiled the GBA price and launch games, I can’t dissociate the game from the excitement I had for the upcoming Game Boy Advance. Games like *Magi Nation*, *Oracle of Seasons* & *Oracle of Ages*, *Alone in the Dark: The New Nightmare*. Those games, and many more, saw their release overshadowed by the Game Boy Advance. And this time Europe, usually a laggard when it came to releases, was waiting at the same time as the rest of the world. Nintendo had announced the release of the Game Boy Advance in Europe a mere 11 days after North America. 
+During this era I was still playing my Game Boy Color and I missed a bunch of games because I was waiting for the GBA. So anytime I see a game from around March 2001, when Nintendo unveiled the GBA price and launch games, I can’t dissociate the game from the excitement I had for the upcoming Game Boy Advance. Games like *Magi Nation*, *Oracle of Seasons* & *Oracle of Ages*, *Alone in the Dark: The New Nightmare*. Those games, and many more, saw their release overshadowed by the Game Boy Advance. And this time Europe, usually a laggard when it came to releases, was waiting at the same time as the rest of the world. Nintendo had announced the release of the Game Boy Advance in Europe a mere 11 days after North America.
 
 *3D Pocket Pool* was released within this era. So what would have been an obscure release on a good day (come on, it’s a pool game) was even more obscure because it was a Europe-only game for a console way past its bedtime. The developer, British-based Aardvark Software, had clearly gone downhill. You can find information about a reasonable amount of games they made in the ’80s for British computers, but once you hit the ’90s they seem to have made only two games: a port of *Duke Nukem 3D* for PlayStation in 1997 and *3D Pocket Pool* in 2001. Something is afoot. With the scope of *3D Pocket Pool*, I wouldn’t be surprised if it was made by one or two people with little to no connection to Aardvark Software.
 

@@ -10,14 +10,12 @@ tags: [book2]
 developers: "Camelot Software Planning & Nintendo"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in August 1999
 - North American release in October 1999
 - European release in October 1999
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="It’s hard to read, but the text at the bottom says *For all players hoping to touch the true entertainment*. A wonderful nonsensical Japanese word salad of English words. I love it!" %}
 
 ## {{ page.description }}
 

@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in February 1997
 - North American release in May 1997
 - European release in August 1997
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Welcome once again to the world of Game & Watch!" %}
 
 ## {{ page.description }}
 

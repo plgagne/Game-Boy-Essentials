@@ -10,14 +10,12 @@ tags: [book3]
 developers: "Nintendo R&D1"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in October 1992
 - North American release in November 1992
 - European release in 1993
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Isn’t this cover awesome?" %}
 
 ## {{ page.description }}
 

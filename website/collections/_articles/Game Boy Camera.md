@@ -17,8 +17,6 @@ developers: "Nintendo R&D1"
 - Published by Nintendo
 - Developed by {{ page.developers }}
 
-{% include figure.html type="boxart" figcaption="You might laugh now but for a short time this thing was impressive." %}
-
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}

@@ -10,13 +10,11 @@ tags: [book2]
 developers: "Biox"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in December 1991
 - North American release in February 1992
 - Published by Capcom
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="The Japanese had such lovely art on their Mega Man games." %}
 
 ## {{ page.description }}
 

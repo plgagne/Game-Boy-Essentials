@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Nintendo R&D1 & Minakuchi Engineering"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - Japanese release in January 1990
 - North American release in February 1990
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="The exciting Japanese box art." %}
 
 ## {{ page.description }}
 

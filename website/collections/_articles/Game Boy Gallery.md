@@ -10,15 +10,13 @@ tags: [book2]
 developers: "TOSE"
 ---
 # {{ page.title }}
-
+{% include figure.html type="boxart" %}
 - European release in April 1995
 - Australian release in 1995
 - Never Released in North America
 - Never Released in Japan
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart" figcaption="Game **Boy** Gallery, not Game **& Watch** Gallery." %}
 
 ## {{ page.description }}
 
