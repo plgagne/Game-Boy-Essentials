@@ -4,11 +4,20 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% for collection in site.collections %}
-{% for page in site[collection.label] %}
-  <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastmod>{{ page.last_modified_at | date: '%Y-%m-%d' }}</lastmod>
-  </url>
+  {% for page in site[collection.label] %}
+    <url>
+      <loc>{{ site.url }}{{ page.url }}</loc>
+      <lastmod>{{ page.last_modified_at | date: '%Y-%m-%d' }}</lastmod>
+    </url>
+  {% endfor %}
+{% endfor %}
+{% assign pdf-list = site.static_files | where: "extname", ".pdf" %}
+{% for object in pdf-list %}
+  {% if object.extname == ".pdf" %}
+    <url>
+      <loc>{{ site.url }}{{ object.path }}</loc>
+      <lastmod>{{ object.modified_time | date: '%Y-%m-%d' }}</lastmod>
+    </url>
+  {% endif %}
 {% endfor %}
 </urlset>
-{% endfor %}
