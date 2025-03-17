@@ -2,11 +2,11 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\ncd website\nmkdir _site\n\n# Make resized social media card images\nfind \"assets\" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do\n  filename=\"${line%.*}\"\n  finalname=\"${filename}-social-share-card.png\"\n  if [ ! -f \"${finalname}\" ]; then\n\techo \"${RED}Card image for \"${line}\" does not exist.\"\n\tcp \"${line}\" \"${finalname}\"\n\tmagick mogrify -interpolate nearest -filter point -resize 437.5% \"$finalname\"\n\tmagick mogrify -bordercolor black -border 250x0 \"$finalname\"\n\techo \"${RED}Card image \"${finalname}\" done\"\n  fi\ndone\necho \"${RED}Card images checked\"\n\n# Copier _Redirects\ncp _redirects _site\/\necho \"${RED}Copied _redirects inside _site\"\n\n# Batir le site\nJEKYLL_ENV=production bundle exec jekyll build"
+      "script" : "#!\/bin\/zsh\ncd website\n# Make resized social media card images\nfind \"assets\" -type f -name '*-start.png' -print0 | while IFS= read -r -d '' line; do\n  filename=\"${line%.*}\"\n  finalname=\"${filename}-social-share-card.png\"\n  if [ ! -f \"${finalname}\" ]; then\n\techo \"${RED}Card image for \"${line}\" does not exist.\"\n\tcp \"${line}\" \"${finalname}\"\n\tmagick mogrify -interpolate nearest -filter point -resize 437.5% \"$finalname\"\n\tmagick mogrify -bordercolor black -border 250x0 \"$finalname\"\n\techo \"${RED}Card image \"${finalname}\" done\"\n  fi\ndone\necho \"${RED}Card images checked\"\n\n# Copier _Redirects\ncp _redirects _site\/\necho \"${RED}Copied _redirects inside _site\"\n\n# Batir le site\nJEKYLL_ENV=production bundle exec jekyll build"
     },
     "clean" : {
       "enabled" : true,
-      "script" : "#!\/bin\/zsh\ngit gc\nrbenv install $(rbenv install -l | grep -v - | tail -1) --force\nrbenv global $(rbenv install -l | grep -v - | tail -1) --force\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
+      "script" : "#!\/bin\/zsh\ngit gc\nrbenv install $(rbenv install -l | grep -v - | tail -1)\nrbenv global $(rbenv install -l | grep -v - | tail -1)\ngem install bundler\ncd website\nrm gemfile.lock\nbundle install\njekyll clean"
     },
     "run" : {
       "enabled" : true,
