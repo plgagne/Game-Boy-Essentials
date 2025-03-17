@@ -8,6 +8,7 @@ description: "A project to review and talk about the essential games you should 
 exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test]
 keep_files: [_redirects]
 incremental: true
+collections_dir: collections
 
 ## Use of Collections for underscored folders
 collections:
