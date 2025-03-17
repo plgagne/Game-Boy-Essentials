@@ -7,7 +7,7 @@ email: "pl@gameboyessentials.com"
 description: "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success."
 exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test]
 keep_files: [_redirects]
-incremental: false
+incremental: true
 
 ## Use of Collections for underscored folders
 collections:
@@ -60,4 +60,4 @@ kramdown:
 plugins:
   - jekyll-image-size
   - jekyll-minifier
-  - jekyll-sitemap
+  - jekyll-last-modified-at
