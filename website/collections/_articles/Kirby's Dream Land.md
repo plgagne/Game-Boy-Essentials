@@ -58,7 +58,7 @@ The title screen features a lineup of multiple Kirbys jumping, making faces, doi
 
 ## A Short Look at the Game That Reflects the Brevity of the Game
 
-Here are some elements of the game’s design that reflect a thoughtful design process and that will enhance your experience. If you play the game, and wonder why it’s such a great little experience, then these choices explain the great fun you’re having. It’s incredible that so many magnificent design decisions were taken by a team led by such a young developer.
+Here are some elements of the game’s design that reflect a thoughtful design process that will enhance your experience. If you play the game, and wonder why it’s such a great little experience, then these choices explain the great fun you’re having. It’s incredible that so many magnificent design decisions were taken by a team led by such a young developer.
 
 Graphics on Game Boy require a lot of foresight and planning to work well on the original Game Boy screen because its ghosting can make complicated graphics too difficult to see. *Kirby’s Dream Land* showcases how to create beautiful graphics that still limit the amount of ghosting and keeping the game legible in all scenarios. It amounts to using a healthy dose of whitespace with discrete elements of characters and scenery drawn with thick borders but sparse internal details. Just like Kirby, most everything in the game is a shape with very little internal detail.
 

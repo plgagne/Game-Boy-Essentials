@@ -49,7 +49,7 @@ I don’t want to diminish the accomplishments, especially since the monster tra
 
 ## What Did Game Freak Publish Before Making Video Games?
 
-Satoshi was a publisher of a fanzine focusing on arcade titles which he worked on alongside Sugimori Ken, the artist drawing the fanzine’s art. Ken would later become the main artist for the game.
+Satoshi was a publisher of a fanzine focusing on arcade titles which he worked on alongside Ken Sugimori, the artist drawing the fanzine’s art. Ken would later become the main artist for the game.
 
 {% include figure.html type="art" %}
 
@@ -65,7 +65,7 @@ Rhydon was the oldest design to end up in the final game. He is a very generic-l
 
 ## What Horrible NES Game Funded the Development of Pokémon?
 
-Once again I have to make a personal connection before I answer the question because I’m a raging narcissist. When the Super Nintendo came out, I didn’t have one. I had gotten a second-hand NES earlier in the year so of course my mother was not about to start upgrading her six-year-old son with the latest and greatest. Since I was smitten with Yoshi and dreamed of nothing but riding him in *Super Mario World*, I asked my mom to buy me *Yoshi* for NES as a birthday gift. When I started playing it this is what I saw.
+Once again I have to make a personal connection before I answer the question because I’m a narcissist. When the Super Nintendo came out, I didn’t have one. I had gotten a second-hand NES earlier in the year so of course my mother was not about to start upgrading her six-year-old son with the latest and greatest. Since I was smitten with Yoshi and dreamed of nothing but riding him in *Super Mario World*, I asked my mom to buy me *Yoshi* for NES as a birthday gift. When I started playing this is what I saw.
 
 {% include figure.html type="pixel" figcaption="What a giant piece of shit." %}
 
@@ -98,7 +98,7 @@ To most people everything related to Pokémon is made by Nintendo when the truth
 
 Who is Creatures Inc. exactly? It makes sense that Game Freak and Nintendo share the franchise, but why is there a third company in the mix? According to Masuda Junichi, a co-founder of Game Freak and the current creative overseer for the games, they were the producers of the first game. This is strange since the producer of a game is usually a person working for the company making the game, not an outside company. Thinking about the situation, I don’t think they’ll ever admit it, but I think Creatures Inc. was brought in to help Tajiri finish the game. He couldn’t do it alone since he had never produced a game before: he was a fanzine writer.
 
-The history of Creatures Inc. also seems to confirm my thinking. Creatures Inc. is made-up of former employees of Ape Inc. who supported a visionary artist with no video game experience to produce a very personal RPG based on a fairy-tale version of our modern world. I’m of course not talking of *Pokémon* but of Itoi Shigesato and his game *Mother*, which we know in the West as *Earthbound Beginnings*. It turns out the employees of Creatures Inc. helped with the same job twice!
+The history of Creatures Inc. also seems to confirm my thinking. Creatures Inc. is made-up of former employees of Ape Inc. who had already supported a visionary artist with no video game experience to produce a very personal RPG based on a fairy-tale version of our modern world. I’m of course not talking of *Pokémon* but of Itoi Shigesato and his game *Mother* for Famicom, which we know in the West as *Earthbound Beginnings*. It turns out the employees of Creatures Inc. had already helped with the same type of production job!
 
 Since they helped finish the first Pokémon game their contract clearly gave them partial ownership of the franchise, and they went on to create the Pokémon trading card game (it wasn’t made by Wizards of the Coast who simply localized it) and other elements of the franchise. Once again if I had to guess as to why Creatures own a part of the franchise it’s because Game Freak couldn’t pay them to help them, so they paid them with a franchise stake.
 
