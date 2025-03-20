@@ -46,6 +46,8 @@
   - Le code pour transposer le HTML en TeX est très dépendant de lignes bien délimités
 - Changer le dossier des images de la ligne du temps
   - Il y a tellement d'exceptions que de construire une nouvelle structure ne vaut pas la peine
+- Inscrire un figcaption dans les images de couverture de la boite
+  - Tu fais déjà un commentaire avec le titre de l'article.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre
