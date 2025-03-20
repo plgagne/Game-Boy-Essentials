@@ -10,13 +10,11 @@ tags: [book1]
 developers: "Konami"
 ---
 # {{ page.title }}
-{% include figure.html type="boxart" %}
+{% include figure.html type="boxart-png" %}
 - Japanese release in February 1990
 - North American release in April 1990
 - Published by Ultra Games (Konami)
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart-png" figcaption="*Nemesis*, which they could have just called *Gradius 2*." %}
 
 ## {{ page.description }}
 

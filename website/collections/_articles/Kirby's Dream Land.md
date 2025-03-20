@@ -10,14 +10,12 @@ tags: [book3]
 developers: "HAL Laboratory"
 ---
 # {{ page.title }}
-{% include figure.html type="boxart" %}
+{% include figure.html type="boxart-png" %}
 - Japanese release in April 1992
 - North American release in August 1992
 - European release in 1992
 - Published by Nintendo
 - Developed by {{ page.developers }}
-
-{% include figure.html type="boxart-png" figcaption="Pink is in." %}
 
 ## {{ page.description }}
 {% include figure.html type="gb" class="float left" %}
@@ -72,7 +70,7 @@ Another element that really helps the fidelity of Kirby’s world is the belt sc
 
 {% include figure.html type="gb" figcaption="Kirby tries fishing; it gets a mouthful of its own hook and falls in the water." %}
 
-There is this saying amongst video game developers that [if given a chance players will optimize the fun out of a game](https://www.designer-notes.com/?p=369). What this means is that if developers give players a cheesy strategy players will use that advantage even if it makes the game boring to play for them. Developers have to account for this fact when designing a game and eliminate any strategies that make playtime boring. Flying in a platformer definitely falls under that axiom; what fun is there in a game where you can fly above every obstacle and eliminate any challenge? You might have fun for a couple of minutes due to the novelty but the appeal wears off quickly. *Super Mario World* is the golden reference when it comes to a platformer with flying elements. You can fly in the game which could potentially ruin the fun and make the game boring. To keep the game somewhat fun even if you skip levels with the cape you are required a lot of effort to maintain flight. It’s not a simple one button process, meaning you will always have to do something. I don’t feel it’s a perfect solution since a repetitious task is never as fun as running through a gauntlet designed by the very best level designers in the world. 
+There is this saying amongst video game developers that [if given a chance players will optimize the fun out of a game](https://www.designer-notes.com/?p=369). What this means is that if developers give players a cheesy strategy players will use that advantage even if it makes the game boring to play for them. Developers have to account for this fact when designing a game and eliminate any strategies that make playtime boring. Flying in a platformer definitely falls under that axiom; what fun is there in a game where you can fly above every obstacle and eliminate any challenge? You might have fun for a couple of minutes due to the novelty but the appeal wears off quickly. *Super Mario World* is the golden reference when it comes to a platformer with flying elements. You can fly in the game which could potentially ruin the fun and make the game boring. To keep the game somewhat fun even if you skip levels with the cape you are required a lot of effort to maintain flight. It’s not a simple one button process, meaning you will always have to do something. I don’t feel it’s a perfect solution since a repetitious task is never as fun as running through a gauntlet designed by the very best level designers in the world.
 
 *Kirby’s Dream Land* has Kirby flying indefinitely if you inhale air. It is a dead simple one-button move, which could definitely ruin the fun. Future games in the series will slow down Kirby’s flight speed and agility, and limit your flight time. There are no such limitations here; Kirby is legitimately flying fast by flapping its tiny little arms. However, the game is not optimizing the fun out of the platforming like *Super Mario World*.
 
