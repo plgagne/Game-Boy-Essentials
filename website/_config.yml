@@ -35,16 +35,22 @@ defaults:
       article: true
   -
     scope:
+      path: "drafts"
+    values:
+      layout: article
+      article: true
+  -
+    scope:
       path: ""
       type: tags
     values:
       layout: tags
   -
     scope:
-      path: "drafts"
+      path: ""
+      type: timelines
     values:
-      layout: article
-      article: true
+      layout: timeline
 
 ## SASS
 sass:
