@@ -36,10 +36,20 @@
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
+    {%- if page.layout == 'article' -%}
+    "@type": "Article",
+    "headline": "{{ page.title }}",
+    "datePublished": "{{ page.publication }}",
+    "image": "/assets/{{ page.slug }}/{{ page.slug }}-1.jpg",
+    {%- else -%}
     "@type": "Organization",
+    "logo": "{{ site.url }}/apple-touch-icon.png",
+    {%- endif -%}
     "name": "{{ site.title }}",
     "url": "{{ site.url }}",
-    "logo": "{{ site.url }}/apple-touch-icon.png"
+    "genre": "Video Games",
+    "description": "{{ site.description }}",
+    "author": {"@type": "Person","name": "Pierre-Luc Gagné"}
   }
   </script>
 
