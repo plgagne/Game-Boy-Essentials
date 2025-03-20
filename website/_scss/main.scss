@@ -160,7 +160,6 @@ input#rel:checked ~ .list_release {
   margin-left: $spacing-game-box;
   margin-bottom: $spacing-game-box;
 }
-.game_publication,
 .game_release {
   font-size: $font_small;
   text-align: right;
@@ -182,12 +181,13 @@ hr {
   border: 0;
   height: 2px;
   background-color: light-dark($black, $white);
-  margin-bottom: $spacing-paragraph;
+  margin-top: $spacing-paragraph;
 }
 
 // Articles navigation
 .navigation {
   @include button-container;
+  margin-top: $spacing-paragraph;
   flex-direction: row;
 }
 .navigation_button {

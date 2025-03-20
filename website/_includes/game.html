@@ -6,5 +6,4 @@
   <div class="game_title">{{ article.title }}</div>
   {% if gamerelease %}<div class="game_developers">{{ article.developers }}</div>
   <div class="game_release">First released in {{ article.release-date | date: "%B %Y"}}</div>{% endif %}
-  {% if articlepub %}<div class="game_publication">{{ article.publication | date: "%B %e, %Y"}}</div>{% endif %}
 </a>
