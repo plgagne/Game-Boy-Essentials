@@ -1,6 +1,26 @@
-# Game & Watch Gallery 2
+---
+title: "Game & Watch Gallery 2"
+description: "Article Title"
+slug: "dmg-"
+release-date: "year of release"
+release-year: "year of earliest release"
+release-month: "month of earliest release"
+publication: "date of website publication"
+tags: [book#]
+developers: "Developers"
+---
+# {{ page.title }}
+{% include figure.html type="boxart" %}
+- European release in month year
+- North American release in
+- Japanese release in
+- Published by Publisher
+- Developed by {{ page.developers }}
 
-I adore *Game & Watch Gallery 2*. I've played it extensively during the summer of 1999 and 2000. My cousins owned the game and they would lend it to me during those long summers in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the games. 
+## {{ page.description }}
+
+{% include figure.html type="gb" class="float left" %}
+I adore this game. I've played it extensively during the summer of 1999 and 2000. My cousins owned the game and they would lend it to me during those long summer days in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the games.
 
 
 
