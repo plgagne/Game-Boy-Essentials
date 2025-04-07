@@ -1,7 +1,8 @@
 ---
 title: "Game Name"
 description: "Article Title"
-slug: "template"
+slug: "dmg-atle"
+release-date: "year of release"
 release-year: "year of earliest release"
 release-month: "month of earliest release"
 publication: "date of website publication"
@@ -75,7 +76,7 @@ You can also build a gallery by putting your declarations inside a div. Gallerie
 
 ## Filename
 
-If you provide a filename without the extension, the system will use that instead of the incrementing system for that one particular image.
+If you provide a filename without the extension, figure _includes will use that instead of the incrementing system for that one particular image.
 
 {% include figure.html filename="template_image" type="" class="" figcaption="" %}
 
