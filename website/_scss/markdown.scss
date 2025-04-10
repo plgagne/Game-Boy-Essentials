@@ -7,6 +7,9 @@ h1, h2 {
 h1 {
   font-size: $font_largest;
 }
+.article h1 {
+  text-align: center;
+}
 h2 {
   font-size: $font_very-large;
 }
