@@ -1,14 +1,13 @@
 #!/usr/bin/ruby
 require "json"
-# Open JSON file
+# Open json file
 timeline_na = JSON.load_file 'temp/timeline.json'
 
-# Modify each game object
+# Add developer to each release (AI written code)
 timeline_na['games'].each do |game|
   developers = game['developers']
   next unless developers && !developers.empty? && game['releases']
 
-  # Get the first developer's name (just the value)
   flat_developer = developers.first['developer'] rescue nil
   next unless flat_developer
 
@@ -19,9 +18,14 @@ end
 
 File.write('results/timeline-complete.json', JSON.pretty_generate(timeline_na))
 
+# Extract all releases
 result = []
-
 result = timeline_na["games"].find_all { |h1| h1['representative_name']}.map { |game| game['releases'] }
 
+# Remove all depth to the array
 result = result.flatten
-File.write('results/timeline-releases.json', JSON.pretty_generate(result))
+
+# Sort
+sorted_result = result.sort_by { |game| game['release_date'] }
+
+File.write('results/timeline-releases.json', JSON.pretty_generate(sorted_result))

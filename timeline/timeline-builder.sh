@@ -55,15 +55,23 @@ else
 fi
 
 # Run Ruby timeline builder
-echo "${RED}Running YAML assembler ..."
-ruby timeline-yaml-assembler.rb
-
+if [ -r "temp/timeline.yml" ]; then
+  echo "${RED}YAML data has already been assembled."
+else
+  echo "${RED}Running YAML assembler ..."
+  ruby timeline-yaml-assembler.rb
 # Validation check
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "temp/timeline.yml"
+  echo "${RED}Validating YAML."
+  yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "temp/timeline.yml"
+fi
 
 # Convert to JSON
-echo "${RED}Converting YAML to JSON ..."
-cat "temp/timeline.yml" | yj | jsonlint -s | cat > "temp/timeline.json"
+if [ -r "temp/timeline.json" ]; then
+  echo "${RED}JSON data has already been converted."
+else
+  echo "${RED}Converting YAML to JSON ..."
+  cat "temp/timeline.yml" | yj | jsonlint -s | cat > "temp/timeline.json"
+fi
 
 # Finalize
 echo "${RED}Creating final JSON files ..."
