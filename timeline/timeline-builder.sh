@@ -29,68 +29,57 @@ else
     magick mogrify $line -resize 160 $line
   done
   echo "${RED}Moving resized images to assets folder ..."
-  mv "temp/a" "${website_location}/assets/timeline/"
+  cp "temp/a" "${website_location}/assets/timeline/a"
 fi
 
-# Prune data.html files
-echo "${RED}Pruning data files ..."
-find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
-  sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
-  sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
-  sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
-done
-
-# Move data.html files to base
-echo "${RED}Moving pruned data files ..."
-find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
-  dir="$(dirname $line)"   # Returns "/from/here/to"
-  dir="$(basename $dir)"  # Returns just "to"
-  mv "$line" "$line".tmp
-done
-
-# Concatenate all files together
-echo "${RED}Concatenating pruned data files ..."
-find "temp" -iname "*.tmp" -type f -exec cat "{}" >> "temp/timeline-temp.yml" \;
+if [ -r "temp/timeline-temp.tmp" ]; then
+  echo "${RED}Temp data has already been collated."
+else
+  # Prune data.html files
+  echo "${RED}Pruning data files ..."
+  find "temp" -type f -name 'data.html' -print0 | while IFS= read -r -d '' line; do
+    sed "/<!doctype\ html>/,/<div\ class=\"span8\">/d" "$line" > "$line.tmp"
+    sed -i "" "/<div\ class=\"pod\ contrib\"><div\ class=\"head\"><h2 class=\"title\">Know\ Something\ We\ Don\'t?/,/<\/html>/d" "$line.tmp"
+    sed -i "" "/<script/,/<\/script>/d" "$line.tmp"
+  done
+  # Move data.html files to base
+  echo "${RED}Moving pruned data files ..."
+  find "temp" -type f -name '*.tmp' -print0 | while IFS= read -r -d '' line; do
+    dir="$(dirname $line)"   # Returns "/from/here/to"
+    dir="$(basename $dir)"  # Returns just "to"
+    mv "$line" "$line".tmp
+  done
+  # Concatenate all files together
+  echo "${RED}Concatenating pruned data files ..."
+  find "temp" -iname "*.tmp" -type f -exec cat "{}" >> "temp/timeline-temp.tmp" \;
+fi
 
 # Run Ruby timeline builder
-echo "${RED}Running Ruby script ..."
-ruby timeline-builder.rb
-
-# Remove temporary files
-echo "${RED}Removing temporary files ..."
-find "temp" -iname "*.yml" -type f -exec rm "{}" \;
-find "temp" -iname "*.tmp" -type f -exec rm "{}" \;
-
-# Remove blank lines in YAML file
-echo "${RED}Removing blank lines in final file ..."
-grep '\S' 'results/timeline-complete-data.yml' > 'tmp.txt'
-mv 'tmp.txt' 'results/timeline-complete-data.yml'
-
-# Prepending YAML start of file symbols
-echo "${RED}Adding start of file symbols ..."
-echo "---" | cat - 'results/timeline-complete-data.yml' > 'temp/out'
-mv 'temp/out' 'results/timeline-complete-data.yml'
-
-# Make timeline with only the releases
-echo "${RED}Running Ruby script for hard releases only ..."
-ruby "timeline-releases-only.rb"
+echo "${RED}Running YAML assembler ..."
+ruby timeline-yaml-assembler.rb
 
 # Validation check
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-complete-data.yml"
-yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "results/timeline-releases-only.yml"
-
-# Compare number of titles
-total_number=$(find "temp/games" -mindepth 1 -maxdepth 1 -type d | wc -l)
-timeline_number=$(grep -o "game:" "results/timeline-complete-data.yml" | wc -l)
-releases_number=$(grep -o "release:" "results/timeline-releases-only.yml" | wc -l)
-echo "Total number of titles in backup:" $total_number
-echo "Total number of titles in YAML file:" $timeline_number
-echo "Total number of releases in hard releases YAML file:" $releases_number
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "temp/timeline.yml"
 
 # Convert to JSON
-echo "${RED}Converting to JSON ..."
-cat "results/timeline-releases-only.yml" | yj | jsonlint -s | cat > "results/timeline-releases-only.json"
+echo "${RED}Converting YAML to JSON ..."
+cat "temp/timeline.yml" | yj | jsonlint -s | cat > "temp/timeline.json"
 
-# Move releases-only to _data folder
-echo "${RED}Moving releases only file to _data folder ..."
-cp "results/timeline-releases-only.json" "${website_location}/_data/timeline-releases-only-new.json"
+# Finalize
+echo "${RED}Creating final JSON files ..."
+ruby timeline-finalizer.rb
+
+# Compare number of titles
+backup_number=$(find "temp/games" -mindepth 1 -maxdepth 1 -type d | wc -l)
+yaml_number=$(grep -o "representative_name:" "temp/timeline.yml" | wc -l)
+json_complete=$(grep -o  "representative_name" "results/timeline-complete.json" | wc -l)
+json_releases=$(grep -o  "title" "results/timeline-releases.json" | wc -l)
+
+echo "Total number of titles in backup:" $backup_number
+echo "Total number of titles in YAML file:" $yaml_number
+echo "Total number of titles in JSON file:" $json_complete
+echo "Total number of titles in JSON releases file:" $json_releases
+
+# Copy JSON files to _data folder
+echo "${RED}Moving results files to _data folder ..."
+cp "results/timeline-releases.json" "${website_location}/_data/"
