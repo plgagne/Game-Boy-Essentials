@@ -24,6 +24,7 @@ result = timeline_na["games"].find_all { |h1| h1['representative_name']}.map { |
 
 # Remove all depth to the array
 result = result.flatten
+result.compact!
 
 # Sort
 sorted_result = result.sort_by { |game| game['release_date'] }
