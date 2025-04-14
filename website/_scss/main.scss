@@ -391,7 +391,7 @@ object {
 .timeline_release-list {
   display: block;
 }
-.timeline_figure {
+.timeline_release {
   @include rounded-box;
   background-color: light-dark($light-info-box, $dark-info-box);
   display: inline-block;
@@ -402,12 +402,28 @@ object {
   margin-right: 0.2em;
   width: 10rem;
 }
-.timeline_cover {
+.timeline_release-title {
+  text-align: center;
+  max-width: 10rem;
+  margin: auto;
+  color: light-dark($black, $white);
+}
+.timeline_release_details-cover {
   max-width: 100%;
 }
-.timeline_figcaption {
-  font-size: 0.85rem;
-  text-align: center;
+.timeline_release_details_list {
+  max-width: 8rem;
+}
+.timeline_release_details_list-element,
+.timeline_release_details_list-info {
+  margin-left: $spacing-game-box;
+  color: light-dark($black, $white);
+}
+.timeline_release_details_list-element {
+  font-size: $font_tiny;
+}
+.timeline_release_details_list-info {
+  font-size: $font_small;
 }
 .timeline_fact-list {
   margin-top: 0.5rem;
