@@ -1,7 +1,7 @@
 <div class="timeline">
 
 {% comment %} Remove release dates without specific months {% endcomment %}
-{% assign timeline_stripped = site.data.timeline-releases-only | where: "unknown_release_month", nil %}
+{% assign timeline_stripped = site.data.timeline-releases | where: "unknown_release_month", nil %}
 
 {% if page.region contains 'JP' %}
   {% assign timeline_sorted = timeline_stripped | where: "market", "JP" | sort: "release_date" %}
@@ -81,10 +81,16 @@
 
               {% comment %} Write matched release details {% endcomment %}
               {% capture image-location %}/assets/timelines{{ release.boxart }}{% endcapture %}
-              <figure class="timeline_figure">
-              <img loading="lazy" class="timeline_cover" src="{{ image-location }}" alt="{{ release.title }}">
-              <figcaption class="timeline_figcaption">{{ release.title }}</figcaption>
-              </figure>
+              <div class="timeline_release">
+                <h4 class="timeline_release-title">{{ release.title }}</h4>
+                <img loading="lazy" class="timeline_release_details-cover" src="{{ image-location }}" alt="{{ release.title }}">
+                <div class="timeline_release_details_list">
+                  <div class="timeline_release_details_list-element">Developed by</div>
+                  <div class="timeline_release_details_list-info">{{ release.developer }}</div>
+                  <div class="timeline_release_details_list-element">Published by</div>
+                  <div class="timeline_release_details_list-info">{{ release.publisher }}</div>
+                </div>
+              </div>
             {% endif %}
           {% endif %}
         {% endif %}
