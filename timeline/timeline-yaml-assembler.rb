@@ -128,6 +128,41 @@ contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/
 
 # Remove blank lines
 contents = contents.gsub(/^[[:space:]]*$|^#/, "")
+contents = contents.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
+
+# Canceled games
+# 1
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n    - title:/, "    - title:")
+# 2
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +contributors:/, "   contributors:")
+# 3
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+contents = contents.gsub(/- title: ".*?"\n.*?\n +release_date: "0000-00-00"\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n +- representative_name:/, " - representative_name:")
+
+contents = contents.gsub(/ +contributors:/, "   contributors:")
+contents = contents.gsub(/ +- representative_name:/, " - representative_name:")
+
+# Unknown release dates
+contents = contents.gsub(/release_date: "0000-00-00 2021"/, "release_date: \"2021-01-00\"")
+contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"")
+contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n      unknown_release_month: true")
 
 # Correcting errors
 contents = contents.gsub(/title: "Disney's DuckTales"\n       market: "EU"\n       release_date: "1989-00-00"/, "title: \"Disney's DuckTales\"\n       market: \"EU\"\n       release_date: \"1991-00-00\"")
@@ -136,7 +171,7 @@ contents = contents.gsub(/publisher: "Sony Imagesoft"\n       id: "DMG-DH"/, "pu
 contents = contents.gsub(/publisher: "Activision"\n       id: "CGB-B2XE-USA"/, "publisher: \"Activision\"\n       id: \"CGB-BM5E-USA\"")
 contents = contents.gsub(/publisher: "NewKidCo"\n       id: "CGB-BSOE-USA"/, "publisher: \"Activision\"\n       id: \"CGB-BSQE-USA\"")
 
-contents.prepend("---\ngames:\n")
+contents.prepend("---\ngames:\n ")
 
 # Write changes to file
 File.open('temp/timeline.yml', "w") {|file| file.puts contents}
