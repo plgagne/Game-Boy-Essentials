@@ -86,7 +86,7 @@ json_releases=$(grep -o  "title" "results/timeline-releases.json" | wc -l)
 echo "Total number of titles in backup:" $backup_number
 echo "Total number of titles in YAML file:" $yaml_number
 echo "Total number of titles in JSON file:" $json_complete
-echo "Total number of titles in JSON releases file:" $json_releases
+echo "Total number of releases in JSON releases file:" $json_releases
 
 # Copy JSON files to _data folder
 echo "${RED}Moving results files to _data folder ..."
