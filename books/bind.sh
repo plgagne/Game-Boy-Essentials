@@ -1,4 +1,5 @@
 #!/bin/zsh
+RED='\033[0;31m'
 
 # This variable is the first volume to be bound
 volume=1
