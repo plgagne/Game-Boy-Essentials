@@ -22,6 +22,7 @@ end
 # Sort
 timeline_na["games"] = timeline_na["games"].sort_by { |entry| entry["representative_name"] }
 
+# Finish timeline-complete
 File.write('results/timeline-complete.json', JSON.pretty_generate(timeline_na))
 
 # Extract all releases
@@ -30,10 +31,11 @@ result = timeline_na["games"].find_all { |h1| h1['representative_name']}.map { |
 
 # Remove all depth to the array
 result = result.flatten
+
 # Remove empty objects
 result.compact!
 
-# Sort
+# Sort by release date
 sorted_result = result.sort_by { |game| game['release_date'] }
 
 # Corrections (AI written code)
