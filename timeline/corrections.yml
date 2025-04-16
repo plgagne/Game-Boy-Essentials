@@ -1,0 +1,40 @@
+# List all corrections by matching a unique key/value pair then listing all the changes in updates
+# No updates array means the object is deleted
+# Disney's Ducktales, Europe
+- key: id
+  value: DMG-DT-NOE
+  updates:
+    release_date: "1991-01-01"
+    unknown_release_month: true
+# Ghostbusters II, Europe
+- key: id
+  value: DMG-GB-SCN
+  updates:
+    release_date: "1991-01-01"
+    unknown_release_month: true
+# Bram Stroker's Dracula, NA
+- key: boxart
+  value: /a/box/5/6/1/22561_front.jpg
+  updates:
+    id: DMG-D4
+# Mat Hofman's Pro BMX, NA
+- key: boxart
+  value: /a/box/8/7/5/9875_front.jpg
+  updates:
+    id: CGB-BM5E-USA
+# Sesame Street Sports
+- key: boxart
+  value: /a/box/1/5/3/43153_front.jpg
+  updates:
+    id: CGB-BSQE-USA
+# Game Boy Hardware, NA
+- key: id
+  value: GA-DMG-USA-1
+  updates:
+    release_date: "1989-07-31"
+# Removals
+- key: release_date
+  value: "0000-00-01"
+# The Castlevania Adventure, NA, Players' Choice
+- key: title
+  value: "Castlevania: The Adventure (Player's Choice)"
