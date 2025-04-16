@@ -1,4 +1,5 @@
 #!/bin/zsh
+RED='\033[0;31m'
 
 # Jekyll location
 website_location=../website
