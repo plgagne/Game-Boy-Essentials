@@ -130,13 +130,14 @@ contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/
 contents = contents.gsub(/^[[:space:]]*$|^#/, "")
 contents = contents.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
 
+# Final corrections
 contents = contents.gsub(/ +contributors:/, "   contributors:")
 contents = contents.gsub(/ +- representative_name:/, " - representative_name:")
 
 # Unknown release dates
 contents = contents.gsub(/release_date: "0000-00-00 2021"/, "release_date: \"2021-01-00\"")
 contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"")
-contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n      unknown_release_month: true")
+contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-00-\\2\"\n      unknown_release_month: true")
 
 contents.prepend("---\ngames:\n ")
 
