@@ -507,7 +507,22 @@
       "news"
     ],
     "source": "https://en.wikipedia.org/wiki/Nintendo_Selects#1996%E2%80%932010:_Player’s_Choice",
-    "note": "Nintendo announces the Player’s Choice program for SNES and Game Boy. An exhaustive list of Game Boy Players’ Choice and their releases elude me."
+    "note": "Nintendo announces the Player’s Choice program for SNES and Game Boy."
+  },
+  {
+    "fact": true,
+    "date": "1996-05-01",
+    "tags": [
+      "na"
+    ],
+    "cat": [
+      "gb",
+      "snes",
+      "nintendo",
+      "news"
+    ],
+    "source": "https://gameboyessentials.com/timelines/players_choice.webp",
+    "note": "Nintendo starts rereleasing some of its best sellers, along with limited titles from some other publishers."
   },
   {
     "fact": true,
