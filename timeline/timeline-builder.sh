@@ -21,7 +21,7 @@ else
 fi
 
 # Make resized images
-if [ -r "${website_location}/assets/timeline/a" ]; then
+if [ -r "${website_location}/assets/timelines/a" ]; then
   echo "${RED}Resized images exist."
 else
   echo "${RED}Resized images do not exist. Making them now:"
@@ -30,7 +30,7 @@ else
     magick mogrify $line -resize 160 $line
   done
   echo "${RED}Moving resized images to assets folder ..."
-  cp "temp/a" "${website_location}/assets/timeline/a"
+  cp "temp/a" "${website_location}/assets/timelines/a"
 fi
 
 if [ -r "temp/timeline-temp.tmp" ]; then
