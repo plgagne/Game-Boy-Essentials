@@ -2,9 +2,7 @@
 title: "Mario Golf"
 description: "Baby Mario Golf"
 slug: "cgb-awxe"
-release-date: "1999-08-01"
-release-year: "1999"
-release-month: "08"
+release-date: "1999-08-10"
 publication: "2018-04-10"
 tags: [book2]
 developers: "Camelot Software Planning & Nintendo"

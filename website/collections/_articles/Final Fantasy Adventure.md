@@ -2,9 +2,7 @@
 title: "Final Fantasy Adventure"
 description: "Mana without the Mania"
 slug: "dmg-ff"
-release-date: "1991-06-01"
-release-year: "1991"
-release-month: "06"
+release-date: "1991-06-28"
 publication: "2016-05-13"
 tags: [book1]
 developers: "SquareSoft"

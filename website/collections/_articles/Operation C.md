@@ -2,9 +2,7 @@
 title: "Operation C"
 description: "Baby Contra"
 slug: "dmg-cn"
-release-date: "1991-01-01"
-release-year: "1991"
-release-month: "01"
+release-date: "1991-01-08"
 publication: "2017-06-30"
 tags: [book2]
 developers: "Konami"

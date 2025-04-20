@@ -2,9 +2,7 @@
 title: "Metal Gear: Ghost Babel"
 description: "Portable Espionage Action"
 slug: "cgb-bmge"
-release-date: "2000-04-00"
-release-year: "2000"
-release-month: "04"
+release-date: "2000-04-24"
 publication: "2024-06-23"
 tags: [book4]
 developers: "TOSE"

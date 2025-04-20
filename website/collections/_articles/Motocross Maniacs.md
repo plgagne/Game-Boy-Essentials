@@ -2,9 +2,7 @@
 title: "Motocross Maniacs"
 description: "Manic Motocross"
 slug: "dmg-mx"
-release-date: "1989-10-01"
-release-year: "1989"
-release-month: "10"
+release-date: "1989-09-20"
 publication: "2018-03-23"
 tags: [book2]
 developers: "Konami"

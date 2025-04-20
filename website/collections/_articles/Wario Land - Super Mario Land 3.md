@@ -3,8 +3,6 @@ title: "Wario Land: Super Mario Land 3"
 description: "Garlic Lover"
 slug: "dmg-wj"
 release-date: "1994-01-21"
-release-year: "1994"
-release-month: "01"
 publication: "2025-03-01"
 tags: [book4]
 developers: "Nintendo R&D1"

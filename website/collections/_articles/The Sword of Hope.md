@@ -2,7 +2,7 @@
 title: "The Sword of Hope"
 description: "IAKESOCMEK"
 slug: "dmg-se"
-release-date: "1989-12-01"
+release-date: "1989-12-28"
 release-year: "1989"
 release-month: "12"
 publication: "2017-04-15"

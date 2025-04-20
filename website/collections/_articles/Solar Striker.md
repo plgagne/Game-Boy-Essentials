@@ -2,9 +2,7 @@
 title: "Solar Striker"
 description: "Ludo-Political Positioning"
 slug: "dmg-ss"
-release-date: "1990-01-01"
-release-year: "1990"
-release-month: "01"
+release-date: "1990-01-26"
 publication: "2016-10-17"
 tags: [book1]
 developers: "Nintendo R&D1 & Minakuchi Engineering"

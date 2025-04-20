@@ -2,9 +2,7 @@
 title: "The Legend of Zelda: Link’s Awakening"
 description: "The Secret Best Zelda Game"
 slug: "dmg-zl"
-release-date: "1993-06-01"
-release-year: "1993"
-release-month: "06"
+release-date: "1993-06-06"
 publication: "2016-07-03"
 tags: [book1]
 developers: "Nintendo EAD"

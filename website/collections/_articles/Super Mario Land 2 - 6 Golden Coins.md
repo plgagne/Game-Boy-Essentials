@@ -2,9 +2,7 @@
 title: "Super Mario Land 2: 6 Golden Coins"
 description: "Weird"
 slug: "dmg-mq"
-release-date: "1992-10-01"
-release-year: "1992"
-release-month: "10"
+release-date: "1992-10-21"
 publication: "2019-03-29"
 tags: [book3]
 developers: "Nintendo R&D1"

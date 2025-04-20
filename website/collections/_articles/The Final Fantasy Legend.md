@@ -2,9 +2,7 @@
 title: "The Final Fantasy Legend"
 description: "A Tale of Two Printings"
 slug: "dmg-sa"
-release-date: "1989-09-01"
-release-year: "1989"
-release-month: "09"
+release-date: "1989-12-15"
 publication: "2016-11-30"
 tags: [book1]
 developers: "SquareSoft"

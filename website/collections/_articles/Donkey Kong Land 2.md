@@ -3,8 +3,6 @@ title: "Donkey Kong Land 2"
 description: "Ape Escape"
 slug: "dmg-adde"
 release-date: "1996-09-01"
-release-year: "1996"
-release-month: "09"
 publication: "2020-01-13"
 tags: [book3]
 developers: "Rare"

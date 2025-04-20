@@ -2,9 +2,7 @@
 title: "Mega Man: Dr. Wily’s Revenge"
 description: "A First Attempt at the Blue Bomber"
 slug: "dmg-rw"
-release-date: "1991-07-01"
-release-year: "1991"
-release-month: "07"
+release-date: "1991-07-26"
 publication: "2016-02-01"
 tags: [book1]
 developers: "Capcom and Minakuchi Engineering"

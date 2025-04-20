@@ -2,9 +2,7 @@
 title: "The Bugs Bunny Crazy Castle"
 description: "Crazy Stupid Love"
 slug: "dmg-bb"
-release-date: "1989-09-01"
-release-year: "1989"
-release-month: "09"
+release-date: "1989-09-05"
 publication: "2017-02-27"
 tags: [book2]
 developers: "Kemco"
@@ -36,7 +34,7 @@ Kemco gets the right to make a Roger Rabbit game for the [Famicom Disk System](h
 {% include figure.html type="pixel" class="gallery" figcaption="Roger Rabbit" %}
 {% include figure.html type="pixel" class="gallery" figcaption="Bugs Bunny" %}
 </div>
-Now comes the time to get your throwaway game to North America. But in North America, Kemco did not hold the video game rights for the *Roger Rabbit* movie. Another game based on *Who Framed Roger Rabbit* was instead released to coincide with its VHS release, a really big event back in the fall of 1989. It’s not the same game as the Japanese one: it was published by LJN and developed by Rare of all people! Kemco did release its game in North America, but as *The Bugs Bunny Crazy Castle*. They ported the game to cartridge (from an FDS diskette) and changed the sprites into Looney Tunes characters. How did we end up in this situation?
+Now comes the time to get your throwaway game to North America. But in North America, Kemco did not hold the video game rights for the *Roger Rabbit* movie. Another game based on *Who Framed Roger Rabbit* was instead released to coincide with its VHS release, a really big event back in the fall of 1989. It’s not the same game as the Japanese one: it was published by LJN and developed by Rare of all people. Kemco did release its game in North America, but as *The Bugs Bunny Crazy Castle*. They ported the game to cartridge (from an FDS diskette) and changed the sprites into Looney Tunes characters. How did we end up in this situation?
 
 It’s not necessarily a simple answer of LJN having snatched the rights in North America before Kemco could localize their version. It’s very possible that Kemco being a Japanese company, they concentrated on getting the game out in Japan without ever really thinking about a worldwide release. It might be possible that Kemco did not think it was worth paying for the rights to a movie out of American theatres, and they did not consider coinciding their game with a VHS release. It might be possible that the movie being a big hit, the price for the rights went up and shut out Kemco. It might be possible that the game being out, the American rights holder saw the Japanese version and thought it was inappropriate. I don’t know. The rights to Roger Rabbit himself are convoluted, to say the least; Spielberg has to this day a veto on anything Roger Rabbit related (the movie version of the character: Roger Rabbit was adapted from a novel), we can only presume at the complicated discussions that left us with the situation we’re in with the *Crazy Castle* games.
 

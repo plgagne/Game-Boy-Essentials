@@ -3,8 +3,6 @@ title: "Game & Watch Gallery"
 description: "Re-Revisited"
 slug: "dmg-agae"
 release-date: "1997-02-01"
-release-year: "1997"
-release-month: "02"
 publication: "2019-08-13"
 tags: [book3]
 developers: "Nintendo R&D1"

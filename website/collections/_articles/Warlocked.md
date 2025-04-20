@@ -2,9 +2,7 @@
 title: "Warlocked"
 description: "Portable Marvel"
 slug: "cgb-bwle"
-release-date: "2000-07-01"
-release-year: "2000"
-release-month: "07"
+release-date: "2000-07-24"
 publication: "2020-08-09"
 tags: [book3]
 developers: "Bits Studios"
@@ -20,7 +18,7 @@ developers: "Bits Studios"
 ## {{ page.description }}
 
 {% include figure.html type="gb" class="float left" %}
-*Warlocked* is one of the reasons I started this whole project. I always wanted to talk about it. It’s an impossible feat; a real-time strategy (RTS) game on Game Boy Color, filled to the brim with charm and delight. The game has so much gumption to achieve so much with so little that you will be filled with awe. *Warlocked* is the quintessential essential game. 
+*Warlocked* is one of the reasons I started this whole project. I always wanted to talk about it. It’s an impossible feat; a real-time strategy (RTS) game on Game Boy Color, filled to the brim with charm and delight. The game has so much gumption to achieve so much with so little that you will be filled with awe. *Warlocked* is the quintessential essential game.
 
 ## Let’s Describe the Game
 
@@ -29,7 +27,7 @@ developers: "Bits Studios"
 {% include figure.html type="gb" %}
 {% include figure.html type="gb" %}
 
-The game is a real RTS, with a top-down view and cursor controls to order your units. It has a rudimentary control scheme, a rudimentary economy, a rudimentary tactical system. You get my point. Everything is barebones, but you cannot fault the game, it’s on Game Boy Color. 
+The game is a real RTS, with a top-down view and cursor controls to order your units. It has a rudimentary control scheme, a rudimentary economy, a rudimentary tactical system. You get my point. Everything is barebones, but you cannot fault the game, it’s on Game Boy Color.
 
 I have always been a perennial RTS player, so you’ll forgive me if I speak gibberish when talking about the game. *Warlocked* uses the first *Warcraft* ruleset as a template. This means it has two artistically different factions that are nonetheless identical in terms of abilities. It also means that you mine two resources: gold and wood/mountain (?) in exactly the same way *Warcraft* does it. These resources are gathered and brought back to your castle by workers. The castle is your central building that can produce more workers. In a breach of the *Warcraft* ruleset, the central castle is already built on every map you play, and cannot be rebuilt if destroyed. It’s immediately Game Over. The fact this building cannot be built and is placed ahead of time is a limitation for the sake of simplicity. Think of every situation that **cannot** happen because your main building is already placed and cannot be replicated.
 
@@ -39,7 +37,7 @@ I’ll talk about more details later on, but just keep in mind that the game is 
 
 Surprisingly, it brings some fresh ideas to the RTS concept. First, you have dragons, the strongest units of the game and the only flying units available. They cannot be built. Instead, you find their eggs on the map, they hatch and you bring the baby dragon back to your base. The dragon matures after a short while, and you get the dragon. It basically is capture the flag with the reward being a wonderful flying unit to smite your enemies! During single player its impact is nothing fancy, but it brings some much needed tactical complexity to multiplayer matches. Oh yes indeed, the game has multiplayer and it works perfectly well! With two cartridges, you can have a ton of fun! The second idea is related to a second multiplayer mode, based around a kind-of deck building concept. Whenever you finish a single player mission, your remaining resources are put into a pool that you can use to create armies. Those armies can then be compared against other players, using the Game Boy Color’s IR port. I never was able to experience the feature since I never knew anyone who owned the game. The last idea of the game is wizards. Throughout the campaign, you will meet an assortment of unique units. They’re somewhat hidden in the maps, and once they are found they join your army, and they each bring a different spell to help you. Some have passive spells, like stronger armour for all your units, while others have active spells, like turning enemy units into chickens. They all have dumb names to accompany their spell that end in -wiz, like Chickenwiz and Quakewiz. You can have a maximum of two wizards out in battle at the same time, which means you have to choose the spells you want wisely. Once you complete a mission, if the wizard survived, they join your permanent list of wizards and they can be reused in future single-player missions. It’s obviously inspired by Pokémon, but be careful: if they die during a mission, they’re gone for good. You can replay missions to go and get them back, however. Which means you can actually have more than one copy of each wizard. Just like Pokémon.
 
-The best part of the whole idea is they’re usable in multiplayer matches. So you can show off and use your wizards when playing against another player. I’ve played *Warlocked* multiplayer matches only once in my life (thanks, Mark Weissfelner). Clowning your adversary with your wizards was the most fun I had playing this game and I only managed to do it once. Drat! 
+The best part of the whole idea is they’re usable in multiplayer matches. So you can show off and use your wizards when playing against another player. I’ve played *Warlocked* multiplayer matches only once in my life (thanks, Mark Weissfelner). Clowning your adversary with your wizards was the most fun I had playing this game and I only managed to do it once. Drat!
 
 {% include figure.html type="gb" %}
 
@@ -103,7 +101,7 @@ I’ve talked about this before and I’ll mention it again: the Game Boy cannot
 
 - **Attacking when detecting your units**: When you move units within a certain range of enemy units, they will react by making a beeline to the unit who first made range and attack it.
 - **Spawning units and heading towards your keep**: When you have been detected by specific enemy units, the pre-placed enemy barracks will start spawning units at a set rate and send them towards your keep. If they encounter one of your units or buildings, the first behaviour mentioned above will trigger. Those enemy barracks are always placed in a simple path from your keep, so the path-finding is never a problem. Speaking of pathfinding:
- 
+
 > The pathfinding was the single biggest issue in the whole game. There are many ways to program pathfinding, but they mostly rely on both a good amount of memory to determine the best route and a fast processor to cope with the computations. The Game Boy Color’s processor simply couldn’t handle some of the best algorithms for multiple units, and so a *best attempt* system was used. Although far from perfect, it does manage to navigate itself away from a number of tricky situations, and allows units to move and act as a group with some success.
 
 Be careful, dear reader, to understand the difference between enemy AI and pathfinding. While enemy AI is the behaviour of your enemy opponent, pathfinding is the movement behaviour of all the units in the game, enemy or friendly. When you click a destination on the map, it is the constant calculation of the route to take to that destination. It’s a notoriously complex computing problem, and there is no ceiling to the amount of computing power you can throw at those calculations.
@@ -113,7 +111,7 @@ Here, I have nothing but congratulations for Dylan and the rest of the team. The
 {% include figure.html type="gb" %}
 
 The game uses all sorts of tricks to alleviate potential path-finding issues like wood collecting. In a game like *Warcraft*, you have to collect wood. Workers will try to collect the wood tiles that are the closest to the lumber yard. In *Warlocked*, that was obviously too complex a behaviour to implement, so workers will simply collect wood in a straight line. It’s not ideal, but again it is a predictable behaviour that you can quickly understand and control.
- 
+
 > Multiplayer was its own special sort of challenge, and ended up using a custom master/slave mechanism.
 
 I can say that with the multiplayer, they succeeded. The game runs a bit slower, and the voice clips for the units are absent in this mode, but I’d dare say multiplayer is the greatest achievement of this game. A full-fledged multiplayer RTS on Game Boy Color. I own two copies of *Warlocked* just to be able to see it with my own eyes.
@@ -157,7 +155,7 @@ Once that’s done, you’re good to go; your workers will take care of the rest
 ## The Music!
 
 {% include figure.html type="gb" class="float right" %}
-I implore you to listen to the soundtrack of *Warlocked*. The soundtrack is made by a composer known for his Commodore 64 work, Jeroen Tel, and it has that wonderful *European composer* quality that is so powerful on Game Boy. It has this interesting emotional undercurrent that really elevates the whole game. My favourite tracks are *Lava 1* and *Woods 1*. I think I get this feeling because the game is trying something different from the usual understated Game Boy music. RTS music tends to be very preeminent; there’s a strong tradition in the genre of the music never taking a step back during gameplay. I guess we have Frank Klepacki, composer of Westwood titles, to thank for his active soundtracks. *Warlocked does* the same thing. It has an energetic soundtrack that draws attention to itself, by taking inspiration from *Warcraft 2: Tides of Darkness*. The soundtrack in that game is unforgettable and grabs your attention immediately. *Warlocked* goes for the same effect and **I love it**. 
+I implore you to listen to the soundtrack of *Warlocked*. The soundtrack is made by a composer known for his Commodore 64 work, Jeroen Tel, and it has that wonderful *European composer* quality that is so powerful on Game Boy. It has this interesting emotional undercurrent that really elevates the whole game. My favourite tracks are *Lava 1* and *Woods 1*. I think I get this feeling because the game is trying something different from the usual understated Game Boy music. RTS music tends to be very preeminent; there’s a strong tradition in the genre of the music never taking a step back during gameplay. I guess we have Frank Klepacki, composer of Westwood titles, to thank for his active soundtracks. *Warlocked does* the same thing. It has an energetic soundtrack that draws attention to itself, by taking inspiration from *Warcraft 2: Tides of Darkness*. The soundtrack in that game is unforgettable and grabs your attention immediately. *Warlocked* goes for the same effect and **I love it**.
 
 When I first bought the game as a teenager in 2000, I would start the music test on a track I liked, connect headphones to my Game Boy Color, put it in my pockets and walk to school listening to the music. I liked it that much.
 

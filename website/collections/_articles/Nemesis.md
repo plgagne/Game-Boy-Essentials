@@ -2,9 +2,7 @@
 title: "Nemesis"
 description: "Mastery at an Early Age"
 slug: "dmg-nm"
-release-date: "1990-02-01"
-release-year: "1990"
-release-month: "02"
+release-date: "1990-02-23"
 publication: "2016-10-27"
 tags: [book1]
 developers: "Konami"

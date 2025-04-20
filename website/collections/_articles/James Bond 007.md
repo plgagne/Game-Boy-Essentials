@@ -2,9 +2,7 @@
 title: "James Bond 007"
 description: "Boy, Game Boy"
 slug: "dmg-aw7e"
-release-date: "1998-01-01"
-release-year: "1998"
-release-month: "01"
+release-date: "1998-01-29"
 publication: "2018-01-12"
 tags: [book2]
 developers: "Saffire"

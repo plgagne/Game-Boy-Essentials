@@ -2,9 +2,7 @@
 title: "3D Pocket Pool"
 description: "Too Late for Pool"
 slug: "cgb-bvpp"
-release-date: "2001-03-01"
-release-year: "2001"
-release-month: "03"
+release-date: "2001-03-30"
 publication: "2020-04-06"
 tags: [book3]
 developers: "Aardvark Software"

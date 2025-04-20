@@ -2,9 +2,7 @@
 title: "Disney⋅Pixar Toy Story Racer"
 description: "You Are a Child’s Plaything!"
 slug: "cgb-bt5e"
-release-date: "2001-02-01"
-release-year: "2001"
-release-month: "02"
+release-date: "2001-02-28"
 publication: "2018-02-21"
 tags: [book2]
 developers: "Tiertex Design Studios"

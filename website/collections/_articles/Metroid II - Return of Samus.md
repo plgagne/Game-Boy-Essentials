@@ -3,8 +3,6 @@ title: "Metroid II: Return of Samus"
 description: "SR-388 Travelogue"
 slug: "dmg-me"
 release-date: "1991-11-01"
-release-year: "1991"
-release-month: "11"
 publication: "2019-03-11"
 tags: [book2]
 developers: "Nintendo R&D1"

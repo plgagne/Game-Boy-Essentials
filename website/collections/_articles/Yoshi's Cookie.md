@@ -3,8 +3,6 @@ title: "Yoshi’s Cookie"
 description: "Play Around With Your Cookies"
 slug: "dmg-ci"
 release-date: "1992-11-21"
-release-year: "1992"
-release-month: "11"
 publication: "2023-04-29"
 tags: [book4]
 developers: "TOSE & Bullet-Proof Software"

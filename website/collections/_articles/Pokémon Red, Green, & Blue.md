@@ -3,8 +3,6 @@ title: "Pokémon: Red, Green, & Blue"
 description: "A Game Boy Resurrection"
 slug: "dmg-apee"
 release-date: "1996-02-27"
-release-year: "1996"
-release-month: "02"
 publication: "2022-03-28"
 tags: [book3]
 developers: "Game Freak"

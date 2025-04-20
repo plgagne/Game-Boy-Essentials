@@ -2,9 +2,7 @@
 title: "Super Mario Land"
 description: "2-Bit Mario"
 slug: "dmg-ml"
-release-date: "1989-04-01"
-release-year: "1989"
-release-month: "04"
+release-date: "1989-04-21"
 publication: "2016-04-01"
 tags: [book1]
 developers: "Nintendo R&D1"

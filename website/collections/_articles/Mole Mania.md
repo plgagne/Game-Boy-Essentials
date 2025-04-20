@@ -3,8 +3,6 @@ title: "Mole Mania"
 description: "Buried Treasure"
 slug: "dmg-amoe"
 release-date: "1996-07-21"
-release-year: "1996"
-release-month: "07"
 publication: "2022-08-11"
 tags: [book3]
 developers: "Nintendo EAD & Pax Softnica"
@@ -23,14 +21,14 @@ Gunpei Yokoi, the father of the Game Boy, was in a weird spot. He was the compan
 
 While Nintendo kept the same muted, simple strategy for its portable behemoth, Game Boy games were getting rarer. To keep shelves stocked with good games Nintendo started their Players’ Choice program. [*The Legend of Zelda: Link’s Awakening*](/articles/dmg-zl/), *Star Wars*, [*The Bugs Bunny Crazy Castle*](/articles/dmg-bb/), [*Mega Man: Dr. Wily’s Revenge*](/articles/dmg-rw/) are just some examples of games republished by Nintendo under their Players’ Choice banner. Clearly, the company was trying to put older titles of better quality on store shelves to maintain interest for the Game Boy and its new upgrade the Game Boy Pocket.
 
-While in Japan *Pokémon* was out since February of ’96, the global future was uncertain. It was a truly gangbuster success locally that had given a second wind to the Game Boy but could this success be replicated outside Japan? Could Game Freak, an unproven group of young inexperienced people, provide more Pokémon games to solidify the mania? How long would people buy Game Boy systems to play *Pokémon*? Nothing was certain. Out of this weird middle age for the Game Boy, Game Boy Pocket was born. With that new console revision came one marquee title to coincide with the release, the fourth and final Nintendo EAD developed game for Game Boy: *Mole Mania*. A puzzle game pitting you as a mole that pushes and throws things while digging holes, the best way to describe it would be to compare it to the action puzzle games of the ’80s like *Sokoban* or *Lode Runner*. 
+While in Japan *Pokémon* was out since February of ’96, the global future was uncertain. It was a truly gangbuster success locally that had given a second wind to the Game Boy but could this success be replicated outside Japan? Could Game Freak, an unproven group of young inexperienced people, provide more Pokémon games to solidify the mania? How long would people buy Game Boy systems to play *Pokémon*? Nothing was certain. Out of this weird middle age for the Game Boy, Game Boy Pocket was born. With that new console revision came one marquee title to coincide with the release, the fourth and final Nintendo EAD developed game for Game Boy: *Mole Mania*. A puzzle game pitting you as a mole that pushes and throws things while digging holes, the best way to describe it would be to compare it to the action puzzle games of the ’80s like *Sokoban* or *Lode Runner*.
 
 I cannot say it loud enough: play this game! *Mole Mania* is very good. It’s a Shigeru Miyamoto masterpiece done during his golden age when his output was arguably at his summit. He was supervising classics like *Yoshi’s Island* and *Super Mario 64* and here comes this game done in a genre that he had abandoned, and he brings all the lessons he learned since he last made an action puzzle game. It’s a true bona fide classic, and it’s absolutely **forgotten**.
 
 ## A Hole Game
 Since this is a top-of-the-line Miyamoto game all the bad things about action puzzle games are smoothed out. There are so many pitfalls the game could have fallen into but you can see they play-tested the hell out of the game to make it fun. Unlike *Lode Runner*, the enemies of the game stick to predictable patterns. They never run toward you, Terminator-style, making you run for your life every instant. Instead, **you** get in **their** way, because they follow a pattern.
 
-There’s always a short way to reset a puzzle. Like *Sokoban* you can get objects stuck but there’s a very simple way to reset a puzzle. You just leave the screen and come back. A menu option also exists. 
+There’s always a short way to reset a puzzle. Like *Sokoban* you can get objects stuck but there’s a very simple way to reset a puzzle. You just leave the screen and come back. A menu option also exists.
 
 Every puzzle has the same solution: push the black ball against the rock blocking the path to the next screen. So you can fixate on getting that ball where it needs to go. There are multiple objects you can push but they always gravitate around getting out of the black ball’s way. However, the game often gives you more objects than you need. A pipe elbow will be pointless and irrelevant to the solution of the puzzle. Thus, puzzles are not always *clean*, meaning that you have more than what you need to finish it. On top of that, there are sometimes multiple methods to clear an exit. This is particularly apparent in level 4, where you have in quick succession multiple types of puzzles. So when reaching a new screen you immediately need to figure out whether there are objects that are useless to complete the level.
 

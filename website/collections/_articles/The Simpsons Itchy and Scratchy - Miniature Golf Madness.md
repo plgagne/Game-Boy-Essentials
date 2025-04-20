@@ -3,8 +3,6 @@ title: "The Simpsons: Itchy and Scratchy — Miniature Golf Madness"
 description: "They Drove a Dump Truck Full of Money Up to My House!"
 slug: "dmg-yh"
 release-date: "1994-11-01"
-release-year: "1994"
-release-month: "11"
 publication: "2019-10-11"
 tags: [book3]
 developers: "Beam Software"
@@ -30,7 +28,7 @@ It was a well-known quantity that Simpsons games were trash amongst my friends; 
 
 The level was backward from the usual NES fare: you had to go left instead of right. I still vividly remember the older brother going right and falling straight into the water and dying. He then went left with his next life and got immediately killed by a dynamite stick. Then something broke inside of him. I think he knew then and there that *Bart vs. the World* was a shitty game, and he was having none of it. He spent his remaining lives jumping in the water as fast as he could to get to a Game Over screen. I asked him what was wrong. He simply replied that the game was broken, got up, and brought the game back to the convenience store where he had rented it. He managed to convince the store to change his rental for another game.
 
-Remembering that story got me thinking about video game rental stores of yesteryear. Did clerks know which games were terrible based on the amount of time it took to bring them back, thoroughly pissed off? 
+Remembering that story got me thinking about video game rental stores of yesteryear. Did clerks know which games were terrible based on the amount of time it took to bring them back, thoroughly pissed off?
 
 > No, don’t rent the new *Bartman Meets Radioactive Man*. We’ve just received it yesterday, but any Simpsons game is always a guaranteed forty-five minute return.
 

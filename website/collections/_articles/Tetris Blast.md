@@ -3,8 +3,6 @@ title: "Tetris Blast"
 description: "A Blast Without a Bang"
 slug: "dmg-ht"
 release-date: "1995-03-17"
-release-year: "1995"
-release-month: "03"
 publication: "2023-03-05"
 tags: [book4]
 developers: "Bullet Proof Software"

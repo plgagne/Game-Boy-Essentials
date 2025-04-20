@@ -2,16 +2,14 @@
 title: "Heroes of Might & Magic"
 description: "Buy, Move, Attack, Rinse, Repeat"
 slug: "cgb-auhe"
-release-date: "2000-04-01"
-release-year: "2000"
-release-month: "04"
+release-date: "2000-06-20"
 publication: "2015-12-10"
 tags: [book1]
 developers: "KnowWonder"
 ---
 # {{ page.title }}
 {% include figure.html type="boxart" %}
-- North American release in April 2000
+- North American release in June 2000
 - European release in October 2000
 - Never released in Japan
 - Published by 3D0

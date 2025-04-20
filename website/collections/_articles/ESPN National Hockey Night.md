@@ -2,9 +2,7 @@
 title: "ESPN National Hockey Night"
 description: "Best of the Worst"
 slug: "cgb-bt4e"
-release-date: "2001-03-00"
-release-year: "2001"
-release-month: "03"
+release-date: "2001-03-21"
 publication: "2023-11-28"
 tags: [book4]
 developers: "Konami"

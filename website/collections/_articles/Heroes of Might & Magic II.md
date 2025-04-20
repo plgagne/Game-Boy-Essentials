@@ -3,8 +3,6 @@ title: "Heroes of Might & Magic II"
 description: "Not Much Better"
 slug: "cgb-buhe"
 release-date: "2000-12-01"
-release-year: "2000"
-release-month: "12"
 publication: "2016-08-21"
 tags: [book1]
 developers: "KnowWonder"
