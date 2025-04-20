@@ -16,6 +16,8 @@ contents = contents.gsub(/\t/, '')
 contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\begingroup \chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2} \endgroup')
 contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{10mm}\section*{')
 contents = contents.gsub(/<h3 id="(.*?)">/, '\subsection*{')
+
+# Links
 contents = contents.gsub(/<a href="(.*?)">/, '')
 contents = contents.gsub(/<audio src="(.*?)">
 <\/audio>/, '')
@@ -130,10 +132,9 @@ contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src
 \end{figure}')
 
 # Boxart scss
-contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{wrapfigure}{H}{\linewidth}
+contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{H}{\linewidth}
 \vskip 4pt
-\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\2\end{wrapfigure}
-\clearpage')
+\centering \includegraphics[width=.75\linewidth]{assets\\1}\end{wrapfigure}')
 
 # Quick and easy replacements
 map = {
