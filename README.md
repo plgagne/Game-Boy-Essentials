@@ -1,7 +1,8 @@
 # Game Boy Essentials
 ## Tâches
+- Régler la page titre de mes livres
+-
 ### Ligne du temps
-- régler l'absence de faits dans la timeline passé 2003
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Ajouter les ventes annuels sur la ligne du temps
 
