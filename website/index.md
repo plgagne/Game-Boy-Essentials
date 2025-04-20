@@ -13,24 +13,40 @@ weight: 1
   <span class="list_span">Earliest Release Date</span>
 </label>
 <section class="list_publication">
-{% assign articlepub = true %}
 {% assign sorted = site.articles | sort: "publication" | reverse %}
 {% for article in sorted %}
   {% include game.html %}
 {% endfor %}
-{% assign articlepub = false %}
 </section>
 <section class="list_release">
 {% assign gamerelease = true %}
-{% assign articles_grouped = site.articles | group_by: 'release-year' %}
-{% assign sorted = articles_grouped | sort: 'name' %}
-{% for group in sorted %}
-  <div class="list_year" id="year{{ group.name | round }}">
-  {{- group.name | round -}}
-  </div>
-  {% assign sorting = group.items | sort: 'release-month' %}
-  {% for article in sorting %}
-    {% include game.html %}
+{% assign first_sort = site.articles | sort: "title" %}
+{% assign sorted = first_sort | sort: "release-date" %}
+{% assign year_steps = (1989..2007) %}
+{% for year_stepper in year_steps %}
+  {% assign year_written = false %}
+
+  {% comment %} Step through all releases {% endcomment %}
+  {% for article in sorted %}
+    {% assign year_integer = article.release-date | date: "%Y" %}
+    {% assign year_integer = year_integer | plus: 0 %}
+
+    {% comment %} Stop if the year is larger than the position of the stepper {% endcomment %}
+    {% if year_integer > year_stepper %}
+      {% break %}
+      {% else %}
+
+      {% comment %} Start parsing if the year is correct {% endcomment %}
+      {% if year_stepper == year_integer %}
+
+        {% comment %} Open year HTML tags {% endcomment %}
+        {% if year_written == false %}
+          <div class="list_year" id="year{{ year_integer }}">{{ year_integer }}</div>
+          {% assign year_written = true %}
+        {% endif %}
+        {% include game.html %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 {% assign gamerelease = false %}
