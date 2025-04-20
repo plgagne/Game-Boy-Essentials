@@ -29,20 +29,20 @@ cp -r "../website/_site-local/tag" "temp/tag/"
 until [[ "$volume" -gt "$last_volume" ]]; do
   echo "${RED}Building book:" $volume
   echo "${RED}Making HTML version of introduction ..."
-  kramdown volume-$volume-intro.md > temp/volume-$volume-intro.html
+  kramdown volume-$volume-intro.md >temp/volume-$volume-intro.html
   echo "${RED}Merging introduction with articles ..."
   cat temp/volume-$volume-intro.html temp/tag/book$volume.html > temp/intermediate-current.html
   rm temp/volume-$volume-intro.html
   echo "${RED}Running Ruby file for book binding ..."
   ruby "bind.rb"
   cp temp/intermediate-current.tex temp/intermediate-$volume.tex
-#  rm temp/intermediate-current.html
-#  rm temp/intermediate-current.tex
+  rm temp/intermediate-current.html
+  rm temp/intermediate-current.tex
   echo "${RED}Adding variables to bound book ..."
   cp volume-$volume-variables.tex temp/book-$volume.tex
   cat book.tex >> temp/book-$volume.tex
   cat temp/intermediate-$volume.tex >> temp/book-$volume.tex
-#  rm temp/intermediate-$volume.tex
+  rm temp/intermediate-$volume.tex
   echo "\endgroup \end{document}" >> temp/book-$volume.tex
   echo "${RED}Running XeLaTeX:"
   cd temp
