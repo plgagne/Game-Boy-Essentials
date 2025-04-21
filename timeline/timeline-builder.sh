@@ -56,23 +56,15 @@ else
 fi
 
 # Run Ruby timeline builder
-if [ -r "temp/timeline.yml" ]; then
-  echo "${RED}YAML data has already been assembled."
-else
-  echo "${RED}Running YAML assembler ..."
-  ruby timeline-yaml-assembler.rb
+echo "${RED}Running YAML assembler ..."
+ruby timeline-yaml-assembler.rb
 # Validation check
-  echo "${RED}Validating YAML."
-  yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "temp/timeline.yml"
-fi
+echo "${RED}Validating YAML."
+yamllint -d "{extends: default, rules: {quoted-strings: enable,line-length: {max: 500}}}" "temp/timeline.yml"
 
 # Convert to JSON
-if [ -r "temp/timeline.json" ]; then
-  echo "${RED}JSON data has already been converted."
-else
-  echo "${RED}Converting YAML to JSON ..."
-  cat "temp/timeline.yml" | yj | jsonlint -s | cat > "temp/timeline.json"
-fi
+echo "${RED}Converting YAML to JSON ..."
+cat "temp/timeline.yml" | yj | jsonlint -s | cat > "temp/timeline.json"
 
 # Finalize
 echo "${RED}Creating final JSON files ..."
@@ -92,3 +84,4 @@ echo "Total number of releases in JSON releases file:" $json_releases
 # Copy JSON files to _data folder
 echo "${RED}Moving results files to _data folder ..."
 cp "results/timeline-releases.json" "${website_location}/_data/"
+cp "results/timeline-complete.json" "${website_location}/_data/"
