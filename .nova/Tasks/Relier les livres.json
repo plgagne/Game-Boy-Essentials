@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "cd website\nbundle exec jekyll build --config _config.yml,_local.yml\ncd ..\ncd books\nsh bind.sh"
+      "script" : "#!\/bin\/zsh\ncd website\nbundle exec jekyll build --config _config.yml,_local.yml\ncd ..\ncd books\nsh bind.sh"
     }
   },
   "openLogOnRun" : "start"
