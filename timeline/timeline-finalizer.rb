@@ -7,7 +7,7 @@ timeline_na = JSON.load_file 'temp/timeline.json'
 corrections = YAML.load_file 'corrections.yml'
 
 # Add developer to each release (AI written code)
-timeline_na['games'].each do |game|
+timeline_na.each do |game|
   developers = game['developers']
   next unless developers && !developers.empty? && game['releases']
 
@@ -20,14 +20,14 @@ timeline_na['games'].each do |game|
 end
 
 # Sort
-timeline_na["games"] = timeline_na["games"].sort_by { |entry| entry["representative_name"] }
+timeline_na = timeline_na.sort_by { |entry| entry["representative_name"] }
 
 # Finish timeline-complete
 File.write('results/timeline-complete.json', JSON.pretty_generate(timeline_na))
 
 # Extract all releases
 result = []
-result = timeline_na["games"].find_all { |h1| h1['representative_name']}.map { |game| game['releases'] }
+result = timeline_na.find_all { |h1| h1['representative_name']}.map { |game| game['releases'] }
 
 # Remove all depth to the array
 result = result.flatten
