@@ -55,8 +55,10 @@ contents = contents.gsub(/<.*?>Release Data.*?<tbody>/, "\n  releases:")
 contents = contents.gsub(/<tr><td class="cbox" rowspan="2">(.*?)<td class="datarating">(.*?)<\/td><\/tr>/, "\n\\1\n     rating: \"\\2\"")
 contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">US<.*?{(.*?)}.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "   - title: \"\\2\"\n      market: \"US\"\n     release_date: \"\\7\"\n     publisher: \"\\4\"\n     id: \"\\5\"\n     barcode: \"\\6\"\n     boxart: \"\\1\"\n\\3\n")
 contents = contents.gsub(/<.*?src=".*?com(.*?)".*?<b>(.*?)<.*?"cregion">(.*?)<.*?href=".*?">(.*?)<.*?"datapid">(.*?)<.*?"datapid">(.*?)<.*?"cdate">(.*?)<.*?\n/, "   - title: \"\\2\"\n     market: \"\\3\"\n     release_date: \"\\7\"\n     publisher: \"\\4\"\n     id: \"\\5\"\n     barcode: \"\\6\"\n     boxart: \"\\1\"\n")
+
 contents = contents.gsub(/<\/tbody><\/table><\/div><\/div>/, "")
 contents = contents.gsub(/     rating: "&nbsp;"/, "")
+contents = contents.gsub(/     barcode: "&nbsp;"/, "")
 contents = contents.gsub(/Yu Yu Hakusho "2"/, "Yu Yu Hakusho 2")
 
 # compilation
@@ -107,8 +109,9 @@ contents = contents.gsub(/release_date: \"Canceled/, "release_date: \"0000-00-00
 # Adjusting the market from US to NA
 contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
 
-# Switching empty image location
+# Switching image location
 contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/, "boxart: \"/no_cover.png\"")
+contents = contents.gsub(/_thumb.jpg/, "_front.jpg")
 
 # Unknown release dates
 contents = contents.gsub(/release_date: "0000-00-00 2021"/, "release_date: \"2021-01-00\"")
