@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "path" : "timeline\/timeline-builder.sh"
+    }
+  },
+  "openLogOnRun" : "start"
+}
