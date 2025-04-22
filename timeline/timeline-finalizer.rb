@@ -22,6 +22,29 @@ end
 # Sort
 timeline_na = timeline_na.sort_by { |entry| entry["representative_name"] }
 
+# Corrections (AI written code)
+corrections.each do |rule|
+  key = rule['key']
+  value = rule['value']
+
+  timeline_na.each do |game|
+    next unless game['releases']
+
+    # SAFELY modify releases array
+    if rule.key?('updates')
+      game['releases'].each do |release|
+        if release[key] == value
+          rule['updates'].each do |update_key, new_value|
+            release[update_key] = new_value
+          end
+        end
+      end
+    elsif rule['action'] == 'delete'
+      game['releases'].reject! { |release| release[key] == value }
+    end
+  end
+end
+
 # Finish timeline-complete
 File.write('results/timeline-complete.json', JSON.pretty_generate(timeline_na))
 
@@ -36,26 +59,7 @@ result = result.flatten
 result.compact!
 
 # Sort by release date
-sorted_result = result.sort_by { |game| game['release_date'] }
-
-# Corrections (AI written code)
-corrections.each do |correction|
-  key = correction['key']
-  value = correction['value']
-  if correction.key?('updates')
-    sorted_result.each do |entry|
-      if entry[key].to_s == value.to_s
-        correction['updates'].each do |update_key, new_value|
-          entry[update_key] = new_value
-        end
-      end
-    end
-  else
-    before = sorted_result.size
-    sorted_result.reject! { |entry| entry[key].to_s == value.to_s }
-    after = sorted_result.size
-  end
-end
+sorted_result = result.sort_by { |game| game['release_date'] || '' }
 
 # Working sort
 sorted_result_nocoverontop = sorted_result.sort_by do |entry|
