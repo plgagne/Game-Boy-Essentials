@@ -441,7 +441,8 @@
     ],
     "releases": [
       {
-        "title": "4 in 1 (Hudson Soft)",
+        "title": "4 in 1",
+        "release_details": "Hudson Soft",
         "market": "AS",
         "release_date": "1995-01-01",
         "unknown_release_month": true,
@@ -475,7 +476,8 @@
     ],
     "releases": [
       {
-        "title": "4 in 1 (Irem)",
+        "title": "4 in 1",
+        "release_details": "Irem",
         "market": "AS",
         "release_date": "1995-01-01",
         "unknown_release_month": true,
@@ -509,7 +511,8 @@
     ],
     "releases": [
       {
-        "title": "4 in 1 (Nintendo)",
+        "title": "4 in 1",
+        "release_details": "Nintendo",
         "market": "AS",
         "release_date": "1995-01-01",
         "unknown_release_month": true,
@@ -543,7 +546,8 @@
     ],
     "releases": [
       {
-        "title": "4 in 1 (Tomy)",
+        "title": "4 in 1",
+        "release_details": "Tomy",
         "market": "AS",
         "release_date": "1995-01-01",
         "unknown_release_month": true,
@@ -784,7 +788,8 @@
     ],
     "releases": [
       {
-        "title": "99 Nendohan: Eitango Center 1500 (Goukaku Boy Series)",
+        "title": "99 Nendohan: Eitango Center 1500",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-07-10",
         "publisher": "Imagineer",
@@ -1102,7 +1107,8 @@
         "developer": "Hudson"
       },
       {
-        "title": "Adventure Island (United Kingdom)",
+        "title": "Adventure Island",
+        "release_details": "United Kingdom",
         "market": "EU",
         "release_date": "1992-01-01",
         "unknown_release_month": true,
@@ -1243,7 +1249,8 @@
         "developer": "Hudson"
       },
       {
-        "title": "Adventure Island II (French)",
+        "title": "Adventure Island II",
+        "release_details": "French",
         "market": "EU",
         "release_date": "1993-01-01",
         "unknown_release_month": true,
@@ -1253,7 +1260,8 @@
         "developer": "Hudson"
       },
       {
-        "title": "Adventure Island II (Italian)",
+        "title": "Adventure Island II",
+        "release_details": "Italian",
         "market": "EU",
         "release_date": "1993-01-01",
         "unknown_release_month": true,
@@ -1401,7 +1409,8 @@
         "developer": "Vic Tokai"
       },
       {
-        "title": "Aerostar (SunSoft release)",
+        "title": "Aerostar",
+        "release_details": "SunSoft release",
         "market": "NA",
         "release_date": "1991-09-01",
         "publisher": "SunSoft",
@@ -1411,7 +1420,8 @@
         "developer": "Vic Tokai"
       },
       {
-        "title": "Aerostar (Vic Tokai release)",
+        "title": "Aerostar",
+        "release_details": "Vic Tokai release",
         "market": "NA",
         "release_date": "1991-01-01",
         "unknown_release_month": true,
@@ -6100,7 +6110,8 @@
         "developer": "Alpha Unit"
       },
       {
-        "title": "Bakukyuu Renpatsu!! Super B-Daman Gekitan! Rising Valkyrie! (Limited Edition)",
+        "title": "Bakukyuu Renpatsu!! Super B-Daman Gekitan! Rising Valkyrie!",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "2000-03-24",
         "publisher": "Takara",
@@ -6796,7 +6807,8 @@
         "developer": "Graphic Research"
       },
       {
-        "title": "Barcode Taisen Bardigun (Light Version Limited Special Box)",
+        "title": "Barcode Taisen Bardigun",
+        "release_details": "Light Version Limited Special Box",
         "market": "JP",
         "release_date": "1999-01-01",
         "publisher": "Tamsoft",
@@ -8031,7 +8043,8 @@
     ],
     "releases": [
       {
-        "title": "Battle Space (Barcode Box Set)",
+        "title": "Battle Space",
+        "release_details": "Barcode Box Set",
         "market": "JP",
         "release_date": "1992-12-25",
         "publisher": "Namco",
@@ -9183,7 +9196,8 @@
         "boxart": "/a/box/4/7/5/39475_front.jpg"
       },
       {
-        "title": "Bikkuriman 2000 Charging Card GB (Limited Edition)",
+        "title": "Bikkuriman 2000 Charging Card GB",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "2000-06-10",
         "publisher": "Imagineer",
@@ -13964,7 +13978,8 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Card Hero: Trading & Battle (with Battler Kit 7)",
+        "title": "Card Hero: Trading & Battle",
+        "release_details": "with Battler Kit 7",
         "market": "JP",
         "release_date": "2000-02-21",
         "publisher": "Nintendo",
@@ -14637,7 +14652,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Castlevania_Legends",
     "releases": [
       {
-        "title": "Akumajou Dracula: Shikkoku Taru Zensoukyoku (Dark Night Prelude)",
+        "title": "Akumajou Dracula: Shikkoku Taru Zensoukyoku",
+        "release_details": "Dark Night Prelude",
         "market": "JP",
         "release_date": "1997-11-27",
         "publisher": "Konami",
@@ -14744,6 +14760,17 @@
         "id": "DMG-CV",
         "barcode": "083717140016",
         "boxart": "/a/box/0/5/5/46055_front.jpg",
+        "developer": "Konami"
+      },
+      {
+        "title": "Castlevania: The Adventure",
+        "release_details": "Player’s Choice",
+        "market": "NA",
+        "release_date": "1991-01-01",
+        "unknown_release_month": true,
+        "publisher": "Konami",
+        "id": "DMG-CV",
+        "boxart": "/no_cover.png",
         "developer": "Konami"
       },
       {
@@ -17974,7 +18001,8 @@
     ],
     "releases": [
       {
-        "title": "Cross Hunter (Monster Hunter Version)",
+        "title": "Cross Hunter",
+        "release_details": "Monster Hunter Version",
         "market": "JP",
         "release_date": "2001-04-12",
         "publisher": "NetVillage",
@@ -17983,7 +18011,8 @@
         "boxart": "/a/box/0/2/5/41025_front.jpg"
       },
       {
-        "title": "Cross Hunter (Treasure Hunter Version)",
+        "title": "Cross Hunter",
+        "release_details": "Treasure Hunter Version",
         "market": "JP",
         "release_date": "2001-04-12",
         "publisher": "NetVillage",
@@ -17992,7 +18021,8 @@
         "boxart": "/a/box/0/2/4/41024_front.jpg"
       },
       {
-        "title": "Cross Hunter (X Hunter Version)",
+        "title": "Cross Hunter",
+        "release_details": "X Hunter Version",
         "market": "JP",
         "release_date": "2001-04-12",
         "publisher": "NetVillage",
@@ -19464,7 +19494,8 @@
         "developer": "Now Production"
       },
       {
-        "title": "Dance Dance Revolution GB3 (w/Controller)",
+        "title": "Dance Dance Revolution GB3",
+        "release_details": "w/Controller",
         "market": "JP",
         "release_date": "2001-03-15",
         "publisher": "Konami",
@@ -20434,7 +20465,8 @@
     ],
     "releases": [
       {
-        "title": "Densetsu no Starfy (Canceled)",
+        "title": "Densetsu no Starfy",
+        "release_details": "Canceled",
         "market": "JP",
         "release_date": null,
         "publisher": "Nintendo",
@@ -21499,7 +21531,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Disney’s Aladdin (Re-release)",
+        "title": "Disney’s Aladdin",
+        "release_details": "Re-release",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -21511,7 +21544,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Disney’s Aladdin (Disney’s Classic Video Games)",
+        "title": "Disney’s Aladdin",
+        "release_details": "Disney’s Classic Video Games",
         "market": "EU",
         "release_date": "2000-08-02",
         "publisher": "Virgin Interactive",
@@ -22000,7 +22034,8 @@
         "developer": "Capcom"
       },
       {
-        "title": "Disney’s DuckTales (Rerelease)",
+        "title": "Disney’s DuckTales",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1992-01-01",
         "unknown_release_month": true,
@@ -22100,7 +22135,8 @@
         "developer": "Capcom"
       },
       {
-        "title": "Disney’s Ducktales 2 (Players Choice)",
+        "title": "Disney’s Ducktales 2",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -22838,7 +22874,8 @@
         "developer": "Capcom"
       },
       {
-        "title": "Disney’s The Little Mermaid (Players Choice)",
+        "title": "Disney’s The Little Mermaid",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -23232,7 +23269,8 @@
         "developer": "Tiertex Design Studios"
       },
       {
-        "title": "Disney⋅Pixar Toy Story 2 (UK)",
+        "title": "Disney⋅Pixar Toy Story 2",
+        "release_details": "UK",
         "market": "EU",
         "release_date": "2000-03-01",
         "publisher": "Activision",
@@ -23633,7 +23671,8 @@
         "developer": "Pax Softonica"
       },
       {
-        "title": "Donkey Kong (GameBoy Classic Serie)",
+        "title": "Donkey Kong",
+        "release_details": "GameBoy Classic Serie",
         "market": "EU",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -23644,7 +23683,8 @@
         "developer": "Pax Softonica"
       },
       {
-        "title": "Donkey Kong (Players Choice)",
+        "title": "Donkey Kong",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -23967,7 +24007,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land (Players Choice)",
+        "title": "Donkey Kong Land",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -23979,7 +24020,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land (Nintendo Classics)",
+        "title": "Donkey Kong Land",
+        "release_details": "Nintendo Classics",
         "market": "EU",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -23989,7 +24031,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land (Players Choice Re-release)",
+        "title": "Donkey Kong Land",
+        "release_details": "Player’s Choice Re-release",
         "market": "NA",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -24132,7 +24175,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land 2 (Nintendo Classics)",
+        "title": "Donkey Kong Land 2",
+        "release_details": "Nintendo Classics",
         "market": "EU",
         "release_date": "1996-01-01",
         "unknown_release_month": true,
@@ -24153,7 +24197,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land 2 (Walmart Bundle)",
+        "title": "Donkey Kong Land 2",
+        "release_details": "Walmart Bundle",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -24164,7 +24209,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land 2 (Players Choice)",
+        "title": "Donkey Kong Land 2",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -24176,7 +24222,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Donkey Kong Land 2 (Players Choice Re-release)",
+        "title": "Donkey Kong Land 2",
+        "release_details": "Player’s Choice Re-release",
         "market": "NA",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -25698,7 +25745,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Dr. Mario (Players Choice)",
+        "title": "Dr. Mario",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -25710,7 +25758,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Dr. Mario (Best Buy Game Boy Pocket Bundle)",
+        "title": "Dr. Mario",
+        "release_details": "Best Buy Game Boy Pocket Bundle",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -26957,7 +27006,8 @@
         "developer": "MotiveTime, Ltd."
       },
       {
-        "title": "Dragon’s Lair: The Legend (Imagesoft Release)",
+        "title": "Dragon’s Lair: The Legend",
+        "release_details": "Imagesoft Release",
         "market": "NA",
         "release_date": "1991-01-01",
         "publisher": "Sony Imagesoft",
@@ -27876,7 +27926,8 @@
     ],
     "releases": [
       {
-        "title": "Eijukugo Target 1000 (Goukaku Boy Series 3)",
+        "title": "Eijukugo Target 1000",
+        "release_details": "Goukaku Boy Series 3",
         "market": "JP",
         "release_date": "1997-03-28",
         "publisher": "Imagineer",
@@ -27913,7 +27964,8 @@
     ],
     "releases": [
       {
-        "title": "Eiken 2-Kyuu Level no Kaiwa Hyuugen 333 (Goukaku Boy Series 9)",
+        "title": "Eiken 2-Kyuu Level no Kaiwa Hyuugen 333",
+        "release_details": "Goukaku Boy Series 9",
         "market": "JP",
         "release_date": "1997-10-31",
         "publisher": "Imagineer",
@@ -27950,7 +28002,8 @@
     ],
     "releases": [
       {
-        "title": "Eitango Target 1900 (Goukaku Boy Series 1)",
+        "title": "Eitango Target 1900",
+        "release_details": "Goukaku Boy Series 1",
         "market": "JP",
         "release_date": "1996-12-13",
         "publisher": "Imagineer",
@@ -28101,7 +28154,8 @@
         "developer": "TOSE"
       },
       {
-        "title": "Elie no Atelier GB (Deluxe Package)",
+        "title": "Elie no Atelier GB",
+        "release_details": "Deluxe Package",
         "market": "JP",
         "release_date": "2000-01-08",
         "publisher": "Imagineer",
@@ -28180,7 +28234,8 @@
         "developer": "Denton Designs"
       },
       {
-        "title": "World Cup Striker (Happy Price)",
+        "title": "World Cup Striker",
+        "release_details": "Happy Price",
         "market": "JP",
         "release_date": "1997-09-26",
         "publisher": "Coconuts Japan",
@@ -28223,7 +28278,8 @@
     ],
     "releases": [
       {
-        "title": "Equestriad 2001 (Canceled)",
+        "title": "Equestriad 2001",
+        "release_details": "Canceled",
         "market": "EU",
         "release_date": null,
         "publisher": "Midas Interactive Entertainment",
@@ -28638,7 +28694,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "F-1 Race (Players Choice)",
+        "title": "F-1 Race",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -30146,7 +30203,8 @@
         "developer": "SquareSoft"
       },
       {
-        "title": "Final Fantasy Adventure (Reprint)",
+        "title": "Final Fantasy Adventure",
+        "release_details": "Reprint",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -30237,7 +30295,8 @@
         "developer": "SquareSoft"
       },
       {
-        "title": "Final Fantasy Legend II (Reprint)",
+        "title": "Final Fantasy Legend II",
+        "release_details": "Reprint",
         "market": "NA",
         "release_date": "1998-07-01",
         "publisher": "SunSoft",
@@ -30315,7 +30374,8 @@
         "developer": "SquareSoft"
       },
       {
-        "title": "Final Fantasy Legend III (Reprint)",
+        "title": "Final Fantasy Legend III",
+        "release_details": "Reprint",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -32058,7 +32118,8 @@
     ],
     "releases": [
       {
-        "title": "Gakken Kanyouku: Kotowaza 210 (Goukaku Boy Series)",
+        "title": "Gakken Kanyouku: Kotowaza 210",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-01-30",
         "publisher": "Imagineer",
@@ -32091,7 +32152,8 @@
     ],
     "releases": [
       {
-        "title": "Gakken Rekishi 512 (Goukaku Boy Series)",
+        "title": "Gakken Rekishi 512",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-05-29",
         "publisher": "Imagineer",
@@ -32124,7 +32186,8 @@
     ],
     "releases": [
       {
-        "title": "Gakken Shiaza Jukugo 288 (Goukaku Boy Series)",
+        "title": "Gakken Shiaza Jukugo 288",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-01-30",
         "publisher": "Imagineer",
@@ -32556,7 +32619,8 @@
         "developer": "TOSE"
       },
       {
-        "title": "Game & Watch Gallery 2 (Rerelease)",
+        "title": "Game & Watch Gallery 2",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -32751,7 +32815,8 @@
         "developer": "TOSE"
       },
       {
-        "title": "Game Boy Gallery 3 (Limited Time Club Nintendo Offer)",
+        "title": "Game Boy Gallery 3",
+        "release_details": "Limited Time Club Nintendo Offer",
         "market": "JP",
         "release_date": "2014-11-21",
         "publisher": "Nintendo",
@@ -32911,7 +32976,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Pocket Hardware (Grey)",
+        "title": "Game Boy Pocket Hardware",
+        "release_details": "Grey",
         "market": "JP",
         "release_date": "1996-07-21",
         "publisher": "Nintendo",
@@ -32920,7 +32986,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Pocket Hardware (Red)",
+        "title": "Game Boy Pocket Hardware",
+        "release_details": "Red",
         "market": "JP",
         "release_date": "1996-07-21",
         "publisher": "Nintendo",
@@ -32929,7 +32996,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Pocket Hardware (Yellow)",
+        "title": "Game Boy Pocket Hardware",
+        "release_details": "Yellow",
         "market": "JP",
         "release_date": "1996-07-21",
         "publisher": "Nintendo",
@@ -32958,7 +33026,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Pocket Hardware (Clear Purple)",
+        "title": "Game Boy Pocket Hardware",
+        "release_details": "Clear Purple",
         "market": "JP",
         "release_date": "1997-11-21",
         "publisher": "Nintendo",
@@ -33034,7 +33103,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Game_Boy_Camera",
     "releases": [
       {
-        "title": "Pocket Camera (Clear Purple)",
+        "title": "Pocket Camera",
+        "release_details": "Clear Purple",
         "market": "JP",
         "release_date": "1998-02-21",
         "publisher": "Nintendo",
@@ -33043,7 +33113,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Pocket Camera (Green)",
+        "title": "Pocket Camera",
+        "release_details": "Green",
         "market": "JP",
         "release_date": "1998-02-21",
         "publisher": "Nintendo",
@@ -33157,7 +33228,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Cardcaptor Sakura Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Cardcaptor Sakura Edition",
         "market": "JP",
         "release_date": "1999-03-01",
         "publisher": "Nintendo",
@@ -33166,7 +33238,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Jusco Mario Special Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Jusco Mario Special Edition",
         "market": "JP",
         "release_date": "1999-03-01",
         "publisher": "Nintendo",
@@ -33175,7 +33248,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokémon Yellow Version)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Pokémon Yellow Version",
         "market": "NA",
         "release_date": "1999-10-25",
         "publisher": "Nintendo",
@@ -33185,7 +33259,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokémon Center)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Pokémon Center",
         "market": "JP",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -33194,7 +33269,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Tommy Hilfiger Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Tommy Hilfiger Edition",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -33204,7 +33280,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Hello Kitty Special Box)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Hello Kitty Special Box",
         "market": "JP",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -33214,7 +33291,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Tsutaya Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Tsutaya Edition",
         "market": "JP",
         "release_date": "2000-08-01",
         "publisher": "Nintendo",
@@ -33223,7 +33301,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Limited Edition Green and Gold Neotones)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Limited Edition Green and Gold Neotones",
         "market": "AU",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -33233,7 +33312,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Hello Kitty Special Box 2)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Hello Kitty Special Box 2",
         "market": "JP",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -33243,7 +33323,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Sakura Taisen Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Sakura Taisen Edition",
         "market": "JP",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -33253,7 +33334,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokémon Limited Edition!)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Pokémon Limited Edition!",
         "market": "NA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -33263,7 +33345,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokémon Special Edition)",
+        "title": "Game Boy Color Hardware",
+        "release_details": "Pokémon Special Edition",
         "market": "NA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -35043,7 +35126,8 @@
         "developer": "HAL Labs"
       },
       {
-        "title": "Ghostbusters II (Logo Cover)",
+        "title": "Ghostbusters II",
+        "release_details": "Logo Cover",
         "market": "NA",
         "release_date": "1990-12-01",
         "publisher": "Activision",
@@ -35557,7 +35641,8 @@
         "developer": "Konami Computer Entertainment Nagoya"
       },
       {
-        "title": "God Medicine: Fantasy Sekai no Tanjou (Reprint)",
+        "title": "God Medicine: Fantasy Sekai no Tanjou",
+        "release_details": "Reprint",
         "market": "JP",
         "release_date": "1998-03-26",
         "publisher": "Konami",
@@ -35921,7 +36006,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Golf (Player’s Choice)",
+        "title": "Golf",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -40943,7 +41029,8 @@
         "developer": "Affinix Software"
       },
       {
-        "title": "Infinity (Canceled)",
+        "title": "Infinity",
+        "release_details": "Canceled",
         "market": "NA",
         "release_date": null,
         "publisher": "Crave",
@@ -42561,7 +42648,8 @@
         "developer": "Saffire"
       },
       {
-        "title": "James Bond 007 (Players Choice)",
+        "title": "James Bond 007",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-12-15",
         "publisher": "Nintendo",
@@ -45614,7 +45702,8 @@
     ],
     "releases": [
       {
-        "title": "Kawaii Hamster (Nakayoshi Pet Series 1)",
+        "title": "Kawaii Hamster",
+        "release_details": "Nakayoshi Pet Series 1",
         "market": "JP",
         "release_date": "2000-01-28",
         "publisher": "MTO",
@@ -45813,7 +45902,8 @@
     ],
     "releases": [
       {
-        "title": "Kawaii Usagi (Nakayoshi Pet Series 2)",
+        "title": "Kawaii Usagi",
+        "release_details": "Nakayoshi Pet Series 2",
         "market": "JP",
         "release_date": "2000-03-24",
         "publisher": "MTO",
@@ -45936,7 +46026,8 @@
         "developer": "Natsume"
       },
       {
-        "title": "Keitai Denjuu Telefang: Power Version (Limited - Telefang Power Antenna included)",
+        "title": "Keitai Denjuu Telefang: Power Version",
+        "release_details": "Limited - Telefang Power Antenna included",
         "market": "JP",
         "release_date": "2000-11-03",
         "publisher": "Smilesoft",
@@ -45998,7 +46089,8 @@
         "developer": "Natsume"
       },
       {
-        "title": "Keitai Denjuu Telefang: Speed Version (Limited - Telefang Power Antenna included)",
+        "title": "Keitai Denjuu Telefang: Speed Version",
+        "release_details": "Limited - Telefang Power Antenna included",
         "market": "JP",
         "release_date": "2000-11-03",
         "publisher": "Smilesoft",
@@ -46302,7 +46394,8 @@
     ],
     "releases": [
       {
-        "title": "Kibihara Hinshutsu Eibunpou: Gohou Mondai 1000 (Goukaku Boy Series)",
+        "title": "Kibihara Hinshutsu Eibunpou: Gohou Mondai 1000",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-04-22",
         "publisher": "Imagineer",
@@ -46626,7 +46719,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Killer Instinct (Walmart Game Boy Console Bundle)",
+        "title": "Killer Instinct",
+        "release_details": "Walmart Game Boy Console Bundle",
         "market": "NA",
         "release_date": "1995-01-01",
         "unknown_release_month": true,
@@ -47193,7 +47287,8 @@
         "developer": "HAL Labs"
       },
       {
-        "title": "Kirby’s Block Ball (Target Game Boy Console Bundle)",
+        "title": "Kirby’s Block Ball",
+        "release_details": "Target Game Boy Console Bundle",
         "market": "NA",
         "release_date": "1996-01-01",
         "unknown_release_month": true,
@@ -47371,7 +47466,8 @@
         "developer": "HAL Labs"
       },
       {
-        "title": "Kirby’s Dream Land (Players Choice)",
+        "title": "Kirby’s Dream Land",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -47554,7 +47650,8 @@
         "developer": "HAL Labs"
       },
       {
-        "title": "Kirby’s Dream Land 2 (Players Choice)",
+        "title": "Kirby’s Dream Land 2",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -47734,7 +47831,8 @@
         "developer": "HAL Labs"
       },
       {
-        "title": "Kirby’s Pinball Land (Player’s Choice)",
+        "title": "Kirby’s Pinball Land",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -49483,7 +49581,8 @@
     ],
     "releases": [
       {
-        "title": "Koukou Nyuushideru Jun: Chuugaku Eijukugo 350 (Goukaku Boy Series 5)",
+        "title": "Koukou Nyuushideru Jun: Chuugaku Eijukugo 350",
+        "release_details": "Goukaku Boy Series 5",
         "market": "JP",
         "release_date": "1997-07-25",
         "publisher": "Imagineer",
@@ -49521,7 +49620,8 @@
     ],
     "releases": [
       {
-        "title": "Koukou Nyuushideru Jun: Chuugaku Eitango 1700 (Goukaku Boy Series 4)",
+        "title": "Koukou Nyuushideru Jun: Chuugaku Eitango 1700",
+        "release_details": "Goukaku Boy Series 4",
         "market": "JP",
         "release_date": "1997-06-27",
         "publisher": "Imagineer",
@@ -49559,7 +49659,8 @@
     ],
     "releases": [
       {
-        "title": "Koukou Nyuushideru Jun: Kanji Mondai no Seifuku (Goukaku Boy Series 6)",
+        "title": "Koukou Nyuushideru Jun: Kanji Mondai no Seifuku",
+        "release_details": "Goukaku Boy Series 6",
         "market": "JP",
         "release_date": "1997-08-29",
         "publisher": "Imagineer",
@@ -49597,7 +49698,8 @@
     ],
     "releases": [
       {
-        "title": "Koukou Nyuushideru Jun: Rekishi Nendai Anki Point 240 (Goukaku Boy Series 7)",
+        "title": "Koukou Nyuushideru Jun: Rekishi Nendai Anki Point 240",
+        "release_details": "Goukaku Boy Series 7",
         "market": "JP",
         "release_date": "1997-09-26",
         "publisher": "Imagineer",
@@ -49635,7 +49737,8 @@
     ],
     "releases": [
       {
-        "title": "Koukou Nyuushideru Jun: Rika Anki Point 250 (Goukaku Boy Series 8)",
+        "title": "Koukou Nyuushideru Jun: Rika Anki Point 250",
+        "release_details": "Goukaku Boy Series 8",
         "market": "JP",
         "release_date": "1997-10-01",
         "publisher": "Imagineer",
@@ -54517,7 +54620,8 @@
         "developer": "TOSE"
       },
       {
-        "title": "Marie no Atelier GB (Deluxe Package)",
+        "title": "Marie no Atelier GB",
+        "release_details": "Deluxe Package",
         "market": "JP",
         "release_date": "2000-01-08",
         "publisher": "Imagineer",
@@ -54600,7 +54704,8 @@
         "developer": "Camelot Software Planning"
       },
       {
-        "title": "Mario Golf (Rerelease)",
+        "title": "Mario Golf",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -56017,7 +56122,8 @@
         "developer": "Natsume"
       },
       {
-        "title": "Medarot 2: Kabuto Version (Limited Edition)",
+        "title": "Medarot 2: Kabuto Version",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "1999-07-23",
         "publisher": "Imagineer",
@@ -56074,7 +56180,8 @@
         "boxart": "/a/box/1/6/1/32161_front.jpg"
       },
       {
-        "title": "Medarot 2: Kuwagata Version (Limited Edition)",
+        "title": "Medarot 2: Kuwagata Version",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "1999-07-23",
         "publisher": "Imagineer",
@@ -56151,7 +56258,8 @@
     ],
     "releases": [
       {
-        "title": "Medarot 3: Kabuto Version (Limited Edition)",
+        "title": "Medarot 3: Kabuto Version",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "2000-07-23",
         "publisher": "Imagineer",
@@ -56208,7 +56316,8 @@
     ],
     "releases": [
       {
-        "title": "Medarot 3: Kuwagata Version (Limited Edition)",
+        "title": "Medarot 3: Kuwagata Version",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "2000-07-23",
         "publisher": "Imagineer",
@@ -56756,7 +56865,8 @@
         "developer": "Biox"
       },
       {
-        "title": "Mega Man II (Players Choice)",
+        "title": "Mega Man II",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -57542,7 +57652,8 @@
         "developer": "Capcom"
       },
       {
-        "title": "Mega Man: Dr. Wily’s Revenge (Players Choice)",
+        "title": "Mega Man: Dr. Wily’s Revenge",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -58715,7 +58826,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Metroid II: Return of Samus (Players Choice)",
+        "title": "Metroid II: Return of Samus",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -58924,7 +59036,8 @@
         "developer": "Kemco"
       },
       {
-        "title": "Mickey Mouse: Magic Wands! (Players Choice)",
+        "title": "Mickey Mouse: Magic Wands!",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-05-01",
         "publisher": "Nintendo",
@@ -59020,7 +59133,8 @@
         "developer": "Now Production"
       },
       {
-        "title": "Mickey’s Dangerous Chase (Players Choice)",
+        "title": "Mickey’s Dangerous Chase",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -61323,7 +61437,8 @@
         "developer": "TamTam"
       },
       {
-        "title": "Momotarou Densetsu 1-2 (Hudson the Best)",
+        "title": "Momotarou Densetsu 1-2",
+        "release_details": "Hudson the Best",
         "market": "JP",
         "release_date": "2001-07-31",
         "publisher": "Hudson",
@@ -61869,7 +61984,8 @@
         "developer": "Jorudan"
       },
       {
-        "title": "Monster Maker: Barcode Saga (Barcode Boy Set 2)",
+        "title": "Monster Maker: Barcode Saga",
+        "release_details": "Barcode Boy Set 2",
         "market": "JP",
         "release_date": "1993-08-10",
         "publisher": "Namco",
@@ -63270,7 +63386,8 @@
         "developer": "Ocean"
       },
       {
-        "title": "Mr. Nutz (Re-release)",
+        "title": "Mr. Nutz",
+        "release_details": "Re-release",
         "market": "EU",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -66797,7 +66914,8 @@
     ],
     "releases": [
       {
-        "title": "Nihonshi Target 201 (Goukaku Boy Series 2)",
+        "title": "Nihonshi Target 201",
+        "release_details": "Goukaku Boy Series 2",
         "market": "JP",
         "release_date": "1996-12-13",
         "publisher": "Imagineer",
@@ -67609,7 +67727,8 @@
         "developer": "Koei/Inis"
       },
       {
-        "title": "Nobunaga no Yabou: GameBoy Edition (Masterpiece Series)",
+        "title": "Nobunaga no Yabou: GameBoy Edition",
+        "release_details": "Masterpiece Series",
         "market": "JP",
         "release_date": "1997-07-25",
         "publisher": "Koei",
@@ -69079,7 +69198,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/O%27Leary_Manager_2000",
     "releases": [
       {
-        "title": "Guy Roux Manager 2000 (French)",
+        "title": "Guy Roux Manager 2000",
+        "release_details": "French",
         "market": "EU",
         "release_date": "2000-09-14",
         "publisher": "Ubisoft",
@@ -69117,7 +69237,8 @@
         "developer": "Live Media"
       },
       {
-        "title": "DSF Fussball Manager (German)",
+        "title": "DSF Fussball Manager",
+        "release_details": "German",
         "market": "EU",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -69782,7 +69903,8 @@
         "boxart": "/a/box/3/1/4/306314_front.jpg"
       },
       {
-        "title": "Pachi-Slot Kids (Happy Price)",
+        "title": "Pachi-Slot Kids",
+        "release_details": "Happy Price",
         "market": "JP",
         "release_date": "1997-12-26",
         "publisher": "Coconuts Japan",
@@ -69833,7 +69955,8 @@
         "developer": "Aisystem Tokyo"
       },
       {
-        "title": "Pachi-Slot Kids 2 (Happy Price)",
+        "title": "Pachi-Slot Kids 2",
+        "release_details": "Happy Price",
         "market": "JP",
         "release_date": "1997-12-26",
         "publisher": "Coconuts Japan",
@@ -73196,7 +73319,8 @@
         "developer": "Kid"
       },
       {
-        "title": "Pocket Love (w/CD)",
+        "title": "Pocket Love",
+        "release_details": "w/CD",
         "market": "JP",
         "release_date": "1997-07-18",
         "publisher": "Kid",
@@ -73249,7 +73373,8 @@
         "developer": "Kid"
       },
       {
-        "title": "Pocket Love 2 (w/CD)",
+        "title": "Pocket Love 2",
+        "release_details": "w/CD",
         "market": "JP",
         "release_date": "1998-03-13",
         "publisher": "Kid",
@@ -73833,7 +73958,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Blue (included w/ Game Boy Pocket)",
+        "title": "Pokémon Blue",
+        "release_details": "included w/ Game Boy Pocket",
         "market": "SA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -73852,7 +73978,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Blue Version (Rerelease)",
+        "title": "Pokémon Blue Version",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -74077,7 +74204,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Crystal Version (Pokémon Special Edition GBC Bundle)",
+        "title": "Pokémon Crystal Version",
+        "release_details": "Pokémon Special Edition GBC Bundle",
         "market": "EU",
         "release_date": "2001-11-02",
         "publisher": "Nintendo",
@@ -74109,7 +74237,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Crystal Version (Code in a Box)",
+        "title": "Pokémon Crystal Version",
+        "release_details": "Code in a Box",
         "market": "EU",
         "release_date": "2018-01-26",
         "publisher": "Nintendo",
@@ -74428,7 +74557,8 @@
     ],
     "releases": [
       {
-        "title": "Pokémon Picross (Canceled)",
+        "title": "Pokémon Picross",
+        "release_details": "Canceled",
         "market": "JP",
         "release_date": null,
         "publisher": "Nintendo",
@@ -74500,7 +74630,8 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokémon Pinball (Rerelease)",
+        "title": "Pokémon Pinball",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -74521,7 +74652,8 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokémon Pinball (Game Boy Color Bundle)",
+        "title": "Pokémon Pinball",
+        "release_details": "Game Boy Color Bundle",
         "market": "SA",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -74746,7 +74878,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Red (included w/ Game Boy Pocket)",
+        "title": "Pokémon Red",
+        "release_details": "included w/ Game Boy Pocket",
         "market": "SA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -74766,7 +74899,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Red Version (Rerelease)",
+        "title": "Pokémon Red Version",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -74811,7 +74945,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Red Version (Nintendo 2DS Special Edition Bundle)",
+        "title": "Pokémon Red Version",
+        "release_details": "Nintendo 2DS Special Edition Bundle",
         "market": "AU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -75243,7 +75378,8 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokémon Yellow Version: Special Pikachu Edition (Rerelease)",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -76902,7 +77038,8 @@
         "boxart": "/a/box/3/6/0/306360_front.jpg"
       },
       {
-        "title": "Pro Mahjong Kiwame GB (Reprint)",
+        "title": "Pro Mahjong Kiwame GB",
+        "release_details": "Reprint",
         "market": "JP",
         "release_date": "1997-06-30",
         "publisher": "Athena",
@@ -80360,7 +80497,8 @@
     ],
     "releases": [
       {
-        "title": "Z-Kai Reibun de Oboeru: Chuugaku Eitango 1132 (Goukaku Boy Series)",
+        "title": "Z-Kai Reibun de Oboeru: Chuugaku Eitango 1132",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-03-20",
         "publisher": "Imagineer",
@@ -80398,7 +80536,8 @@
     ],
     "releases": [
       {
-        "title": "Z-Kai Reibun de Oboeru: Kyuukyoku no Kobun Tango (Goukaku Boy Series)",
+        "title": "Z-Kai Reibun de Oboeru: Kyuukyoku no Kobun Tango",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-12-25",
         "publisher": "Imagineer",
@@ -80734,7 +80873,8 @@
         "developer": "Act Japan"
       },
       {
-        "title": "Return of the Ninja (Limited Collector’s Edition)",
+        "title": "Return of the Ninja",
+        "release_details": "Limited Collector’s Edition",
         "market": "NA",
         "release_date": "TBA 2021",
         "publisher": "Limited Run Games",
@@ -83787,7 +83927,8 @@
         "boxart": "/a/box/2/2/5/40225_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Alice Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Alice Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83796,7 +83937,8 @@
         "boxart": "/a/box/2/2/9/40229_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (GameBoy Color Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "GameBoy Color Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83804,7 +83946,8 @@
         "boxart": "/a/box/2/3/1/40231_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Kanna Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Kanna Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83812,7 +83955,8 @@
         "boxart": "/a/box/2/3/0/40230_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Kouran Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Kouran Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83820,7 +83964,8 @@
         "boxart": "/a/box/2/3/4/40234_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Maria Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Maria Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83829,7 +83974,8 @@
         "boxart": "/a/box/2/3/3/40233_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Pocket Sakura Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Pocket Sakura Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83838,7 +83984,8 @@
         "boxart": "/a/box/2/2/6/40226_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Premium Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Premium Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83847,7 +83994,8 @@
         "boxart": "/a/box/2/3/2/40232_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Sakura Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Sakura Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83856,7 +84004,8 @@
         "boxart": "/a/box/2/2/7/40227_front.jpg"
       },
       {
-        "title": "Sakura Taisen GB (Sumire Pack)",
+        "title": "Sakura Taisen GB",
+        "release_details": "Sumire Pack",
         "market": "JP",
         "release_date": "2000-07-28",
         "publisher": "Media Factory",
@@ -83907,7 +84056,8 @@
         "developer": "RED Entertainment"
       },
       {
-        "title": "Sakura Taisen GB2 (Limited Edition)",
+        "title": "Sakura Taisen GB2",
+        "release_details": "Limited Edition",
         "market": "JP",
         "release_date": "2001-12-06",
         "publisher": "Sega",
@@ -84222,7 +84372,8 @@
         "developer": "Koei/Inis"
       },
       {
-        "title": "San Goku Shi Game Boy Han (Masterpiece Series)",
+        "title": "San Goku Shi Game Boy Han",
+        "release_details": "Masterpiece Series",
         "market": "JP",
         "release_date": "1997-07-25",
         "publisher": "Koei",
@@ -85845,7 +85996,8 @@
         "developer": "WayForward"
       },
       {
-        "title": "Shantae (Re-release)",
+        "title": "Shantae",
+        "release_details": "Re-release",
         "market": "NA",
         "release_date": null,
         "publisher": "Limited Run Games",
@@ -86043,7 +86195,8 @@
         "boxart": "/a/box/3/5/9/39359_front.jpg"
       },
       {
-        "title": "Shikakui Atama o Maru Kusuru: Joushiki no Ka (Special Edition)",
+        "title": "Shikakui Atama o Maru Kusuru: Joushiki no Ka",
+        "release_details": "Special Edition",
         "market": "JP",
         "release_date": "2000-03-17",
         "publisher": "Imagineer",
@@ -86176,7 +86329,8 @@
     ],
     "releases": [
       {
-        "title": "Shikakui Atama o Maru Kusuru: Nanmon no Ka (Special Edition)",
+        "title": "Shikakui Atama o Maru Kusuru: Nanmon no Ka",
+        "release_details": "Special Edition",
         "market": "JP",
         "release_date": "2000-03-17",
         "publisher": "Imagineer",
@@ -86309,7 +86463,8 @@
         "boxart": "/a/box/9/9/9/40999_front.jpg"
       },
       {
-        "title": "Shikakui Atama o Maru Kusuru: Zukei no Tatsujin (Special Edition)",
+        "title": "Shikakui Atama o Maru Kusuru: Zukei no Tatsujin",
+        "release_details": "Special Edition",
         "market": "JP",
         "release_date": "2000-10-27",
         "publisher": "Imagineer",
@@ -88540,7 +88695,8 @@
         "developer": "Taito Corporation"
       },
       {
-        "title": "Space Invaders (Players Choice)",
+        "title": "Space Invaders",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -90590,7 +90746,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Star Wars (Players Choice)",
+        "title": "Star Wars",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -90601,7 +90758,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Star Wars (Limited Run)",
+        "title": "Star Wars",
+        "release_details": "Limited Run",
         "market": "NA",
         "release_date": null,
         "publisher": "Limited Run Games",
@@ -90797,7 +90955,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Star Wars: The Empire Strikes Back (Ubisoft Reprint)",
+        "title": "Star Wars: The Empire Strikes Back",
+        "release_details": "Ubisoft Reprint",
         "market": "NA",
         "release_date": "1996-01-01",
         "unknown_release_month": true,
@@ -90807,7 +90966,8 @@
         "developer": "NMS Software"
       },
       {
-        "title": "Star Wars: The Empire Strikes Back (Limited Run)",
+        "title": "Star Wars: The Empire Strikes Back",
+        "release_details": "Limited Run",
         "market": "NA",
         "release_date": "2019-07-26",
         "publisher": "Limited Run Games",
@@ -91223,7 +91383,8 @@
         "developer": "Sun L"
       },
       {
-        "title": "Street Fighter II (Player’s Choice)",
+        "title": "Street Fighter II",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -92493,7 +92654,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Bros. Deluxe (Rerelease)",
+        "title": "Super Mario Bros. Deluxe",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -92526,7 +92688,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Bros. Deluxe (Limited Time Nintendo Network Promotion Offer)",
+        "title": "Super Mario Bros. Deluxe",
+        "release_details": "Limited Time Nintendo Network Promotion Offer",
         "market": "JP",
         "release_date": "2014-01-13",
         "publisher": "Nintendo",
@@ -92537,7 +92700,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Bros. Deluxe (Limited Time Nintendo Network Promotion Offer)",
+        "title": "Super Mario Bros. Deluxe",
+        "release_details": "Limited Time Nintendo Network Promotion Offer",
         "market": "EU",
         "release_date": "2014-02-13",
         "publisher": "Nintendo",
@@ -92548,7 +92712,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Bros. Deluxe (Limited Time Nintendo Network Promotion Offer)",
+        "title": "Super Mario Bros. Deluxe",
+        "release_details": "Limited Time Nintendo Network Promotion Offer",
         "market": "AU",
         "release_date": "2014-02-13",
         "publisher": "Nintendo",
@@ -92732,7 +92897,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land (Players Choice)",
+        "title": "Super Mario Land",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -92743,7 +92909,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land (GameBoy Nintendo Classics)",
+        "title": "Super Mario Land",
+        "release_details": "Game Boy Nintendo Classics",
         "market": "EU",
         "release_date": "1996-01-01",
         "unknown_release_month": true,
@@ -92753,7 +92920,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land (1999 Players Choice)",
+        "title": "Super Mario Land",
+        "release_details": "1999 Player’s Choice",
         "market": "NA",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -92961,7 +93129,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 2: 6 Golden Coins (Players Choice)",
+        "title": "Super Mario Land 2: 6 Golden Coins",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -92972,7 +93141,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 2: 6 Golden Coins (Players Choice Re-release)",
+        "title": "Super Mario Land 2: 6 Golden Coins",
+        "release_details": "Player’s Choice Re-release",
         "market": "NA",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -92993,7 +93163,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 2: 6 Golden Coins (GameBoy Nintendo Classics)",
+        "title": "Super Mario Land 2: 6 Golden Coins",
+        "release_details": "Game Boy Nintendo Classics",
         "market": "EU",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -93186,7 +93357,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land (Players Choice)",
+        "title": "Wario Land: Super Mario Land 3",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -93207,7 +93379,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land (GameBoy Nintendo Classics)",
+        "title": "Wario Land: Super Mario Land 3",
+        "release_details": "Game Boy Nintendo Classics",
         "market": "EU",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -93541,7 +93714,8 @@
         "developer": "Rare Ltd."
       },
       {
-        "title": "Super R.C. Pro-Am (Player’s Choice)",
+        "title": "Super R.C. Pro-Am",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -96503,7 +96677,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Tennis (Player’s Choice)",
+        "title": "Tennis",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -97048,7 +97223,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Tetris (Tsushin Cable Set)",
+        "title": "Tetris",
+        "release_details": "Tsushin Cable Set",
         "market": "JP",
         "release_date": "1989-06-14",
         "publisher": "Nintendo",
@@ -97117,7 +97293,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Tetris (Players Choice)",
+        "title": "Tetris",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -97359,7 +97536,8 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Tetris Attack (Toys R Us Game Boy Console Bundle)",
+        "title": "Tetris Attack",
+        "release_details": "Toys R Us Game Boy Console Bundle",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -97542,7 +97720,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Tetris DX (Rerelease)",
+        "title": "Tetris DX",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -98080,7 +98259,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2_(1992_video_game)",
     "releases": [
       {
-        "title": "The Amazing Spider-Man 2 (1992)",
+        "title": "The Amazing Spider-Man 2",
+        "release_details": "1992",
         "market": "NA",
         "release_date": "1992-08-01",
         "publisher": "LJN Ltd.",
@@ -98383,7 +98563,8 @@
         "developer": "Kemco"
       },
       {
-        "title": "The Bugs Bunny Crazy Castle (Players Choice)",
+        "title": "The Bugs Bunny Crazy Castle",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -98488,7 +98669,8 @@
         "developer": "Kemco"
       },
       {
-        "title": "The Bugs Bunny Crazy Castle 2 (Players Choice)",
+        "title": "The Bugs Bunny Crazy Castle 2",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -98827,7 +99009,8 @@
         "developer": "SquareSoft"
       },
       {
-        "title": "The Final Fantasy Legend (Reprint)",
+        "title": "The Final Fantasy Legend",
+        "release_details": "Reprint",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -99882,7 +100065,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "The Legend of Zelda: Link’s Awakening (Players Choice)",
+        "title": "The Legend of Zelda: Link’s Awakening",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1996-05-20",
         "publisher": "Nintendo",
@@ -99893,7 +100077,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "The Legend of Zelda: Link’s Awakening (Nintendo Classics)",
+        "title": "The Legend of Zelda: Link’s Awakening",
+        "release_details": "Nintendo Classics",
         "market": "EU",
         "release_date": "1996-01-01",
         "unknown_release_month": true,
@@ -99904,7 +100089,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "The Legend of Zelda: Link’s Awakening (Target Game Boy Pocket Bundle)",
+        "title": "The Legend of Zelda: Link’s Awakening",
+        "release_details": "Target Game Boy Pocket Bundle",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -100007,7 +100193,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "The Legend of Zelda: Link’s Awakening DX (Rerelease)",
+        "title": "The Legend of Zelda: Link’s Awakening DX",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -100552,7 +100739,8 @@
         "developer": "Dark Technologies"
       },
       {
-        "title": "Disney’s Der Konig Der Lowen (Disney’s Classic Video Games)",
+        "title": "Disney’s Der Konig Der Lowen",
+        "release_details": "Disney’s Classic Video Games",
         "market": "EU",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -101990,7 +102178,8 @@
         "developer": "Bit Managers"
       },
       {
-        "title": "The Smurfs (Players Choice)",
+        "title": "The Smurfs",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -103426,7 +103615,8 @@
     ],
     "releases": [
       {
-        "title": "Tokimeki Memorial Pocket (Culture Version)",
+        "title": "Tokimeki Memorial Pocket",
+        "release_details": "Culture Version",
         "market": "JP",
         "release_date": "1999-02-11",
         "publisher": "Konami",
@@ -103436,7 +103626,8 @@
         "developer": "KCEK"
       },
       {
-        "title": "Tokimeki Memorial Pocket (Sports Version)",
+        "title": "Tokimeki Memorial Pocket",
+        "release_details": "Sports Version",
         "market": "JP",
         "release_date": "1999-02-11",
         "publisher": "Konami",
@@ -107002,7 +107193,8 @@
         "developer": "Slitherine"
       },
       {
-        "title": "Tyrannosaurus Tex (Canceled)",
+        "title": "Tyrannosaurus Tex",
+        "release_details": "Canceled",
         "market": "NA",
         "release_date": null,
         "publisher": "Eidos Interactive",
@@ -109933,7 +110125,8 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Wario Land II (Rerelease)",
+        "title": "Wario Land II",
+        "release_details": "Rerelease",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -110385,7 +110578,8 @@
         "developer": "Pax Softonica"
       },
       {
-        "title": "Wave Race (Player’s Choice)",
+        "title": "Wave Race",
+        "release_details": "Player’s Choice",
         "market": "NA",
         "release_date": "1997-01-01",
         "unknown_release_month": true,
@@ -110839,7 +111033,8 @@
         "developer": "Data Design Interactive"
       },
       {
-        "title": "Wheel of Fortune (Re-release)",
+        "title": "Wheel of Fortune",
+        "release_details": "Re-release",
         "market": "NA",
         "release_date": "1992-01-01",
         "unknown_release_month": true,
@@ -111403,7 +111598,8 @@
         "developer": "Game Studio"
       },
       {
-        "title": "Wizardry (Limited Edition Special Pack)",
+        "title": "Wizardry",
+        "release_details": "Limited Edition Special Pack",
         "market": "JP",
         "release_date": null,
         "publisher": "ASCII Entertainment",
@@ -113293,7 +113489,8 @@
     ],
     "releases": [
       {
-        "title": "Yamakawa Ichimonittou Nihonshi B Yougo Mondaishuu (Goukaku Boy Series)",
+        "title": "Yamakawa Ichimonittou Nihonshi B Yougo Mondaishuu",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-04-22",
         "publisher": "Imagineer",
@@ -113331,7 +113528,8 @@
     ],
     "releases": [
       {
-        "title": "Yamakawa Ichimonittou Sekaishi B Yougo Mondaishuu (Goukaku Boy Series)",
+        "title": "Yamakawa Ichimonittou Sekaishi B Yougo Mondaishuu",
+        "release_details": "Goukaku Boy Series",
         "market": "JP",
         "release_date": "1998-03-20",
         "publisher": "Imagineer",
@@ -114204,7 +114402,8 @@
     ],
     "releases": [
       {
-        "title": "Z-Kai Kyuukyoku no Eigo Koubun 285 (Z-Kai Goukaku Boy Series 3)",
+        "title": "Z-Kai Kyuukyoku no Eigo Koubun 285",
+        "release_details": "Z-Kai Goukaku Boy Series 3",
         "market": "JP",
         "release_date": "1997-11-28",
         "publisher": "Imagineer",
@@ -114242,7 +114441,8 @@
     ],
     "releases": [
       {
-        "title": "Z-Kai Kyuukyoku no Eijukugo 1017 (Z-Kai Goukaku Boy Series 2)",
+        "title": "Z-Kai Kyuukyoku no Eijukugo 1017",
+        "release_details": "Z-Kai Goukaku Boy Series 2",
         "market": "JP",
         "release_date": "1997-10-01",
         "publisher": "Imagineer",
@@ -114280,7 +114480,8 @@
     ],
     "releases": [
       {
-        "title": "Z-Kai Kyuukyoku no Eitango 1500 (Z-Kai Goukaku Boy Series 1)",
+        "title": "Z-Kai Kyuukyoku no Eitango 1500",
+        "release_details": "Z-Kai Goukaku Boy Series 1",
         "market": "JP",
         "release_date": "1997-07-11",
         "publisher": "Imagineer",
@@ -114790,7 +114991,8 @@
         "developer": "Will"
       },
       {
-        "title": "Zoids: Jashin Fukkatsu! Genobreaker Hen (Rerelease)",
+        "title": "Zoids: Jashin Fukkatsu! Genobreaker Hen",
+        "release_details": "Rerelease",
         "market": "JP",
         "release_date": "2000-12-08",
         "publisher": "Tomy Corporation",

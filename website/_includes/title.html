@@ -15,7 +15,8 @@
     {% if release.release_date %}
       {% assign present_markets = present_markets | append: release.market | append: "," %}
       {% if release.barcode == "Virtual Console 3DS" %}{% else %}
-        <li>{% case release.market %}{% when "NA" %}North American{% when "JP" %}Japanese{% when "EU" %}European{% when "AU" %}Australian{% when "AS" %}Asian{% when "KO" %}Korean{% when "SA" %}Brazilian{% endcase %} release published by {{ release.publisher }} in {% if release.unknown_release_month == true %}{{ release.release_date | date: "%Y" }}{% else %}{{ release.release_date | date: "%B %Y" }}{% endif %}</li>
+        <li>{% case release.market %}{% when "NA" %}North American{% when "JP" %}Japanese{% when "EU" %}European{% when "AU" %}Australian{% when "AS" %}Asian{% when "KO" %}Korean{% when "SA" %}Brazilian{% endcase %} release in {% if release.unknown_release_month == true %}{{ release.release_date | date: "%Y" }}{% else %}{{ release.release_date | date: "%B %Y" }}{% endif %}</li>
+        {% if release.release_details %}<ul><li>{{ release.release_details }}</li></ul>{% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}

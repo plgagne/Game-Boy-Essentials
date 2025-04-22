@@ -12,6 +12,7 @@ h1 {
 }
 h2 {
   font-size: $font_very-large;
+  margin-top: $spacing-paragraph;
 }
 /* Lists */
 ul,
@@ -38,7 +39,6 @@ h4 {
 }
 p,
 blockquote,
-ul,
 ol {
   margin-bottom: $spacing-paragraph;
   font-size: $font_paragraph;
