@@ -5,18 +5,8 @@ slug: "dmg-ayve"
 release-date: "1999-09-01"
 publication: "2016-01-07"
 tags: [book1]
-developers: "Telegames"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in September 1999
-- Never released in Japan
-- Published by Telegames
-- Developed by Telegames
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I love sitting down on the couch, taking out my binders full of Game Boy cartridges and looking at the games I have, trying to pick something to play. You usually never play only one game in a single sitting; you instead go from one game to the other, indulging in different styles of games throughout your play session. *Yars’ Revenge* is the essential game to play between two bigger, more impressive games.
 
 ## 128 Bytes of Fun

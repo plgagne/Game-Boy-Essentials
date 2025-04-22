@@ -5,19 +5,8 @@ slug: "dmg-agae"
 release-date: "1997-02-01"
 publication: "2019-08-13"
 tags: [book3]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in February 1997
-- North American release in May 1997
-- European release in August 1997
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 For years, my local game store had, behind its glass case, a *Donkey Kong* Game & Watch unit for sale for around forty-five dollars. Compared to prices you find online, this felt reasonable. I would look at it every time from behind the glass case, just admiring it. One day, I got bold and asked the employee if I could hold it. That was a mistake; once I had held the Game & Watch in my hands, I was hooked. Even though it had no batteries so I could not play it, just holding it in my hands really shook me; this was not what I was envisioning. I expected a device completely divorced from other Nintendo portables. Quite the contrary. It felt like I was holding a smaller, flimsier DS Lite. Peering over it, I saw defects that explained its low price. The metal top had lots of scratch marks and was starting to peel off. When open, it was missing both its decorated bottom panels. One of the metal inserts for the hinge was missing. The plastic clip to keep it closed was broken. All of those problems were minor. The store employee promised me it worked, and they’ve always been trustworthy.
 
 I discovered many surprising things while holding it. The console is very small but sturdy. It does not feel cheap in your hands. Like I said, it even has a metal sheet on the top cover with the logos. The Game Boy never used metal for the exterior casing! It does not feel cheap, but instead feels made using economical engineering. The best example is the hinge of the device. You have the bottom and top kept together by a round metal piece inside two simple plastic hinges. But that simple hinge does not allow an electric connection between the top and bottom parts, which is needed for the second display on the top. So how did they get the signal through? They simply passed the display’s flex cable through thin slits, exposing it to the elements. The cable is somewhat protected between the two bulkier hinges, and unless you jab at the flex cable you’re not going to break it. This is incredible due to its simplicity. Another cost-saving measure is the battery housing. It’s very simple, with no spring to hold the batteries in place, or a screw to keep it closed. If you slide the plastic cover, the batteries come flying out, and you lose your set alarm and top score. Nintendo included small stickers in the boxes to put on the cover and prevent a curious kid from opening it. It’s not strong childproofing, but it has the benefit of being cheaper than a screw.

@@ -5,18 +5,8 @@ slug: "dmg-zl"
 release-date: "1993-06-06"
 publication: "2016-07-03"
 tags: [book1]
-developers: "Nintendo EAD"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in June 1993
-- North American release in August 1993
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 When I was a young kid, I would devour the promotional pamphlets that came with every new game I got. I still remember getting a pamphlet from Ocean promoting *The Untouchables* on NES. I swear that a month doesn’t go by where I don’t reflect on how I thought *The Untouchables* on NES seemed so evocative to my nine year-old self.
 
 Through one of those evocative promotional pamphlets and word-of-mouth, I learned of the existence of a Game Boy *Zelda* game. My young mind tried to imagine what kind of portable adventures Link would embark upon. This must have been in 1994, one year after the game came out. I wanted to have that game so much but I couldn’t find it at my local store. I’m from a northern region where it didn’t feel like we were outside of civilization but we only had one store selling games, Zellers. So if Zellers didn’t have it, it might as well have not existed at all. I then made it my mission in life to find the game. I mustered the courage to call the Nintendo hotline (my mom actually talked on the phone). They told us that if the game was gone from stores, I was out of luck. My friends all knew I was looking for the game and one day I was told of this older kid who had the game and wanted to sell it for twenty dollars. I was so happy but twenty dollars was a fortune! I didn’t have that kind of money. I was eight in 1994, no kid I knew had twenty dollars lying around. If I wanted that kind of money, a very serious discussion with my parents needed to happen at the dinner table. I was in third grade and I think I had never bought anything by myself before. My mom, always the cool parent, agreed to give me twenty dollars. I was given clear instructions on how to handle money in the schoolyard (keep it in your pocket, only give it to the kid who’s selling the game, etc.) and given a twenty dollar bill. I nervously met the older fifth grader, who promptly told me the game was for babies and he wanted to use the money to help pay for a Genesis. I don’t think there has ever been a more stereotypical Genesis kid in the history of the world. For the first time in my life, I paid for something by myself. I was so nervous for the rest of the day, looking at the game box and it’s beautiful simple cover: *The Legend of Zelda: Link’s Awakening*. Was it fun? Was it good? When I first played it that evening at home, I realized it was **essential**.

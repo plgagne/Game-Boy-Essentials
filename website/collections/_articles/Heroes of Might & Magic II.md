@@ -5,19 +5,8 @@ slug: "cgb-buhe"
 release-date: "2000-12-01"
 publication: "2016-08-21"
 tags: [book1]
-developers: "KnowWonder"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in December 2000
-- European release in March 2001
-- Never released in Japan
-- Published by 3D0
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Websites like [Giant Bomb](http://www.giantbomb.com) who try to make exhaustive lists of all video games ever released often unwillingly forget portable systems. A great example of that attitude with portable games is the *Heroes of Might & Magic* series on Game Boy Color. [I discussed the first game before](/articles/cgb-auhe) and on Giant Bomb they [agglomerate the GBC version with the original computer release](http://www.giantbomb.com/heroes-of-might-and-magic-a-strategic-quest/3030-14391/). If you read my article about the first game, you’ll immediately realize that the Game Boy game is nothing like the PC original. It’s a very different, much crappier game. With the second game, *Heroes of Might & Magic II*, [Giant Bomb doesn’t even list it](http://www.giantbomb.com/heroes-of-might-and-magic-ii-the-succession-wars/3030-12466/) and [Wikipedia does not give it its own article.](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_(Game_Boy_Color))
 
 It’s as if those two *Heroes* game don’t really exist to Giant Bomb. There is this attitude that if both games share the same name, then they might as well be the same thing, just on a different console. There is no respect for the hard work of bringing a game to a wholly different system; no appreciation for the complex job of remaking a game for a different architecture. I am being harsh on Giant Bomb; it is after all a website built mostly by volunteers. Data from a website built by volunteers gets aggregated with time and it’s normal that information about a forgotten version of a PC game is scarce. But community-built websites like Giant Bomb and Wikipedia show the lack of interest given to the Game Boy and Game Boy Color. Most volunteers will concentrate on the games that are popular and true investigations into the depths of history are few and far between. That’s what I’m here for.

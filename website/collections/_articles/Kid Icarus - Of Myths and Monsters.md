@@ -1,23 +1,12 @@
 ---
-title: "Kid Icarus: Of Myth and Monsters"
+title: "Kid Icarus: Of Myths and Monsters"
 description: "Not Kidding"
 slug: "dmg-ka"
 release-date: "1991-11-01"
 publication: "2020-09-03"
 tags: [book3]
-developers: "Nintendo & TOSE"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in November 1991
-- European release in May 1992
-- Never released in Japan
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Kid Icarus: Of Myth and Monsters* can be a frustrating game. Bear in mind, playing it is not particularly frustrating. I’d argue Nintendo, collectively as a company, is the best video game developer stable in the world, so very few of their games are wholly frustrating. They have a strong company culture that focuses on exactly the right things. But games like *Kid Icarus: Of Myth and Monsters* are expertly made but lack any valuable contributions, and that’s why I’m frustrated. The choices the game makes are pedestrian; you’re left with a bittersweet taste after completing it, never reaching the greatness you hoped for. Even though it is expertly made by [Nintendo with support from the shadowy TOSE](http://kyoto-report.wikidot.com/kid-icarus-2).
 
 Perhaps this development structure, of a Nintendo employee taking care of the design with TOSE delivering the programming under contract is why I feel underwhelmed. *Metroid II: Return of Samus* was also designed by the same person, Masafumi Sakashita, and I love that game. However, *Metroid II* was fully designed and programmed by Nintendo R&D1 developers with no outside work-for-hire. With both games designed at the same time *Metroid II* was clearly the primary project since they made it internally. This Game Boy sequel of *Kid Icarus* ends up a lesser work made with far less precious developer time. Let’s explore further the situations surrounding this lesser, but still essential, work.

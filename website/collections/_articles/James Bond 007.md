@@ -5,19 +5,8 @@ slug: "dmg-aw7e"
 release-date: "1998-01-29"
 publication: "2018-01-12"
 tags: [book2]
-developers: "Saffire"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- European release in January 1998
-- North American release in February 1998
-- Never released in Japan
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 When it came out, *Goldeneye* took the world by storm. It rejuvenated the aging spy and made him relevant and cool again. But to some kids, the movie was a secondary concern. To them, what made James Bond cool again was *Goldeneye 007* for Nintendo 64. I am one of those kids. Nights spent playing multiplayer matches against friends. No Oddjob, Facility, Slappers Only, yeah, baby, yeah ( . . . sorry, wrong British spy). With our Nintendo 64, we were playing the best game of its genre. Before *Goldeneye*, if you wanted to play the best First-Person Shooters, you had to get a $2,000 PC. *Doom*, *Duke Nukem 3D*, *Quake* were all complex PC *experiences*. They had ports to consoles, especially *Doom*, but those were unsatisfying. You did not get the full experience, only a gimped substitute. But when *Goldeneye* came out, you could not only play a great First-Person Shooter, it was arguably the **best** FPS for a time. The controls were primitive but the game was built around them, not despite them. It was a revelation, and birth a genre still vacuuming up all the attention and money to this day: the console FPS. Game Boy Essentials is not interested in the multimillion *game as a service* console FPSes that grew from the N64 classic like *Battlefront II* or *Destiny 2*. Instead, we’re covering the second and only other thing Nintendo did with the rights to the James Bond franchise in 1998. They commissioned a Utah developer to make a *Legend of Zelda* clone starring James Bond on Game Boy. It was so crazy it actually worked and we ended up with an essential Game Boy title.
 
 ## Goldthumbs

@@ -5,18 +5,8 @@ slug: "dmg-rw"
 release-date: "1991-07-26"
 publication: "2016-02-01"
 tags: [book1]
-developers: "Capcom and Minakuchi Engineering"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in July 1991
-- North American release in December 1991
-- Published by Capcom
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 On Game Boy Essentials, we looked at [games no one would include in a best-of list](/articles/cgb-auhe), [games that are essential because they’re horrible](/articles/dmg-yt), but now we get our first game that’s arguably **unessential**. I had a really hard time deciding whether the first *Mega Man* game on Game Boy was essential or not. Why not consider it? Because it’s too difficult. The jumps required are so precise, the enemy placement so unfair, the bosses’ room so small, that you often find yourself dying because you just couldn’t react properly. I went back and forth on writing an article about it because there are four other classic *Mega Man* games that improved on the formula set in place by this particular title without being as hard. All those are much more essential.
 
 Then why do I think it is essential and that you should play it? Because the people at Minakuchi Engineering got the fundamental gameplay exactly right on their first try; they just dropped the ball with everything else. And I think you should play it to witness those two conflicting realities in motion.

@@ -5,19 +5,8 @@ slug: "mgb-006"
 release-date: "1998-02-21"
 publication: "2022-12-22"
 tags: [book4]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in February 1998
-- North American release in May 1998
-- European release in 1998
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Where is the closest camera you own right now? In your pockets? If you’re reading this on your phone, you have a camera looking at you right now, and a whole family of high-quality sensors on the back of the very device with which you’re reading this article. The ubiquity of cameras has thoroughly changed our society, from personal communications to police oversight. The Game Boy Camera came out at a time well before that revolution when a photograph was still an event. The closest peer to this accessory in terms of size and price in 1998 were disposable cameras. [Costing $10 or lower](https://tedium.co/2018/07/26/disposable-camera-history/), disposable cameras were a democratizing force for the camera world. They allowed you to enjoy photography for a very small initial investment. However, they did not change the fundamentals of film cameras; you needed to pay for film development for all the pictures you took, even for duds you were going to throw away.
 
 Digital cameras were already available in 1998. With their rewritable media, they allowed you to take and delete an infinite number of pictures. You were limited only by your digital storage space. In 1998 most cameras saved their pictures on 3 & 1/2-inch diskettes, which meant you could carry a stack of them with you. However, the Sony Mavicas sold for around USD $800 at that time; an expensive sum for very low-resolution pictures. The Game Boy Camera is a peer of those early digital cameras. It was unique amongst digital cameras for its very low price, which came with absurd limitations that severely limited its appeal. We’ll discuss this fascinating Nintendo device in detail, and together we’ll discover what motivated the employees at Nintendo to make the Game Boy Camera.

@@ -5,19 +5,8 @@ slug: "dmg-mx"
 release-date: "1989-09-20"
 publication: "2018-03-23"
 tags: [book2]
-developers: "Konami"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in September 1989
-- North American release in January 1990
-- European release in 1990
-- Published by Ultra
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 In high school, I had a friend who just loved motocross games. During lunchtime, he religiously played *Elasto Mania* at our school’s computer lab, which he played because he appreciated all things motorsports. He would ride a bike with his brothers, so he liked motocross games. By the way, *Elasto Mania* kind of took over my high school’s computer lab for a solid month. Every friend I had was obsessed with it and played it during lunch; I couldn’t care less.
 
 To get back to my friend who liked motocross, his appreciation for *Elasto Mania* always felt weird to me, since there was nothing similar between riding a motorcycle and playing *Elasto Mania*: the game is about managing a bendy suspension between both wheels of your bike to navigate complex 2D geometry where you find and gather apples, of all things. You pull tricks like hanging the top wheel of the bike on a small notch to gather momentum and shoot your bike across gaps. I don’t have to say that this has nothing to do with riding a bike in real life. *Elasto Mania* is a physics-based gauntlet with no basis in reality. It’s also really hard.

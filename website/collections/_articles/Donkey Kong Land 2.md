@@ -1,23 +1,12 @@
 ---
-title: "Donkey Kong Land 2"
+title: "Donkey Kong Land 2"
 description: "Ape Escape"
 slug: "dmg-adde"
 release-date: "1996-09-01"
 publication: "2020-01-13"
 tags: [book3]
-developers: "Rare"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in September 1996
-- Japanese release in November 1996
-- European release in November 1996
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 My article on [*Donkey Kong Land*](/articles/dmg-yt) is by far my most popular. It’s the one that has received the most feedback; from book reviews on Amazon, from Reddit’s [/r/gameboy](https://old.reddit.com/r/gameboy), from talking to my friends. With that in mind, I should feel a certain responsibility discussing *Donkey Kong Land 2*. Since they barely changed anything, I don’t. it’s just talking about the same core mistakes all over again.
 
 With the first game, I had decades of experience to share; I owned the game has a kid. This time, I bought the game as an adult, specifically for this project. Since I have never played the game before, it means my opinions are fresh. The game features only minuscule improvements on the issues I had with the first game, so I am disappointed to say I do not like this sequel. It stings particularly because this game tries to reproduce *Donkey Kong Country 2: Diddy’s Kong Quest* for the Game Boy, and I simply adore *Donkey Kong Country 2*. I have fond memories of playing the game with my best friend from primary school, slowly inching our way, level by level, through this difficult Super Nintendo classic. *Donkey Kong Land 2* attempts to ape this seminal game and fails miserably. At least the first *Land* game had original levels. Essentially, we’re faced here with the harsh fact that a bad adaptation of a great game is worse than a bad but original work.

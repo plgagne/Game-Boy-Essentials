@@ -28,10 +28,20 @@ corrections.each do |rule|
   value = rule['value']
 
   timeline_na.each do |game|
+    if game[key] == value
+      if rule['updates']
+        rule['updates'].each do |update_key, new_value|
+          game[update_key] = new_value
+        end
+      elsif rule['action'] == 'delete'
+        timeline_na.delete(game)
+        next  # No need to process releases if the whole game is deleted
+      end
+    end
+
     next unless game['releases']
 
-    # SAFELY modify releases array
-    if rule.key?('updates')
+    if rule['updates']
       game['releases'].each do |release|
         if release[key] == value
           rule['updates'].each do |update_key, new_value|

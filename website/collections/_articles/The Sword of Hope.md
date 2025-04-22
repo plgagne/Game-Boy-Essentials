@@ -3,22 +3,10 @@ title: "The Sword of Hope"
 description: "IAKESOCMEK"
 slug: "dmg-se"
 release-date: "1989-12-28"
-release-year: "1989"
-release-month: "12"
 publication: "2017-04-15"
 tags: [book2]
-developers: "Kemco"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in December 1989
-- North American release in June 1991
-- Published by Kemco Seika
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I’m happy I experienced *The Sword of Hope*, even if I could not find the energy to finish it. It’s really unique. It’s a game I knew next-to-nothing about and that I’m now fascinated by. *The Sword of Hope* was made by Kemco who had just ported the MacVenture games to Famicom and NES. They had obviously intended to make a game in a similar vein but with a battle system lifted straight from *Dragon Quest*. They did not hit a gold vein: it’s reasonable for an early title on Game Boy to be this experimental but peanut butter and jelly it ain’t. The mix of RPG and adventure game just fundamentally did not work. Looking at a game that tries its best but does not work is still valuable and essential.
 
 {% include figure.html type="art" figcaption="Like Nuts and Gum." %}

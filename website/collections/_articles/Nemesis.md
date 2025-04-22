@@ -5,18 +5,8 @@ slug: "dmg-nm"
 release-date: "1990-02-23"
 publication: "2016-10-27"
 tags: [book1]
-developers: "Konami"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart-png" %}
-- Japanese release in February 1990
-- North American release in April 1990
-- Published by Ultra Games (Konami)
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Nemesis* is surprising. It is rough around the edges in some places but it is a great game that came out way too early in time in the Game Boy’s life for this level of mastery. It has amenities that have the peculiarities of the Game Boy in mind while keeping intact the *feeling* you have when you play *Gradius* or *Life Force* (*Salamander* in Japan) on NES. They did all that very early, managing to make a game that feels like a 1992 Game Boy title, when the game actually came out in 1990.
 
 ## The Right Little Stuff

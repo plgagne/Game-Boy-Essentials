@@ -5,20 +5,8 @@ slug: "dmg-agga"
 release-date: "1995-04-27"
 publication: "2018-03-14"
 tags: [book2]
-developers: "TOSE"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- European release in April 1995
-- Australian release in 1995
-- Never Released in North America
-- Never Released in Japan
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Game Boy Gallery* is one of Nintendo’s most obscure game. For comparison, the company has released many kind-of unknown titles in Japan. Games that never saw translation nor rerelease. Titles whose only thing holding them back from being completely forgotten is the notoriety of Nintendo. The question then has to be asked, what makes *Game Boy Gallery* more obscure than games like *Famicom Basic*? Because it was only released in Europe and Australia, and people confuse it for its sequel. *But wait a minute, everybody knows about Game & Watch Gallery!*
 
 <div class="gallery">

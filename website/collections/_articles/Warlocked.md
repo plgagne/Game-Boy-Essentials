@@ -5,19 +5,8 @@ slug: "cgb-bwle"
 release-date: "2000-07-24"
 publication: "2020-08-09"
 tags: [book3]
-developers: "Bits Studios"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in July 2000
-- Never released in Japan
-- Never released in Europe
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Warlocked* is one of the reasons I started this whole project. I always wanted to talk about it. It’s an impossible feat; a real-time strategy (RTS) game on Game Boy Color, filled to the brim with charm and delight. The game has so much gumption to achieve so much with so little that you will be filled with awe. *Warlocked* is the quintessential essential game.
 
 ## Let’s Describe the Game

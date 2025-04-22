@@ -1,23 +1,12 @@
 ---
-title: "Metroid II: Return of Samus"
+title: "Metroid II: Return of Samus"
 description: "SR-388 Travelogue"
 slug: "dmg-me"
 release-date: "1991-11-01"
 publication: "2019-03-11"
 tags: [book2]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in November 1991
-- Japanese release in January 1992
-- European release in May 1992
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 The Galactic Federation has ordered me to play *Metroid II: Return of Samus* and report on my findings. Join me, as I head down the caverns of SR-388 and help Samus Aran eradicate an entire species of space monsters for the essential benefit of the galaxy.
 
 ## Day Zero: Excitement

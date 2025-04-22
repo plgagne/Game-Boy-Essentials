@@ -5,19 +5,8 @@ slug: "dmg-ci"
 release-date: "1992-11-21"
 publication: "2023-04-29"
 tags: [book4]
-developers: "TOSE & Bullet-Proof Software"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in November 1992
-- North American release in April 1993
-- European release in 1993
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Yoshi’s Cookie* is an unimpressive game with a beautiful premise. You start the game, you play one of its two simple modes and you realize it’s just a fine game about baking cookies. These days, a puzzle game with so few features would be derided. But it was good enough to warrant a small portion of your essential attention back in 1992 because of its creative design.
 
 ## How Do You Play *Yoshi’s Cookie*?

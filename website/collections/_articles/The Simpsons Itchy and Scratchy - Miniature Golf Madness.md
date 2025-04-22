@@ -5,19 +5,8 @@ slug: "dmg-yh"
 release-date: "1994-11-01"
 publication: "2019-10-11"
 tags: [book3]
-developers: "Beam Software"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in November 1994
-- European release in 1994
-- Never Released in Japan
-- Published by Acclaim
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 The year 1994 is the sad middle age of Game Boy. It seemed the console was dying of neglect back then. Few games were released, and they’re mostly forgettable, since most releases were tie-in games for projects and franchises who bothered to release on Game Boy because if you wanted to be on every popular console you had to be on Game Boy. Nobody could fathom that the console was due for an enormous comeback, so it looked like all the must-play games had already been released. I would say no more than five great games were released in 1994 on Game Boy. Of course the Super Game Boy was released that year, but it did nothing to help the Game Boy’s moribund years since it wasn’t a game, and its marketing heavily focused on the ability to play **older** titles. Case in point, the cover of Super Game Boy’s box featured *Metroid II: Return of Samus*, a game from 1991. Of course, 1994 was the year of the masterpiece *Donkey Kong* (not to be confused with [*Donkey Kong Land*](/articles/dmg-yt)), released to coincide with the Super Game Boy, but one masterpiece amongst a sea of deplorable games was not enough. The perception that the Game Boy was in its twilight, that Nintendo was likely working on a successor to their portable console, was everywhere.
 
 *The Simpsons: Itchy and Scratchy — Miniature Golf Madness* is born of this era. It is a forgettable tie-in title focused on the cartoon-within-a-cartoon ultraviolent parody of *Tom & Jerry* that Bart loves on *The Simpsons*. Acclaim held the licence for *The Simpsons* video games and the company published underwhelming titles from multiple developers. All their Simpsons games were terrible, no matter who developed them. The exception that confirms the rule is Konami’s arcade game, but I don’t think that Acclaim ever had anything to do with Konami’s arcade licence.

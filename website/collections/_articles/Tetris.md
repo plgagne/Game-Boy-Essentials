@@ -5,18 +5,9 @@ slug: "dmg-tr"
 release-date: "1989-06-14"
 publication: "2015-12-09"
 tags: [book1]
-developers: "Nintendo R&D1 & Bullet-Proof Software"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in June 1989
-- North American release in July 1989
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
+{% include title.html %}
 <blockquote><em>Tetris</em> made Game Boy and Game Boy made <em>Tetris</em>.<p><cite> — Henk Rogers</cite></p></blockquote>
-{% include figure.html type="gb" class="float left" %}
 This is it. The game that single-handedly built the Game Boy as a viable, popular and beloved platform. Were Nintendo to have released the Game Boy with *Tetris* stuck in the system unable to play anything else this brand new portable system would have been a tremendous success, making Nintendo a nice sum of money. Indeed, when we look at the Game Boy with modern eyes the system appears underwhelming. These days everybody carries a phone. They’re easy to put in your pocket or your purse. Their usefulness is also readily apparent. But how could you justify lugging such a big unwieldy brick around in the ’90s?
 
 Because of *Tetris*.

@@ -5,19 +5,8 @@ slug: "cgb-bt4e"
 release-date: "2001-03-21"
 publication: "2023-11-28"
 tags: [book4]
-developers: "Konami"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in March 2001
-- Never released in Japan
-- Never released in Europe
-- Published by Konami
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I’m Québécois, so I have been surrounded by hockey during all my formative years. For all intent and purposes, I should be a hockey aficionado. Yet I have never played hockey, I have attended a game from start to finish only once, I barely know the rules of the game, I do not know how to skate, and I do not like hockey video games. While everyone around me was thinking about hockey, I was playing Game Boy. To finally remediate this issue, I have decided to merge both fields of interest: I’ll look at the complete history of hockey games on Game Boy.
 
 This article is ostensibly about the last hockey release on the console: 2001’s *ESPN National Hockey Night* by the people working at Konami. But really, we’ll look at every hockey game on Game Boy in release order and we’ll all collectively learn why the last release is the only one somewhat worth playing.

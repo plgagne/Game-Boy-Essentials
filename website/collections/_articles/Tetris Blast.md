@@ -5,20 +5,8 @@ slug: "dmg-ht"
 release-date: "1995-03-17"
 publication: "2023-03-05"
 tags: [book4]
-developers: "Bullet Proof Software"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in March 1995 as *Super BomBliss*
-- North American release in January 1996
-- Released in Europe in June 1996
-- Published by Bullet-Proof Software in Japan
-- Published by Nintendo everywhere else
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 To get to 1995’s *Tetris Blast*, we need to go back half a decade. It is the summer of 1989, and the Soviet Union is clearly falling apart. Stretched to its limits by incessant military spending and its stagnant managed economy, what was supposed to be a reasonable political realignment finally broke the Communist Party’s ability to maintain power. Called Perestroika (Restructuring) and Glasnost (Openness), once these policies begin implementation, independence movements across the Warsaw Pact will start organizing. By the summer of 1989, a veritable wellspring of revolutions will start in just a couple of months across Eastern Europe, and the Polish people have already been allowed to vote in a free election, leading independent union Solidarność to enter the political sphere and to start breaking Communist rule in Poland.
 
 {% include figure.html type="art" figcaption="*Tetris* for Macintosh, released in 1988." %}

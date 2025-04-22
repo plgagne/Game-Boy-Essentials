@@ -5,19 +5,8 @@ slug: "dmg-wa"
 release-date: "1992-07-01"
 publication: "2021-01-16"
 tags: [book3]
-developers: "Pax Softnica & Nintendo EAD"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Released in North America in July 1992
-- Released in Europe in June 1997
-- Never released in Japan
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 In 1992, Shigeru Miyamoto made his first Game Boy game with *Wave Race*. This is important, not because *Wave Race* is this extraordinary game; it’s actually quite ordinary. It’s important because it’s the only time Miyamoto joined a party late. Outside of *Wave Race*, Miyamoto has been front and centre on day one with a marquee title that helps define a new system (*Donkey Kong* on Famicom, *Super Mario World*, *Super Mario 64*, *Super Mario Advance*, *Luigi’s Mansion*). For the other exception, the Virtual Boy, he stayed completely away from that console and so never joined the party at all, and [he described the Virtual Boy as a toy, not a console](https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Nintendo-3DS/Vol-1-And-That-s-How-the-Nintendo-3DS-Was-Made/2-Shigeru-Miyamoto-Talks-Virtual-Boy/2-Shigeru-Miyamoto-Talks-Virtual-Boy-229419.html).
 
 With *Wave Race*, Miyamoto was riding in the wake of other developers instead of making the waves himself. It is a unique opportunity to see how Miyamoto works when he’s not directly collaborating with the hardware designers during the development of a console. That undeniably makes *Wave Race* essential.

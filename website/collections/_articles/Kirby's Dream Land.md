@@ -5,18 +5,8 @@ slug: "dmg-ky"
 release-date: "1992-04-27"
 publication: "2022-11-28"
 tags: [book3]
-developers: "HAL Laboratory"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart-png" %}
-- Japanese release in April 1992
-- North American release in August 1992
-- European release in 1992
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Close your eyes for just a moment. Imagine a quiet green plain with a comforting wind slowly swaying the grass back and forth. Near the horizon there are rose-coloured mountains. Just go along with it, rose mountains are normal. Taking in the heat of the sun’s rays (the sun has a face, once again it’s totally normal), in the swaying grass is the most serene and sweet character our imagination can muster. It’s asleep, lightly snoring as its basking in the warm glow of the beautiful day. Just like the mountains it’s pink. It’s Kirby. A pink ball of niceness with shoes and cute stubby arms. Its only personal flaw is its voraciousness, but it manages to make that cute too.
 
 {% include figure.html type="gb" %}

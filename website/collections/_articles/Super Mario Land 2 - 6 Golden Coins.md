@@ -5,19 +5,8 @@ slug: "dmg-mq"
 release-date: "1992-10-21"
 publication: "2019-03-29"
 tags: [book3]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in October 1992
-- North American release in November 1992
-- European release in 1993
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 To me, nothing says summertime like *Super Mario Land 2: 6 Golden Coins*. I never had the game when I was a kid but my cousins did. Since I only saw them during the summer when our families would camp together on the family lot, I would borrow the game from them during the sunny summer months. Being a better player, I would get through the game unlocking for them the levels they couldn’t reach. I was kind of the Game Boy idiot savant; all my cousins would dump their games on my lap to unlock stuff for them. In hindsight *Super Mario Land 2* is laughably easy. When you’re a child though you have terrible hand-eye coordination. It makes everything more difficult but more interesting. Including this game.
 
 And interesting it is! It’s again, like the original *Super Mario Land*, made by Gunpei Yokoi’s division in Nintendo. Let’s get it out of the way: *Mario Land 2* is a great game. Lots of fun levels, plenty of interesting surprises, nothing is egregious with the game easy enough for everyone to enjoy. That being said, this game is weird on so many levels. It’s essential to me for that: the many ways *Super Mario Land 2: 6 Golden Coins* is strange while staying a competent platformer worthy of the most recognizable video game character.

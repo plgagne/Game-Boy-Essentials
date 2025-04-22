@@ -5,19 +5,8 @@ slug: "cgb-auhe"
 release-date: "2000-06-20"
 publication: "2015-12-10"
 tags: [book1]
-developers: "KnowWonder"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in June 2000
-- European release in October 2000
-- Never released in Japan
-- Published by 3D0
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Heroes of Might & Magic* is the textbook example of what Game Boy Essentials is about. If you look at lists of **best Game Boy games of all time**, that game will **never** be on there. But it is **very** essential to play *Heroes of Might & Magic* to understand a small part of the Game Boy Color’s library: the **let’s do something you didn’t think could be done** type of games. Games like *Warlocked*, *Alone in the Dark* or the unreleased *Tyrannosaurus Tex* were all trying to cram Real-Time Strategy, Third Person Horror or First Person Shooter gameplay on Game Boy Color with limited success. Also of note is the unreleased [*Katakis 3D*](https://youtu.be/qb886SUrw7U?t=2m7s), an ambitious space shooter that was recently unearthed. *Heroes of Might & Magic* was part of that overall trend happening near the end of the Game Boy Color’s life. Mind you, it was never what was popular or the point of the machine; the *Pokémon* clones and media property tie-in games were what was prevalent at the time. And they weren’t the best games either: the best games on the system were never those games who broke the mould of what should be done on an unlit portable system. The best games understood the limitation of the Game Boy. But games pushing the envelope were omnipresent in the last years of the Game Boy Color and gave more life to a system that was in all honesty running out of creative juices. **And I loved those efforts**. When I was a fourteen year-old kid in 2000, I was fascinated by those types of games. I was genuinely **excited** for *Tyrannosaurus Tex* and the port of the first *Resident Evil*, two unfinished games who left me yearning for more. So I enjoy looking at the brethren of those games again with fifteen years of insight.
 
 Now that we have set *Heroes of Might & Magic* in context, let’s talk about what the game is. *Heroes of Might & Magic* is a port of a classic pseudo-RTS PC game. You get a castle and an army, you fill up the army with units bought from the castle while exploring the map. Exploring allows you to find treasures and resources to help you out. Finally, you fight other armies on a battle screen; a hexagonal grid where all your individual units are stacked, severely limiting the tactical possibilities.

@@ -1,24 +1,14 @@
 ---
-title: "Dragon Warrior III"
+title: "Dragon Warrior III"
 description: "The Classiest of the Classiest"
 slug: "cgb-bd3e"
 release-date: "2000-12-08"
 publication: "2021-07-05"
 tags: [book3]
-developers: "Enix & TOSE"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in December 2000
-- North American release in July 2001
-- Never released in Europe
-- Published by Enix
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
+{% include title.html %}
 The video game discussed here was created in part by composer Sugiyama Koichi, who has publicly and financially supported historical negationism of Japanese war atrocities for decades. His vile activism should never be forgotten.
 
-{% include figure.html type="gb" class="float left" %}
 I love *Dragon Warrior III* (*Dragon Quest III* nowadays and in Japan upon its release). It’s a cozy pair of slippers for my soul. When I’m mentally exhausted at the end of the day, I simply sit down, put my legs up and enjoy playing this magnificent video game. I then relax by slowly unwrapping the game, step by step, battle by battle, dungeon by dungeon, town by town. It’s never too complicated or difficult, meaning I don’t have to concentrate too hard to progress and a fatal mistake only costs half your gold. Join me, why won’t you, on this essential quest to talk about my love for *Dragon Warrior 3* for Game Boy Color.
 
 ## Colours?

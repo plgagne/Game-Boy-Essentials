@@ -1,23 +1,12 @@
 ---
-title: "Pokémon: Red, Green, & Blue"
+title: "Pokémon: Red Version, Green Version, and Blue Version"
 description: "A Game Boy Resurrection"
 slug: "dmg-apee"
 release-date: "1996-02-27"
 publication: "2022-03-28"
 tags: [book3]
-developers: "Game Freak"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release of Red & Green in February 1996 and of Blue in October 1996 (exclusive to CoroCoro Comic)
-- North American release in September 1998 based on Japanese Blue
-- European release in October 1999
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Before it became a perennial staple of popular culture with its card games and anime series and yearly releases, *Pokémon* was a world filled with mysteries. Friends would trade Pokémon monsters using the Link Cable but they would also trade legends, tall tales of dubious veracity, secret incantations of duplications, and methods to find strange and forbidden monsters.
 
 That’s why, dear reader, I invite you to follow me starting on Route 1 throughout Kanto as I unveil the answer to the following mysteries:

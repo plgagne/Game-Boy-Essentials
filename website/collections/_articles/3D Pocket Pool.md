@@ -5,19 +5,8 @@ slug: "cgb-bvpp"
 release-date: "2001-03-30"
 publication: "2020-04-06"
 tags: [book3]
-developers: "Aardvark Software"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- European release in March 2001
-- Never released in North America
-- Never released in Japan
-- Published by Virgin Interactive
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 This game feels like it’s coming from another planet! *3D Pocket Pool* is this strange experience that you can’t quite put your finger on. It would also be somewhat charming if not for all its problems. Let’s look together at this off-kilter game, and figure out why it’s essential.
 
 ## Obscure Release

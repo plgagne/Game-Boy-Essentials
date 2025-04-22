@@ -5,19 +5,8 @@ slug: "dmg-wj"
 release-date: "1994-01-21"
 publication: "2025-03-01"
 tags: [book4]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in January 1994
-- North American release in March 1994
-- European release in May 1994
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 A perplexing thing happened after the release of *Super Mario Land 2: 6 Golden Coins*. You go to your local video game store in 1994, eager to see new Game Boy titles, and you come upon a thing called *Wario Land*? Underneath that title is written *Super Mario Land 3*. Suddenly, Mario is no longer the star of his own games. You kind of remember Wario since he was in the advertising for the previous game, but why is the villain of the last Game Boy adventure a hero now? He’s fat, he’s slow, he smells, he doesn’t jump very high. Yet he’s front and centre in this new adventure and everybody agrees the game is genuinely awesome! How could such a slovenly idiot take over for the world’s most famous plumber? What happened?
 
 To answer this question, we have to dig into Nintendo’s internal politics. We might have this reflex to think that Nintendo is this monolith that does everything led by the genius Shigeru Miyamoto but the truth is far from that. Very far from that. In the early ’90s, Nintendo was divided into different independent divisions shaped by their managers. These managers have been compared to a daimyo, the landlords of feudal Japan answerable only to the shogun and the comparison is apt. The division managers had to fulfill the missions given to them by Nintendo’s leader, Hiroshi Ymauchi, but they had a lot of leeway on how to achieve these missions. Just like those daimyo with the shogun.

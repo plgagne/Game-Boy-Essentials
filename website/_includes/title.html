@@ -1,0 +1,33 @@
+{% assign selected_game = site.data.timeline-complete | where: "representative_name", page.title %}
+
+{% assign required_markets = "NA,JP,EU" | split: "," %}
+{% assign present_markets = "" %}
+
+{% if page.title == "Pokémon: Red Version, Green Version, and Blue Version" %}
+  {% assign selected_game = site.data.timeline-complete | where: "representative_name", "Pokémon Red Version" %}
+{% endif %}
+
+{% for game in selected_game %}
+  <h1 id="{{ page.title | replace: " ", "-" }}">{{ page.title }}</h1>
+  {% include figure.html type="boxart" %}
+  <ul class="article-gamedata">
+  {% for release in game.releases %}
+    {% if release.release_date %}
+      {% assign present_markets = present_markets | append: release.market | append: "," %}
+      {% if release.barcode == "Virtual Console 3DS" %}{% else %}
+        <li>{% case release.market %}{% when "NA" %}North American{% when "JP" %}Japanese{% when "EU" %}European{% when "AU" %}Australian{% when "AS" %}Asian{% when "KO" %}Korean{% when "SA" %}Brazilian{% endcase %} release published by {{ release.publisher }} in {% if release.unknown_release_month == true %}{{ release.release_date | date: "%Y" }}{% else %}{{ release.release_date | date: "%B %Y" }}{% endif %}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% for market in required_markets %}
+    {% unless present_markets contains market %}
+      <li>Never released in {% case market %}{% when "NA" %}North America{% when "JP" %}Japan{% when "EU" %}Europe{% endcase %}</li>
+    {% endunless %}
+  {% endfor %}
+  {% for developer in game.developers %}
+    <li>Developed by {{ developer.developer }}</li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+<h2 id="{{ page.description | replace: " ", "-" }}">{{ page.description }}</h2>
+{% include figure.html type="gb" class="float left" %}

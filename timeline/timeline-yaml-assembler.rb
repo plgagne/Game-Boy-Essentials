@@ -117,6 +117,9 @@ contents = contents.gsub(/Disney\/Pixar/, "Disney⋅Pixar")
 # Switching the single quote
 contents = contents.gsub(/'/, "’")
 
+# It's Pokémon dammit
+contents = contents.gsub(/Pokemon/, "Pokémon")
+
 # Switching image location
 contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/, "boxart: \"/no_cover.png\"")
 contents = contents.gsub(/_thumb.jpg/, "_front.jpg")

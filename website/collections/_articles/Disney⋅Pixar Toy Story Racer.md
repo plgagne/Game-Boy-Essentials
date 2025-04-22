@@ -5,19 +5,8 @@ slug: "cgb-bt5e"
 release-date: "2001-02-28"
 publication: "2018-02-21"
 tags: [book2]
-developers: "Tiertex Design Studios"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in February 2001
-- European release in March 2001
-- Never released in Japan
-- Published by Activision
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Toy Story Racer* is a sham. It’s visually impressive but you won’t want to play it for more than ten minutes. However, those ten minutes are essential. You’ll be able to see the crazy stuff developers were doing on Game Boy by the end of its **very** long life. Stuff they **never should have released** because it wasn’t a good concept, but did anyway because it was still going to make money no matter what they released.
 
 ## Emulation

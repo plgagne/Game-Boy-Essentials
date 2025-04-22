@@ -5,19 +5,8 @@ slug: "cgb-awxe"
 release-date: "1999-08-10"
 publication: "2018-04-10"
 tags: [book2]
-developers: "Camelot Software Planning & Nintendo"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in August 1999
-- North American release in October 1999
-- European release in October 1999
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Sometimes, it doesn’t take much to push a genre in an exciting new direction. Case in point: *Mario Golf*. The game is a competent game of electronic golf, sure, but it succeeds because it sprinkles just the right amount of RPG mechanics to make it feel fresh and exciting. It has a little bit of a story. It has a little bit of a leveling system. It has a little bit of a map to walk around. It’s still mostly a golf game. Add those all up and you equal an essential game.
 
 ## Modern Concessions

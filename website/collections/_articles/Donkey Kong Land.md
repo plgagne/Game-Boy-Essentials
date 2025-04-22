@@ -5,19 +5,8 @@ slug: "dmg-yt"
 release-date: "1995-06-01"
 publication: "2015-12-15"
 tags: [book1]
-developers: "Rare"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- North American release in June 1995
-- Japanese release in July 1995
-- European release in August 1995
-- Published by Nintendo
-- Developed by {{ page. developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Donkey Kong Land* is the worst case scenario. All the mistakes a team can make when adapting a concept to Game Boy, they’re all there. Dark backgrounds? Check. Overtly busy sprites? Check. Leaps of faith level design? Check. Poor physics? Check. If you want to know how not to make a Game Boy game, look no further, this game has done everything wrong!
 
 With their SNES game, Rare was able to convince everyone that a polygonal game was running on the humble Super Nintendo hardware. With the Game Boy adaptation, they revealed their monkey antics. LOL.

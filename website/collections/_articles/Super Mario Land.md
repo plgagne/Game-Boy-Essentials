@@ -5,18 +5,8 @@ slug: "dmg-ml"
 release-date: "1989-04-21"
 publication: "2016-04-01"
 tags: [book1]
-developers: "Nintendo R&D1"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in April 1989
-- North American release in August 1989
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Super Mario Land* is a technological dead end with its roots in the Game & Watch portables of the 80s. Featuring design decisions that were abandoned by almost all Game Boy developers, *Super Mario Land* is nonetheless essential because it is the first game ever made for Game Boy.
 
 Made by Gunpei Yokoi and his team at R&D1, without *Super Mario Land* there simply is no Game Boy. The game was meant to prove that you could have platform games be as fun as what Nintendo was doing on NES. On that front it succeeded but it’s also an interesting example of a strategic pivot by Nintendo. Once they discovered *Tetris*, Nintendo sidelined this Mario game and bet heavily that the Game Boy and *Tetris* were a better story to sell to potential players. Their proof-of-concept *Mario* game could not sell the Game Boy to as many people as the falling blocks of *Tetris*. Of course, they released this game and marketed it heavily but in markets where they advertised and sold bundles on release the Game Boy came with *Tetris*, not *Super Mario Land*. Nintendo worked hard to equate Game Boy with *Tetris*. Working from Tetris’ success as this vanguard from the system, Game Boy developers knew what to copy when they made puzzle games. Platform games on Game Boy had to pave another path to success; *Super Mario Land’s* ideas were not easily marketable.

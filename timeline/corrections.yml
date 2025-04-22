@@ -1,5 +1,15 @@
 ---
 # List all corrections by matching a unique key/value pair then listing all the changes in updates. No updates array means the object is deleted.
+
+# Removals
+- key: "release_date"
+  value: "0000-00-01"
+  action: delete
+# The Castlevania Adventure, NA, Players' Choice (https://imgur.com/a/31-players-choice-game-boy-game-cart-label-art-compilation-H9omv)
+- key: "title"
+  value: "Castlevania: The Adventure (Player’s Choice)"
+  action: delete
+
 # Disney's Ducktales, Europe
 - key: "id"
   value: "DMG-DT-NOE"
@@ -38,9 +48,43 @@
   updates:
     release_date: "1993-04-01"
     unknown_release_month: false
-# Removals
-- key: "release_date"
-  value: "0000-00-01"
-# The Castlevania Adventure, NA, Players' Choice (https://imgur.com/a/31-players-choice-game-boy-game-cart-label-art-compilation-H9omv)
+# Heroes
+- key: "representative_name"
+  value: "Heroes of Might and Magic"
+  updates:
+    representative_name: "Heroes of Might & Magic"
 - key: "title"
-  value: "Castlevania: The Adventure (Player’s Choice)"
+  value: "Heroes of Might and Magic"
+  updates:
+    title: "Heroes of Might & Magic"
+- key: "representative_name"
+  value: "Heroes of Might and Magic II"
+  updates:
+    representative_name: "Heroes of Might & Magic II"
+- key: "title"
+  value: "Heroes of Might and Magic II"
+  updates:
+    title: "Heroes of Might & Magic II"
+# The Simpsons
+- key: "representative_name"
+  value: "Itchy & Scratchy in Miniature Golf Madness"
+  updates:
+    representative_name: "The Simpsons: Itchy and Scratchy — Miniature Golf Madness"
+- key: "title"
+  value: "Itchy & Scratchy in Miniature Golf Madness"
+  updates:
+    title: "The Simpsons: Itchy and Scratchy — Miniature Golf Madness"
+# Metal Gear?
+- key: "representative_name"
+  value: "Metal Gear Solid"
+  updates:
+    representative_name: "Metal Gear: Ghost Babel"
+# Wario
+- key: "representative_name"
+  value: "Super Mario Land 3: Wario Land"
+  updates:
+    representative_name: "Wario Land: Super Mario Land 3"
+- key: "title"
+  value: "Super Mario Land 3: Wario Land"
+  updates:
+    title: "Wario Land: Super Mario Land 3"

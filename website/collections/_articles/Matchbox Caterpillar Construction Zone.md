@@ -5,19 +5,8 @@ slug: "dmg-ar4e"
 release-date: "2000-01-01"
 publication: "2017-01-21"
 tags: [book2]
-developers: "Realtime Associates"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart-png" %}
-- North American release in January 2000
-- European release in 2000
-- Never released in Japan
-- Published by Mattel Media
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 The Game Boy was going through a frenzy of popularity in 2000. What do I mean by a frenzy? People were buying a large number of games for the system, making it viable to develop more games for the system. Any type of game could find an audience.
 
 During the continuing success of *Pokémon* and after the release of the Game Boy Color, it was a good deal for a developer to grab a franchise, make a Game Boy game with Game Boy Color support (a black cartridge) and just see what sticks. To me the best example of this era of 1999–2000 Game Boy Color games is best represented by *Matchbox Caterpillar Construction Zone*. Why? Because I friggin’ bought the game at retail with hard-earned teenager money, that’s why! For what reason did I buy this game? I still don’t know to this day. But I’m familiar with it and so I can talk about it. It’s not the only game you could use to represent this era but for me the boomtown mentality of 1999–2000 on Game Boy is best portrayed by *Matchbox Caterpillar Construction Zone*.

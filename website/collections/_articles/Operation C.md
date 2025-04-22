@@ -5,19 +5,8 @@ slug: "dmg-cn"
 release-date: "1991-01-08"
 publication: "2017-06-30"
 tags: [book2]
-developers: "Konami"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in January 1991
-- North American release in February 1991
-- European release in 1992
-- Published by Ultra Games
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Making a competent adaptation for Game Boy is not an exact science. In my previous article, I argued that [Biox’s *Mega Man II*](/articles/dmg-w2) has the basic concepts done properly, but that they just mangled the execution. The skeleton is OK but the rest of the body is too weird.
 
 On the other hand, Konami’s *Operation C*, known in Japan as simply *Contra* and in Europe as *Probotector*, is the real deal. The sprite size, walking and jumping speed, level of detail, everything is well tuned, so the skeleton of the game is great. Then they went ahead and added all the trimmings. Levels, weapon selection, game length, enemy types, difficulty. All those details fit perfectly too. Konami really got it right, just like with their previous game I covered, *[Nemesis](/articles/dmg-nm)*. Once again, the fine people at Konami made an essential game. I still remember to this day the joy of playing this game when I was a kid. And I played this game late, since a friend first lent it to me around 1998.

@@ -1,22 +1,12 @@
 ---
-title: "Mega Man II"
+title: "Mega Man II"
 description: "Another Failed Attempt?"
 slug: "dmg-w2"
 release-date: "1991-12-20"
 publication: "2017-05-27"
 tags: [book2]
-developers: "Biox"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in December 1991
-- North American release in February 1992
-- Published by Capcom
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 The NES *Mega Man* titles are not perfect; far from it. They’re great works of art though. Their controls are tight and responsive because of obvious perfectionism on the developer’s part, the level design is usually fun and inventive, the games are unfair but usually for the right reasons. Because of all this they’re a cultural standard that is used to judge sprite-based platformers to this day. They’re beloved, and they deserve it.
 
 Comparisons between both families of games, NES and Game Boy, are inevitable. It’s absolutely fair; no one can look at an artistic project in a vacuum. And so the NES originals elevate the Game Boy games spun off from them by proxy. They make them better because when you play them, you’re obviously pushed into thinking of the NES games they are meant to echo. **This game on my Game Boy is just like the one on my TV!** While the first Game Boy game managed to carry out this task with limited success, managing to bring the concepts of *Mega Man* to a screen with fewer pixels in an ultimately unfair game, the second title does the opposite. It’s too easy and too dumb to really ever make you feel like you’re playing a real *Mega Man* game. That it was made by a small-time developer with very humble successes helps to explain this failure. Looking at what others have said about *Mega Man II* on Game Boy, people seem happy that you can finish this second title since it’s much easier than the first. I’d argue ease of play is not a very *Mega Man* thing to do; you want inventive ways to punish you to make you sharp and swift. Ultimately, just like with the stilted *Mega Man: Dr. Wily’s Revenge*, *Mega Man II* is essential because of its mistakes and problems. They’re just completely different.

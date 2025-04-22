@@ -5,19 +5,8 @@ slug: "cgb-bmge"
 release-date: "2000-04-24"
 publication: "2024-06-23"
 tags: [book4]
-developers: "TOSE"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in April 2000
-- North American release in April 2000
-- European release in May 2000
-- Published by Konami
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I’ve spent my whole formative years watching the disappointing sequels to ’80s movies without having seen the first one.
 - I’ve seen *Ghostbusters 2* before the first one.
 - *Alien 3* was my first Alien movie.

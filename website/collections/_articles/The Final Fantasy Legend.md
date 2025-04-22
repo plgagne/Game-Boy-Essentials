@@ -5,19 +5,8 @@ slug: "dmg-sa"
 release-date: "1989-12-15"
 publication: "2016-11-30"
 tags: [book1]
-developers: "SquareSoft"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in December 1989
-- North American release in September 1990
-- North American reprint by Sunsoft in April 1998
-- Published by SquareSoft (reprint published by Sunsoft)
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *The Final Fantasy Legend* came out so early in the Game Boy’s life as to be unbelievable. It is surprising that Akitoshi Kawazu managed to produce a game that understood so well what the Game Boy was capable of not as just a piece of silicon but as a physical object, a portable console used by people every day. The other games that came out in 1989 in Japan from third-party developers look woefully maladjusted in comparison. But I didn’t play *The Final Fantasy Legend* as a 4 year-old kid in 1990 when it came out in North America. I played it in 1998, as an 8 year-old when it was reprinted by SunSoft following the *Final Fantasy VII* craze that swept the world.
 
 I’ve got to say that I’ve already told the tale of my first encounter with the *Final Fantasy* reprints in my [*Final Fantasy Adventure* article](/articles/dmg-ff) but I have to kind of tell that tale again to get you, dear reader, to understand my outlook on *The Final Fantasy Legend*.

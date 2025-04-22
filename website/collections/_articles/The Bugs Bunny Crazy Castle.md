@@ -5,18 +5,8 @@ slug: "dmg-bb"
 release-date: "1989-09-05"
 publication: "2017-02-27"
 tags: [book2]
-developers: "Kemco"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in September 1989
-- North American release in March 1990
-- Published by Kemco Seika
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I hate Kemco’s *Crazy Castle* series. It’s not fun or interesting. It also has one of the most complicated release history around. But we must talk about the first game released on Game Boy. Why? Because it’s the first Game Boy title to do two things:
 
 1. It is the first *action* title to feature large sprites;

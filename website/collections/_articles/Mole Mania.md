@@ -5,18 +5,8 @@ slug: "dmg-amoe"
 release-date: "1996-07-21"
 publication: "2022-08-11"
 tags: [book3]
-developers: "Nintendo EAD & Pax Softnica"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in July 1996
-- North American release in February 1997
-- European release in 1997
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 Gunpei Yokoi, the father of the Game Boy, was in a weird spot. He was the company’s oldest team leader at Nintendo but his reputation was shot. Inside the company he was seen as having lost his way, having spent too much of the company’s time and effort on a failed project with no appeal, the dreadful Virtual Boy. It was the epitome of his creed of using old technology in surprising ways (usually translated as *Lateral Thinking with Withered Technology*) but it lacked the fun factor that made Nintendo into a household name resulting in a very public failure for the company. Yokoi had planned on leaving Nintendo right after the release of the Virtual Boy. His interest in seeing the new console to release was the only thing keeping him at Nintendo. With that project a burning red failure, Yokoi stayed; he wanted to leave on a positive note, not in disgrace. To that end, he looked at the original Game Boy. It ran laps around the competition of portable consoles but all the media outlets were wondering why there was no new hardware. The answer was pure Nintendo: they were intent on maintaining the same principle that made the Game Boy a success of not compromising on battery life. Since there was no new CPU or screen tech that would provide a better experience while maintaining a reasonable battery life, Gunpei Yokoi tasked himself and his team with making a better version of the already existing Game Boy. This project would ultimately lead to the Game Boy Pocket.
 
 While Nintendo kept the same muted, simple strategy for its portable behemoth, Game Boy games were getting rarer. To keep shelves stocked with good games Nintendo started their Players’ Choice program. [*The Legend of Zelda: Link’s Awakening*](/articles/dmg-zl/), *Star Wars*, [*The Bugs Bunny Crazy Castle*](/articles/dmg-bb/), [*Mega Man: Dr. Wily’s Revenge*](/articles/dmg-rw/) are just some examples of games republished by Nintendo under their Players’ Choice banner. Clearly, the company was trying to put older titles of better quality on store shelves to maintain interest for the Game Boy and its new upgrade the Game Boy Pocket.

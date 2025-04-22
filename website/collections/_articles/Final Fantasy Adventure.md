@@ -5,19 +5,8 @@ slug: "dmg-ff"
 release-date: "1991-06-28"
 publication: "2016-05-13"
 tags: [book1]
-developers: "SquareSoft"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in June 1991
-- North American release in November 1991
-- North American reprint by Sunsoft in April 1998
-- Published by SquareSoft (reprint published by Sunsoft)
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 *Final Fantasy Adventure* is unique. It’s a gaiden title of *Final Fantasy* that subsequently transformed into its own franchise. Some of it is awesome. Some of it is weird. Some of it is bad. But ultimately you’ll have fun with *Final Fantasy Adventure*. That’s why it’s essential.
 
 ## Memo about Screenshots

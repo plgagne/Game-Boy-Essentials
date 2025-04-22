@@ -5,18 +5,8 @@ slug: "dmg-apce"
 release-date: "1995-03-14"
 publication: "2017-10-16"
 tags: [book2]
-developers: "Jupiter"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese & North American release in March 1995
-- European release in July 1995
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
+{% include title.html %}
 I have a list of Game Boy games I want to check out and feature on Game Boy Essentials. With over 2000 titles released across the original Game Boy and Game Boy Color, I have looked at multiple sources to winnow the list into a reasonable amount of games to research further. I have yet to fire up every single game in an emulator, so I rely on a lot of common sense to figure out what is potentially essential. Initially, *Mario’s Picross* flew under the radar for most people, me included. I came upon it by chance, only knowing *Mario’s Picross* as an adaptation of nonograms by Nintendo. It was popular in Japan but nobody cared in North America, so Jupiter promptly stopped bringing their Picross games here. So knowing only this I decided to play the game for a minute and I fell in love. I went through the tutorial to learn the rules and liked it so much I immediately bought a book to try nonograms on paper. That’s how essential this game is; it will make you buy books!
 
 ## A Primer on Nonograms

@@ -14747,16 +14747,6 @@
         "developer": "Konami"
       },
       {
-        "title": "Castlevania: The Adventure (Player’s Choice)",
-        "market": "NA",
-        "release_date": "1991-01-01",
-        "unknown_release_month": true,
-        "publisher": "Konami",
-        "id": "DMG-CV",
-        "boxart": "/no_cover.png",
-        "developer": "Konami"
-      },
-      {
         "title": "Dracula Densetsu",
         "market": "JP",
         "release_date": "2012-03-14",
@@ -33185,7 +33175,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokemon Yellow Version)",
+        "title": "Game Boy Color Hardware (Pokémon Yellow Version)",
         "market": "NA",
         "release_date": "1999-10-25",
         "publisher": "Nintendo",
@@ -33195,7 +33185,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokemon Center)",
+        "title": "Game Boy Color Hardware (Pokémon Center)",
         "market": "JP",
         "release_date": "1999-11-01",
         "publisher": "Nintendo",
@@ -33263,7 +33253,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokemon Limited Edition!)",
+        "title": "Game Boy Color Hardware (Pokémon Limited Edition!)",
         "market": "NA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -33273,7 +33263,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Game Boy Color Hardware (Pokemon Special Edition)",
+        "title": "Game Boy Color Hardware (Pokémon Special Edition)",
         "market": "NA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -38972,7 +38962,7 @@
     ]
   },
   {
-    "representative_name": "Heroes of Might and Magic",
+    "representative_name": "Heroes of Might & Magic",
     "representative_boxart": "a/box/1/9/6/4196_front.jpg",
     "related_version": [
       "Game Boy Color",
@@ -38992,7 +38982,7 @@
     "ESRB_descriptors": "Mild Animated Violence",
     "releases": [
       {
-        "title": "Heroes of Might and Magic",
+        "title": "Heroes of Might & Magic",
         "market": "NA",
         "release_date": "2000-06-20",
         "publisher": "3DO",
@@ -39003,7 +38993,7 @@
         "developer": "KnowWonder"
       },
       {
-        "title": "Heroes of Might and Magic",
+        "title": "Heroes of Might & Magic",
         "market": "EU",
         "release_date": "2000-10-20",
         "publisher": "3DO",
@@ -39028,7 +39018,7 @@
     ]
   },
   {
-    "representative_name": "Heroes of Might and Magic II",
+    "representative_name": "Heroes of Might & Magic II",
     "representative_boxart": "a/box/2/3/5/20235_front.jpg",
     "related_version": [
       "Game Boy Color",
@@ -39048,7 +39038,7 @@
     "ESRB_descriptors": "Mild Animated Violence",
     "releases": [
       {
-        "title": "Heroes of Might and Magic II",
+        "title": "Heroes of Might & Magic II",
         "market": "NA",
         "release_date": "2000-12-01",
         "publisher": "3DO",
@@ -39059,7 +39049,7 @@
         "developer": "KnowWonder"
       },
       {
-        "title": "Heroes of Might and Magic II",
+        "title": "Heroes of Might & Magic II",
         "market": "EU",
         "release_date": "2001-03-16",
         "publisher": "3DO",
@@ -41927,7 +41917,7 @@
     ]
   },
   {
-    "representative_name": "Itchy & Scratchy in Miniature Golf Madness",
+    "representative_name": "The Simpsons: Itchy and Scratchy — Miniature Golf Madness",
     "representative_boxart": "a/box/3/3/3/46333_front.jpg",
     "related_version": [
       "Game Boy"
@@ -41945,7 +41935,7 @@
     ],
     "releases": [
       {
-        "title": "Itchy & Scratchy in Miniature Golf Madness",
+        "title": "The Simpsons: Itchy and Scratchy — Miniature Golf Madness",
         "market": "NA",
         "release_date": "1994-11-01",
         "publisher": "Acclaim",
@@ -41954,7 +41944,7 @@
         "developer": "Beam Software"
       },
       {
-        "title": "Itchy & Scratchy in Miniature Golf Madness",
+        "title": "The Simpsons: Itchy and Scratchy — Miniature Golf Madness",
         "market": "EU",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -58385,7 +58375,7 @@
     ]
   },
   {
-    "representative_name": "Metal Gear Solid",
+    "representative_name": "Metal Gear: Ghost Babel",
     "representative_boxart": "a/box/1/5/2/5152_front.jpg",
     "related_version": [
       "Game Boy Color",
@@ -73760,7 +73750,39 @@
     ]
   },
   {
-    "representative_name": "Pokemon Blue Version",
+    "representative_name": "Pokonyan!",
+    "representative_boxart": "a/box/3/4/0/306340_front.jpg",
+    "related_version": [
+      "Game Boy"
+    ],
+    "genre": [
+      "Action",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pokonyan!",
+    "releases": [
+      {
+        "title": "Pokonyan! Yume no Daibouken",
+        "market": "JP",
+        "release_date": "1994-08-05",
+        "publisher": "Toho",
+        "id": "DMG-N7J",
+        "boxart": "/a/box/3/4/0/306340_front.jpg"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "Blueberry Buttface",
+        "link": "https://gamefaqs.gamespot.com/community/BB_Buttface"
+      },
+      {
+        "name": "nensondubois",
+        "link": "https://gamefaqs.gamespot.com/community/nensondubois"
+      }
+    ]
+  },
+  {
+    "representative_name": "Pokémon Blue Version",
     "representative_boxart": "a/box/8/1/9/819_front.jpg",
     "related_version": [
       "Game Boy"
@@ -73789,7 +73811,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "NA",
         "release_date": "1998-09-28",
         "publisher": "Nintendo",
@@ -73800,7 +73822,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "AU",
         "release_date": "1998-11-01",
         "publisher": "Nintendo",
@@ -73811,7 +73833,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue (included w/ Game Boy Pocket)",
+        "title": "Pokémon Blue (included w/ Game Boy Pocket)",
         "market": "SA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -73821,7 +73843,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "EU",
         "release_date": "1999-10-05",
         "publisher": "Nintendo",
@@ -73830,7 +73852,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version (Rerelease)",
+        "title": "Pokémon Blue Version (Rerelease)",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -73842,7 +73864,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "NA",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -73853,7 +73875,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "EU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -73864,7 +73886,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Blue Version",
+        "title": "Pokémon Blue Version",
         "market": "AU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -73938,7 +73960,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Card GB2",
+    "representative_name": "Pokémon Card GB2",
     "representative_boxart": "a/box/8/1/6/42816_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -73957,10 +73979,10 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_(video_game)#Sequel",
     "releases": [
       {
-        "title": "Pokemon Card GB2: GRdan Sanjou",
+        "title": "Pokémon Card GB2: GRdan Sanjou",
         "market": "JP",
         "release_date": "2001-03-28",
-        "publisher": "The Pokemon Company",
+        "publisher": "The Pokémon Company",
         "id": "CGB-BP7J-JPN",
         "barcode": "4521329007564",
         "boxart": "/a/box/8/1/6/42816_front.jpg",
@@ -73995,7 +74017,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Crystal Version",
+    "representative_name": "Pokémon Crystal Version",
     "representative_boxart": "a/box/6/0/3/11603_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74024,7 +74046,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version",
+        "title": "Pokémon Crystal Version",
         "market": "NA",
         "release_date": "2001-07-29",
         "publisher": "Nintendo",
@@ -74035,7 +74057,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version",
+        "title": "Pokémon Crystal Version",
         "market": "AU",
         "release_date": "2001-09-30",
         "publisher": "Nintendo",
@@ -74045,7 +74067,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version",
+        "title": "Pokémon Crystal Version",
         "market": "EU",
         "release_date": "2001-11-02",
         "publisher": "Nintendo",
@@ -74055,7 +74077,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version (Pokemon Special Edition GBC Bundle)",
+        "title": "Pokémon Crystal Version (Pokémon Special Edition GBC Bundle)",
         "market": "EU",
         "release_date": "2001-11-02",
         "publisher": "Nintendo",
@@ -74065,7 +74087,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version",
+        "title": "Pokémon Crystal Version",
         "market": "NA",
         "release_date": "2018-01-26",
         "publisher": "Nintendo",
@@ -74076,7 +74098,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version",
+        "title": "Pokémon Crystal Version",
         "market": "EU",
         "release_date": "2018-01-26",
         "publisher": "Nintendo",
@@ -74087,7 +74109,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Crystal Version (Code in a Box)",
+        "title": "Pokémon Crystal Version (Code in a Box)",
         "market": "EU",
         "release_date": "2018-01-26",
         "publisher": "Nintendo",
@@ -74149,7 +74171,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Gold Version",
+    "representative_name": "Pokémon Gold Version",
     "representative_boxart": "a/box/1/6/2/6162_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74177,7 +74199,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "AU",
         "release_date": "2000-10-13",
         "publisher": "Nintendo",
@@ -74188,7 +74210,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "NA",
         "release_date": "2000-10-14",
         "publisher": "Nintendo",
@@ -74199,7 +74221,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "EU",
         "release_date": "2001-04-06",
         "publisher": "Nintendo",
@@ -74208,7 +74230,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "SA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -74228,7 +74250,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "NA",
         "release_date": "2017-09-22",
         "publisher": "Nintendo",
@@ -74239,7 +74261,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Gold Version",
+        "title": "Pokémon Gold Version",
         "market": "EU",
         "release_date": "2017-09-22",
         "publisher": "Nintendo",
@@ -74315,7 +74337,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Green",
+    "representative_name": "Pokémon Green",
     "representative_boxart": "a/box/3/2/9/63329_front.jpg",
     "related_version": [
       "Game Boy"
@@ -74390,7 +74412,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Picross (Canceled)",
+    "representative_name": "Pokémon Picross (Canceled)",
     "representative_boxart": "a/box/1/0/4/767104_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74406,7 +74428,7 @@
     ],
     "releases": [
       {
-        "title": "Pokemon Picross (Canceled)",
+        "title": "Pokémon Picross (Canceled)",
         "market": "JP",
         "release_date": null,
         "publisher": "Nintendo",
@@ -74427,7 +74449,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Pinball",
+    "representative_name": "Pokémon Pinball",
     "representative_boxart": "a/box/1/6/8/6168_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74446,7 +74468,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pinball",
     "releases": [
       {
-        "title": "Pokemon Pinball",
+        "title": "Pokémon Pinball",
         "market": "JP",
         "release_date": "1999-04-14",
         "publisher": "Nintendo",
@@ -74456,7 +74478,7 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokemon Pinball",
+        "title": "Pokémon Pinball",
         "market": "NA",
         "release_date": "1999-06-28",
         "publisher": "Nintendo",
@@ -74467,7 +74489,7 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokemon Pinball",
+        "title": "Pokémon Pinball",
         "market": "AU",
         "release_date": "1999-07-13",
         "publisher": "Nintendo",
@@ -74478,7 +74500,7 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokemon Pinball (Rerelease)",
+        "title": "Pokémon Pinball (Rerelease)",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -74490,7 +74512,7 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokemon Pinball",
+        "title": "Pokémon Pinball",
         "market": "EU",
         "release_date": "2000-10-06",
         "publisher": "Nintendo",
@@ -74499,7 +74521,7 @@
         "developer": "Jupiter Corporation"
       },
       {
-        "title": "Pokemon Pinball (Game Boy Color Bundle)",
+        "title": "Pokémon Pinball (Game Boy Color Bundle)",
         "market": "SA",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -74549,7 +74571,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Puzzle Challenge",
+    "representative_name": "Pokémon Puzzle Challenge",
     "representative_boxart": "a/box/6/0/8/11608_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74568,7 +74590,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Puzzle_Challenge",
     "releases": [
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "NA",
         "release_date": "2000-09-01",
         "publisher": "Nintendo",
@@ -74579,7 +74601,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon de Panepon",
+        "title": "Pokémon de Panepon",
         "market": "JP",
         "release_date": "2000-09-21",
         "publisher": "Nintendo",
@@ -74589,7 +74611,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "EU",
         "release_date": "2001-06-08",
         "publisher": "Nintendo",
@@ -74598,7 +74620,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "AU",
         "release_date": "2001-06-15",
         "publisher": "Nintendo",
@@ -74608,7 +74630,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "NA",
         "release_date": "2014-11-06",
         "publisher": "Nintendo",
@@ -74619,7 +74641,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "EU",
         "release_date": "2014-11-27",
         "publisher": "Nintendo",
@@ -74630,7 +74652,7 @@
         "developer": "Intelligent Systems"
       },
       {
-        "title": "Pokemon Puzzle Challenge",
+        "title": "Pokémon Puzzle Challenge",
         "market": "AU",
         "release_date": "2014-11-27",
         "publisher": "Nintendo",
@@ -74673,7 +74695,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Red Version",
+    "representative_name": "Pokémon Red Version",
     "representative_boxart": "a/box/0/8/7/11087_front.jpg",
     "related_version": [
       "Game Boy"
@@ -74702,7 +74724,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "NA",
         "release_date": "1998-09-28",
         "publisher": "Nintendo",
@@ -74713,7 +74735,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "AU",
         "release_date": "1998-10-23",
         "publisher": "Nintendo",
@@ -74724,7 +74746,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red (included w/ Game Boy Pocket)",
+        "title": "Pokémon Red (included w/ Game Boy Pocket)",
         "market": "SA",
         "release_date": "1998-01-01",
         "unknown_release_month": true,
@@ -74734,7 +74756,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "EU",
         "release_date": "1999-10-05",
         "publisher": "Nintendo",
@@ -74744,7 +74766,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version (Rerelease)",
+        "title": "Pokémon Red Version (Rerelease)",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -74756,7 +74778,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "NA",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -74767,7 +74789,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "EU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -74778,7 +74800,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version",
+        "title": "Pokémon Red Version",
         "market": "AU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -74789,7 +74811,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Red Version (Nintendo 2DS Special Edition Bundle)",
+        "title": "Pokémon Red Version (Nintendo 2DS Special Edition Bundle)",
         "market": "AU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -74870,7 +74892,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Silver Version",
+    "representative_name": "Pokémon Silver Version",
     "representative_boxart": "a/box/1/4/3/12143_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -74898,7 +74920,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Silver Version",
+        "title": "Pokémon Silver Version",
         "market": "AU",
         "release_date": "2000-10-13",
         "publisher": "Nintendo",
@@ -74909,7 +74931,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Silver Version",
+        "title": "Pokémon Silver Version",
         "market": "NA",
         "release_date": "2000-10-14",
         "publisher": "Nintendo",
@@ -74920,7 +74942,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Silver Version",
+        "title": "Pokémon Silver Version",
         "market": "EU",
         "release_date": "2001-04-06",
         "publisher": "Nintendo",
@@ -74930,7 +74952,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Versao Silver",
+        "title": "Pokémon Versao Silver",
         "market": "SA",
         "release_date": "2001-01-01",
         "unknown_release_month": true,
@@ -74950,7 +74972,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Silver Version",
+        "title": "Pokémon Silver Version",
         "market": "NA",
         "release_date": "2017-09-22",
         "publisher": "Nintendo",
@@ -74961,7 +74983,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Silver Version",
+        "title": "Pokémon Silver Version",
         "market": "EU",
         "release_date": "2017-09-22",
         "publisher": "Nintendo",
@@ -75033,7 +75055,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Trading Card Game",
+    "representative_name": "Pokémon Trading Card Game",
     "representative_boxart": "a/box/3/2/9/9329_front.jpg",
     "related_version": [
       "Game Boy Color"
@@ -75053,7 +75075,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game_(video_game)",
     "releases": [
       {
-        "title": "Pokemon Card GB",
+        "title": "Pokémon Card GB",
         "market": "JP",
         "release_date": "1998-12-18",
         "publisher": "Nintendo",
@@ -75063,7 +75085,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "NA",
         "release_date": "2000-04-10",
         "publisher": "Nintendo",
@@ -75074,7 +75096,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "EU",
         "release_date": "2000-12-08",
         "publisher": "Nintendo",
@@ -75083,7 +75105,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "AU",
         "release_date": "2000-01-01",
         "unknown_release_month": true,
@@ -75094,7 +75116,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "EU",
         "release_date": "2014-07-10",
         "publisher": "Nintendo",
@@ -75105,7 +75127,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "AU",
         "release_date": "2014-07-10",
         "publisher": "Nintendo",
@@ -75116,7 +75138,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Trading Card Game",
+        "title": "Pokémon Trading Card Game",
         "market": "NA",
         "release_date": "2014-11-13",
         "publisher": "Nintendo",
@@ -75127,7 +75149,7 @@
         "developer": "Hudson Soft"
       },
       {
-        "title": "Pokemon Card GB",
+        "title": "Pokémon Card GB",
         "market": "JP",
         "release_date": "2014-12-24",
         "publisher": "Nintendo",
@@ -75170,7 +75192,7 @@
     ]
   },
   {
-    "representative_name": "Pokemon Yellow Version: Special Pikachu Edition",
+    "representative_name": "Pokémon Yellow Version: Special Pikachu Edition",
     "representative_boxart": "a/box/1/8/6/6186_front.jpg",
     "related_version": [
       "Game Boy"
@@ -75199,7 +75221,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "AU",
         "release_date": "1999-09-03",
         "publisher": "Nintendo",
@@ -75210,7 +75232,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "NA",
         "release_date": "1999-10-18",
         "publisher": "Nintendo",
@@ -75221,7 +75243,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition (Rerelease)",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition (Rerelease)",
         "market": "NA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -75233,7 +75255,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Edicao Especial Pikachu",
+        "title": "Pokémon Yellow Version: Edicao Especial Pikachu",
         "market": "SA",
         "release_date": "1999-01-01",
         "unknown_release_month": true,
@@ -75243,7 +75265,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "EU",
         "release_date": "2000-06-16",
         "publisher": "Nintendo",
@@ -75253,7 +75275,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "NA",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -75264,7 +75286,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "EU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -75275,7 +75297,7 @@
         "developer": "Game Freak"
       },
       {
-        "title": "Pokemon Yellow Version: Special Pikachu Edition",
+        "title": "Pokémon Yellow Version: Special Pikachu Edition",
         "market": "AU",
         "release_date": "2016-02-27",
         "publisher": "Nintendo",
@@ -75349,38 +75371,6 @@
       {
         "name": "Videogamefan547",
         "link": "https://gamefaqs.gamespot.com/community/Videogamefan547"
-      }
-    ]
-  },
-  {
-    "representative_name": "Pokonyan!",
-    "representative_boxart": "a/box/3/4/0/306340_front.jpg",
-    "related_version": [
-      "Game Boy"
-    ],
-    "genre": [
-      "Action",
-      "General"
-    ],
-    "wikipedia": "https://en.wikipedia.org/wiki/Pokonyan!",
-    "releases": [
-      {
-        "title": "Pokonyan! Yume no Daibouken",
-        "market": "JP",
-        "release_date": "1994-08-05",
-        "publisher": "Toho",
-        "id": "DMG-N7J",
-        "boxart": "/a/box/3/4/0/306340_front.jpg"
-      }
-    ],
-    "contributors": [
-      {
-        "name": "Blueberry Buttface",
-        "link": "https://gamefaqs.gamespot.com/community/BB_Buttface"
-      },
-      {
-        "name": "nensondubois",
-        "link": "https://gamefaqs.gamespot.com/community/nensondubois"
       }
     ]
   },
@@ -93115,7 +93105,7 @@
     ]
   },
   {
-    "representative_name": "Super Mario Land 3: Wario Land",
+    "representative_name": "Wario Land: Super Mario Land 3",
     "representative_boxart": "a/box/1/4/9/21149_front.jpg",
     "related_version": [
       "Game Boy"
@@ -93135,7 +93125,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Wario_Land:_Super_Mario_Land_3",
     "releases": [
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "JP",
         "release_date": "1994-01-21",
         "publisher": "Nintendo",
@@ -93145,7 +93135,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "NA",
         "release_date": "1994-03-13",
         "publisher": "Nintendo",
@@ -93155,7 +93145,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "EU",
         "release_date": "1994-05-13",
         "publisher": "Nintendo",
@@ -93165,7 +93155,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "AU",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -93176,7 +93166,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "AS",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -93186,7 +93176,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "SA",
         "release_date": "1994-01-01",
         "unknown_release_month": true,
@@ -93207,7 +93197,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "JP",
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
@@ -93227,7 +93217,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "JP",
         "release_date": "2011-12-14",
         "publisher": "Nintendo",
@@ -93238,7 +93228,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "EU",
         "release_date": "2012-02-16",
         "publisher": "Nintendo",
@@ -93249,7 +93239,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "AU",
         "release_date": "2012-02-16",
         "publisher": "Nintendo",
@@ -93271,7 +93261,7 @@
         "developer": "Nintendo"
       },
       {
-        "title": "Super Mario Land 3: Wario Land",
+        "title": "Wario Land: Super Mario Land 3",
         "market": "KO",
         "release_date": "2016-05-18",
         "publisher": "Nintendo",
