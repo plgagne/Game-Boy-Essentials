@@ -1,7 +1,5 @@
 # Game Boy Essentials
 ## Tâches
-- Régler la page titre de mes livres
-- Automatiser l'entête de mes articles (qui va me permettre de facilement régler mes livres)
 ### Ligne du temps
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Ajouter les ventes annuels sur la ligne du temps
