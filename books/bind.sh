@@ -5,7 +5,7 @@ RED='\033[0;31m'
 volume=1
 
 # This variable is the last volume to be bound
-last_volume=3
+last_volume=4
 
 # Make temp
 if [ -r "temp/assets" ]; then
@@ -29,7 +29,7 @@ cp -r "../website/_site-local/tag" "temp/tag/"
 until [[ "$volume" -gt "$last_volume" ]]; do
   echo "${RED}Building book:" $volume
   echo "${RED}Making HTML version of introduction ..."
-  kramdown volume-$volume-intro.md >temp/volume-$volume-intro.html
+  kramdown volume-$volume-intro.md > temp/volume-$volume-intro.html
   echo "${RED}Merging introduction with articles ..."
   cat temp/volume-$volume-intro.html temp/tag/book$volume.html > temp/intermediate-current.html
   rm temp/volume-$volume-intro.html

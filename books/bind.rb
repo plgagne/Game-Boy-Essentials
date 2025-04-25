@@ -14,16 +14,15 @@ contents = contents.gsub(/\t/, '')
 
 # Titles
 contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\begingroup \chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2} \endgroup')
+contents = contents.gsub(/<h2 class="h2-article-title" id="(.*?)">/, '\newpage\FloatBarrier\needspace{10mm}\section*{')
 contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{10mm}\section*{')
 contents = contents.gsub(/<h3 id="(.*?)">/, '\subsection*{')
 
 # Links
 contents = contents.gsub(/<a href="(.*?)">/, '')
-contents = contents.gsub(/<audio src="(.*?)">
-<\/audio>/, '')
-contents = contents.gsub(/<video src="(.*?)"><\/video>/, '')
-contents = contents.gsub(/<object data="(.*?)">
-<\/object>/, '')
+contents = contents.gsub(/<audio (.*?)"><\/audio>/, '')
+contents = contents.gsub(/<video (.*?)"><\/video>/, '')
+contents = contents.gsub(/<object (.*?)"><\/object>/, '')
 
 # Tables
 contents = contents.gsub(/<table>
@@ -132,40 +131,42 @@ contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src
 \end{figure}')
 
 # Boxart scss
-contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{H}{\linewidth}
+contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[H]
 \vskip 4pt
-\centering \includegraphics[width=.75\linewidth]{assets\\1}\end{wrapfigure}')
+\centering
+\includegraphics[width=.75\linewidth]{assets\\1}\end{figure}')
 
 # Quick and easy replacements
 map = {
-"&amp;"      =>  "\\\\&",
-'&lt;'       =>  '',
-'&gt;'       =>  '>',
-'$'          =>  '\$',
-'%'          =>  '\%',
-'#'          =>  '\#',
-'<em>'       =>  '\emph{',
-'</em>'      =>  '}',
-'<strong>'   =>  '\textbf{',
-'</strong>'  =>  '}',
-'</a>'       =>  '',
-'<p>'        =>  '',
-'</p>'       =>  '',
-'</h3>'      =>  '}\nopagebreak[4]',
-'</h2>'      =>  '}\nopagebreak[4]',
-'<blockquote>'   =>  '\begin{quote}',
-'</blockquote>'  =>  '\end{quote} \par',
-'<ul>'       =>  '\begin{itemize} \setlength\itemsep{-0.4em}',
-'</ul>'      =>  '\end{itemize}\noindent',
-'<ol>'       =>  '\begin{enumerate}',
-'</ol>'      =>  '\end{enumerate}\noindent',
-'<li>'       =>  '\item ',
-'</li>'      =>  '',
-'<code>'     =>  '\noindent{\codeintextfont ',
-'</code>'    =>  '}',
-'<cite>'     =>  '\newline \emph{',
-'</cite>'    =>  '}',
-'<br />'     =>  '\newline '
+"&amp;"                         =>  "\\\\&",
+'&lt;'                          =>  '',
+'&gt;'                          =>  '>',
+'$'                             =>  '\$',
+'%'                             =>  '\%',
+'#'                             =>  '\#',
+'<em>'                          =>  '\emph{',
+'</em>'                         =>  '}',
+'<strong>'                      =>  '\textbf{',
+'</strong>'                     =>  '}',
+'</a>'                          =>  '',
+'<p>'                           =>  '',
+'</p>'                          =>  '',
+'</h3>'                         =>  '}\nopagebreak[4]',
+'</h2>'                         =>  '}\nopagebreak[4]',
+'<blockquote>'                  =>  '\begin{quote}',
+'</blockquote>'                 =>  '\end{quote} \par',
+'<ul>'                          =>  '\begin{itemize} [nosep]',
+'<ul class="article-gamedata">' =>  '\begin{itemize} [nosep]',
+'</ul>'                         =>  '\end{itemize}\noindent',
+'<ol>'                          =>  '\begin{enumerate}',
+'</ol>'                         =>  '\end{enumerate}\noindent',
+'<li>'                          =>  '\item ',
+'</li>'                         =>  '',
+'<code>'                        =>  '\noindent{\codeintextfont ',
+'</code>'                       =>  '}',
+'<cite>'                        =>  '\newline \emph{',
+'</cite>'                       =>  '}',
+'<br />'                        =>  '\newline '
 }
 map.each_pair {|f,t| contents.gsub! f, t}
 
