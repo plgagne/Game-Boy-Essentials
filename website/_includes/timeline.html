@@ -148,7 +148,7 @@
           <li class="timeline_fact">
           {% if fact.note %}{{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endif %}
           {% if fact.source %}<a class="timeline_reference" href="{{ fact.source }}">※</a>{% endif %}
-          {% if fact.image %}<img loading="lazy" class="timeline_release_details-cover" src="/assets/timelines/{{ fact.image }}" alt="{{ fact.image-detail }}">{% endif %}
+          {% if fact.image %}<figure class="figure"><img loading="lazy" class="timeline_release_details-cover" src="/assets/timelines/{{ fact.image }}" alt="{{ fact.image-detail }}"></figure>{% endif %}
           </li>
 
         {% endif %}
