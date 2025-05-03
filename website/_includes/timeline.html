@@ -146,8 +146,9 @@
 
           {% comment %} Write matched fact details {% endcomment %}
           <li class="timeline_fact">
-          {{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
-          <a class="timeline_reference" href="{{ fact.source }}">※</a>
+          {% if fact.note %}{{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endif %}
+          {% if fact.source %}<a class="timeline_reference" href="{{ fact.source }}">※</a>{% endif %}
+          {% if fact.image %}<img loading="lazy" class="timeline_release_details-cover" src="/assets/timelines/{{ fact.image }}" alt="{{ fact.image-detail }}">{% endif %}
           </li>
 
         {% endif %}
