@@ -3,6 +3,9 @@
 ### Ligne du temps
 - Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
 - Ajouter les ventes annuels sur la ligne du temps
+- mettre le plus de taille possible d'images
+- Modifier le gif de 404 pour avoir la barre noire (le faire dans pixelmator)
+- le text-align plus fancy?
 
 ### Long terme
 - Ajouter des images dans la ligne du temps

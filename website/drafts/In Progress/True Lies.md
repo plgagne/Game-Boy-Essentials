@@ -9,18 +9,6 @@ publication: "date of website publication"
 tags: [book#]
 developers: "Developers"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- European release in month year
-- North American release in
-- Japanese release in
-- Published by Publisher
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
-# True Lies
 It's February of 1995, and a lot of video game industry people are expecting the Game Boy to wrap up and Nintendo to move on to something else. Of course, with hindsight we know that it's not what happened at all, but people had no way of knowing back then. You can't fault them, all the signs point to the nearing end of the Game Boy. Hardware sales have had their biggest year in 1993, and the amount of released games has slowed. Look at these charts, and you can see that 1995 is the nadir of Game Boy sales.
 
 {% include figure.html filename="yearly sales" type="art-png" %}

@@ -8,17 +8,6 @@ publication: "2023-05-XX"
 tags: [book4]
 developers: "Nintendo EAD"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- Japanese release in December 1998
-- North American release in December 1998
-- European release in January 1999
-- Published by Nintendo
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
 I already wrote a long article about *Link's Awakening*. Why the hell am I writing about the game once again?
 
 This is an article more about a moment than a game.

@@ -9,18 +9,7 @@ publication: "date of website publication"
 tags: [book#]
 developers: "Developers"
 ---
-# {{ page.title }}
-{% include figure.html type="boxart" %}
-- European release in month year
-- North American release in
-- Japanese release in
-- Published by Publisher
-- Developed by {{ page.developers }}
-
-## {{ page.description }}
-
-{% include figure.html type="gb" class="float left" %}
-Always start the article with an evocative screenshot on float left.
+Always start the article with include title.html.
 
 ## Pictures
 
@@ -63,14 +52,6 @@ You can also build a gallery by putting your declarations inside a div. Gallerie
 
 ~~~ html
 <div class="gallery">
-{% include figure.html type="art" class="gallery" %}
-{% include figure.html type="art" class="gallery" %}
-{% include figure.html type="art" class="gallery" %}
-</div>
-
-<div class="gallery">
-{% include figure.html type="gb" class="gallery" figcaption="" %}
-{% include figure.html type="gb" class="gallery" figcaption="" %}
 </div>
 ~~~
 
