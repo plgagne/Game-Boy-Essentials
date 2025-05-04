@@ -37,6 +37,9 @@ caption {
 h4 {
   font-size: $font_paragraph;
 }
+p {
+  text-wrap: pretty;
+}
 p,
 blockquote,
 ol {
