@@ -60,7 +60,7 @@ sass:
 ## Markdown
 markdown: kramdown
 kramdown:
-  entity_output: as_input
+  entity_output: :symbolic
 
 ## Plugins
 plugins:
