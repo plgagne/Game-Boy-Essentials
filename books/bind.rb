@@ -1,5 +1,6 @@
 #!/usr/bin/ruby
-file = File.open("temp/intermediate-current.html", "rb")
+# encoding: utf-8
+file = File.open("temp/intermediate-current.html", "r:UTF-8")
 contents = file.read
 
 # Remove top and bottom
@@ -51,11 +52,13 @@ contents = contents.gsub(/<\/table>/, '\hline \normalsize\end{tabulary} \end{cen
 # Gallery
 # First Gallery Element with Figcaption
 contents = contents.gsub(/<div class="gallery">
+
 <div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure><\/div>/, '\begin{center}
 \vspace{8pt}\adjustbox{valign=t}{\sbox0{\includegraphics[width=.45\linewidth]{assets\\1}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\2\end{minipage}}')
 
 # First Gallery Element without Figcaption
 contents = contents.gsub(/<div class="gallery">
+
 <div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure><\/div>/, '\begin{center}
 \vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\1}}')
 
@@ -144,6 +147,7 @@ map = {
 '$'                             =>  '\$',
 '%'                             =>  '\%',
 '#'                             =>  '\#',
+'~'                             =>  '\~',
 '<em>'                          =>  '\emph{',
 '</em>'                         =>  '}',
 '<strong>'                      =>  '\textbf{',
@@ -166,7 +170,8 @@ map = {
 '</code>'                       =>  '}',
 '<cite>'                        =>  '\newline \emph{',
 '</cite>'                       =>  '}',
-'<br />'                        =>  '\newline '
+'<br />'                        =>  '\newline ',
+' '                             =>  '~'
 }
 map.each_pair {|f,t| contents.gsub! f, t}
 
