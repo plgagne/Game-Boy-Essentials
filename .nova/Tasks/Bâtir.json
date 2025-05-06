@@ -10,7 +10,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "cd website\nrm -r _site-local\nJEKYLL_ENV=local_serve bundle exec jekyll serve --incremental --livereload --force_polling --config _config.yml,_local.yml --trace"
+      "script" : "#!\/bin\/zsh\ncd website\nrm -r _site-local\nJEKYLL_ENV=local_serve bundle exec jekyll serve --incremental --livereload --force_polling --config _config.yml,_local.yml --trace"
     }
   },
   "openLogOnRun" : "start"
