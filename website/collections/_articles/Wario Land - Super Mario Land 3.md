@@ -45,7 +45,7 @@ The rest of the story couldn’t be simpler. Here it is straight from the manual
 
 > Remember *Super Mario Land 2: Six Golden Coins*? Wario tried to take over Mario’s castle, but didn’t have much luck. Wario, being the persistent guy he is, has not given up. Now, he wants a castle more than ever before.
 >
-> One day, Wario was practising being mean when he thought to himself, “Rumour has it that the pirates of Kitchen Island have stolen the giant golden statue of Princess Toadstool. Mario is looking for it but, if I find it first, I could cash it in for a princess’ ransom. With that cash and the pirates’ other treasures and coins, I could buy a palace that is way bigger than Mario’s pathetic excuse for a castle. Ga, ha, ha, ha...! What am I waiting for!?”
+> One day, Wario was practising being mean when he thought to himself, “Rumour has it that the pirates of Kitchen Island have stolen the giant golden statue of Princess Toadstool. Mario is looking for it but, if I find it first, I could cash it in for a princess’ ransom. With that cash and the pirates’ other treasures and coins, I could buy a palace that is way bigger than Mario’s pathetic excuse for a castle. Ga, ha, ha, ha…! What am I waiting for!?”
 >
 > Full of confidence, Wario took off. He didn’t even stop to think of how tough the Brown Sugar Pirates were. Their leader, Captain Syrup was known the world over for being a really rotten and ruthless guy.
 >

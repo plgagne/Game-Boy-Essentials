@@ -4,7 +4,7 @@ Natsume / Jaleco Entertainment had done Tetris Plus the year before. Puzzle mode
 
 ## A Crash Course in Tetrisology
 
-... Pajitnov had left.
+Pajitnov had left.
 
 Perhaps the difficult times his country was experiencing was affecting him;
 
