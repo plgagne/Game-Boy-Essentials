@@ -1286,7 +1286,7 @@
         "release_date": "2000-06-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Hudson"
       }
@@ -2400,7 +2400,7 @@
         "release_date": "2000-08-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -2983,7 +2983,7 @@
         "release_date": "2000-04-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -3999,7 +3999,7 @@
         "release_date": "2000-03-01",
         "publisher": "Yanoman",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Japan Art Media (JAM)"
       }
@@ -4047,7 +4047,7 @@
         "release_date": "2000-03-01",
         "publisher": "Yanoman",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Japan Art Media (JAM)"
       }
@@ -4095,7 +4095,7 @@
         "release_date": "2000-03-01",
         "publisher": "Yanoman",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Japan Art Media (JAM)"
       }
@@ -5577,7 +5577,7 @@
         "release_date": "2000-08-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami Computer Entertainment Nagoya"
       },
@@ -6029,7 +6029,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -6301,7 +6301,7 @@
         "release_date": "2000-08-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Pax Softonica"
       },
@@ -7273,7 +7273,7 @@
         "release_date": "2001-05-01",
         "publisher": "Kemco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Kemco"
       }
@@ -7732,7 +7732,7 @@
         "release_date": "2000-03-01",
         "publisher": "Takara",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "AI"
       }
@@ -8613,7 +8613,7 @@
         "release_date": "2000-05-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "KCEK"
       }
@@ -8666,7 +8666,7 @@
         "release_date": "2001-02-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "KCEJ"
       }
@@ -9529,7 +9529,7 @@
         "release_date": "2000-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Minakuchi Engineering"
       },
@@ -11014,7 +11014,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Hudson"
       },
@@ -11213,7 +11213,7 @@
         "release_date": "2000-08-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Eleven (Japan)"
       }
@@ -11449,7 +11449,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "AI"
       }
@@ -12321,7 +12321,7 @@
         "release_date": "2000-07-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Taito Corporation"
       }
@@ -13124,7 +13124,7 @@
         "release_date": "2000-03-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Probe Entertainment Limited"
       }
@@ -16011,7 +16011,7 @@
         "release_date": "2000-11-01",
         "publisher": "Takara",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Kid"
       }
@@ -16133,7 +16133,7 @@
         "release_date": "2000-11-01",
         "publisher": "Takara",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Kid"
       }
@@ -16599,7 +16599,7 @@
         "release_date": "2000-08-01",
         "publisher": "Banpresto",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Alpha Unit"
       }
@@ -17066,7 +17066,7 @@
         "release_date": "2000-09-01",
         "publisher": "Media Factory",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Game Studio"
       }
@@ -19117,7 +19117,7 @@
         "release_date": "2001-05-01",
         "publisher": "Kemco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Will"
       },
@@ -21220,7 +21220,7 @@
         "release_date": "2000-04-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -23700,7 +23700,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Pax Softonica"
       },
@@ -24048,7 +24048,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Rare Ltd."
       },
@@ -24239,7 +24239,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Rare Ltd."
       },
@@ -24521,7 +24521,7 @@
         "release_date": "2000-08-01",
         "publisher": "Epoch",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Epoch"
       }
@@ -24678,7 +24678,7 @@
         "release_date": "2000-08-01",
         "publisher": "Epoch",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Wizard"
       }
@@ -25775,7 +25775,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/a/box/0/0/4/21004_front.jpg",
         "developer": "Nintendo"
       },
@@ -26248,7 +26248,7 @@
         "release_date": "2000-03-01",
         "publisher": "Epoch",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Agenda"
       }
@@ -26306,7 +26306,7 @@
         "release_date": "2000-07-01",
         "publisher": "Epoch",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Falcom"
       }
@@ -28712,7 +28712,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       }
@@ -28768,7 +28768,7 @@
         "release_date": "2000-10-01",
         "publisher": "Video System",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Video System"
       },
@@ -29688,7 +29688,7 @@
         "release_date": "2000-03-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -31761,7 +31761,7 @@
         "release_date": "2000-08-01",
         "publisher": "ChunSoft",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Aquamarine"
       }
@@ -32470,7 +32470,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -32788,7 +32788,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       },
@@ -33482,7 +33482,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       },
@@ -33582,7 +33582,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Intelligent Systems"
       }
@@ -33727,7 +33727,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Hudson"
       }
@@ -34036,7 +34036,7 @@
         "release_date": "2001-07-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -34089,7 +34089,7 @@
         "release_date": "2000-05-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -34255,7 +34255,7 @@
         "release_date": "2000-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Capcom"
       },
@@ -35401,7 +35401,7 @@
         "release_date": "2000-06-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Ocarina System"
       }
@@ -35657,7 +35657,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami Computer Entertainment Nagoya"
       }
@@ -36024,7 +36024,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -36261,7 +36261,7 @@
         "release_date": "2000-10-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -36336,7 +36336,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami"
       }
@@ -36705,7 +36705,7 @@
         "release_date": "2000-03-01",
         "publisher": "Namco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Namco"
       }
@@ -36866,7 +36866,7 @@
         "release_date": "2000-07-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Multimedia Intelligence Transfer"
       }
@@ -37478,7 +37478,7 @@
         "release_date": "2001-06-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Shimada Kikaku"
       }
@@ -37767,7 +37767,7 @@
         "release_date": "2001-04-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "ITL"
       }
@@ -38238,7 +38238,7 @@
         "release_date": "2000-08-01",
         "publisher": "Victor Interactive Software",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -39917,7 +39917,7 @@
         "release_date": "2000-12-01",
         "publisher": "Altron",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -39990,7 +39990,7 @@
         "release_date": "2000-04-01",
         "publisher": "Warashi",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -41484,7 +41484,7 @@
         "release_date": "2000-08-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami Computer Entertainment Nagoya"
       },
@@ -42518,7 +42518,7 @@
         "release_date": "2000-12-01",
         "publisher": "Pack-In-Video",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -43654,7 +43654,7 @@
         "release_date": "2000-03-01",
         "publisher": "Takara",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -44632,7 +44632,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Intelligent Systems"
       },
@@ -44851,7 +44851,7 @@
         "release_date": "2000-12-01",
         "publisher": "Banpresto",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Red 5 Software"
       }
@@ -44903,7 +44903,7 @@
         "release_date": "2000-10-01",
         "publisher": "Banpresto",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Red 5 Software"
       }
@@ -45030,7 +45030,7 @@
         "release_date": "2000-06-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Aisystem Tokyo"
       }
@@ -45317,7 +45317,7 @@
         "release_date": "2000-08-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Starfish"
       }
@@ -45355,7 +45355,7 @@
         "release_date": "2000-03-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -45500,7 +45500,7 @@
         "release_date": "2000-03-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -46471,7 +46471,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami"
       }
@@ -47305,7 +47305,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "HAL Labs"
       },
@@ -47483,7 +47483,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "HAL Labs"
       },
@@ -47667,7 +47667,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "HAL Labs"
       },
@@ -47848,7 +47848,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "HAL Labs"
       },
@@ -47994,7 +47994,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "HAL Labs"
       },
@@ -48659,7 +48659,7 @@
         "release_date": "2001-07-01",
         "publisher": "Sting",
         "id": "DMG-BKGJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/a/box/2/1/8/32218_front.jpg"
       }
     ],
@@ -48839,7 +48839,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -48910,7 +48910,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -49167,7 +49167,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -49336,7 +49336,7 @@
         "release_date": "2000-04-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Ocarina System"
       }
@@ -50763,7 +50763,7 @@
         "release_date": "2000-03-01",
         "publisher": "Victor Interactive Software",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -52255,7 +52255,7 @@
         "release_date": "2001-11-01",
         "publisher": "Success",
         "id": "DMG-B52J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -52287,7 +52287,7 @@
         "release_date": "2002-01-01",
         "publisher": "Success",
         "id": "DMG-B53J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -52324,7 +52324,7 @@
         "release_date": "2001-09-01",
         "publisher": "Success",
         "id": "DMG-B51J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Game Studio"
       }
@@ -52362,7 +52362,7 @@
         "release_date": "2001-08-01",
         "publisher": "Success",
         "id": "DMG-B61J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Game Studio"
       }
@@ -52395,7 +52395,7 @@
         "release_date": "2001-10-01",
         "publisher": "Success",
         "id": "DMG-B62J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -52427,7 +52427,7 @@
         "release_date": "2001-12-01",
         "publisher": "Success",
         "id": "DMG-B63J-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -54141,7 +54141,7 @@
         "release_date": "2000-05-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -54325,7 +54325,7 @@
         "release_date": "2000-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Sun L"
       },
@@ -54989,7 +54989,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Jupiter Corporation"
       },
@@ -56620,7 +56620,7 @@
         "release_date": "2000-03-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Natsume"
       }
@@ -56674,7 +56674,7 @@
         "release_date": "2000-03-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Natsume"
       }
@@ -56732,7 +56732,7 @@
         "release_date": "2000-12-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Natsume"
       }
@@ -56883,7 +56883,7 @@
         "release_date": "2001-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Biox"
       },
@@ -57023,7 +57023,7 @@
         "release_date": "2001-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Capcom"
       },
@@ -57151,7 +57151,7 @@
         "release_date": "2001-04-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Capcom"
       },
@@ -57283,7 +57283,7 @@
         "release_date": "2001-04-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Capcom"
       },
@@ -57669,7 +57669,7 @@
         "release_date": "2001-03-01",
         "publisher": "Capcom",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Capcom"
       },
@@ -57978,7 +57978,7 @@
         "release_date": "2000-03-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Multimedia Intelligence Transfer"
       },
@@ -58844,7 +58844,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -60416,7 +60416,7 @@
         "release_date": "2000-06-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -61160,7 +61160,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Pax Softonica"
       },
@@ -61355,7 +61355,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -61534,7 +61534,7 @@
         "release_date": "2000-12-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Make"
       }
@@ -63300,7 +63300,7 @@
         "release_date": "2001-06-01",
         "publisher": "Namco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Namco"
       }
@@ -65849,7 +65849,7 @@
         "release_date": "2000-03-01",
         "publisher": "Namco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -65979,7 +65979,7 @@
         "release_date": "2000-03-01",
         "publisher": "Namco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -68852,7 +68852,7 @@
         "release_date": "2000-05-01",
         "publisher": "Tsukuda Original",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Dice"
       }
@@ -69559,7 +69559,7 @@
         "release_date": "2000-03-01",
         "publisher": "Namco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Namco"
       },
@@ -69835,7 +69835,7 @@
         "release_date": "2000-06-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -71692,7 +71692,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Jupiter Corporation"
       },
@@ -73701,7 +73701,7 @@
         "release_date": "2000-09-01",
         "publisher": "Compile",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Compile"
       }
@@ -77053,7 +77053,7 @@
         "release_date": "2000-03-01",
         "publisher": "Athena",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -77094,7 +77094,7 @@
         "release_date": "2001-06-01",
         "publisher": "Athena",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -77384,7 +77384,7 @@
         "release_date": "2000-07-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "ITL"
       },
@@ -77513,7 +77513,7 @@
         "release_date": "2000-03-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -77554,7 +77554,7 @@
         "release_date": "2000-03-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -77601,7 +77601,7 @@
         "release_date": "2000-03-01",
         "publisher": "Atlus",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Avit"
       }
@@ -78330,7 +78330,7 @@
         "release_date": "2000-09-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Taito Corporation"
       },
@@ -79307,7 +79307,7 @@
         "release_date": "2000-08-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -80951,7 +80951,7 @@
         "release_date": "2000-03-01",
         "publisher": "Atlus",
         "id": "DMG-ALBJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Multimedia Intelligence Transfer"
       },
@@ -83716,7 +83716,7 @@
         "release_date": "2000-07-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Act Japan"
       }
@@ -84115,7 +84115,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Shimada Kikaku"
       }
@@ -84553,7 +84553,7 @@
         "release_date": "2000-05-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -84601,7 +84601,7 @@
         "release_date": "2000-05-01",
         "publisher": "Imagineer",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -85910,7 +85910,7 @@
         "release_date": "2000-09-01",
         "publisher": "SunSoft",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "SunSoft"
       }
@@ -87029,7 +87029,7 @@
         "release_date": "2000-04-01",
         "publisher": "Pony Canyon",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -88186,7 +88186,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Minakuchi Engineering"
       }
@@ -88531,7 +88531,7 @@
         "release_date": "2000-06-01",
         "publisher": "J-Wing",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -88869,7 +88869,7 @@
         "release_date": "2000-03-01",
         "publisher": "Taito Corporation",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Taito Corporation"
       }
@@ -90347,7 +90347,7 @@
         "release_date": "2001-05-01",
         "publisher": "Kemco",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Kemco"
       }
@@ -91401,7 +91401,7 @@
         "release_date": "2000-03-01",
         "publisher": "Capcom",
         "id": "DMG-ASFJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Sun L"
       }
@@ -92033,7 +92033,7 @@
         "release_date": "2000-11-01",
         "publisher": "Bullet Proof Software",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -92683,7 +92683,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "CGB-AHYJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/a/box/8/1/0/7810_front.jpg",
         "developer": "Nintendo"
       },
@@ -92937,7 +92937,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -93158,7 +93158,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/a/box/8/0/1/46801_front.jpg",
         "developer": "Nintendo"
       },
@@ -93374,7 +93374,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -93581,7 +93581,7 @@
         "release_date": "2000-03-01",
         "publisher": "Hudson",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -94295,7 +94295,7 @@
         "release_date": "2001-02-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "KCE Sapporo"
       }
@@ -95043,7 +95043,7 @@
         "release_date": "2000-03-01",
         "publisher": "Starfish",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Starfish"
       }
@@ -95322,7 +95322,7 @@
         "release_date": "2000-07-01",
         "publisher": "Athena",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Athena"
       }
@@ -96695,7 +96695,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -97310,7 +97310,7 @@
         "release_date": "2000-09-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -97554,7 +97554,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Intelligent Systems"
       },
@@ -97749,7 +97749,7 @@
         "release_date": "2000-09-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -100222,7 +100222,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "DMG-AZLJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Nintendo"
       },
@@ -101919,7 +101919,7 @@
         "release_date": "2000-04-01",
         "publisher": "Pony Canyon",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Opera House"
       }
@@ -105751,7 +105751,7 @@
         "release_date": "2000-12-01",
         "publisher": "Athena",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Natsume"
       },
@@ -106134,7 +106134,7 @@
         "release_date": "2000-03-01",
         "publisher": "Bottom Up",
         "id": "DMG-ATCJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png"
       }
     ],
@@ -107601,7 +107601,7 @@
         "release_date": "2001-07-01",
         "publisher": "Natsume",
         "id": "CGB-BNYJ-JPN",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Act Japan"
       }
@@ -107875,7 +107875,7 @@
         "release_date": "2000-03-01",
         "publisher": "Victor Interactive Software",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -113448,7 +113448,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Intelligent Systems"
       }
@@ -113889,7 +113889,7 @@
         "release_date": "2000-03-01",
         "publisher": "Nintendo",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "TOSE"
       }
@@ -114027,7 +114027,7 @@
         "release_date": "2000-03-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami Computer Entertainment Shinjuku"
       }
@@ -114177,7 +114177,7 @@
         "release_date": "2001-02-01",
         "publisher": "Konami",
         "id": "&nbsp;",
-        "barcode": "Nintendo Power",
+        "release_details": "Nintendo Power",
         "boxart": "/no_cover.png",
         "developer": "Konami"
       }

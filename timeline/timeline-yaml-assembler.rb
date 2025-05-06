@@ -112,6 +112,9 @@ contents = contents.gsub(/release_date: "0000-00-00"/, "release_date: null")
 # Adjusting the market from US to NA
 contents = contents.gsub(/market: \"US\"/, "market: \"NA\"")
 
+# Switching barcode Nintendo Power to release_details
+contents = contents.gsub(/barcode: "Nintendo Power"/, "release_details: \"Nintendo Power\"")
+
 # Switching Disney Pixar
 contents = contents.gsub(/Disney\/Pixar/, "Disney⋅Pixar")
 
