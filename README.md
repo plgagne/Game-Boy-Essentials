@@ -1,11 +1,9 @@
 # Game Boy Essentials
 ## Tâches
 ### Ligne du temps
-- Ajouter les catalogues de JC Penney et Sears sur la ligne du temps
+- Régler le timeline qui crée un doublon à chaque fois que tu prune la même source de fichiers temporaires
 - Ajouter les ventes annuels sur la ligne du temps
-- mettre le plus de taille possible d'images
 - Modifier le gif de 404 pour avoir la barre noire (le faire dans pixelmator)
-- le text-align plus fancy?
 
 ### Long terme
 - Ajouter des images dans la ligne du temps
