@@ -5,7 +5,7 @@ RED='\033[0;31m'
 volume=1
 
 # This variable is the last volume to be bound
-last_volume=4
+last_volume=1
 
 # Make temp
 if [ -r "temp/assets" ]; then
@@ -46,7 +46,7 @@ until [[ "$volume" -gt "$last_volume" ]]; do
   echo "\endgroup \end{document}" >> temp/book-$volume.tex
   echo "${RED}Running XeLaTeX:"
   cd temp
-  xelatex book-$volume.tex book-$volume.pdf
+  xelatex -halt-on-error book-$volume.tex book-$volume.pdf
   cd ..
   mv temp/book-$volume.aux results/book-$volume.aux
   mv temp/book-$volume.log results/book-$volume.log

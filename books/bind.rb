@@ -13,11 +13,14 @@ contents = contents.gsub(/  /, '')
 # Remove all tabs
 contents = contents.gsub(/\t/, '')
 
+# Remove empty lines
+contents = contents.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
+
 # Titles
-contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\begingroup \chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2} \endgroup')
-contents = contents.gsub(/<h2 class="h2-article-title" id="(.*?)">/, '\newpage\FloatBarrier\needspace{10mm}\section*{')
-contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\needspace{10mm}\section*{')
-contents = contents.gsub(/<h3 id="(.*?)">/, '\subsection*{')
+contents = contents.gsub(/<h1 id="(.*?)">(.*?)<\/h1>/, '\chapter*{\\2}\markboth{\\2}{}\addcontentsline{toc}{chapter}{\\2}')
+contents = contents.gsub(/<h2 class="h2-article-title" id="(.*?)">/, '\newpage\FloatBarrier\section*{')
+contents = contents.gsub(/<h2 id="(.*?)">/, '\FloatBarrier\section*{')
+contents = contents.gsub(/<h3 id="(.*?)">/, '\FloatBarrier\subsection*{')
 
 # Links
 contents = contents.gsub(/<a href="(.*?)">/, '')
@@ -49,95 +52,81 @@ contents = contents.gsub(/<\/td>
 \hline')
 contents = contents.gsub(/<\/table>/, '\hline \normalsize\end{tabulary} \end{center}')
 
-# Gallery
-# First Gallery Element with Figcaption
-contents = contents.gsub(/<div class="gallery">
+# Figures
+contents = contents.gsub(/<div class="gallery">/, '\FloatBarrier\vspace{\baselineskip}\centering')
+contents = contents.gsub(/(.*?)<figure class="(.*?)"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/>(.*?)<\/figure>(<\/div>)?/) do
+  gallery_element = Regexp.last_match(1)
+  class_string = Regexp.last_match(2)
+  image_location = Regexp.last_match(3)
+  figcaption =  Regexp.last_match(4)
 
-<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure><\/div>/, '\begin{center}
-\vspace{8pt}\adjustbox{valign=t}{\sbox0{\includegraphics[width=.45\linewidth]{assets\\1}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\2\end{minipage}}')
+  classes = class_string.split(" ")
+  name = classes[1]
+  float = classes[2]
+  float_side = classes[3]
 
-# First Gallery Element without Figcaption
-contents = contents.gsub(/<div class="gallery">
-
-<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure><\/div>/, '\begin{center}
-\vspace{8pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\1}}')
-
-# Other Elements with Figcaption
-contents = contents.gsub(/<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{ \sbox0{\includegraphics[width=.45\linewidth]{assets\\1}}\begin{minipage}[t]{\wd0}\usebox0\par\centering\pagetwodescription \\2\end{minipage}}')
-
-# Other Elements without
-contents = contents.gsub(/<div class="gallery_element"><figure class=".*?"><img class="figure_img" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure><\/div>/, '\quad\vspace{4pt}\adjustbox{valign=t}{\includegraphics[width=.45\linewidth]{assets\\1}}')
-
-# Gallery bottom
-contents = contents.gsub(/<div class="gallery">/, '\begin{center}')
-contents = contents.gsub(/<\/div>/, '\end{center}')
-
-# The godforsaken figures
-# GB Float Right scss
-contents = contents.gsub(/<figure class="figure figure_gb float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
-
-# GB Float Left scss
-contents = contents.gsub(/<figure class="figure figure_gb float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.45\linewidth]{assets\\1}\end{wrapfigure}')
-
-# Art Float Left scss
-contents = contents.gsub(/<figure class="figure figure_art float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
-
-# Art Float Right scss
-contents = contents.gsub(/<figure class="figure figure_art float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
-
-# Pixel Float Left scss
-contents = contents.gsub(/<figure class="figure figure_art float left"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{L}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
-
-# Pixel Float Right scss
-contents = contents.gsub(/<figure class="figure figure_pixel float right"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{wrapfigure}{R}{0pt} \includegraphics[width=.4\linewidth]{assets\\1}\end{wrapfigure}')
-
-# GB scss
-contents = contents.gsub(/<figure class="figure figure_gb"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=4.85cm]{assets\\1}
-\vskip 6pt
-\end{figure}')
-
-# Art scss
-contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=.5\linewidth]{assets\\1}
-\vskip 6pt
-\end{figure}')
-
-# Pixel scss
-contents = contents.gsub(/<figure class="figure figure_pixel"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=.6\linewidth]{assets\\1}
-\vskip 6pt
-\end{figure}')
-
-# GB with Figcaption scss
-contents = contents.gsub(/<figure class="figure figure_gb"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=4.85cm]{assets\\1}\par\pagetwodescription \\2
-\vskip 6pt
-\end{figure}')
-
-# Pixel with Figcaption scss
-contents = contents.gsub(/<figure class="figure figure_pixel"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=.6\linewidth]{assets\\1}\par\pagetwodescription \\2
-\vskip 6pt
-\end{figure}')
-
-# Art with Figcaption scss
-contents = contents.gsub(/<figure class="figure figure_art"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><figcaption class=".*?">(.*?)<\/figcaption><\/figure>/, '\begin{figure}[hbt]
-\vskip 10pt
-\centering \includegraphics[width=.75\linewidth]{assets\\1}\par\pagetwodescription \\2
-\vskip 6pt
-\end{figure}')
-
-# Boxart scss
-contents = contents.gsub(/<figure class="figure figure_boxart"><img class=".*?" src="(.*?)" width=".*?" height=".*?" alt=".*?" \/><\/figure>/, '\begin{figure}[H]
-\vskip 4pt
-\centering
-\includegraphics[width=.75\linewidth]{assets\\1}\end{figure}')
+  figcaption = figcaption&.gsub(/<figcaption class=".*?">(.*?)<\/figcaption>/, "\\1")
+  if gallery_element && !gallery_element.strip.empty?
+    start = '\begin{minipage}{0.45\linewidth}\adjustbox{valign=t}'
+    sizing = '\linewidth'
+    fin = '\end{minipage}\vspace{2pt}'
+    if figcaption && !figcaption.strip.empty?
+      figcaption_start = '\captionof{figure}{'
+      figcaption_end = '}'
+    end
+  else
+    if float && !float.strip.empty?
+      case float_side
+        when 'left'
+          start = '\begin{wrapfigure}{L}{0pt}'
+          fin = '\end{wrapfigure}\noindent'
+        when 'right'
+          start = '\begin{wrapfigure}{R}{0pt}'
+          fin = '\end{wrapfigure}'
+      end
+      case name
+        when 'figure_gb'
+          start2 = ''
+        else
+          start2 = ''
+      end
+      sizing = '.45\linewidth'
+    else
+      case name
+      when 'figure_boxart'
+        start = '\vspace{\baselineskip}\begin{figure}[H]'
+        sizing = '.75\linewidth'
+        fin = '\end{figure}\vspace{\baselineskip}'
+      else
+        start = '\FloatBarrier\vspace{\baselineskip}\begin{figure}[H]\centering'
+        fin = '\end{figure}'
+        if figcaption && !figcaption.strip.empty?
+          figcaption_start = '\caption*{'
+          figcaption_end = '}'
+          sizing = case name
+          when 'figure_gb'
+            '4.85cm'
+          when 'figure_art'
+            '.75\linewidth'
+          when 'figure_pixel'
+            '.6\linewidth'
+          end
+        else
+          sizing = case name
+          when 'figure_gb'
+            '4.85cm'
+          when 'figure_art'
+            '.5\linewidth'
+          when 'figure_pixel'
+            '.6\linewidth'
+          end
+        end
+      end
+    end
+  end
+"#{start}#{start2}{\\includegraphics[width=#{sizing}]{assets#{image_location}}}#{figcaption_start}#{figcaption}#{figcaption_end}#{fin}"
+end
+contents = contents.gsub(/(.*?)\\vspace{2pt}\n<\/div>/, "\\1\n\\par\\justifying")
 
 # Quick and easy replacements
 map = {
@@ -153,17 +142,17 @@ map = {
 '<strong>'                      =>  '\textbf{',
 '</strong>'                     =>  '}',
 '</a>'                          =>  '',
-'<p>'                           =>  '',
-'</p>'                          =>  '',
-'</h3>'                         =>  '}\nopagebreak[4]',
-'</h2>'                         =>  '}\nopagebreak[4]',
+'<p>'                           =>  "",
+'</p>'                          =>  '\par',
+'</h3>'                         =>  '}',
+'</h2>'                         =>  '}',
 '<blockquote>'                  =>  '\begin{quote}',
 '</blockquote>'                 =>  '\end{quote} \par',
-'<ul>'                          =>  '\begin{itemize} [nosep]',
-'<ul class="article-gamedata">' =>  '\begin{itemize} [nosep]',
-'</ul>'                         =>  '\end{itemize}\noindent',
+'<ul>'                          =>  "\\begin{itemize}\n",
+'<ul class="article-gamedata">' =>  '\begin{itemize}[left=0pt, nosep]',
+'</ul>'                         =>  "\n\\end{itemize}",
 '<ol>'                          =>  '\begin{enumerate}',
-'</ol>'                         =>  '\end{enumerate}\noindent',
+'</ol>'                         =>  '\end{enumerate}',
 '<li>'                          =>  '\item ',
 '</li>'                         =>  '',
 '<code>'                        =>  '\noindent{\codeintextfont ',

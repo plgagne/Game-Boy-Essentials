@@ -8,6 +8,15 @@
 \hyphenation{Nin-ten-do}
 \hyphenation{Mi-ya-mo-to}
 
+% Better microtypography
+\usepackage{microtype}
+
+% Force floats to be placed better
+\usepackage{placeins}
+
+% Relax warnings
+\hfuzz=1pt
+
 % Table Package
 \usepackage[table]{xcolor}
 \usepackage{tabulary}
@@ -40,8 +49,9 @@ marginparwidth=0cm
 \newfontfamily\footerpokefont[
   SizeFeatures={Size=8}]
   {Pokemon GB}
-\newfontfamily\pagetwodescription
-  {Avenir Next}
+\newfontfamily\pagetwodescription{Avenir Next}
+\newfontfamily\avenirnext{Avenir Next}
+\newcommand{\avenirfont}{\avenirnext} % robust wrapper
 \newfontfamily\titlefont[
   SizeFeatures={Size=30}]
   {Avenir Next Ultra Light}
@@ -60,7 +70,6 @@ marginparwidth=0cm
 \newfontfamily\thisgoesintoc[
   SizeFeatures={Size=14}]
   {Avenir Next}
-
 % Left-Align with \begin{flushleft} and \end{flushleft}
 \usepackage{ragged2e}
 % Line Spacing with \setstretch{1.1}
@@ -83,6 +92,15 @@ marginparwidth=0cm
 \usepackage{wrapfig}
 \usepackage{adjustbox}
 \usepackage{placeins}
+\usepackage{needspace}
+
+% Captions
+\usepackage{caption}
+\DeclareCaptionFont{avenir}{\avenirfont} % use the wrapper
+\captionsetup{
+  font=avenir,
+  belowskip=0pt    % space below caption
+}
 
 % List item package
 \usepackage{enumitem}
@@ -96,14 +114,22 @@ marginparwidth=0cm
 %\usepackage{showframe}
 
 % Define Chapters
-\usepackage{needspace}
 \usepackage{titlesec}
-\titleformat{name=\chapter}[block]{\titlefont\raggedright\setstretch{3}}{}{0pt}{}[]
-\titlespacing{name=\chapter}{0pt}{-30pt}{6pt}[0pt]
-\titleformat{name=\section}[block]{\htwofont\raggedright\setstretch{2}}{}{0pt}{}[]
-\titlespacing*{name=\section}{0pt}{10pt}{0.4em}[0pt]
-\titleformat{name=\subsection}[block]{\hthreefont\raggedright\setstretch{1.8}}{}{0pt}{}[]
-\titlespacing*{name=\subsection}{0pt}{4pt}{0.4em}[0pt]
+
+% Chapter styling
+\titleformat{\chapter}[block]
+  {\titlefont\raggedright\setstretch{3}}{}{0pt}{}
+\titlespacing{\chapter}{0pt}{-30pt}{6pt}
+
+% Section styling
+\titleformat{\section}[block]
+  {\htwofont\raggedright\setstretch{2}}{}{0pt}{}
+\titlespacing{\section}{0pt}{10pt}{0.4em}
+
+% Subsection styling
+\titleformat{\subsection}[block]
+  {\hthreefont\raggedright\setstretch{1.8}}{}{0pt}{}
+\titlespacing{\subsection}{0pt}{4pt}{0.4em}
 
 % Table of Contents
 \usepackage{titletoc}
@@ -129,9 +155,6 @@ marginparwidth=0cm
 \fancypagestyle{plain}{
 \fancyhf{}
 \fancyfoot[R]{\footerpokefont \thepage}}
-
-% Making printing compliant PDF
-%\usepackage[x-1a]{pdfx}
 
 % Begin Document
 \begin{document}
