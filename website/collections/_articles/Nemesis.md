@@ -52,11 +52,9 @@ On the column of crazy-pants oversight, the game cartridge’s cover art feature
 {% include figure.html type="art" figcaption="I collect Game Boy games for those crazy little details; they’re neat." %}
 
 ## Konami GB Collection Volume I
-
 {% include figure.html type="gb" class="float left" %}
 Konami put a new coat of paint on *Nemesis* and rereleased it in 1998–1999 in Japan with a cool project called the *GB Collection*. In Japan, the *GB Collection* were four games included together in one cartridge with added Super Game Boy support. Four volumes were released, for a total of 16 games receiving a Super Game Boy-specific palette. They are another proof that Konami understood the Game Boy market better than anyone.
 
-{% include figure.html type="gb" class="float left" %}
 The *GB Collection* was ultimately released in Europe in 2000, making them the only English-language versions of this collection we have, since they were released in no other territory. The European versions received Game Boy Color palettes while dropping Super Game Boy support. I previously said that *Zelda DX* will get its own article. The questions must then be asked: Are the versions of *Nemesis* on the two *GB Collection* versions essential in their own right? I don’t think so. They’re neat to try and look at, but they’re not different enough to warrant their own article, like *The Legend of Zelda: Link’s Awakening DX*. I have not dug too deep into their differences, but I immediately saw that there were some significant changes: the death screen has a different text and the weapons bar took the whole bottom of the screen. The score has been pushed to being visible only when you die.
 
 <div class="gallery">
@@ -70,4 +68,7 @@ To me, a lot of recoloured versions of Game Boy games have garish colours that d
 
 It does not feel like *Nemesis* simplifies the concept of a shooter for the Game Boy (don’t mistake me, however, it does). It succeeds, through many little tricks, in presenting an experience that feels like playing the action-packed *Gradius* on NES. When *Nemesis* came out, most of the other developers for Game Boy were busy making slow-going character-based puzzle games. Konami showed them what a truly great developer they were.
 
-{% include figure.html type="gb" %}
+<div class="gallery">
+{% include figure.html type="gb" class="gallery" %}
+{% include figure.html type="gb" class="gallery" %}
+</div>

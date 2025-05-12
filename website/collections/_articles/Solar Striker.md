@@ -13,7 +13,7 @@ On the other hand, you have *Solar Striker*. Released eleven months after the sy
 
 ## Simple Yet Barren
 
-{% include figure.html type="art" class="float left" %}
+{% include figure.html type="art" class="float right" %}
 Every time I write an article about a game there’s always stuff that I wish I could have written about. Details that are interesting but just did not fit in the article I was writing. This time I’ll have written about everything I want to because the game is so small and simple. In fact the webpage this article births from, completely coded by hand to be as light as possible (I’m very anal about this), weighs more than the game itself. *Solar Striker* is a meagre 66 KB of video gaming.
 
 Anyway, you put in the game and you’re treated to an oddity. You get a title screen, you push start and you’re playing the game. There’s no company logo, no story scroll, nothing to distract you from the gameplay. Even in 1989, this was passé. This practice of jumping you straight into a title screen was the realm of 1983 early Famicom games (1985 NES for us North Americans). But when the Game Boy first came out, they clearly wanted to emulate the first titles of the NES but on the go, so they did the same things. *Super Mario Land*, *Tetris*, *Baseball* & *Tennis* all booted straight to the start screen.
