@@ -17,11 +17,11 @@ The NES and Game Boy *Mega Man* games share the same titles which makes it confu
 
 ## Biox?
 
+{% include figure.html type="gb" class="float left" %}
 Let’s start with two facts: One, [*Mega Man: Dr. Wily’s Revenge*](/articles/dmg-rw) was too hard for most people. Two, the next game, *Mega Man II* was released within the same year, was made by a different developer and is much easier. So what happened to cause this? Was Minakuchi sacked because they made a game that’s too hard? I implied as much in my article about the first game, but I’m not so sure anymore after thinking about it a bit more. I think Capcom wanted as many *Mega Man* games released on Game Boy as quickly as possible and they devised the way to do it: adapt and remix the previous NES games using multiple developers to do it. Having played *Mega Man II* now, I think Biox never came back to do another game because their attempt was just not up to the task of being a fun adaptation of *Mega Man 2*. So Minakuchi wasn’t sacked, Biox was.
 
 Let’s start with the little details that [Biox](https://www.giantbomb.com/biox/3010-7767/), the developer of *Rockman World 2*, got wrong.
 
-{% include figure.html type="gb" class="float left" %}
 First, when you hit a life pellet the game doesn’t pause and play the little jingle. The game continues **while** your life increases. It’s not much, to be sure, but it’s a small but essential part of the experience of playing a *Mega Man* title. *Wily’s Revenge* did not have that quirk, properly pausing the game while your life increased, which means that Biox either did it without realizing their mistake or thought getting rid of a staple of the games would be an improvement. It is such a staple of the *Mega Man* franchise to have you stop mid-air, while your life bar replenishes and you can relax for a split second, safe in the knowledge that you are getting the life bars you sorely needed for the challenges ahead.
 
 Second, the doors to bosses don’t stop the screen from scrolling. When you walk towards them, the screen keeps moving and you can see the corridor beyond. It doesn’t happen with every Dr. Wily door, just some. It breaks the illusion and the expectations you are supposed to have regarding this upcoming boss battle.
@@ -47,27 +47,9 @@ Here’s another example of how the people at Biox missed the appeal of *Mega Ma
 
 ## My Biggest Problem
 
-The biggest battle of the game, the thing you should be most excited about is against a dude on a pogo stick!
+The biggest battle of the game, the thing you should be most excited about is against a dude on a pogo stick! A pogo stick! **A pogo stick!** And it’s not just any dude. It’s an evil, future Mega Man that Doctor Wily has somehow transported back in time to fight present day stick-in-the-mud Mega Man. **Evil future Mega Man on a pogo stick!** **A POGO STICK!** How? How? **How?**
 
-A pogo stick!
-
-**A pogo stick!**
-
-And it’s not just any dude. It’s an evil, future Mega Man that Doctor Wily has somehow transported back in time to fight present day stick-in-the-mud Mega Man.
-
-**Evil future Mega Man on a pogo stick!**
-
-**A POGO STICK!**
-
-How? How? **How?**
-
-It is not a rhetorical question. I am dead serious. What confluence of madness, drugs, translation, laissez-faire and early 90s Japanese miracle bubble mentality led them down the path of future evil Mega Man on a pogo stick? The Mega Man series is not known for its serious attitude. You fight robot rabbits who throw robot carrots at you. Robot birds who throw eggs from which emerges a throng of mini robot chicks who lunge in your direction. I am talking here, to be clear, about robot baby birds guided missiles. How cool is that? There was, however, never anything so high-concept as evil future Mega Man on a pogo stick. The things you fight are cartoon robots based on animals, appliances, the general theme of the level’s boss. *Mega Man: Dr. Wily’s Revenge* introduced the concept of a Mega Man Killer. It’s a robot built to destroy Mega Man that you fight on your way to Dr. Wily: the Darth Vader to the Emperor. [In tropes term, a dragon](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon).
-
-So Biox ran with that idea and created a new dragon for their game. The best thing they could come up with was an idiot with sunglasses on his dumb stupid pogo stick.
-
-Which, of course, this being a *Mega Man* game, you then win as a weapon once you beat your future self. Mega Man steals his pogo stick from **himself**. It’s, of course, called Sakugarne and it is useless except against the last form of the last boss where it is secretly very strong. Of course.
-
-I mean, they had to have come up with the character design before inventing a dumb pogo-based history for him, right? There’s no explanation anywhere in the game that he’s come from the future with his pogo stick. . . **OH MY GOD IS THE POGO STICK HIS TIME MACHINE?**
+It is not a rhetorical question. I am dead serious. What confluence of madness, drugs, translation, laissez-faire and early 90s Japanese miracle bubble mentality led them down the path of future evil Mega Man on a pogo stick? The Mega Man series is not known for its serious attitude. You fight robot rabbits who throw robot carrots at you. Robot birds who throw eggs from which emerges a throng of mini robot chicks who lunge in your direction. I am talking here, to be clear, about robot baby birds guided missiles. How cool is that? There was, however, never anything so high-concept as evil future Mega Man on a pogo stick. The things you fight are cartoon robots based on animals, appliances, the general theme of the level’s boss. *Mega Man: Dr. Wily’s Revenge* introduced the concept of a Mega Man Killer. It’s a robot built to destroy Mega Man that you fight on your way to Dr. Wily: the Darth Vader to the Emperor. [In tropes term, a dragon](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon). So Biox ran with that idea and created a new dragon for their game. The best thing they could come up with was an idiot with sunglasses on his dumb stupid pogo stick. Which, of course, this being a *Mega Man* game, you then win as a weapon once you beat your future self. Mega Man steals his pogo stick from **himself**. It’s, of course, called Sakugarne and it is useless except against the last form of the last boss where it is secretly very strong. Of course. I mean, they had to have come up with the character design before inventing a dumb pogo-based history for him, right? There’s no explanation anywhere in the game that he’s come from the future with his pogo stick. . . **OH MY GOD IS THE POGO STICK HIS TIME MACHINE?**
 
 <div class="gallery">
 {% include figure.html type="gb" class="gallery" %}
@@ -82,4 +64,4 @@ My main problem with *Mega Man II* is that it’s an OK Game Boy game but it is
 
 *Mega Man* on NES is a reliable series. You’re always doing something invigorating throughout every game. You can count on it. On Game Boy, the series was definitely not reliable. After experiencing the first and second Game Boy cartridges in depth, I’ve seen too many ups and downs. That those two titles were made by different developers helps explain it: Biox could obviously not build on the knowledge learned by the developers at Minakuchi Engineering to make a better sequel. With that in mind, I’m looking forward to the return of Minakuchi with *Mega Man III*. I’ve played *Mega Man IV* extensively and I love it so I can’t wait to play the third game; I have no idea whether it’s excellent like *IV* or kind-of-bad like *II*.
 
-{% include figure.html type="gb" figcaption="Oh go to hell with your goddamn pogo stick." %}
+{% include figure.html type="gb" figcaption="Go to hell with your goddamn pogo stick." %}

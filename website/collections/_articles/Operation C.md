@@ -18,8 +18,9 @@ Close your eyes and think of the *Contra* games. What images come to mind? For m
 
 {% include figure.html type="art" figcaption="It’s Rambo and Matrix fighting against the Xenomorph! No wonder everybody **loved** Contra." %}
 
-{% include figure.html type="art" class="float left" %}
 Within those traced packages where games that were a bit more . . . subdued than what would suddenly burst through with 1992’s *Contra III*. What we have with *Operation C* is the last hurrah of that classic *Contra* era. The Japanese cover has a blatant mix of Michael Biehn and Arnold on its cover but the American game’s box is clearly not trying to sell us on a Stallone/Schwarzenegger video game, it’s forging a new unique identity for *Contra* (fun fact: the artist for this cover, [Tom DuBois](http://tomduboisart.com/index.html), is now a hardcore Christian artist). The game itself is a Game Boy adaptation of the NES adaptation of the arcade *Super Contra*. These three-step adaptations are way more common in video games than you might think and here we have one of my favourite ones. This little game is just awesome.
+
+{% include figure.html type="art" %}
 
 I often hear commentators, youtubers, podcasters start talking about a Game Boy game with: *Even though it’s on Game Boy, it’s still good. How surprising!* These are benign comments not given much thought, a reflex to think that portable systems are somehow a lesser thing, that somehow the natural state of a portable game is to be bad. But there is no surprise that *Operation C* is an extraordinary game. It was made by a company with a stellar reputation for quality in 1991, a small group of four internal developers used to the Game Boy. **Of course it’s good even though it’s on Game Boy!**
 
@@ -93,5 +94,3 @@ Just like *Nemesis* and most of the early Konami Game Boy titles, it was rerelea
 *Operation C* is an essential step in the Game Boy story of Konami. It again shows that *Nemesis* was not a fluke. The fine people at Konami seem to have understood the Game Boy right away. I have not talked so far about all of Konami’s output on Game Boy in the early days, with games like *Motocross Maniacs*, *Twin Bee*, the first *TMNT* game and particularly *Castlevania: The Adventure* showing other attempts by Konami that were not always successful. I’ll get to those in due time but I can say with confidence that Konami had a very good at-bat on Game Boy.
 
 Compared with their compadres at Capcom who stumbled twice with their mascot Mega Man and the subcontractors they entrusted him with, Konami was on point from the get go on Game Boy by doing the job themselves.
-
-{% include figure.html type="art" %}
