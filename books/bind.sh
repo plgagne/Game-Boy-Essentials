@@ -2,10 +2,10 @@
 RED='\033[0;31m'
 
 # This variable is the first volume to be bound
-volume=1
+volume=2
 
 # This variable is the last volume to be bound
-last_volume=1
+last_volume=3
 
 # Make temp
 if [ -r "temp/assets" ]; then

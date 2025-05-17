@@ -71,7 +71,7 @@ contents = contents.gsub(/(.*?)<figure class="(.*?)"><img class=".*?" src="(.*?)
     sizing = '\linewidth'
     fin = '\end{minipage}\vspace{2pt}'
     if figcaption && !figcaption.strip.empty?
-      figcaption_start = '\captionof{figure}{'
+      figcaption_start = '\captionsetup{labelformat=empty}\captionof{figure}{'
       figcaption_end = '}'
     end
   else
