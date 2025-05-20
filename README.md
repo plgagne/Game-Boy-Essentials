@@ -4,7 +4,6 @@
 - Corriger de façon permanente la façon dont j'extraie les figure quand je fais le livre
 - Régler le timeline qui crée un doublon à chaque fois que tu prune la même source de fichiers temporaires
 - Ajouter les ventes annuels sur la ligne du temps
-- Modifier le gif de 404 pour avoir la barre noire (le faire dans pixelmator)
 
 ### Long terme
 - Ajouter des images dans la ligne du temps
