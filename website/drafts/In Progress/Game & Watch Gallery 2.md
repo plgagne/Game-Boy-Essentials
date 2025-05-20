@@ -9,12 +9,12 @@ publication: "date of website publication"
 tags: [book#]
 developers: "Developers"
 ---
-I adore this game. I've played it extensively during the summer of 1999 and 2000. My cousins owned the game and they would lend it to me during those long summer days in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the games.
+I adore this game. I've played it extensively during the formative summer of 1999 and 2000. My cousins owned the game and they would lend it to me during those long summer days in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the games.
 
 
 
 
-I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and especially from a far too remote region to have ever seen one. So in my mind, *Game & Watch Gallery 2* was a minigame collection. I never managed to figure out why each game had a classic mode that used extremely simple graphics. I could not firgure out why the movement was so choppy in the classic mode.
+I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and especially from a remote region where nothing cool ever happened. So in my mind, *Game & Watch Gallery 2* was a minigame collection. I never managed to figure out why each game had a classic mode that used extremely simple graphics. I could not figure out why the movement was so choppy in the classic mode.
 
 Only after getting better at English and reading the messages from the hints section did I figure out that Game & Watch were older single game systems that Nintendo made in the 80s.
 
