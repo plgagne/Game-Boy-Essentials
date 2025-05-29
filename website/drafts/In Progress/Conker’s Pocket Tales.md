@@ -42,9 +42,6 @@ Now imagine that decision at the very start of the game. If you're on a Game Boy
 
 *Conker's Pocket Tales* is a weird asterisk that doesn't fit in that mold, instead choosing to present confusingly similar but still different content to both Game Boy types. Let's explore both versions in turn.
 
-## Technical
-Uses the Donkey Kong Land sound effects.
-
 ## The GB version
 - The game has no continue. You die, you go back to your last save.
 - Combat? What combat?
@@ -54,6 +51,9 @@ Uses the Donkey Kong Land sound effects.
 {% include figure.html type="gb" filename="doors" %}
 - You're just going from one thing to the other without anything interesting happening. The trees are all the same, the layout has nothing interesting. The characters just straight up tell you what to do.
 - I can't justify playing any more of this boring game; let's switch to the Game Boy Color version.
+- Uses the Donkey Kong Land sound effects.
+
+Now let's switch to a Game Boy Color to try the other version of the game.
 
 ## A Completely Incompatible Save System
 
