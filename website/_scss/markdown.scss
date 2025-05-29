@@ -21,6 +21,10 @@ ol {
 }
 ul {
   list-style: disc;
+  margin-bottom: $spacing-paragraph;
+}
+ul.article-gamedata ul {
+  margin-bottom: 0;
 }
 ol {
   list-style: decimal;

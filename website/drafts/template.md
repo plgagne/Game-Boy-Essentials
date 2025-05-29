@@ -94,6 +94,8 @@ Careful with tables, they need to be surrounded by lines on both the top and bot
 - item 2
 - item 3
 
+Nested lists are to be avoided inside articles. They do not properly show next to floats, and will have margin-bottom issues. They have been properly implemented at the top of the article for the list of releases.
+
 ## Numbered list
 
 1. item 1
