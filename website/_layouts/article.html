@@ -3,8 +3,9 @@
 <main class="article">
 {{- content -}}
 <hr>
-<div>This article was first published on<time datetime="{{ page.publication }}" pubdate="pubdate">{% assign d = page.publication | date: "%-d" %}{{ page.publication | date: "%B" }}{% case d %}{% when "1" or "21" or "31" %}{{ d }}<sup>st</sup>{% when "2" or "22" %}{{ d }}<sup>nd</sup>{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}<sup>th</sup>{% endcase %},{{ page.publication | date: "%Y" }}</time>.</div>
-<div>This article was last modified on <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{% assign d = page.last_modified_at | date: "%-d" %}{{ page.last_modified_at | date: "%B" }}{% case d %}{% when "1" or "21" or "31" %}{{ d }}<sup>st</sup>{% when "2" or "22" %}{{ d }}<sup>nd</sup>{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}<sup>th</sup>{% endcase %},{{ page.last_modified_at | date: "%Y" }}</time>.</div>
+<div>This article was first published on the <time datetime="{{ page.publication }}" pubdate="pubdate">{% assign d = page.publication | date: "%-d" %}{% case d %}{% when "1" or "21" or "31" %}{{ d }}<sup>st</sup>{% when "2" or "22" %}{{ d }}<sup>nd</sup>{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}<sup>th</sup>{% endcase %} of {{ page.publication | date: "%B" }}, {{ page.publication | date: "%Y" }}</time>.</div>
+
+<div>This article was last modified on the <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{% assign d = page.last_modified_at | date: "%-d" %}{% case d %}{% when "1" or "21" or "31" %}{{ d }}<sup>st</sup>{% when "2" or "22" %}{{ d }}<sup>nd</sup>{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}<sup>th</sup>{% endcase %} of {{ page.last_modified_at | date: "%B" }}, {{ page.last_modified_at | date: "%Y" }}</time>.</div>
 </main>
 {% include nav.html %}
 {% include footer.html %}
