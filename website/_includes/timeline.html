@@ -83,7 +83,7 @@
               {% capture image-location %}/assets/timelines{{ release.boxart }}{% endcapture %}
               <div class="timeline_release">
                 <h4 class="timeline_release-title">{{ release.title }}</h4>
-                <img loading="lazy" class="timeline_release_details-cover" src="{{ image-location }}" alt="{{ release.title }}">
+                <img loading="lazy" class="timeline_release_details-cover" src="{{ image-location }}" {% imagesize image-location:props %} alt="{{ release.title }}">
                 <div class="timeline_release_details_list">
                   <div class="timeline_release_details_list-element">Developed by</div>
                   <div class="timeline_release_details_list-info">{{ release.developer }}</div>
@@ -148,7 +148,9 @@
           <li class="timeline_fact">
           {% if fact.note %}{{ fact.note | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endif %}
           {% if fact.source %}<a class="timeline_reference" href="{{ fact.source }}">※</a>{% endif %}
-          {% if fact.image %}<figure class="figure"><img loading="lazy" class="timeline_release_details-cover" src="/assets/timelines/{{ fact.image }}" alt="{{ fact.image-detail }}"></figure>{% endif %}
+          {% if fact.image %}
+          {% capture image-location %}/assets/timelines/{{ fact.image }}{% endcapture %}
+          <figure class="figure"><img loading="lazy" class="timeline_release_details-cover" src="{{ image-location }}" alt="{{ fact.image-detail }}"></figure>{% endif %}
           </li>
 
         {% endif %}
