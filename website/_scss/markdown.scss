@@ -95,10 +95,11 @@ table {
   width: 100%;
   margin-bottom: $spacing-paragraph;
   border-spacing: 0;
-  border: 1px solid light-dark($black, $white);
+  border: 1px solid light-dark($black, $black);
 }
 th {
   background-color: light-dark($light-action-box, $dark-action-box);
+  color: light-dark($white, $white);
 }
 th,
 td {
@@ -108,7 +109,7 @@ td {
   padding-right: 0.5em;
   text-align: center;
   vertical-align: middle;
-  border: 1px solid light-dark($black, $white);
+  border: 1px solid light-dark($black, $black);
   width: 20%;
   overflow-wrap: anywhere;
   hyphens: auto;
