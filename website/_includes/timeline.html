@@ -150,7 +150,7 @@
           {% if fact.source %}<a class="timeline_reference" href="{{ fact.source }}">※</a>{% endif %}
           {% if fact.image %}
           {% capture image-location %}/assets/timelines/{{ fact.image }}{% endcapture %}
-          <figure class="figure"><img loading="lazy" class="timeline_release_details-cover" src="{{ image-location }}" alt="{{ fact.image-detail }}"></figure>{% endif %}
+          <figure class="figure"><img class="timeline_release_details-cover" src="{{ image-location }}" alt="{{ fact.image-detail }}"></figure>{% endif %}
           </li>
 
         {% endif %}
