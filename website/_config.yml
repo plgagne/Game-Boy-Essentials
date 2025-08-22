@@ -65,5 +65,4 @@ kramdown:
 ## Plugins
 plugins:
   - jekyll-image-size
-  - jekyll-minifier
   - jekyll-last-modified-at

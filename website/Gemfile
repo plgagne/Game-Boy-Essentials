@@ -8,6 +8,5 @@ gem "logger"
 
 group :jekyll_plugins do
   gem 'jekyll-image-size'
-  gem 'jekyll-minifier'
   gem 'jekyll-last-modified-at'
 end
