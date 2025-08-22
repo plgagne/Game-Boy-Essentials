@@ -469,7 +469,7 @@ object {
   height: fit-content;
 }
 .books_storetitle {
-  color: light-dark($light-background, $dark-background);
+  color: light-dark($white, $white);
   border-color: light-dark($light-background, $dark-background);
   border-bottom: .1rem solid;
 }
