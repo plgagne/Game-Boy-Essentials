@@ -5,8 +5,7 @@ RED='\033[0;31m'
 website_location=../website
 
 # Scraped file backup location
-backup_location="/Users/plgagne/Documents/Game Boy Essentials Others/timeline project backup"
-
+backup_location="/Users/plgagne/Library/Mobile Documents/com~apple~CloudDocs/Documents/Game Boy Essentials Others/timeline project backup"
 # Navigate to correct folder
 cd timeline
 
