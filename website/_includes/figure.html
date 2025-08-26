@@ -1,7 +1,14 @@
 {%- assign details = site.data.static-files[include.type] -%}
 {%- if include.filename -%}
-{%- capture variable -%}/assets/{{ page.slug }}/{{ include.filename }}.{{ details.extension }}{%- endcapture -%}
+  {%- capture variable -%}/assets/{{ page.slug }}/{{ include.filename }}.{{ details.extension }}{%- endcapture -%}
 {%- else -%}
-{%- capture variable -%}/assets/{{ page.slug }}/{{ page.slug }}-{%- assign order = order | plus: 1 -%}{{ order }}.{{ details.extension }}{%- endcapture -%}
+  {%- capture variable -%}/assets/{{ page.slug }}/{{ page.slug }}-{%- assign order = order | plus: 1 -%}{{ order }}.{{ details.extension }}{%- endcapture -%}
 {%- endif -%}
-{% if include.class == 'gallery' %}<div class="gallery_element">{% endif %}<figure class="figure figure_{{ details.name }}{% if include.class %} {{ include.class }}{% endif %}"><img class="figure_img" src="{{ variable }}" {% if details.name == "gb" %}{% imagesize variable:props?width=320 %}{% else %}{% imagesize variable:props %}{% endif %} alt="{{ details.alt }}">{% if include.figcaption %}<figcaption class="figure_figcaption">{{ include.figcaption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</figcaption>{% endif %}</figure>{% if include.class == 'gallery' %}</div>{% endif %}
+{% if include.class == 'gallery' %}
+  <div class="gallery_element">
+{% endif %}
+<figure class="figure figure_{{ details.name }}{% if include.class %} {{ include.class }}{% endif %}">
+<img class="figure_img" src="{{ variable }}" {% if details.name == "gb" %}{% imagesize variable:props?width=320 %}{% else %}{% imagesize variable:props %}{% endif %} alt="{{ details.alt }}">
+{% if include.figcaption %}<figcaption class="figure_figcaption">{{ include.figcaption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</figcaption>{% endif %}
+</figure>
+{% if include.class == 'gallery' %}</div>{% endif %}

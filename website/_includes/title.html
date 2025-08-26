@@ -9,7 +9,7 @@
 
 {% for game in selected_game %}
   <h1 id="{{ page.title | replace: " ", "-" }}">{{ page.title }}</h1>
-  {% include figure.html type="boxart" %}
+  {% include figure.html type="boxart" filename="boxart" %}
   <ul class="article-gamedata">
   {% for release in game.releases %}
     {% if release.release_date %}
@@ -31,4 +31,4 @@
   </ul>
 {% endfor %}
 <h2 class="h2-article-title" id="{{ page.description | replace: " ", "-" }}">{{ page.description }}</h2>
-{% include figure.html type="gb" class="float left" %}
+{% include figure.html type="gb" class="float left" filename="intro" %}
