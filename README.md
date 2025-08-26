@@ -1,12 +1,8 @@
 # Game Boy Essentials
 ## Tâches
-### Ligne du temps
-- Corriger de façon permanente la façon dont j'extraie les figure quand je fais le livre
 - Ajouter les ventes annuels sur la ligne du temps
-
-### Long terme
 - Ajouter des images dans la ligne du temps
-- Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff)
+- Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff ou https://github.com/vslavik/diff-pdf)
 
 ## Liste de vérification pour publication d'un article
 - [] Vérifier que toutes les dates sont bien incluses

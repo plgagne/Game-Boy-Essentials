@@ -2,20 +2,25 @@
 title: "Game Name"
 description: "Article Title"
 slug: "dmg-atle"
-release-date: "year of release"
-release-year: "year of earliest release"
-release-month: "month of earliest release"
+release-date: "date of release"
 publication: "date of website publication"
 tags: [book#]
 developers: "Developers"
 ---
-Always start the article with include title.html.
+# Introduction
+Always use
+
+{% comment %} {% include title.html %} {% endcomment %}
+
+This will load boxart.jpg, fetch all the release data from the timeline, and load intro.png as the first float left.
 
 ## Pictures
 
 Every image is to be used inside a figure. !fig will autocomplete into what you need. Note that it will increment the name of the object by one for each one on the page with the following naming convention:
 
 (slug)-(number).(filetype)
+
+If you provide a filename as {% include figure.html filename="template_image" %}, figure.html in _includes will use (filename).(filetype) instead of the incrementing system for that one particular image.
 
 Here’s an explanation of what all the types and classes do and when to use them.
 
@@ -48,18 +53,12 @@ It needs to be removed if you are not putting text underneath the image otherwis
 
 ## Gallery
 
-You can also build a gallery by putting your declarations inside a div. Galleries force two pictures side by side on a desktop display. Do not forget to include gallery as a class. Remember that galleries are an either/or proposition: either they all have figcaption or none of them do (this is a LaTeX constraint).
+You can also build a gallery by putting your declarations inside a div. Galleries force two pictures side by side on a desktop display. Do not forget to include gallery as a class on each image. Remember that galleries are an either/or proposition: either they all have figcaption or none of them do (this is a LaTeX constraint).
 
 ~~~ html
 <div class="gallery">
 </div>
 ~~~
-
-## Filename
-
-If you provide a filename without the extension, figure _includes will use that instead of the incrementing system for that one particular image.
-
-{% include figure.html filename="template_image" type="" class="" figcaption="" %}
 
 ## Links
 
