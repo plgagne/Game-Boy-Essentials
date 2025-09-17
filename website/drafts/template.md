@@ -1,7 +1,7 @@
 ---
 title: "Game Name"
 description: "Article Title"
-slug: "dmg-atle"
+slug: "dmg-"
 release-date: "date of release"
 publication: "date of website publication"
 tags: [book#]
