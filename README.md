@@ -9,12 +9,17 @@
 - [] Corriger l'article final avec Antidote
 - [] Appliquer les majuscules approprié avec Title Case Service
 - [] Déplacer l'article dans le dossier website/articles
-- [] Inscrire la date de la publication de l'article
+- [] Inscrire la date de la publication de l'article
 - [] Rapetisser les nouvelles images avec ImageOptim.app
 - [] Bâtir avec la tâche Production
 - [] Git Push le dossier _site
 - [] Vérifier que tout fonctionne en ligne
 - [] Publier le lien de l'article sur Mastodon
+
+## Liste de vérification pour modification de la ligne du temps
+- [] Retirer les commentaires dans website/_config.yml
+- [] Vérifier que la copie de bâtir n'écrase pas les nouveaux fichiers
+- [] Changer les dates dans website/sitemap.xml
 
 ## Liste de mauvaises idées
 - Avoir une infolettre
@@ -44,6 +49,8 @@
   - Il y a tellement d'exceptions que de construire une nouvelle structure ne vaut pas la peine
 - Inscrire un figcaption dans les images de couverture de la boite
   - Tu fais déjà un commentaire avec le titre de l'article.
+- Créer un fichier JSON des jeux uniquement présent sur le site web
+  - Il n'y a pas de ralentissement causé par cette étape; tu as assez de RAM.
 
 ## Là où j'ai changé d'idée
 - Automatiser la reliure du livre

@@ -4,25 +4,26 @@ domain: "gameboyessentials.com"
 url: "https://gameboyessentials.com"
 email: "pl@gameboyessentials.com"
 description: "A project to review and talk about the essential games you should play on Game Boy to understand its appeal and its success."
-exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test]
 keep_files: [_redirects]
 incremental: false
 collections_dir: collections
+exclude: [/drafts, /_tags, /_site-local, /_folio/test-suite.md, /assets/0test]
 
 ## Use of Collections for underscored folders
 collections:
   articles:
     output: true
     permalink: /articles/:title
-  timelines:
-    output: true
-    permalink: timelines/:slug
   folio:
     output: true
     permalink: /:slug
   tags:
     output: true
     permalink: tag/:title
+# Timelines are skipped when this is commented
+#  timelines:
+#    output: true
+#    permalink: timelines/:slug
 
 defaults:
   -
