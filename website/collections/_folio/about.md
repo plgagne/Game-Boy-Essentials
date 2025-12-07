@@ -7,7 +7,7 @@ weight: 2
 # About the Author
 
 {% include figure.html type="art" class="float left" %}
-I'm Pierre-Luc Gagné, a québécois from Hébertville in Lac-Saint-Jean. I now live in beautiful Gatineau with my wife Annie and our dog Orson. I write Game Boy Essentials as an amateur art historian, simply trying to have fun. This project is developed in the open on [Github](https://github.com/plgagne/Game-Boy-Essentials). Head over to the repo if you want to see how this project functions.
+I'm Pierre-Luc Gagné, a québécois from Hébertville in Lac-Saint-Jean. I now live in beautiful Gatineau with my wife Annie. I write Game Boy Essentials as an amateur art historian, simply trying to have fun. This project is developed in the open on [Github](https://github.com/plgagne/Game-Boy-Essentials). Head over to the repo if you want to see how this project functions.
 
 If you don’t want to miss an article, you can keep track of this website using three ways:
 
