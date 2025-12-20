@@ -19,39 +19,89 @@ timeline_na.each do |game|
   end
 end
 
-# Sort
-timeline_na = timeline_na.sort_by { |entry| entry["representative_name"] }
-
 # Corrections (AI written code)
 corrections.each do |rule|
-  key = rule['key']
+  key   = rule['key']
   value = rule['value']
 
   timeline_na.each do |game|
+    # ---------- GAME-LEVEL MATCH ----------
     if game[key] == value
+      case rule['action']
+      when 'add_release'
+        game['releases'] ||= []
+
+        rule['releases'].each do |new_release|
+          if rule['unique_by']
+            next if game['releases'].any? do |r|
+              r[rule['unique_by']] == new_release[rule['unique_by']]
+            end
+          end
+
+          game['releases'] << new_release
+        end
+
+        next
+
+      when 'delete'
+        timeline_na.delete(game)
+        next
+      end
+
       if rule['updates']
         rule['updates'].each do |update_key, new_value|
           game[update_key] = new_value
         end
-      elsif rule['action'] == 'delete'
-        timeline_na.delete(game)
-        next  # No need to process releases if the whole game is deleted
       end
     end
 
     next unless game['releases']
 
+    # ---------- RELEASE-LEVEL MATCH ----------
     if rule['updates']
       game['releases'].each do |release|
-        if release[key] == value
-          rule['updates'].each do |update_key, new_value|
-            release[update_key] = new_value
-          end
+        next unless release[key] == value
+
+        rule['updates'].each do |update_key, new_value|
+          release[update_key] = new_value
         end
       end
     elsif rule['action'] == 'delete'
       game['releases'].reject! { |release| release[key] == value }
     end
+  end
+end
+
+# Sort representative name alphabetically
+timeline_na = timeline_na.sort_by { |entry| entry["representative_name"] }
+
+timeline_na.each do |game|
+  next unless game['releases']
+
+  game['releases'].sort! do |a, b|
+    # Treat nil release_date as far in the future
+    date_a = a['release_date'] || '9999-12-31'
+    date_b = b['release_date'] || '9999-12-31'
+
+    # Adjust unknown_release_month to end-of-year if set
+    date_a = "#{date_a[0,4]}-12-31" if a['unknown_release_month']
+    date_b = "#{date_b[0,4]}-12-31" if b['unknown_release_month']
+
+    # Adjust unknown_release_day to end-of-month (string-only)
+    date_a = "#{date_a[0,7]}-31" if a['unknown_release_day']
+    date_b = "#{date_b[0,7]}-31" if b['unknown_release_day']
+
+    # Compare by date first
+    cmp = date_a <=> date_b
+
+    # If dates are equal, reverse alphabetical market
+    if cmp.zero?
+      market_a = a['market'] || ''
+      market_b = b['market'] || ''
+      cmp = market_b <=> market_a
+    end
+
+    cmp
   end
 end
 

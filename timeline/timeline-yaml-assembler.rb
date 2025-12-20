@@ -133,7 +133,7 @@ contents = contents.gsub(/boxart: "\/a\/images\/site\/noboxshot_wide_thumb.gif"/
 contents = contents.gsub(/_thumb.jpg/, "_front.jpg")
 
 # Unknown release dates
-contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"")
+contents = contents.gsub(/release_date: "(.*?)-(.*?)-00"/, "release_date: \"\\1-\\2-01\"\n     unknown_release_day: true")
 contents = contents.gsub(/release_date: "(.*?)-00-(.*?)"/, "release_date: \"\\1-01-\\2\"\n     unknown_release_month: true")
 
 contents.prepend("---\n")
