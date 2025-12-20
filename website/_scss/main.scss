@@ -225,6 +225,8 @@ object {
   max-width: 320px;
 }
 .figure_gb img {
+  width: 320px;
+  height: 100%;
   vertical-align: top;
   image-rendering: pixelated;
 }
@@ -301,9 +303,7 @@ object {
   .float.figure_art,
   .figure_art,
   .float.figure_boxart,
-  .figure_boxart,
-  .float.figure_gb,
-  .figure_gb {
+  .figure_boxart {
     max-width: 90%;
     width: 90%;
   }
