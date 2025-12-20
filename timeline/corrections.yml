@@ -1,7 +1,5 @@
 ---
-# List all corrections by matching a unique key/value pair then listing all the changes in updates. No updates array means the object is deleted.
-
-# Removals
+# List all corrections by matching a unique key/value pair then listing all the changes in updates.
 - key: "release_date"
   value: "0000-00-01"
   action: delete
@@ -9,6 +7,45 @@
 - key: "title"
   value: "Castlevania: The Adventure (Player’s Choice)"
   action: delete
+- key: "representative_name"
+  value : "Game Boy Gallery 2"
+  action: delete
+# Game & Watch Gallery 2
+## Update
+- key: "representative_name"
+  value: "Game & Watch Gallery 2"
+  updates:
+    representative_name: "Game & Watch Gallery 2"
+## Add Releases
+- key: "representative_name"
+  value: "Game & Watch Gallery 2"
+  action: add_release
+  releases:
+    - title: "Game Boy Gallery 2"
+      market: "JP"
+      release_date: "1997-09-27"
+      publisher: "Nintendo"
+      id: "DMG-AGLJ"
+      barcode: "4902370503104"
+      boxart: "/a/box/5/7/9/30579_front.jpg"
+      developer: "TOSE"
+    - title: "Game Boy Gallery 2"
+      market: "JP"
+      release_date: "2000-03-01"
+      publisher: "Nintendo"
+      id: "&nbsp;"
+      release_details: "Nintendo Power"
+      boxart: "/no_cover.png"
+      developer: "TOSE"
+    - title: "Game Boy Gallery 2"
+      market: "JP"
+      release_date: "2012-03-21"
+      publisher: "Nintendo"
+      id: "RBTJ"
+      barcode: "Virtual Console 3DS"
+      boxart: "/a/box/5/8/2/30582_front.jpg"
+      rating: "A"
+      developer: "TOSE"
 
 # Disney's Ducktales, Europe
 - key: "id"
