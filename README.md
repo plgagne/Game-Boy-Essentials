@@ -1,5 +1,6 @@
 # Game Boy Essentials
 ## Tâches
+- Ajouter une note explicative pour Nintendo Power dans la liste des sorties de jeux
 - Ajouter les ventes annuels sur la ligne du temps
 - Ajouter des images dans la ligne du temps
 - Ajouter un outil de comparaison de PDF pour visuellement vérifier mes livres (https://github.com/serhack/pdf-diff ou https://github.com/vslavik/diff-pdf)

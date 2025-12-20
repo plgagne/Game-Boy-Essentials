@@ -1,5 +1,5 @@
 ---
-title: "Game & Watch Gallery 2"
+title: "Game & Watch Gallery 2"
 description: "A Classic For Me"
 slug: "dmg-agle"
 release-date: "1997-09-27"
@@ -7,12 +7,12 @@ publication: "date of website publication"
 tags: [book4]
 developers: "TOSE"
 ---
-
+{% include title.html %}
 I adore *Game & Watch Gallery 2*. I have fond memories of playing it extensively during the summers of 1999 and 2000. My cousin owned the game and he would lend it to me during the long summer days we spent in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the included games. It's a good Game Boy title; repetitive for sure, but it was perfect for short bursts of play during boring summer vacations. I heartily recommend you play it a bit, even if you think its selection of Game & Watch titles is subpar at first glance. You'd be wrong; it's essential.
 
 ## Confused
 
-I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and from a remote region where nothing cool ever reached us. In my mind, *Game & Watch Gallery 2* was a minigame collection. I could not figure out why each game had a classic mode that used extremely simple graphics with zero animation. Why was the movement so choppy in the classic mode? I could piece together that the modern games were advanced reimagining of the classic games, with more involved gameplay. But what was the origin of the classic games? I sure as shit never saw them on my NES. 
+I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and from a remote region where nothing cool ever reached us. In my mind, *Game & Watch Gallery 2* was a minigame collection. I could not figure out why each game had a classic mode that used extremely simple graphics with zero animation. Why was the movement so choppy in the classic mode? I could piece together that the modern games were advanced reimagining of the classic games, with more involved gameplay. But what was the origin of the classic games? I sure as shit never saw them on my NES.
 
 *Game & Watch Gallery 2* revealed the history of the old machines as I got high scores in the games. You unlock viewable demonstrations of Game & Watch titles, with their release dates and a short description. Only after improving my English and reading the messages from the hints section did I figure out that Game & Watch was a series of single game systems that the people at Nintendo made in the 80s: Game & Watch was the ancestor of my Game Boy. It always felt weird that my reward for playing *Game & Watch Gallery 2* was unlocking personal knowledge about Nintendo's early video game history. I guess that's what happens when you grow up before Wikipedia's ubiquity.
 
@@ -30,7 +30,7 @@ You are presented with two sections: the list of games and the *gallery*, where 
 
 The gallery is where you unlock stuff. To unlock anything, you need to get stars, which are given to you by reaching increments of 200 points in each game up to a maximum of 1000 points. This means a total of five stars. Don't think that you get stars every time you reach 200 points, no! You need to beat your score. If you have 999 points and loses, you have to start all the way back at zero to try and get that last star.
 
-But there's more! Each game has four score counts that each give stars: Easy Classic, Hard Classic, Easy Modern, Hard Modern. This means that each game has up to twenty stars to gather. 
+But there's more! Each game has four score counts that each give stars: Easy Classic, Hard Classic, Easy Modern, Hard Modern. This means that each game has up to twenty stars to gather.
 
 Your total star count unlocks certain things each time you reach a treshold. You can unlock a very stereotypical sound check and many written notes explaining details and secrets about the games, with the meat of the gallery being the museum view.  The museum view features unlockable vignettes of Game & Watch games. Those are not playable, only viewable.
 
@@ -58,7 +58,7 @@ Classic *Donkey Kong* is a faitful recreation of the original little machine, wi
 
 !fig
 
-They decided to show both screens separately, with a clever twist; a press of a button switches the side 
+They decided to show both screens separately, with a clever twist; a press of a button switches the side
 
 But it's too clever for its own good.
 
