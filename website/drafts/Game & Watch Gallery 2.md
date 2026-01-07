@@ -8,17 +8,31 @@ tags: [book4]
 developers: "TOSE"
 ---
 {% include title.html %}
-I adore *Game & Watch Gallery 2*. I have fond memories of playing it extensively during the summers of 1999 and 2000. My cousin owned the game and he would lend it to me during the long summer days we spent in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the included games. It's a good Game Boy title; repetitive for sure, but it was perfect for short bursts of play during boring summer vacations. I heartily recommend you play it a bit, even if you think its selection of Game & Watch titles is subpar at first glance. You'd be wrong; it's essential.
+I chose to show you this game's Australian boxart at the top of this article. This means I'm highlighting a very confusing situation. The article is called *Game & Watch Gallery 2* but the box uses the title *Game Boy Gallery 3*? I've previously explained this strange predicament in my [*Game Boy Gallery*](/articles/dmg-agga) article. Let me show you the table of releases from that article to help you understand the weird naming scheme of this game series. To keep it simple; Australia counted the obscure *Game Boy Gallery* while the rest of the world didn't. I mean it wasn't released in most of the world!
+
+|Japan|North America|Europe|Australia|
+|-|-|-|-|
+|Not released|Not released|[*Game Boy Gallery*](/articles/dmg-agga)|[*Game Boy Gallery*](/articles/dmg-agga)|
+|[*Game Boy Gallery*](/articles/dmg-agae)|[*Game & Watch Gallery*](/articles/dmg-agae)|[*Game & Watch Gallery*](/articles/dmg-agae)|[*Game Boy Gallery 2*](articles/dmg-agae)|
+|*Game Boy Gallery 2*|*Game & Watch Gallery 2*|*Game & Watch Gallery 2*|*Game Boy Gallery 3*|
+|*Game Boy Gallery 3*|*Game & Watch Gallery 3*|*Game & Watch Gallery 3*|*Game Boy Gallery 4*|
+|Not Released|*Game & Watch Gallery 4*|*Game & Watch Gallery Advance*|*Game & Watch Gallery Advance*|
+
+I adore *Game & Watch Gallery 2* (or *Game Boy Gallery 3* if you're in Australia). I have fond memories of playing it extensively. My cousin owned the game and he would lend it to me during the long summer days we spent in our respective camping trailers. I played the hell out of the game, maxing out the star count on many of the included games. It's a good Game Boy title; repetitive for sure, but it was perfect for short bursts of play during boring summer vacations. I heartily recommend you play it a bit, even if you think its selection of Game & Watch titles is subpar at first glance. You'd be wrong; it's essential.
 
 ## Confused
 
-I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and from a remote region where nothing cool ever reached us. In my mind, *Game & Watch Gallery 2* was a minigame collection. I could not figure out why each game had a classic mode that used extremely simple graphics with zero animation. Why was the movement so choppy in the classic mode? I could piece together that the modern games were advanced reimagining of the classic games, with more involved gameplay. But what was the origin of the classic games? I sure as shit never saw them on my NES.
+I've talked before about my puzzlement at Game & Watch devices when I was kid. I had no idea what the name meant, since I had never seen a Game & Watch. I was a bit too young, and from a remote region where nothing cool ever reached us. In my mind, *Game & Watch Gallery 2* was a minigame collection of original creations. I could not figure out why each game had a classic mode that used extremely simple graphics with zero animation. Why was the movement so choppy in the classic mode? I could piece together that the modern games were advanced reimagining of the classic games, with more involved gameplay. But what was the origin of the classic games? I sure as shit never anything like them on my NES.
 
-*Game & Watch Gallery 2* revealed the history of the old machines as I got high scores in the games. You unlock viewable demonstrations of Game & Watch titles, with their release dates and a short description. Only after improving my English and reading the messages from the hints section did I figure out that Game & Watch was a series of single game systems that the people at Nintendo made in the 80s: Game & Watch was the ancestor of my Game Boy. It always felt weird that my reward for playing *Game & Watch Gallery 2* was unlocking personal knowledge about Nintendo's early video game history. I guess that's what happens when you grow up before Wikipedia's ubiquity.
+*Game & Watch Gallery 2* revealed crumbs of history as I got high scores in the games. You unlock viewable demonstrations of Game & Watch titles, with their release dates and a short description. Only after improving my English and reading the messages from the hints section did I figure out that Game & Watch was a series of single game systems that the people at Nintendo made in the 80s. It always felt weird that my reward for playing *Game & Watch Gallery 2* was unlocking personal knowledge about Nintendo's early video game history. I guess that's what happens when you grow up before everybody has access to the Internet.
 
- ## Staggered Release
+## Staggered Release
 
-Let's do a little sidebar and talk about the arrested release of this game. Initially released in Japan in September 1997 as *Game Boy Gallery 2*, the Japanese release is a grey cart with Super Game Boy support. The Game Boy had been reinvigorated by the 1996 release of *Pokémon* in Japan, allowing Nintendo to release a second slavish homage to Game & Watch in 1997. It seemed to have sold quite well. However, they waited a year to release the game outside Japan. The reason? They waited for the market to heat up. By the Fall of 1997, Nintendo knew that next Fall would be the dual release of the *Pokémon* games and the dubbed Japanese anime, to release *Pokémon* in North America with a one-two punch. So they waited for the arrival of Pikachu in the West to bring this game to our shores. There was one single issue though. The Game Boy Color would be available by then and it would have looked ridiculous to release a game without Color support in late 1998. So the people at Nintendo took the time to have the game properly colourized, which means the Western releases are all black carts to indicate Colour support. Japanese players were never offered the recolourized version.
+Let's do a little sidebar and talk about this game's strange releases. Initially released in Japan in September 1997 as *Game Boy Gallery 2*, the Japanese version is a grey cart with Super Game Boy support. 1997 was an extraordinary year for the Game Boy in Japan. *Pokémon* had been released the year before, and everyone in Japan were buying Game Boy games in record numbers. This, after years of slowing sale. I mean, look at that chart:
+
+{% include figure.html filename="yearly-sales" type="art-png" %}
+
+ Nintendo to release a second slavish homage to Game & Watch in 1997. It seemed to have sold quite well. However, they waited a year to release the game outside Japan. The reason? They waited for the market to heat up. By the Fall of 1997, Nintendo knew that next Fall would be the dual release of the *Pokémon* games and the dubbed Japanese anime, to release *Pokémon* in North America with a one-two punch. So they waited for the arrival of Pikachu in the West to bring this game to our shores. There was one single issue though. The Game Boy Color would be available by then and it would have looked ridiculous to release a game without Color support in late 1998. So the people at Nintendo took the time to have the game properly colourized, which means the Western releases are all black carts to indicate Colour support. Japanese players were never offered the recolourized version.
 
 ## Presentation
 
@@ -41,10 +55,12 @@ This shows you the *Nintendo difference*. Games in the late 90s still had limite
 Finally, there is one unlockable game: the first Game & Watch game, *Ball*. Let's move on to discussing each game.
 
 ## Vermin
+{% include figure.html filename="vermin" type="gb" class="float left" %}
 
 *Vermin* is all about managing your position. Yoshi protects six eggs with two hammers, and three types of enemies with different behaviours are trying to break those damn eggs. Boos only move when you face the other side, with Lakitus and Shy Guys moving at different speeds to throw you off your pace. And pace is the name of the game. Since it takes a split second for Yoshi to bash an enemy, you have to decide where you're going to stand very precisely if you wish to win Hard mode. Yoshi's got a handful of trouble coming his way!
 
-Classic *Vermin* is extremely simple in comparison. It's one of the earliest Game & Watch title, which explains its simplicity. You only move left and right, with four spots that you need to cover with your hammers. The simplicity means it becomes a repetitive rythm game.
+Classic *Vermin* is extremely simple in comparison. It's one of the earliest Game & Watch title, which explains its simplicity. You only move left and right, with four spots that you need to cover with your hammers. Why do you need two hammers? **To bash moles on the head!** The simplicity of bashing those damn moles means it becomes a repetitive rythm game. It's fun, in a *clear your mind of all thoughts* kind of game.
+{% include figure.html filename="classic-vermin" type="gb" %}
 
 ## Donkey Kong
 
@@ -91,8 +107,9 @@ We finally come to the last game I played, Parachute. Classic Parachute features
 
 Modern Parachute is the most visually impressive game of the whole collection. There are lots of colours and fluid movement. There are moving waves, and each character bobs left and right in the wind when falling. To spice things up gameplay-wise, the modern version adds a cannon, undeployed parachutes, three distinct types of falling characters, and a fish that adds an extra bounce when parachutists fall on its head.
 
+## The Mystery of the US Game Boy version
 
-
+tcrf.net claims that a grey cart version for Game Boy was [released in extremely limited quantities](https://tcrf.net/Game_%26_Watch_Gallery_2#Regional_Differences). I don't buy it. I have seen the ROM in some places, but never a box or a physical copy. So it might be that the work to port the game was completed, and then the game was colourized afterwards. Review and development copies might have then been found later and dumped.
 
 What to cover:
 
