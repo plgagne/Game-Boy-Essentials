@@ -1,0 +1,5 @@
+# Settings to correctly build timelines
+collections:
+  timelines:
+    output: true
+    permalink: timelines/:slug

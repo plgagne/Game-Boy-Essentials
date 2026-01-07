@@ -20,10 +20,6 @@ collections:
   tags:
     output: true
     permalink: tag/:title
-# Timelines are skipped when this is commented
-#  timelines:
-#    output: true
-#    permalink: timelines/:slug
 
 defaults:
   -
