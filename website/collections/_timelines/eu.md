@@ -3,7 +3,7 @@ title: "Timeline - Europe Only"
 slug: "eu"
 region: "EU"
 ---
-# Timeline of Game Boy Events
+# Game Boy Timeline
 
 {% include timeline-nav.html %}
 {% include timeline.html %}

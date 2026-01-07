@@ -4,6 +4,6 @@ slug: "timelines"
 layout: "timeline"
 weight: 4
 ---
-# Timeline of Game Boy Events
+# Game Boy Timeline
 
 {% include timeline-nav.html %}
