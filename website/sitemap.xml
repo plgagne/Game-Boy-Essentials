@@ -13,7 +13,9 @@ layout: null
 {% endfor %}
 
 {% comment %} If timelines are skipped, this is inserted {% endcomment %}
-{% unless site.collections contains timelines %}<url><loc>https://gameboyessentials.com/timelines/eu</loc><lastmod>2026-01-07</lastmod></url><url><loc>https://gameboyessentials.com/timelines/jp</loc><lastmod>2026-01-07</lastmod></url><url><loc>https://gameboyessentials.com/timelines/na</loc><lastmod>2026-01-07</lastmod></url>{% endunless %}
+{% unless site.timelines %}
+<url><loc>https://gameboyessentials.com/timelines/eu</loc><lastmod>2026-01-07</lastmod></url><url><loc>https://gameboyessentials.com/timelines/jp</loc><lastmod>2026-01-07</lastmod></url><url><loc>https://gameboyessentials.com/timelines/na</loc><lastmod>2026-01-07</lastmod></url>
+{% endunless %}
 
 {% assign pdf-list = site.static_files | where: "extname", ".pdf" %}
 {% for object in pdf-list %}
