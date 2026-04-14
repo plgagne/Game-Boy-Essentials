@@ -14,7 +14,7 @@ I chose to show you this game's Australian boxart at the top of this article. Th
 |-|-|-|-|
 |Not released|Not released|[*Game Boy Gallery*](/articles/dmg-agga)|[*Game Boy Gallery*](/articles/dmg-agga)|
 |[*Game Boy Gallery*](/articles/dmg-agae)|[*Game & Watch Gallery*](/articles/dmg-agae)|[*Game & Watch Gallery*](/articles/dmg-agae)|[*Game Boy Gallery 2*](articles/dmg-agae)|
-|*Game Boy Gallery 2*|*Game & Watch Gallery 2*|*Game & Watch Gallery 2*|*Game Boy Gallery 3*|
+|*Game Boy Gallery 2*open source word|*Game & Watch Gallery 2*|*Game & Watch Gallery 2*|*Game Boy Gallery 3*|
 |*Game Boy Gallery 3*|*Game & Watch Gallery 3*|*Game & Watch Gallery 3*|*Game Boy Gallery 4*|
 |Not Released|*Game & Watch Gallery 4*|*Game & Watch Gallery Advance*|*Game & Watch Gallery Advance*|
 
