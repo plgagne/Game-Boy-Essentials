@@ -13,5 +13,5 @@
       "script" : "#!\/bin\/zsh\ncd website\nrm -r _site-local\nJEKYLL_ENV=local_serve bundle exec jekyll serve --host 0.0.0.0 --incremental --livereload --force_polling --config _config.yml,_local.yml --trace --profile"
     }
   },
-  "openLogOnRun" : "start"
+  "openLogOnRun" : "fail"
 }

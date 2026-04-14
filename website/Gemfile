@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
+gem "cgi"
 
 # The gems removed from standard lib of Ruby that Jekyll can't fucking seem to bother to fix
 gem "logger"
